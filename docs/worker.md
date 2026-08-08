@@ -53,8 +53,10 @@ obtém a lista oficial de municípios pelo IBGE e então inicia a coleta. Arquiv
 existentes nunca são substituídos durante esse bootstrap.
 
 O intervalo recomendado inicial é `BRASOES_REQUEST_DELAY_MS=10000`, com
-concorrência `1`. Se a Wikimedia responder com HTTP 429, o worker interrompe a
-fila e respeita `Retry-After`; aumentar a concorrência não é recomendado.
+`BRASOES_DOWNLOAD_DELAY_MS=1000` e concorrência `1`. O primeiro controla a
+cadência entre municípios; o segundo evita espera duplicada entre imagens. Se a
+Wikimedia responder com HTTP 429, o worker interrompe a fila e respeita
+`Retry-After`; aumentar a concorrência não é recomendado.
 
 Para parar com segurança:
 

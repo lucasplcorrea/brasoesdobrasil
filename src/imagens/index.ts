@@ -168,7 +168,7 @@ export async function downloadCandidates(filters: {
           body = response.rawBody;
           contentType = response.headers['content-type']?.split(';')[0];
           await new Promise((resolve) =>
-            setTimeout(resolve, Number(process.env.BRASOES_REQUEST_DELAY_MS ?? 1000)),
+            setTimeout(resolve, Number(process.env.BRASOES_DOWNLOAD_DELAY_MS ?? 1000)),
           );
         }
         const max = Number(process.env.BRASOES_MAX_DOWNLOAD_BYTES ?? 25_000_000);

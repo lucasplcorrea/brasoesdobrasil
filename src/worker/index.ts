@@ -65,6 +65,7 @@ export async function runWorker(): Promise<void> {
   const added = await syncCatalog();
   log('worker.catalogo_sincronizado', { adicionados: added });
   const requestDelay = Number(process.env.BRASOES_REQUEST_DELAY_MS ?? 5_000);
+  const downloadDelay = Number(process.env.BRASOES_DOWNLOAD_DELAY_MS ?? 1_000);
   const failureDelay = Number(process.env.BRASOES_FAILURE_DELAY_MS ?? 60 * 60 * 1000);
   let processed = 0;
   await state('executando', { processed });
@@ -94,7 +95,7 @@ export async function runWorker(): Promise<void> {
         await sleep(failureDelay);
       } else {
         await state('executando', { processed });
-        await sleep(requestDelay);
+        await sleep(downloadDelay);
       }
       continue;
     }
