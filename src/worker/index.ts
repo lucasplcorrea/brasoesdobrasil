@@ -1,7 +1,9 @@
+import { access } from 'node:fs/promises';
 import { loadCatalog, syncCatalog } from '../catalogo/index.js';
 import { enrichCommons } from '../commons/index.js';
 import { paths } from '../config.js';
 import { authenticateBotPassword } from '../http/auth.js';
+import { updateIbge } from '../ibge/index.js';
 import { downloadCandidates } from '../imagens/index.js';
 import { log, writeJsonAtomic } from '../io.js';
 import { generateReports } from '../relatorios/index.js';
@@ -32,8 +34,34 @@ async function state(status: string, fields: Record<string, unknown> = {}): Prom
   });
 }
 
+async function isMissing(file: string): Promise<boolean> {
+  try {
+    await access(file);
+    return false;
+  } catch (error: unknown) {
+    if ((error as NodeJS.ErrnoException).code === 'ENOENT') return true;
+    throw error;
+  }
+}
+
+async function initializeRuntimeData(): Promise<void> {
+  if (await isMissing(paths.catalog)) {
+    await writeJsonAtomic(paths.catalog, {
+      schemaVersion: 1,
+      atualizadoEm: new Date().toISOString(),
+      municipios: [],
+    });
+    log('worker.catalogo_inicializado');
+  }
+  if (await isMissing(paths.ibge)) {
+    await updateIbge();
+    log('worker.ibge_inicializado');
+  }
+}
+
 export async function runWorker(): Promise<void> {
   await authenticateBotPassword();
+  await initializeRuntimeData();
   const added = await syncCatalog();
   log('worker.catalogo_sincronizado', { adicionados: added });
   const requestDelay = Number(process.env.BRASOES_REQUEST_DELAY_MS ?? 5_000);

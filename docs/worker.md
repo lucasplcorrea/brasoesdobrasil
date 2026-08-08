@@ -29,11 +29,32 @@ O estado operacional fica em `data/checkpoints/worker.json`. `SIGTERM` e `SIGINT
 ```bash
 cp .env.worker.example .env.worker
 $EDITOR .env.worker
-docker compose build
+docker compose pull coletor
 docker compose up -d
 docker compose ps
 docker compose logs -f --tail=100 coletor
 ```
+
+Para construir localmente durante o desenvolvimento:
+
+```bash
+docker build --tag lucasplcorrea/brasoes-do-brasil:local .
+```
+
+Em outro servidor, baixe a imagem publicada antes de iniciar:
+
+```bash
+docker compose pull coletor
+docker compose up -d coletor
+```
+
+Na primeira execução com os diretórios vazios, o worker cria um catálogo vazio,
+obtém a lista oficial de municípios pelo IBGE e então inicia a coleta. Arquivos
+existentes nunca são substituídos durante esse bootstrap.
+
+O intervalo recomendado inicial é `BRASOES_REQUEST_DELAY_MS=10000`, com
+concorrência `1`. Se a Wikimedia responder com HTTP 429, o worker interrompe a
+fila e respeita `Retry-After`; aumentar a concorrência não é recomendado.
 
 Para parar com segurança:
 
