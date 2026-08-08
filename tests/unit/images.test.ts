@@ -13,6 +13,27 @@ describe('imagens', () => {
   });
   it('rejeita HTML servido como imagem', async () =>
     expect(validateImage(Buffer.from('<html>erro</html>'), 'image/png')).rejects.toThrow(/HTML/));
+  it('aceita divergência entre formatos de imagem seguros e confia nos bytes', async () => {
+    const png = await sharp({
+      create: { width: 20, height: 20, channels: 3, background: 'blue' },
+    })
+      .png()
+      .toBuffer();
+    const result = await validateImage(png, 'image/gif');
+    expect(result).toMatchObject({
+      ext: 'png',
+      mime: 'image/png',
+      mimeDivergente: 'image/gif vs image/png',
+    });
+  });
+  it('rejeita MIME declarado que não seja imagem permitida', async () => {
+    const png = await sharp({
+      create: { width: 20, height: 20, channels: 3, background: 'blue' },
+    })
+      .png()
+      .toBuffer();
+    await expect(validateImage(png, 'text/plain')).rejects.toThrow(/não permitido/);
+  });
   it('rejeita arquivo vazio e corrompido', async () => {
     await expect(validateImage(Buffer.alloc(0))).rejects.toThrow(/vazio/);
     await expect(validateImage(Buffer.from('not image'))).rejects.toThrow(/Formato/);

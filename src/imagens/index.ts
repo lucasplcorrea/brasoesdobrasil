@@ -26,12 +26,13 @@ export async function validateImage(buffer: Buffer, declaredMime?: string) {
   if ((!detected || !allowed.has(detected.mime)) && /<svg[\s>]/i.test(head))
     detected = { ext: 'svg', mime: 'image/svg+xml' };
   if (!detected || !allowed.has(detected.mime)) throw new Error('Formato de imagem não permitido');
-  if (
-    declaredMime &&
-    declaredMime !== detected.mime &&
-    !(declaredMime === 'image/svg' && detected.mime === 'image/svg+xml')
-  )
-    throw new Error(`MIME divergente: ${declaredMime} vs ${detected.mime}`);
+  const normalizedDeclaredMime = declaredMime === 'image/svg' ? 'image/svg+xml' : declaredMime;
+  const mimeDivergente =
+    normalizedDeclaredMime && normalizedDeclaredMime !== detected.mime
+      ? `${normalizedDeclaredMime} vs ${detected.mime}`
+      : undefined;
+  if (mimeDivergente && !allowed.has(normalizedDeclaredMime!))
+    throw new Error(`MIME declarado não permitido: ${mimeDivergente}`);
   if (
     detected.mime === 'image/svg+xml' &&
     /<script|(?:\s|<)on\w+\s*=|(?:href|src)\s*=\s*["'](?:https?:|\/\/)/i.test(
@@ -51,6 +52,7 @@ export async function validateImage(buffer: Buffer, declaredMime?: string) {
     mime: detected.mime,
     width: metadata.width,
     height: metadata.height,
+    mimeDivergente,
   };
 }
 export async function normalize(buffer: Buffer) {
@@ -201,10 +203,14 @@ export async function downloadCandidates(filters: {
             'Centralização em tela branca de 192 × 192 px',
             'Conversão para JPEG',
           ],
-          avisos:
-            valid.width < 192 || valid.height < 192
+          avisos: [
+            ...(valid.mimeDivergente
+              ? [`MIME declarado diverge dos bytes: ${valid.mimeDivergente}`]
+              : []),
+            ...(valid.width < 192 || valid.height < 192
               ? ['Original pequeno; não foi ampliado para evitar perda adicional de qualidade']
-              : [],
+              : []),
+          ],
         });
         done.add(key);
         await writeJsonAtomic(paths.checkpoint, { completed: [...done].sort() });
