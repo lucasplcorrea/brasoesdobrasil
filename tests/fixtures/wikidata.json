@@ -1,0 +1,16 @@
+{
+  "results": {
+    "bindings": [
+      {
+        "item": { "value": "http://www.wikidata.org/entity/Q1615444" },
+        "codigo": { "value": "3100203" },
+        "brasao": {
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Brasaoabaete.png"
+        },
+        "bandeira": {
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Bandeira%20de%20Abaet%C3%A9.jpg"
+        }
+      }
+    ]
+  }
+}

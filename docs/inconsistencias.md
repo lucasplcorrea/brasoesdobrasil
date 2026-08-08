@@ -1,0 +1,3 @@
+# Inconsistências
+
+Nenhuma inconsistência registrada.

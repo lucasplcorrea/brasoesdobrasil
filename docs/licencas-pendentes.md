@@ -1,0 +1,3 @@
+# Licenças pendentes
+
+Nenhuma.

@@ -1,0 +1,60 @@
+# Revisão pendente
+
+- 1400027 — Amajari/RR — Brasão
+- 1400027 — Amajari/RR — Bandeira
+- 1400050 — Alto Alegre/RR — Brasão
+- 1400050 — Alto Alegre/RR — Bandeira
+- 1400100 — Boa Vista/RR — Brasão
+- 1400100 — Boa Vista/RR — Bandeira
+- 1400159 — Bonfim/RR — Brasão
+- 1400159 — Bonfim/RR — Bandeira
+- 1400175 — Cantá/RR — Brasão
+- 1400175 — Cantá/RR — Bandeira
+- 1400209 — Caracaraí/RR — Brasão
+- 1400209 — Caracaraí/RR — Bandeira
+- 1400233 — Caroebe/RR — Brasão
+- 1400233 — Caroebe/RR — Bandeira
+- 1400282 — Iracema/RR — Brasão
+- 1400282 — Iracema/RR — Bandeira
+- 1400308 — Mucajaí/RR — Brasão
+- 1400308 — Mucajaí/RR — Bandeira
+- 1400407 — Normandia/RR — Brasão
+- 1400407 — Normandia/RR — Bandeira
+- 1400456 — Pacaraima/RR — Brasão
+- 1400456 — Pacaraima/RR — Bandeira
+- 1400472 — Rorainópolis/RR — Brasão
+- 1400472 — Rorainópolis/RR — Bandeira
+- 1400506 — São João da Baliza/RR — Brasão
+- 1400506 — São João da Baliza/RR — Bandeira
+- 1400605 — São Luiz do Anauá/RR — Brasão
+- 1400605 — São Luiz do Anauá/RR — Bandeira
+- 1400704 — Uiramutã/RR — Brasão
+- 1400704 — Uiramutã/RR — Bandeira
+- 1600055 — Serra do Navio/AP — Brasão
+- 1600055 — Serra do Navio/AP — Bandeira
+- 1600105 — Amapá/AP — Brasão
+- 1600105 — Amapá/AP — Bandeira
+- 1600154 — Pedra Branca do Amapari/AP — Brasão
+- 1600154 — Pedra Branca do Amapari/AP — Bandeira
+- 1600204 — Calçoene/AP — Brasão
+- 1600204 — Calçoene/AP — Bandeira
+- 1600212 — Cutias/AP — Brasão
+- 1600212 — Cutias/AP — Bandeira
+- 1600238 — Ferreira Gomes/AP — Brasão
+- 1600238 — Ferreira Gomes/AP — Bandeira
+- 1600253 — Itaubal/AP — Brasão
+- 1600253 — Itaubal/AP — Bandeira
+- 1600279 — Laranjal do Jari/AP — Bandeira
+- 1600303 — Macapá/AP — Bandeira
+- 1600402 — Mazagão/AP — Bandeira
+- 1600501 — Oiapoque/AP — Bandeira
+- 1600535 — Porto Grande/AP — Bandeira
+- 1600600 — Santana/AP — Bandeira
+- 1600709 — Tartarugalzinho/AP — Bandeira
+- 1600808 — Vitória do Jari/AP — Bandeira
+- 2504033 — Capim/PB — Brasão
+- 2504033 — Capim/PB — Bandeira
+- 3100203 — Abaeté/MG — Brasão
+- 3100203 — Abaeté/MG — Bandeira
+- 3500600 — Águas de São Pedro/SP — Brasão
+- 3500600 — Águas de São Pedro/SP — Bandeira

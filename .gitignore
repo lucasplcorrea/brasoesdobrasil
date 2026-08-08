@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.env.worker
+data/cache/
+data/checkpoints/
+*.tmp
+runtime/

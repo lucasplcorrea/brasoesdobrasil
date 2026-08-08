@@ -1,0 +1,12 @@
+[
+  {
+    "id": 3100203,
+    "nome": "Abaeté",
+    "microrregiao": { "mesorregiao": { "UF": { "sigla": "MG" } } }
+  },
+  {
+    "id": 3500600,
+    "nome": "Águas de São Pedro",
+    "microrregiao": { "mesorregiao": { "UF": { "sigla": "SP" } } }
+  }
+]

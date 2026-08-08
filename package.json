@@ -1,0 +1,40 @@
+{
+  "name": "brasoes-do-brasil",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Catálogo auditável de brasões e bandeiras municipais brasileiros",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "cli": "tsx src/cli/index.ts",
+    "build": "tsc -p tsconfig.build.json",
+    "start:worker": "node dist/cli/index.js worker executar",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "commander": "^14.0.0",
+    "file-type": "^21.0.0",
+    "got": "^14.4.7",
+    "p-limit": "^7.1.1",
+    "sharp": "^0.35.3",
+    "tough-cookie": "^5.1.2",
+    "zod": "^4.0.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.32.0",
+    "@types/node": "^24.0.0",
+    "eslint": "^9.32.0",
+    "prettier": "^3.6.2",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.38.0",
+    "vitest": "^3.2.4"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ccBy": {
+    "LicenseShortName": { "value": "CC BY 4.0" },
+    "LicenseUrl": { "value": "https://creativecommons.org/licenses/by/4.0" }
+  },
+  "ccBySa": {
+    "LicenseShortName": { "value": "CC BY-SA 4.0" },
+    "LicenseUrl": { "value": "https://creativecommons.org/licenses/by-sa/4.0" }
+  },
+  "publicDomain": {
+    "LicenseShortName": { "value": "Public domain" },
+    "UsageTerms": { "value": "Public domain" },
+    "License": { "value": "PD-BrazilGov" }
+  },
+  "unknown": {}
+}

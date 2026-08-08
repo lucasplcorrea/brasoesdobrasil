@@ -1,0 +1,10 @@
+.git
+node_modules
+dist
+.env
+.env.worker
+runtime
+assets
+data/cache
+data/checkpoints
+*.tmp
