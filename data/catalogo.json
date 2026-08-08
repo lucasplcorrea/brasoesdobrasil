@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "atualizadoEm": "2026-08-08T00:21:04.822Z",
+  "atualizadoEm": "2026-08-08T00:31:18.794Z",
   "municipios": [
     {
       "schemaVersion": 1,
@@ -156,7 +156,7 @@
       "wikidataId": "Q940433",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/Cabixi",
       "brasao": {
-        "status": "descoberto",
+        "status": "revisao_pendente",
         "arquivoCommons": "File:Brasao Cabixi.png",
         "titulo": "Brasao Cabixi",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Brasao_Cabixi.png",
@@ -168,8 +168,16 @@
         "atribuicaoObrigatoria": false,
         "declaracaoDominioPublico": "Public domain",
         "motivoDominioPublico": "pd",
-        "alteracoes": [],
+        "alteracoes": [
+          "Rasterização do arquivo original quando necessária",
+          "Redimensionamento proporcional sem recorte",
+          "Centralização em tela branca de 192 × 192 px",
+          "Conversão para JPEG"
+        ],
         "sha1Original": "af186bacbde3a745762a929268b5e5075d5c341d",
+        "sha256Derivado": "40e06b6795a537f9110a570ab0814ffebca76b56f06d91e839c59b5235343425",
+        "arquivoOriginalLocal": "assets/originais/brasoes/RO/1100031.png",
+        "arquivoNormalizadoLocal": "assets/normalizados/brasoes/RO/1100031.jpg",
         "dataConsulta": "2026-08-08T00:21:04.822Z",
         "mime": "image/png",
         "mediaType": "BITMAP",
@@ -177,7 +185,9 @@
         "altura": 136,
         "pontuacaoConfianca": 100,
         "fonteDescoberta": "wikidata",
-        "avisos": []
+        "avisos": [
+          "Original pequeno; não foi ampliado para evitar perda adicional de qualidade"
+        ]
       },
       "bandeira": {
         "status": "nao_encontrado",
@@ -190,15 +200,73 @@
       "codigoIbge": "1100049",
       "municipio": "Cacoal",
       "uf": "RO",
+      "wikidataId": "Q1761637",
+      "wikipediaPt": "https://pt.wikipedia.org/wiki/Cacoal",
       "brasao": {
-        "status": "nao_consultado",
-        "alteracoes": [],
+        "status": "revisao_pendente",
+        "arquivoCommons": "File:Cacoal brasao.png",
+        "titulo": "Cacoal brasao",
+        "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Cacoal_brasao.png",
+        "urlOriginal": "https://upload.wikimedia.org/wikipedia/commons/7/71/Cacoal_brasao.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "autor": "The original uploader was Filipux at Portuguese Wikipedia.",
+        "credito": "Originally from pt.wikipedia; description page is/was here.",
+        "licenca": "Public domain",
+        "termosDeUso": "Public domain",
+        "atribuicaoObrigatoria": false,
+        "declaracaoDominioPublico": "Public domain",
+        "motivoDominioPublico": "pd",
+        "alteracoes": [
+          "Rasterização do arquivo original quando necessária",
+          "Redimensionamento proporcional sem recorte",
+          "Centralização em tela branca de 192 × 192 px",
+          "Conversão para JPEG"
+        ],
+        "sha1Original": "f2fcfc7ffdf942963cec2c9ea41cbaa905fa4dbb",
+        "sha256Derivado": "dcbd9fbf5214be0dad01e612d9b71b1568397b0df1f9176c53f6bce152ecf759",
+        "arquivoOriginalLocal": "assets/originais/brasoes/RO/1100049.png",
+        "arquivoNormalizadoLocal": "assets/normalizados/brasoes/RO/1100049.jpg",
+        "dataConsulta": "2026-08-08T00:25:18.058Z",
+        "mime": "image/png",
+        "mediaType": "BITMAP",
+        "largura": 225,
+        "altura": 283,
+        "pontuacaoConfianca": 100,
+        "fonteDescoberta": "wikidata",
         "avisos": []
       },
       "bandeira": {
-        "status": "nao_consultado",
-        "alteracoes": [],
-        "avisos": []
+        "status": "revisao_pendente",
+        "arquivoCommons": "File:Bandeira Cacoal.png",
+        "titulo": "Bandeira Cacoal",
+        "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bandeira_Cacoal.png",
+        "urlOriginal": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bandeira_Cacoal.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "autor": "Municipality of Cacoal.",
+        "credito": "Site of CNM",
+        "licenca": "Public domain",
+        "termosDeUso": "Public domain",
+        "atribuicaoObrigatoria": false,
+        "declaracaoDominioPublico": "Public domain",
+        "motivoDominioPublico": "pd",
+        "alteracoes": [
+          "Rasterização do arquivo original quando necessária",
+          "Redimensionamento proporcional sem recorte",
+          "Centralização em tela branca de 192 × 192 px",
+          "Conversão para JPEG"
+        ],
+        "sha1Original": "af5981621101c84b0e4368c6a6de1a2e7f59e6cf",
+        "sha256Derivado": "f93582e6b52727eb3c10c211cee27217151cc2360e8f2c41632bccaba95b7cc5",
+        "arquivoOriginalLocal": "assets/originais/bandeiras/RO/1100049.png",
+        "arquivoNormalizadoLocal": "assets/normalizados/bandeiras/RO/1100049.jpg",
+        "dataConsulta": "2026-08-08T00:25:18.058Z",
+        "mime": "image/png",
+        "mediaType": "BITMAP",
+        "largura": 150,
+        "altura": 96,
+        "pontuacaoConfianca": 100,
+        "fonteDescoberta": "wikidata",
+        "avisos": [
+          "Original pequeno; não foi ampliado para evitar perda adicional de qualidade"
+        ]
       }
     },
     {
@@ -206,15 +274,75 @@
       "codigoIbge": "1100056",
       "municipio": "Cerejeiras",
       "uf": "RO",
+      "wikidataId": "Q1803210",
+      "wikipediaPt": "https://pt.wikipedia.org/wiki/Cerejeiras",
       "brasao": {
-        "status": "nao_consultado",
-        "alteracoes": [],
-        "avisos": []
+        "status": "revisao_pendente",
+        "arquivoCommons": "File:Brasao Cerejeiras.png",
+        "titulo": "Brasao Cerejeiras",
+        "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Brasao_Cerejeiras.png",
+        "urlOriginal": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Brasao_Cerejeiras.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "autor": "Municipality of Cerejeiras.",
+        "credito": "Site of CNM",
+        "licenca": "Public domain",
+        "termosDeUso": "Public domain",
+        "atribuicaoObrigatoria": false,
+        "declaracaoDominioPublico": "Public domain",
+        "motivoDominioPublico": "pd",
+        "alteracoes": [
+          "Rasterização do arquivo original quando necessária",
+          "Redimensionamento proporcional sem recorte",
+          "Centralização em tela branca de 192 × 192 px",
+          "Conversão para JPEG"
+        ],
+        "sha1Original": "ad103911ea66ba7a45b251b66cc19d05d634396e",
+        "sha256Derivado": "bbb586a980d02e6adc098c47245adaaff382f3e4cedf52e242bfbee7a50062c3",
+        "arquivoOriginalLocal": "assets/originais/brasoes/RO/1100056.png",
+        "arquivoNormalizadoLocal": "assets/normalizados/brasoes/RO/1100056.jpg",
+        "dataConsulta": "2026-08-08T00:29:48.291Z",
+        "mime": "image/png",
+        "mediaType": "BITMAP",
+        "largura": 150,
+        "altura": 136,
+        "pontuacaoConfianca": 100,
+        "fonteDescoberta": "wikidata",
+        "avisos": [
+          "Original pequeno; não foi ampliado para evitar perda adicional de qualidade"
+        ]
       },
       "bandeira": {
-        "status": "nao_consultado",
-        "alteracoes": [],
-        "avisos": []
+        "status": "revisao_pendente",
+        "arquivoCommons": "File:Bandeira Cerejeiras.png",
+        "titulo": "Bandeira Cerejeiras",
+        "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bandeira_Cerejeiras.png",
+        "urlOriginal": "https://upload.wikimedia.org/wikipedia/commons/6/62/Bandeira_Cerejeiras.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "autor": "Municipality of Cerejeiras.",
+        "credito": "Site of CNM",
+        "licenca": "Public domain",
+        "termosDeUso": "Public domain",
+        "atribuicaoObrigatoria": false,
+        "declaracaoDominioPublico": "Public domain",
+        "motivoDominioPublico": "pd",
+        "alteracoes": [
+          "Rasterização do arquivo original quando necessária",
+          "Redimensionamento proporcional sem recorte",
+          "Centralização em tela branca de 192 × 192 px",
+          "Conversão para JPEG"
+        ],
+        "sha1Original": "2ac21ac558fdf26845afd6cdc1a305be9cf836fc",
+        "sha256Derivado": "f05fb6a559dccc09015db4e4b746c0f0a55053e542c18c3c770a5ba36ca5bb18",
+        "arquivoOriginalLocal": "assets/originais/bandeiras/RO/1100056.png",
+        "arquivoNormalizadoLocal": "assets/normalizados/bandeiras/RO/1100056.jpg",
+        "dataConsulta": "2026-08-08T00:29:48.291Z",
+        "mime": "image/png",
+        "mediaType": "BITMAP",
+        "largura": 150,
+        "altura": 96,
+        "pontuacaoConfianca": 100,
+        "fonteDescoberta": "wikidata",
+        "avisos": [
+          "Original pequeno; não foi ampliado para evitar perda adicional de qualidade"
+        ]
       }
     },
     {
