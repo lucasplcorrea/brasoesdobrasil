@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import sharp from 'sharp';
-import { normalize, validateImage } from '../../src/imagens/index.js';
+import { normalize, PermanentImageError, validateImage } from '../../src/imagens/index.js';
 describe('imagens', () => {
   it.each([
     ['PNG', 'png'],
@@ -42,6 +42,14 @@ describe('imagens', () => {
     expect(
       validateImage(Buffer.from('<svg xmlns="http://www.w3.org/2000/svg"><script/></svg>')),
     ).rejects.toThrow(/ativo/));
+  it('classifica excesso de pixels como falha permanente', async () => {
+    const oversizedSvg = Buffer.from(
+      '<svg xmlns="http://www.w3.org/2000/svg" width="11000" height="10000"/>',
+    );
+    await expect(validateImage(oversizedSvg, 'image/svg+xml')).rejects.toBeInstanceOf(
+      PermanentImageError,
+    );
+  });
   it('normaliza sem deformação em canvas 192x192', async () => {
     const b = await sharp({ create: { width: 300, height: 100, channels: 4, background: 'blue' } })
       .png()

@@ -2,7 +2,7 @@ name: brasoes-do-brasil
 
 services:
   coletor:
-    image: lucasplcorrea/brasoes-do-brasil:${BRASOES_IMAGE_TAG:-0.2.2}
+    image: lucasplcorrea/brasoes-do-brasil:${BRASOES_IMAGE_TAG:-0.2.3}
     pull_policy: always
     platform: linux/amd64
     user: '${WORKER_UID:-1000}:${WORKER_GID:-1000}'

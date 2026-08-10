@@ -58,6 +58,11 @@ cadência entre municípios; o segundo evita espera duplicada entre imagens. Se 
 Wikimedia responder com HTTP 429, o worker interrompe a fila e respeita
 `Retry-After`; aumentar a concorrência não é recomendado.
 
+Erros transitórios, rejeições automáticas de segurança e falhas fatais podem
+ser enviados por GET para `BRASOES_ERROR_WEBHOOK_URL`. A requisição inclui
+`projeto`, `timestamp`, `event`, `message` e, quando disponíveis, `codigoIbge`
+e `tipo`. Falhas do webhook são registradas, mas não interrompem o worker.
+
 Para parar com segurança:
 
 ```bash

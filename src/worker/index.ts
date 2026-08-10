@@ -83,7 +83,7 @@ export async function runWorker(): Promise<void> {
         limit: 1,
         dryRun: false,
       });
-      processed += result.completed;
+      processed += result.completed + result.permanentlyRejected;
       if (result.rateLimited) {
         const waitMs = result.retryAfterMs ?? 15 * 60 * 1000;
         const resumeAt = new Date(Date.now() + waitMs).toISOString();

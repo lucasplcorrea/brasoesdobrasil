@@ -3,11 +3,16 @@ import { mkdir, readFile, rename, stat, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileTypeFromBuffer } from 'file-type';
 import pLimit from 'p-limit';
-import sharp from 'sharp';
+import sharp, { type Metadata } from 'sharp';
 import { ROOT, paths } from '../config.js';
 import { http } from '../http/client.js';
 import { loadCatalog, saveCatalog } from '../catalogo/index.js';
 import { readJson, writeJsonAtomic, log } from '../io.js';
+import { notifyError } from '../notificacoes/index.js';
+
+export class PermanentImageError extends Error {
+  override name = 'PermanentImageError';
+}
 
 const allowed = new Map([
   ['image/png', 'png'],
@@ -17,36 +22,45 @@ const allowed = new Map([
   ['image/webp', 'webp'],
 ]);
 export async function validateImage(buffer: Buffer, declaredMime?: string) {
-  if (!buffer.length) throw new Error('Arquivo vazio');
+  if (!buffer.length) throw new PermanentImageError('Arquivo vazio');
   const head = buffer.subarray(0, 4096).toString('utf8').trimStart().toLowerCase();
   if (head.startsWith('<!doctype html') || head.startsWith('<html'))
-    throw new Error('HTML servido como imagem');
-  if (head.startsWith('mz') || head.startsWith('\u007felf')) throw new Error('Conteúdo executável');
+    throw new PermanentImageError('HTML servido como imagem');
+  if (head.startsWith('mz') || head.startsWith('\u007felf'))
+    throw new PermanentImageError('Conteúdo executável');
   let detected = await fileTypeFromBuffer(buffer);
   if ((!detected || !allowed.has(detected.mime)) && /<svg[\s>]/i.test(head))
     detected = { ext: 'svg', mime: 'image/svg+xml' };
-  if (!detected || !allowed.has(detected.mime)) throw new Error('Formato de imagem não permitido');
+  if (!detected || !allowed.has(detected.mime))
+    throw new PermanentImageError('Formato de imagem não permitido');
   const normalizedDeclaredMime = declaredMime === 'image/svg' ? 'image/svg+xml' : declaredMime;
   const mimeDivergente =
     normalizedDeclaredMime && normalizedDeclaredMime !== detected.mime
       ? `${normalizedDeclaredMime} vs ${detected.mime}`
       : undefined;
   if (mimeDivergente && !allowed.has(normalizedDeclaredMime!))
-    throw new Error(`MIME declarado não permitido: ${mimeDivergente}`);
+    throw new PermanentImageError(`MIME declarado não permitido: ${mimeDivergente}`);
   if (
     detected.mime === 'image/svg+xml' &&
     /<script|(?:\s|<)on\w+\s*=|(?:href|src)\s*=\s*["'](?:https?:|\/\/)/i.test(
       buffer.toString('utf8'),
     )
   )
-    throw new Error('SVG contém conteúdo ativo ou recurso externo');
-  const metadata = await sharp(buffer, {
-    density: 300,
-    limitInputPixels: 100_000_000,
-    failOn: 'error',
-  }).metadata();
+    throw new PermanentImageError('SVG contém conteúdo ativo ou recurso externo');
+  let metadata: Metadata;
+  try {
+    metadata = await sharp(buffer, {
+      density: 300,
+      limitInputPixels: 100_000_000,
+      failOn: 'error',
+    }).metadata();
+  } catch (error: unknown) {
+    throw new PermanentImageError(
+      `Imagem recusada pelo processador: ${error instanceof Error ? error.message : String(error)}`,
+    );
+  }
   if (!metadata.width || !metadata.height || metadata.width > 20_000 || metadata.height > 20_000)
-    throw new Error('Dimensões ausentes ou excessivas');
+    throw new PermanentImageError('Dimensões ausentes ou excessivas');
   return {
     ext: allowed.get(detected.mime)!,
     mime: detected.mime,
@@ -81,6 +95,7 @@ export type DownloadResult = {
   jobs: number;
   completed: number;
   failed: number;
+  permanentlyRejected: number;
   rateLimited: boolean;
   retryAfterMs?: number;
 };
@@ -113,7 +128,13 @@ export async function downloadCandidates(filters: {
         tipo: j.kind,
         url: j.asset.urlOriginal,
       });
-    return { jobs: jobs.length, completed: 0, failed: 0, rateLimited: false };
+    return {
+      jobs: jobs.length,
+      completed: 0,
+      failed: 0,
+      permanentlyRejected: 0,
+      rateLimited: false,
+    };
   }
   let rateLimited = false;
   let retryAfterMs: number | undefined;
@@ -174,20 +195,27 @@ export async function downloadCandidates(filters: {
           );
         }
         const max = Number(process.env.BRASOES_MAX_DOWNLOAD_BYTES ?? 25_000_000);
-        if (body.length > max) throw new Error(`Arquivo excede ${max} bytes`);
+        if (body.length > max) throw new PermanentImageError(`Arquivo excede ${max} bytes`);
         const valid = await validateImage(body, contentType);
         if (
           job.asset.sha1Original &&
           createHash('sha1').update(body).digest('hex') !== job.asset.sha1Original
         )
-          throw new Error('SHA-1 difere do Commons');
+          throw new PermanentImageError('SHA-1 difere do Commons');
         const originalRel = `assets/originais/${job.kind === 'brasao' ? 'brasoes' : 'bandeiras'}/${job.m.uf}/${job.m.codigoIbge}.${valid.ext}`;
         const normalizedRel = `assets/normalizados/${job.kind === 'brasao' ? 'brasoes' : 'bandeiras'}/${job.m.uf}/${job.m.codigoIbge}.jpg`;
         const original = path.join(ROOT, originalRel);
         const normalizedFile = path.join(ROOT, normalizedRel);
         await mkdir(path.dirname(original), { recursive: true });
         await mkdir(path.dirname(normalizedFile), { recursive: true });
-        const derivative = await normalize(body);
+        let derivative: Buffer;
+        try {
+          derivative = await normalize(body);
+        } catch (error: unknown) {
+          throw new PermanentImageError(
+            `Falha ao normalizar imagem validada: ${error instanceof Error ? error.message : String(error)}`,
+          );
+        }
         await writeFile(`${original}.tmp`, body);
         await rename(`${original}.tmp`, original);
         await writeFile(`${normalizedFile}.tmp`, derivative);
@@ -220,23 +248,63 @@ export async function downloadCandidates(filters: {
   for (const [index, result] of results.entries()) {
     if (result.status === 'rejected') {
       const job = jobs[index]!;
+      const message =
+        result.reason instanceof Error ? result.reason.message : String(result.reason);
+      if (result.reason instanceof PermanentImageError) {
+        Object.assign(job.asset, {
+          status: 'rejeitado',
+          motivoRejeicao: `Validação automática de segurança: ${message}`,
+          avisos: [
+            ...job.asset.avisos.filter(
+              (warning) =>
+                !warning.startsWith('Download pendente:') &&
+                !warning.startsWith('Validação automática rejeitou o arquivo:'),
+            ),
+            `Validação automática rejeitou o arquivo: ${message}`,
+          ],
+        });
+        log('download.rejeitado', {
+          codigoIbge: job.m.codigoIbge,
+          tipo: job.kind,
+          message,
+        });
+        await notifyError({
+          event: 'download.rejeitado',
+          codigoIbge: job.m.codigoIbge,
+          tipo: job.kind,
+          message,
+        });
+        continue;
+      }
       job.asset.avisos = [
         ...job.asset.avisos.filter((warning) => !warning.startsWith('Download pendente:')),
-        `Download pendente: ${result.reason instanceof Error ? result.reason.message : String(result.reason)}`,
+        `Download pendente: ${message}`,
       ];
       log('download.falha', {
         codigoIbge: job.m.codigoIbge,
         tipo: job.kind,
-        message: result.reason instanceof Error ? result.reason.message : String(result.reason),
+        message,
+      });
+      await notifyError({
+        event: 'download.falha',
+        codigoIbge: job.m.codigoIbge,
+        tipo: job.kind,
+        message,
       });
     }
   }
   await saveCatalog(catalog);
-  const failed = results.filter((result) => result.status === 'rejected').length;
+  const permanentlyRejected = results.filter(
+    (result) => result.status === 'rejected' && result.reason instanceof PermanentImageError,
+  ).length;
+  const failed = results.filter(
+    (result) => result.status === 'rejected' && !(result.reason instanceof PermanentImageError),
+  ).length;
   return {
     jobs: jobs.length,
-    completed: jobs.length - failed,
+    completed: jobs.length - failed - permanentlyRejected,
     failed,
+    permanentlyRejected,
     rateLimited,
     ...(retryAfterMs ? { retryAfterMs } : {}),
   };

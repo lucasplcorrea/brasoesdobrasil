@@ -10,6 +10,7 @@ import { log } from '../io.js';
 import { syncCatalog } from '../catalogo/index.js';
 import { discoverWikipediaFallback } from '../wikipedia/index.js';
 import { runWorker } from '../worker/index.js';
+import { notifyError } from '../notificacoes/index.js';
 
 const program = new Command()
   .name('brasoes-do-brasil')
@@ -75,7 +76,9 @@ const worker = program.command('worker');
 worker.command('executar').action(async () => {
   await runWorker();
 });
-program.parseAsync().catch((error: unknown) => {
-  log('erro', { message: error instanceof Error ? error.message : String(error) });
+program.parseAsync().catch(async (error: unknown) => {
+  const message = error instanceof Error ? error.message : String(error);
+  log('erro', { message });
+  await notifyError({ event: 'worker.erro_fatal', message });
   process.exitCode = 1;
 });
