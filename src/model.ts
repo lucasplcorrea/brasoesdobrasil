@@ -42,6 +42,8 @@ export const AssetSchema = z.object({
   fonteDescoberta: z.enum(['wikidata', 'wikipedia']).optional(),
   avisos: z.array(z.string()).default([]),
   motivoRejeicao: z.string().optional(),
+  tentativasDownload: z.number().int().nonnegative().optional(),
+  proximaTentativaDownload: z.string().datetime().optional(),
 });
 export type Asset = z.infer<typeof AssetSchema>;
 

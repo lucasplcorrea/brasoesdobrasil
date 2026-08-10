@@ -78,7 +78,11 @@ export async function runWorker(): Promise<void> {
     const catalog = await loadCatalog();
     const downloadable = catalog.municipios.find((municipality) =>
       [municipality.brasao, municipality.bandeira].some(
-        (asset) => asset.status === 'descoberto' && asset.urlOriginal,
+        (asset) =>
+          asset.status === 'descoberto' &&
+          asset.urlOriginal &&
+          (!asset.proximaTentativaDownload ||
+            Date.parse(asset.proximaTentativaDownload) <= Date.now()),
       ),
     );
     if (downloadable) {

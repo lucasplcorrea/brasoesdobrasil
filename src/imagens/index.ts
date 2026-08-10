@@ -100,6 +100,20 @@ export type DownloadResult = {
   retryAfterMs?: number;
 };
 
+export function assetRetryDecision(
+  previousAttempts: number,
+  retryDelayMs: number,
+  maxAttempts: number,
+  now = Date.now(),
+) {
+  const attempts = previousAttempts + 1;
+  return {
+    attempts,
+    deferred: attempts >= maxAttempts,
+    nextRetryAt: attempts >= maxAttempts ? undefined : new Date(now + retryDelayMs).toISOString(),
+  };
+}
+
 export async function downloadCandidates(filters: {
   uf?: string;
   ibge?: string;
@@ -119,7 +133,11 @@ export async function downloadCandidates(filters: {
     .flatMap((m) => (['brasao', 'bandeira'] as const).map((kind) => ({ m, kind, asset: m[kind] })))
     .filter(
       ({ asset }) =>
-        asset.urlOriginal && asset.status !== 'aprovado' && asset.status !== 'licenca_pendente',
+        asset.urlOriginal &&
+        asset.status !== 'aprovado' &&
+        asset.status !== 'licenca_pendente' &&
+        (!asset.proximaTentativaDownload ||
+          Date.parse(asset.proximaTentativaDownload) <= Date.now()),
     );
   if (filters.dryRun) {
     for (const j of jobs)
@@ -239,6 +257,8 @@ export async function downloadCandidates(filters: {
               ? ['Original pequeno; não foi ampliado para evitar perda adicional de qualidade']
               : []),
           ],
+          tentativasDownload: 0,
+          proximaTentativaDownload: undefined,
         });
         done.add(key);
         await writeJsonAtomic(paths.checkpoint, { completed: [...done].sort() });
@@ -270,21 +290,46 @@ export async function downloadCandidates(filters: {
         });
         continue;
       }
+      if (rateLimited) {
+        log('download.adiado_rate_limit', {
+          codigoIbge: job.m.codigoIbge,
+          tipo: job.kind,
+          message,
+        });
+        continue;
+      }
+      const retry = assetRetryDecision(
+        job.asset.tentativasDownload ?? 0,
+        Number(process.env.BRASOES_ASSET_RETRY_DELAY_MS ?? 60 * 60 * 1000),
+        Number(process.env.BRASOES_ASSET_MAX_ATTEMPTS ?? 3),
+      );
+      job.asset.tentativasDownload = retry.attempts;
+      job.asset.proximaTentativaDownload = retry.nextRetryAt;
       job.asset.avisos = [
         ...job.asset.avisos.filter((warning) => !warning.startsWith('Download pendente:')),
         `Download pendente: ${message}`,
       ];
-      log('download.falha', {
+      if (retry.deferred) {
+        job.asset.status = 'desatualizado';
+        job.asset.avisos = [
+          ...job.asset.avisos,
+          `Download adiado para revisão após ${retry.attempts} falhas transitórias`,
+        ];
+      }
+      log(retry.deferred ? 'download.adiado' : 'download.falha', {
         codigoIbge: job.m.codigoIbge,
         tipo: job.kind,
         message,
+        tentativas: retry.attempts,
+        proximaTentativa: retry.nextRetryAt,
       });
-      await notifyError({
-        event: 'download.falha',
-        codigoIbge: job.m.codigoIbge,
-        tipo: job.kind,
-        message,
-      });
+      if (retry.attempts === 1 || retry.deferred)
+        await notifyError({
+          event: retry.deferred ? 'download.adiado' : 'download.falha',
+          codigoIbge: job.m.codigoIbge,
+          tipo: job.kind,
+          message,
+        });
     }
   }
   await saveCatalog(catalog);

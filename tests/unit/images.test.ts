@@ -1,7 +1,24 @@
 import { describe, expect, it } from 'vitest';
 import sharp from 'sharp';
-import { normalize, PermanentImageError, validateImage } from '../../src/imagens/index.js';
+import {
+  assetRetryDecision,
+  normalize,
+  PermanentImageError,
+  validateImage,
+} from '../../src/imagens/index.js';
 describe('imagens', () => {
+  it('adia falha transitória e encerra após o limite de tentativas', () => {
+    expect(assetRetryDecision(0, 3_600_000, 3, 0)).toEqual({
+      attempts: 1,
+      deferred: false,
+      nextRetryAt: '1970-01-01T01:00:00.000Z',
+    });
+    expect(assetRetryDecision(2, 3_600_000, 3, 0)).toEqual({
+      attempts: 3,
+      deferred: true,
+      nextRetryAt: undefined,
+    });
+  });
   it.each([
     ['PNG', 'png'],
     ['JPEG', 'jpeg'],

@@ -62,6 +62,12 @@ Timeouts e outras falhas transitórias usam backoff exponencial iniciado por
 `BRASOES_TRANSIENT_DELAY_MS=60000`, limitado por
 `BRASOES_FAILURE_DELAY_MS=3600000`. Essas falhas não encerram o processo.
 
+Falhas de download são persistidas por asset. Uma nova tentativa ocorre após
+`BRASOES_ASSET_RETRY_DELAY_MS=3600000`; enquanto isso, a fila segue para outros
+municípios. Após `BRASOES_ASSET_MAX_ATTEMPTS=3`, o asset recebe status
+`desatualizado` para revisão posterior. O webhook é chamado somente na primeira
+falha e no adiamento definitivo.
+
 Erros transitórios, rate limits e falhas fatais podem ser enviados por GET para
 `BRASOES_ERROR_WEBHOOK_URL`. Rejeições automáticas de arquivos são registradas
 no catálogo e nos logs, mas não geram alertas porque não interrompem a fila. A
