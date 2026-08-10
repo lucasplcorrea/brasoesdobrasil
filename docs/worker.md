@@ -58,10 +58,16 @@ cadência entre municípios; o segundo evita espera duplicada entre imagens. Se 
 Wikimedia responder com HTTP 429, o worker interrompe a fila e respeita
 `Retry-After`; aumentar a concorrência não é recomendado.
 
-Erros transitórios, rejeições automáticas de segurança e falhas fatais podem
-ser enviados por GET para `BRASOES_ERROR_WEBHOOK_URL`. A requisição inclui
-`projeto`, `timestamp`, `event`, `message` e, quando disponíveis, `codigoIbge`
-e `tipo`. Falhas do webhook são registradas, mas não interrompem o worker.
+Timeouts e outras falhas transitórias usam backoff exponencial iniciado por
+`BRASOES_TRANSIENT_DELAY_MS=60000`, limitado por
+`BRASOES_FAILURE_DELAY_MS=3600000`. Essas falhas não encerram o processo.
+
+Erros transitórios, rate limits e falhas fatais podem ser enviados por GET para
+`BRASOES_ERROR_WEBHOOK_URL`. Rejeições automáticas de arquivos são registradas
+no catálogo e nos logs, mas não geram alertas porque não interrompem a fila. A
+requisição inclui `projeto`, `timestamp`, `event`, `message` e, quando
+disponíveis, `codigoIbge` e `tipo`. Falhas do webhook são registradas, mas não
+interrompem o worker.
 
 Para parar com segurança:
 

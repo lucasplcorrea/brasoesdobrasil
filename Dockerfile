@@ -13,6 +13,10 @@ ENV NODE_ENV=production
 ENV BRASOES_ROOT=/app
 WORKDIR /app
 
+RUN apt-get update \
+  && apt-get install --no-install-recommends --yes fontconfig fonts-dejavu-core \
+  && rm -rf /var/lib/apt/lists/*
+
 COPY package.json package-lock.json ./
 RUN npm ci --omit=dev && npm cache clean --force
 COPY --from=build /app/dist ./dist

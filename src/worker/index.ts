@@ -9,6 +9,8 @@ import { log, writeJsonAtomic } from '../io.js';
 import { generateReports } from '../relatorios/index.js';
 import { discover } from '../wikidata/index.js';
 import { discoverWikipediaFallback } from '../wikipedia/index.js';
+import { notifyError } from '../notificacoes/index.js';
+import { exponentialBackoffMs, retryAfterMs } from './retry.js';
 
 let stopping = false;
 for (const signal of ['SIGTERM', 'SIGINT'] as const) {
@@ -67,7 +69,9 @@ export async function runWorker(): Promise<void> {
   const requestDelay = Number(process.env.BRASOES_REQUEST_DELAY_MS ?? 5_000);
   const downloadDelay = Number(process.env.BRASOES_DOWNLOAD_DELAY_MS ?? 1_000);
   const failureDelay = Number(process.env.BRASOES_FAILURE_DELAY_MS ?? 60 * 60 * 1000);
+  const transientBaseDelay = Number(process.env.BRASOES_TRANSIENT_DELAY_MS ?? 60_000);
   let processed = 0;
+  let consecutiveFailures = 0;
   await state('executando', { processed });
 
   while (!stopping) {
@@ -91,9 +95,12 @@ export async function runWorker(): Promise<void> {
         log('worker.rate_limit', { resumeAt, waitMs });
         await sleep(waitMs + Math.floor(Math.random() * 30_000));
       } else if (result.failed) {
-        await state('aguardando_apos_falha', { processed, waitMs: failureDelay });
-        await sleep(failureDelay);
+        consecutiveFailures += 1;
+        const waitMs = exponentialBackoffMs(consecutiveFailures, transientBaseDelay, failureDelay);
+        await state('aguardando_apos_falha', { processed, waitMs, consecutiveFailures });
+        await sleep(waitMs);
       } else {
+        consecutiveFailures = 0;
         await state('executando', { processed });
         await sleep(downloadDelay);
       }
@@ -107,9 +114,62 @@ export async function runWorker(): Promise<void> {
     );
     if (undiscovered) {
       const filters = { ibge: undiscovered.codigoIbge, limit: 1 };
-      await discover(filters);
-      await discoverWikipediaFallback(filters);
-      await enrichCommons(filters);
+      try {
+        await discover(filters);
+        await discoverWikipediaFallback(filters);
+        await enrichCommons(filters);
+      } catch (error: unknown) {
+        const message = error instanceof Error ? error.message : String(error);
+        const rateLimitWait = retryAfterMs(error);
+        if (rateLimitWait !== undefined) {
+          const jitter = Math.floor(Math.random() * 30_000);
+          const waitMs = rateLimitWait + jitter;
+          const resumeAt = new Date(Date.now() + waitMs).toISOString();
+          await state('aguardando_rate_limit', {
+            processed,
+            ultimoIbge: undiscovered.codigoIbge,
+            resumeAt,
+            waitMs,
+          });
+          log('worker.rate_limit', {
+            codigoIbge: undiscovered.codigoIbge,
+            resumeAt,
+            waitMs,
+          });
+          await notifyError({
+            event: 'worker.rate_limit',
+            codigoIbge: undiscovered.codigoIbge,
+            message,
+          });
+          await sleep(waitMs);
+          continue;
+        }
+        consecutiveFailures += 1;
+        const waitMs = exponentialBackoffMs(consecutiveFailures, transientBaseDelay, failureDelay);
+        const resumeAt = new Date(Date.now() + waitMs).toISOString();
+        await state('aguardando_apos_falha', {
+          processed,
+          ultimoIbge: undiscovered.codigoIbge,
+          resumeAt,
+          waitMs,
+          consecutiveFailures,
+        });
+        log('worker.falha_transitoria', {
+          codigoIbge: undiscovered.codigoIbge,
+          message,
+          resumeAt,
+          waitMs,
+          consecutiveFailures,
+        });
+        await notifyError({
+          event: 'worker.falha_transitoria',
+          codigoIbge: undiscovered.codigoIbge,
+          message,
+        });
+        await sleep(waitMs);
+        continue;
+      }
+      consecutiveFailures = 0;
       processed += 1;
       await state('executando', { processed, ultimoIbge: undiscovered.codigoIbge });
       if (processed % 50 === 0) await generateReports();

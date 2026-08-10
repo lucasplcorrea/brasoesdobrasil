@@ -268,12 +268,6 @@ export async function downloadCandidates(filters: {
           tipo: job.kind,
           message,
         });
-        await notifyError({
-          event: 'download.rejeitado',
-          codigoIbge: job.m.codigoIbge,
-          tipo: job.kind,
-          message,
-        });
         continue;
       }
       job.asset.avisos = [
