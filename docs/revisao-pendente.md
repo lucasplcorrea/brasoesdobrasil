@@ -1,5 +1,230 @@
 # Revisão pendente
 
+- 1100015 — Alta Floresta D'Oeste/RO — Brasão
+- 1100015 — Alta Floresta D'Oeste/RO — Bandeira
+- 1100023 — Ariquemes/RO — Brasão
+- 1100023 — Ariquemes/RO — Bandeira
+- 1100031 — Cabixi/RO — Brasão
+- 1100049 — Cacoal/RO — Brasão
+- 1100049 — Cacoal/RO — Bandeira
+- 1100056 — Cerejeiras/RO — Brasão
+- 1100056 — Cerejeiras/RO — Bandeira
+- 1100064 — Colorado do Oeste/RO — Brasão
+- 1100064 — Colorado do Oeste/RO — Bandeira
+- 1100072 — Corumbiara/RO — Brasão
+- 1100072 — Corumbiara/RO — Bandeira
+- 1100080 — Costa Marques/RO — Brasão
+- 1100098 — Espigão D'Oeste/RO — Brasão
+- 1100098 — Espigão D'Oeste/RO — Bandeira
+- 1100106 — Guajará-Mirim/RO — Brasão
+- 1100106 — Guajará-Mirim/RO — Bandeira
+- 1100114 — Jaru/RO — Brasão
+- 1100114 — Jaru/RO — Bandeira
+- 1100122 — Ji-Paraná/RO — Brasão
+- 1100122 — Ji-Paraná/RO — Bandeira
+- 1100130 — Machadinho D'Oeste/RO — Brasão
+- 1100130 — Machadinho D'Oeste/RO — Bandeira
+- 1100148 — Nova Brasilândia D'Oeste/RO — Bandeira
+- 1100155 — Ouro Preto do Oeste/RO — Brasão
+- 1100155 — Ouro Preto do Oeste/RO — Bandeira
+- 1100189 — Pimenta Bueno/RO — Brasão
+- 1100189 — Pimenta Bueno/RO — Bandeira
+- 1100205 — Porto Velho/RO — Brasão
+- 1100205 — Porto Velho/RO — Bandeira
+- 1100254 — Presidente Médici/RO — Brasão
+- 1100254 — Presidente Médici/RO — Bandeira
+- 1100262 — Rio Crespo/RO — Bandeira
+- 1100288 — Rolim de Moura/RO — Brasão
+- 1100288 — Rolim de Moura/RO — Bandeira
+- 1100296 — Santa Luzia D'Oeste/RO — Brasão
+- 1100296 — Santa Luzia D'Oeste/RO — Bandeira
+- 1100304 — Vilhena/RO — Brasão
+- 1100304 — Vilhena/RO — Bandeira
+- 1100320 — São Miguel do Guaporé/RO — Brasão
+- 1100320 — São Miguel do Guaporé/RO — Bandeira
+- 1100338 — Nova Mamoré/RO — Brasão
+- 1100338 — Nova Mamoré/RO — Bandeira
+- 1100346 — Alvorada D'Oeste/RO — Brasão
+- 1100346 — Alvorada D'Oeste/RO — Bandeira
+- 1100379 — Alto Alegre dos Parecis/RO — Brasão
+- 1100379 — Alto Alegre dos Parecis/RO — Bandeira
+- 1100403 — Alto Paraíso/RO — Brasão
+- 1100403 — Alto Paraíso/RO — Bandeira
+- 1100452 — Buritis/RO — Brasão
+- 1100452 — Buritis/RO — Bandeira
+- 1100502 — Novo Horizonte do Oeste/RO — Bandeira
+- 1100601 — Cacaulândia/RO — Brasão
+- 1100601 — Cacaulândia/RO — Bandeira
+- 1100700 — Campo Novo de Rondônia/RO — Brasão
+- 1100700 — Campo Novo de Rondônia/RO — Bandeira
+- 1100809 — Candeias do Jamari/RO — Brasão
+- 1100809 — Candeias do Jamari/RO — Bandeira
+- 1100924 — Chupinguaia/RO — Brasão
+- 1100924 — Chupinguaia/RO — Bandeira
+- 1100940 — Cujubim/RO — Brasão
+- 1100940 — Cujubim/RO — Bandeira
+- 1101104 — Itapuã do Oeste/RO — Brasão
+- 1101104 — Itapuã do Oeste/RO — Bandeira
+- 1101203 — Ministro Andreazza/RO — Brasão
+- 1101203 — Ministro Andreazza/RO — Bandeira
+- 1101302 — Mirante da Serra/RO — Brasão
+- 1101302 — Mirante da Serra/RO — Bandeira
+- 1101401 — Monte Negro/RO — Brasão
+- 1101401 — Monte Negro/RO — Bandeira
+- 1101435 — Nova União/RO — Brasão
+- 1101435 — Nova União/RO — Bandeira
+- 1101450 — Parecis/RO — Bandeira
+- 1101468 — Pimenteiras do Oeste/RO — Brasão
+- 1101468 — Pimenteiras do Oeste/RO — Bandeira
+- 1101476 — Primavera de Rondônia/RO — Brasão
+- 1101476 — Primavera de Rondônia/RO — Bandeira
+- 1101484 — São Felipe D'Oeste/RO — Brasão
+- 1101484 — São Felipe D'Oeste/RO — Bandeira
+- 1101492 — São Francisco do Guaporé/RO — Brasão
+- 1101492 — São Francisco do Guaporé/RO — Bandeira
+- 1101500 — Seringueiras/RO — Brasão
+- 1101500 — Seringueiras/RO — Bandeira
+- 1101609 — Theobroma/RO — Brasão
+- 1101609 — Theobroma/RO — Bandeira
+- 1101708 — Urupá/RO — Brasão
+- 1101708 — Urupá/RO — Bandeira
+- 1101757 — Vale do Anari/RO — Bandeira
+- 1101807 — Vale do Paraíso/RO — Brasão
+- 1101807 — Vale do Paraíso/RO — Bandeira
+- 1200013 — Acrelândia/AC — Brasão
+- 1200013 — Acrelândia/AC — Bandeira
+- 1200054 — Assis Brasil/AC — Brasão
+- 1200054 — Assis Brasil/AC — Bandeira
+- 1200104 — Brasiléia/AC — Brasão
+- 1200104 — Brasiléia/AC — Bandeira
+- 1200138 — Bujari/AC — Brasão
+- 1200138 — Bujari/AC — Bandeira
+- 1200179 — Capixaba/AC — Brasão
+- 1200179 — Capixaba/AC — Bandeira
+- 1200203 — Cruzeiro do Sul/AC — Brasão
+- 1200203 — Cruzeiro do Sul/AC — Bandeira
+- 1200252 — Epitaciolândia/AC — Brasão
+- 1200252 — Epitaciolândia/AC — Bandeira
+- 1200302 — Feijó/AC — Brasão
+- 1200302 — Feijó/AC — Bandeira
+- 1200328 — Jordão/AC — Brasão
+- 1200328 — Jordão/AC — Bandeira
+- 1200336 — Mâncio Lima/AC — Brasão
+- 1200336 — Mâncio Lima/AC — Bandeira
+- 1200344 — Manoel Urbano/AC — Brasão
+- 1200344 — Manoel Urbano/AC — Bandeira
+- 1200351 — Marechal Thaumaturgo/AC — Brasão
+- 1200351 — Marechal Thaumaturgo/AC — Bandeira
+- 1200385 — Plácido de Castro/AC — Brasão
+- 1200385 — Plácido de Castro/AC — Bandeira
+- 1200393 — Porto Walter/AC — Brasão
+- 1200393 — Porto Walter/AC — Bandeira
+- 1200401 — Rio Branco/AC — Brasão
+- 1200401 — Rio Branco/AC — Bandeira
+- 1200427 — Rodrigues Alves/AC — Brasão
+- 1200427 — Rodrigues Alves/AC — Bandeira
+- 1200435 — Santa Rosa do Purus/AC — Brasão
+- 1200435 — Santa Rosa do Purus/AC — Bandeira
+- 1200450 — Senador Guiomard/AC — Brasão
+- 1200450 — Senador Guiomard/AC — Bandeira
+- 1200500 — Sena Madureira/AC — Brasão
+- 1200500 — Sena Madureira/AC — Bandeira
+- 1200609 — Tarauacá/AC — Brasão
+- 1200609 — Tarauacá/AC — Bandeira
+- 1200708 — Xapuri/AC — Brasão
+- 1200708 — Xapuri/AC — Bandeira
+- 1200807 — Porto Acre/AC — Brasão
+- 1200807 — Porto Acre/AC — Bandeira
+- 1300029 — Alvarães/AM — Brasão
+- 1300029 — Alvarães/AM — Bandeira
+- 1300060 — Amaturá/AM — Brasão
+- 1300060 — Amaturá/AM — Bandeira
+- 1300086 — Anamã/AM — Bandeira
+- 1300102 — Anori/AM — Brasão
+- 1300102 — Anori/AM — Bandeira
+- 1300144 — Apuí/AM — Brasão
+- 1300144 — Apuí/AM — Bandeira
+- 1300201 — Atalaia do Norte/AM — Brasão
+- 1300201 — Atalaia do Norte/AM — Bandeira
+- 1300300 — Autazes/AM — Brasão
+- 1300300 — Autazes/AM — Bandeira
+- 1300409 — Barcelos/AM — Bandeira
+- 1300508 — Barreirinha/AM — Bandeira
+- 1300607 — Benjamin Constant/AM — Brasão
+- 1300607 — Benjamin Constant/AM — Bandeira
+- 1300631 — Beruri/AM — Bandeira
+- 1300680 — Boa Vista do Ramos/AM — Bandeira
+- 1300805 — Borba/AM — Brasão
+- 1300805 — Borba/AM — Bandeira
+- 1300839 — Caapiranga/AM — Brasão
+- 1300839 — Caapiranga/AM — Bandeira
+- 1300904 — Canutama/AM — Bandeira
+- 1301001 — Carauari/AM — Brasão
+- 1301001 — Carauari/AM — Bandeira
+- 1301100 — Careiro/AM — Bandeira
+- 1301159 — Careiro da Várzea/AM — Brasão
+- 1301209 — Coari/AM — Brasão
+- 1301209 — Coari/AM — Bandeira
+- 1301308 — Codajás/AM — Brasão
+- 1301308 — Codajás/AM — Bandeira
+- 1301407 — Eirunepé/AM — Brasão
+- 1301407 — Eirunepé/AM — Bandeira
+- 1301506 — Envira/AM — Bandeira
+- 1301605 — Fonte Boa/AM — Brasão
+- 1301605 — Fonte Boa/AM — Bandeira
+- 1301654 — Guajará/AM — Brasão
+- 1301654 — Guajará/AM — Bandeira
+- 1301704 — Humaitá/AM — Brasão
+- 1301704 — Humaitá/AM — Bandeira
+- 1301803 — Ipixuna/AM — Brasão
+- 1301803 — Ipixuna/AM — Bandeira
+- 1301852 — Iranduba/AM — Brasão
+- 1301852 — Iranduba/AM — Bandeira
+- 1301902 — Itacoatiara/AM — Brasão
+- 1301902 — Itacoatiara/AM — Bandeira
+- 1302009 — Itapiranga/AM — Brasão
+- 1302009 — Itapiranga/AM — Bandeira
+- 1302108 — Japurá/AM — Brasão
+- 1302108 — Japurá/AM — Bandeira
+- 1302207 — Juruá/AM — Bandeira
+- 1302306 — Jutaí/AM — Brasão
+- 1302306 — Jutaí/AM — Bandeira
+- 1302405 — Lábrea/AM — Brasão
+- 1302405 — Lábrea/AM — Bandeira
+- 1302504 — Manacapuru/AM — Brasão
+- 1302504 — Manacapuru/AM — Bandeira
+- 1302603 — Manaus/AM — Bandeira
+- 1302702 — Manicoré/AM — Brasão
+- 1302702 — Manicoré/AM — Bandeira
+- 1302900 — Maués/AM — Brasão
+- 1302900 — Maués/AM — Bandeira
+- 1303007 — Nhamundá/AM — Brasão
+- 1303007 — Nhamundá/AM — Bandeira
+- 1303106 — Nova Olinda do Norte/AM — Brasão
+- 1303106 — Nova Olinda do Norte/AM — Bandeira
+- 1303205 — Novo Airão/AM — Brasão
+- 1303304 — Novo Aripuanã/AM — Brasão
+- 1303304 — Novo Aripuanã/AM — Bandeira
+- 1303403 — Parintins/AM — Brasão
+- 1303403 — Parintins/AM — Bandeira
+- 1303536 — Presidente Figueiredo/AM — Bandeira
+- 1303569 — Rio Preto da Eva/AM — Bandeira
+- 1303601 — Santa Isabel do Rio Negro/AM — Brasão
+- 1303601 — Santa Isabel do Rio Negro/AM — Bandeira
+- 1303700 — Santo Antônio do Içá/AM — Bandeira
+- 1303809 — São Gabriel da Cachoeira/AM — Brasão
+- 1303809 — São Gabriel da Cachoeira/AM — Bandeira
+- 1303957 — São Sebastião do Uatumã/AM — Brasão
+- 1303957 — São Sebastião do Uatumã/AM — Bandeira
+- 1304005 — Silves/AM — Bandeira
+- 1304062 — Tabatinga/AM — Brasão
+- 1304062 — Tabatinga/AM — Bandeira
+- 1304203 — Tefé/AM — Brasão
+- 1304203 — Tefé/AM — Bandeira
+- 1304237 — Tonantins/AM — Brasão
+- 1304237 — Tonantins/AM — Bandeira
+- 1304302 — Urucará/AM — Brasão
+- 1304302 — Urucará/AM — Bandeira
 - 1400027 — Amajari/RR — Brasão
 - 1400027 — Amajari/RR — Bandeira
 - 1400050 — Alto Alegre/RR — Brasão
@@ -30,6 +255,209 @@
 - 1400605 — São Luiz do Anauá/RR — Bandeira
 - 1400704 — Uiramutã/RR — Brasão
 - 1400704 — Uiramutã/RR — Bandeira
+- 1500107 — Abaetetuba/PA — Brasão
+- 1500107 — Abaetetuba/PA — Bandeira
+- 1500131 — Abel Figueiredo/PA — Brasão
+- 1500131 — Abel Figueiredo/PA — Bandeira
+- 1500206 — Acará/PA — Brasão
+- 1500206 — Acará/PA — Bandeira
+- 1500305 — Afuá/PA — Brasão
+- 1500305 — Afuá/PA — Bandeira
+- 1500347 — Água Azul do Norte/PA — Brasão
+- 1500347 — Água Azul do Norte/PA — Bandeira
+- 1500404 — Alenquer/PA — Brasão
+- 1500404 — Alenquer/PA — Bandeira
+- 1500503 — Almeirim/PA — Bandeira
+- 1500602 — Altamira/PA — Brasão
+- 1500602 — Altamira/PA — Bandeira
+- 1500701 — Anajás/PA — Brasão
+- 1500701 — Anajás/PA — Bandeira
+- 1500800 — Ananindeua/PA — Brasão
+- 1500800 — Ananindeua/PA — Bandeira
+- 1500859 — Anapu/PA — Brasão
+- 1500859 — Anapu/PA — Bandeira
+- 1500909 — Augusto Corrêa/PA — Brasão
+- 1500909 — Augusto Corrêa/PA — Bandeira
+- 1500958 — Aurora do Pará/PA — Brasão
+- 1500958 — Aurora do Pará/PA — Bandeira
+- 1501006 — Aveiro/PA — Brasão
+- 1501006 — Aveiro/PA — Bandeira
+- 1501105 — Bagre/PA — Brasão
+- 1501105 — Bagre/PA — Bandeira
+- 1501204 — Baião/PA — Brasão
+- 1501204 — Baião/PA — Bandeira
+- 1501303 — Barcarena/PA — Brasão
+- 1501303 — Barcarena/PA — Bandeira
+- 1501402 — Belém/PA — Brasão
+- 1501402 — Belém/PA — Bandeira
+- 1501451 — Belterra/PA — Brasão
+- 1501451 — Belterra/PA — Bandeira
+- 1501501 — Benevides/PA — Brasão
+- 1501501 — Benevides/PA — Bandeira
+- 1501576 — Bom Jesus do Tocantins/PA — Brasão
+- 1501576 — Bom Jesus do Tocantins/PA — Bandeira
+- 1501600 — Bonito/PA — Bandeira
+- 1501709 — Bragança/PA — Brasão
+- 1501709 — Bragança/PA — Bandeira
+- 1501782 — Breu Branco/PA — Brasão
+- 1501782 — Breu Branco/PA — Bandeira
+- 1501808 — Breves/PA — Brasão
+- 1501808 — Breves/PA — Bandeira
+- 1501956 — Cachoeira do Piriá/PA — Brasão
+- 1501956 — Cachoeira do Piriá/PA — Bandeira
+- 1502004 — Cachoeira do Arari/PA — Bandeira
+- 1502103 — Cametá/PA — Brasão
+- 1502103 — Cametá/PA — Bandeira
+- 1502152 — Canaã dos Carajás/PA — Brasão
+- 1502152 — Canaã dos Carajás/PA — Bandeira
+- 1502202 — Capanema/PA — Brasão
+- 1502202 — Capanema/PA — Bandeira
+- 1502301 — Capitão Poço/PA — Brasão
+- 1502301 — Capitão Poço/PA — Bandeira
+- 1502400 — Castanhal/PA — Brasão
+- 1502400 — Castanhal/PA — Bandeira
+- 1502509 — Chaves/PA — Brasão
+- 1502509 — Chaves/PA — Bandeira
+- 1502707 — Conceição do Araguaia/PA — Brasão
+- 1502707 — Conceição do Araguaia/PA — Bandeira
+- 1502756 — Concórdia do Pará/PA — Bandeira
+- 1502772 — Curionópolis/PA — Brasão
+- 1502772 — Curionópolis/PA — Bandeira
+- 1502806 — Curralinho/PA — Brasão
+- 1502806 — Curralinho/PA — Bandeira
+- 1502855 — Curuá/PA — Brasão
+- 1502855 — Curuá/PA — Bandeira
+- 1502905 — Curuçá/PA — Brasão
+- 1502905 — Curuçá/PA — Bandeira
+- 1502939 — Dom Eliseu/PA — Brasão
+- 1502939 — Dom Eliseu/PA — Bandeira
+- 1502954 — Eldorado do Carajás/PA — Bandeira
+- 1503002 — Faro/PA — Brasão
+- 1503002 — Faro/PA — Bandeira
+- 1503044 — Floresta do Araguaia/PA — Brasão
+- 1503044 — Floresta do Araguaia/PA — Bandeira
+- 1503077 — Garrafão do Norte/PA — Bandeira
+- 1503093 — Goianésia do Pará/PA — Brasão
+- 1503093 — Goianésia do Pará/PA — Bandeira
+- 1503101 — Gurupá/PA — Brasão
+- 1503101 — Gurupá/PA — Bandeira
+- 1503200 — Igarapé-Açu/PA — Bandeira
+- 1503309 — Igarapé-Miri/PA — Brasão
+- 1503309 — Igarapé-Miri/PA — Bandeira
+- 1503457 — Ipixuna do Pará/PA — Brasão
+- 1503457 — Ipixuna do Pará/PA — Bandeira
+- 1503507 — Irituia/PA — Brasão
+- 1503507 — Irituia/PA — Bandeira
+- 1503606 — Itaituba/PA — Brasão
+- 1503606 — Itaituba/PA — Bandeira
+- 1503705 — Itupiranga/PA — Brasão
+- 1503705 — Itupiranga/PA — Bandeira
+- 1503754 — Jacareacanga/PA — Bandeira
+- 1503804 — Jacundá/PA — Bandeira
+- 1503903 — Juruti/PA — Brasão
+- 1503903 — Juruti/PA — Bandeira
+- 1504000 — Limoeiro do Ajuru/PA — Bandeira
+- 1504059 — Mãe do Rio/PA — Brasão
+- 1504059 — Mãe do Rio/PA — Bandeira
+- 1504208 — Marabá/PA — Brasão
+- 1504208 — Marabá/PA — Bandeira
+- 1504307 — Maracanã/PA — Brasão
+- 1504505 — Melgaço/PA — Bandeira
+- 1504604 — Mocajuba/PA — Brasão
+- 1504604 — Mocajuba/PA — Bandeira
+- 1504703 — Moju/PA — Brasão
+- 1504703 — Moju/PA — Bandeira
+- 1504752 — Mojuí dos Campos/PA — Brasão
+- 1504752 — Mojuí dos Campos/PA — Bandeira
+- 1504802 — Monte Alegre/PA — Brasão
+- 1504802 — Monte Alegre/PA — Bandeira
+- 1504901 — Muaná/PA — Brasão
+- 1504901 — Muaná/PA — Bandeira
+- 1504976 — Nova Ipixuna/PA — Brasão
+- 1504976 — Nova Ipixuna/PA — Bandeira
+- 1505007 — Nova Timboteua/PA — Bandeira
+- 1505031 — Novo Progresso/PA — Bandeira
+- 1505064 — Novo Repartimento/PA — Brasão
+- 1505064 — Novo Repartimento/PA — Bandeira
+- 1505106 — Óbidos/PA — Brasão
+- 1505106 — Óbidos/PA — Bandeira
+- 1505304 — Oriximiná/PA — Brasão
+- 1505304 — Oriximiná/PA — Bandeira
+- 1505403 — Ourém/PA — Bandeira
+- 1505437 — Ourilândia do Norte/PA — Brasão
+- 1505437 — Ourilândia do Norte/PA — Bandeira
+- 1505486 — Pacajá/PA — Brasão
+- 1505486 — Pacajá/PA — Bandeira
+- 1505502 — Paragominas/PA — Brasão
+- 1505502 — Paragominas/PA — Bandeira
+- 1505536 — Parauapebas/PA — Brasão
+- 1505536 — Parauapebas/PA — Bandeira
+- 1505650 — Placas/PA — Brasão
+- 1505650 — Placas/PA — Bandeira
+- 1505700 — Ponta de Pedras/PA — Brasão
+- 1505700 — Ponta de Pedras/PA — Bandeira
+- 1505809 — Portel/PA — Brasão
+- 1505809 — Portel/PA — Bandeira
+- 1506005 — Prainha/PA — Bandeira
+- 1506104 — Primavera/PA — Brasão
+- 1506104 — Primavera/PA — Bandeira
+- 1506112 — Quatipuru/PA — Brasão
+- 1506112 — Quatipuru/PA — Bandeira
+- 1506138 — Redenção/PA — Brasão
+- 1506138 — Redenção/PA — Bandeira
+- 1506187 — Rondon do Pará/PA — Brasão
+- 1506187 — Rondon do Pará/PA — Bandeira
+- 1506195 — Rurópolis/PA — Bandeira
+- 1506203 — Salinópolis/PA — Brasão
+- 1506203 — Salinópolis/PA — Bandeira
+- 1506302 — Salvaterra/PA — Brasão
+- 1506302 — Salvaterra/PA — Bandeira
+- 1506351 — Santa Bárbara do Pará/PA — Brasão
+- 1506351 — Santa Bárbara do Pará/PA — Bandeira
+- 1506401 — Santa Cruz do Arari/PA — Bandeira
+- 1506500 — Santa Izabel do Pará/PA — Brasão
+- 1506500 — Santa Izabel do Pará/PA — Bandeira
+- 1506559 — Santa Luzia do Pará/PA — Bandeira
+- 1506609 — Santa Maria do Pará/PA — Brasão
+- 1506708 — Santana do Araguaia/PA — Brasão
+- 1506708 — Santana do Araguaia/PA — Bandeira
+- 1506807 — Santarém/PA — Brasão
+- 1506807 — Santarém/PA — Bandeira
+- 1507003 — Santo Antônio do Tauá/PA — Bandeira
+- 1507102 — São Caetano de Odivelas/PA — Brasão
+- 1507102 — São Caetano de Odivelas/PA — Bandeira
+- 1507151 — São Domingos do Araguaia/PA — Brasão
+- 1507151 — São Domingos do Araguaia/PA — Bandeira
+- 1507300 — São Félix do Xingu/PA — Brasão
+- 1507300 — São Félix do Xingu/PA — Bandeira
+- 1507458 — São Geraldo do Araguaia/PA — Brasão
+- 1507458 — São Geraldo do Araguaia/PA — Bandeira
+- 1507508 — São João do Araguaia/PA — Bandeira
+- 1507607 — São Miguel do Guamá/PA — Bandeira
+- 1507706 — São Sebastião da Boa Vista/PA — Bandeira
+- 1507805 — Senador José Porfírio/PA — Brasão
+- 1507805 — Senador José Porfírio/PA — Bandeira
+- 1507904 — Soure/PA — Brasão
+- 1507904 — Soure/PA — Bandeira
+- 1507953 — Tailândia/PA — Brasão
+- 1507953 — Tailândia/PA — Bandeira
+- 1507979 — Terra Santa/PA — Brasão
+- 1507979 — Terra Santa/PA — Bandeira
+- 1508001 — Tomé-Açu/PA — Brasão
+- 1508050 — Trairão/PA — Bandeira
+- 1508084 — Tucumã/PA — Brasão
+- 1508084 — Tucumã/PA — Bandeira
+- 1508100 — Tucuruí/PA — Brasão
+- 1508100 — Tucuruí/PA — Bandeira
+- 1508126 — Ulianópolis/PA — Brasão
+- 1508126 — Ulianópolis/PA — Bandeira
+- 1508159 — Uruará/PA — Brasão
+- 1508159 — Uruará/PA — Bandeira
+- 1508209 — Vigia/PA — Brasão
+- 1508209 — Vigia/PA — Bandeira
+- 1508308 — Viseu/PA — Brasão
+- 1508308 — Viseu/PA — Bandeira
+- 1508407 — Xinguara/PA — Bandeira
 - 1600055 — Serra do Navio/AP — Brasão
 - 1600055 — Serra do Navio/AP — Bandeira
 - 1600105 — Amapá/AP — Brasão
@@ -44,17 +472,8919 @@
 - 1600238 — Ferreira Gomes/AP — Bandeira
 - 1600253 — Itaubal/AP — Brasão
 - 1600253 — Itaubal/AP — Bandeira
+- 1600279 — Laranjal do Jari/AP — Brasão
 - 1600279 — Laranjal do Jari/AP — Bandeira
+- 1600303 — Macapá/AP — Brasão
 - 1600303 — Macapá/AP — Bandeira
+- 1600402 — Mazagão/AP — Brasão
 - 1600402 — Mazagão/AP — Bandeira
+- 1600501 — Oiapoque/AP — Brasão
 - 1600501 — Oiapoque/AP — Bandeira
+- 1600535 — Porto Grande/AP — Brasão
 - 1600535 — Porto Grande/AP — Bandeira
+- 1600600 — Santana/AP — Brasão
 - 1600600 — Santana/AP — Bandeira
+- 1600709 — Tartarugalzinho/AP — Brasão
 - 1600709 — Tartarugalzinho/AP — Bandeira
+- 1600808 — Vitória do Jari/AP — Brasão
 - 1600808 — Vitória do Jari/AP — Bandeira
+- 1700251 — Abreulândia/TO — Brasão
+- 1700251 — Abreulândia/TO — Bandeira
+- 1700707 — Alvorada/TO — Brasão
+- 1700707 — Alvorada/TO — Bandeira
+- 1701002 — Ananás/TO — Brasão
+- 1701002 — Ananás/TO — Bandeira
+- 1701051 — Angico/TO — Brasão
+- 1701051 — Angico/TO — Bandeira
+- 1701903 — Araguacema/TO — Bandeira
+- 1702109 — Araguaína/TO — Brasão
+- 1702109 — Araguaína/TO — Bandeira
+- 1702208 — Araguatins/TO — Brasão
+- 1702208 — Araguatins/TO — Bandeira
+- 1702307 — Arapoema/TO — Brasão
+- 1702307 — Arapoema/TO — Bandeira
+- 1702406 — Arraias/TO — Brasão
+- 1702406 — Arraias/TO — Bandeira
+- 1702554 — Augustinópolis/TO — Brasão
+- 1702554 — Augustinópolis/TO — Bandeira
+- 1702901 — Axixá do Tocantins/TO — Bandeira
+- 1703008 — Babaçulândia/TO — Brasão
+- 1703800 — Buriti do Tocantins/TO — Brasão
+- 1703800 — Buriti do Tocantins/TO — Bandeira
+- 1703826 — Cachoeirinha/TO — Brasão
+- 1703883 — Carmolândia/TO — Bandeira
+- 1705102 — Chapada da Natividade/TO — Brasão
+- 1705102 — Chapada da Natividade/TO — Bandeira
+- 1705508 — Colinas do Tocantins/TO — Bandeira
+- 1706001 — Couto Magalhães/TO — Brasão
+- 1706001 — Couto Magalhães/TO — Bandeira
+- 1707009 — Dianópolis/TO — Brasão
+- 1707009 — Dianópolis/TO — Bandeira
+- 1707108 — Divinópolis do Tocantins/TO — Brasão
+- 1707108 — Divinópolis do Tocantins/TO — Bandeira
+- 1707306 — Dueré/TO — Brasão
+- 1707306 — Dueré/TO — Bandeira
+- 1707405 — Esperantina/TO — Brasão
+- 1707405 — Esperantina/TO — Bandeira
+- 1707702 — Filadélfia/TO — Brasão
+- 1707702 — Filadélfia/TO — Bandeira
+- 1708205 — Formoso do Araguaia/TO — Brasão
+- 1708205 — Formoso do Araguaia/TO — Bandeira
+- 1709005 — Goiatins/TO — Brasão
+- 1709005 — Goiatins/TO — Bandeira
+- 1709302 — Guaraí/TO — Brasão
+- 1709302 — Guaraí/TO — Bandeira
+- 1709500 — Gurupi/TO — Brasão
+- 1709500 — Gurupi/TO — Bandeira
+- 1710508 — Itacajá/TO — Brasão
+- 1711902 — Lagoa da Confusão/TO — Bandeira
+- 1712009 — Lajeado/TO — Brasão
+- 1712009 — Lajeado/TO — Bandeira
+- 1712157 — Lavandeira/TO — Bandeira
+- 1712405 — Lizarda/TO — Brasão
+- 1712504 — Marianópolis do Tocantins/TO — Brasão
+- 1712504 — Marianópolis do Tocantins/TO — Bandeira
+- 1713205 — Miracema do Tocantins/TO — Brasão
+- 1713205 — Miracema do Tocantins/TO — Bandeira
+- 1713304 — Miranorte/TO — Brasão
+- 1713304 — Miranorte/TO — Bandeira
+- 1713700 — Monte Santo do Tocantins/TO — Brasão
+- 1713809 — Palmeiras do Tocantins/TO — Bandeira
+- 1714203 — Natividade/TO — Brasão
+- 1714203 — Natividade/TO — Bandeira
+- 1714880 — Nova Olinda/TO — Brasão
+- 1714880 — Nova Olinda/TO — Bandeira
+- 1715002 — Nova Rosalândia/TO — Bandeira
+- 1715150 — Novo Alegre/TO — Brasão
+- 1715150 — Novo Alegre/TO — Bandeira
+- 1715507 — Oliveira de Fátima/TO — Brasão
+- 1715507 — Oliveira de Fátima/TO — Bandeira
+- 1716109 — Paraíso do Tocantins/TO — Brasão
+- 1716109 — Paraíso do Tocantins/TO — Bandeira
+- 1716208 — Paranã/TO — Brasão
+- 1716208 — Paranã/TO — Bandeira
+- 1716505 — Pedro Afonso/TO — Brasão
+- 1716505 — Pedro Afonso/TO — Bandeira
+- 1716604 — Peixe/TO — Brasão
+- 1716604 — Peixe/TO — Bandeira
+- 1716703 — Colméia/TO — Brasão
+- 1716703 — Colméia/TO — Bandeira
+- 1718006 — Porto Alegre do Tocantins/TO — Bandeira
+- 1718204 — Porto Nacional/TO — Brasão
+- 1718204 — Porto Nacional/TO — Bandeira
+- 1718501 — Recursolândia/TO — Bandeira
+- 1718550 — Riachinho/TO — Brasão
+- 1718550 — Riachinho/TO — Bandeira
+- 1718758 — Rio Sono/TO — Brasão
+- 1718808 — Sampaio/TO — Bandeira
+- 1718865 — Santa Fé do Araguaia/TO — Brasão
+- 1718865 — Santa Fé do Araguaia/TO — Bandeira
+- 1718881 — Santa Maria do Tocantins/TO — Brasão
+- 1718881 — Santa Maria do Tocantins/TO — Bandeira
+- 1718907 — Santa Rosa do Tocantins/TO — Brasão
+- 1720002 — Santa Terezinha do Tocantins/TO — Bandeira
+- 1720101 — São Bento do Tocantins/TO — Brasão
+- 1720101 — São Bento do Tocantins/TO — Bandeira
+- 1720150 — São Félix do Tocantins/TO — Brasão
+- 1720150 — São Félix do Tocantins/TO — Bandeira
+- 1720200 — São Miguel do Tocantins/TO — Brasão
+- 1720200 — São Miguel do Tocantins/TO — Bandeira
+- 1720309 — São Sebastião do Tocantins/TO — Brasão
+- 1720655 — Silvanópolis/TO — Bandeira
+- 1720804 — Sítio Novo do Tocantins/TO — Brasão
+- 1720804 — Sítio Novo do Tocantins/TO — Bandeira
+- 1720903 — Taguatinga/TO — Brasão
+- 1720903 — Taguatinga/TO — Bandeira
+- 1720978 — Talismã/TO — Brasão
+- 1720978 — Talismã/TO — Bandeira
+- 1721000 — Palmas/TO — Brasão
+- 1721000 — Palmas/TO — Bandeira
+- 1721208 — Tocantinópolis/TO — Brasão
+- 1721208 — Tocantinópolis/TO — Bandeira
+- 1721257 — Tupirama/TO — Brasão
+- 1721257 — Tupirama/TO — Bandeira
+- 1722081 — Wanderlândia/TO — Brasão
+- 1722081 — Wanderlândia/TO — Bandeira
+- 1722107 — Xambioá/TO — Brasão
+- 1722107 — Xambioá/TO — Bandeira
+- 2100055 — Açailândia/MA — Brasão
+- 2100055 — Açailândia/MA — Bandeira
+- 2100204 — Alcântara/MA — Brasão
+- 2100204 — Alcântara/MA — Bandeira
+- 2100303 — Aldeias Altas/MA — Bandeira
+- 2100477 — Alto Alegre do Pindaré/MA — Brasão
+- 2100477 — Alto Alegre do Pindaré/MA — Bandeira
+- 2100501 — Alto Parnaíba/MA — Brasão
+- 2100501 — Alto Parnaíba/MA — Bandeira
+- 2100550 — Amapá do Maranhão/MA — Bandeira
+- 2100600 — Amarante do Maranhão/MA — Brasão
+- 2100600 — Amarante do Maranhão/MA — Bandeira
+- 2100832 — Apicum-Açu/MA — Brasão
+- 2100832 — Apicum-Açu/MA — Bandeira
+- 2100873 — Araguanã/MA — Bandeira
+- 2100907 — Araioses/MA — Brasão
+- 2100907 — Araioses/MA — Bandeira
+- 2100956 — Arame/MA — Brasão
+- 2100956 — Arame/MA — Bandeira
+- 2101004 — Arari/MA — Brasão
+- 2101004 — Arari/MA — Bandeira
+- 2101202 — Bacabal/MA — Brasão
+- 2101202 — Bacabal/MA — Bandeira
+- 2101251 — Bacabeira/MA — Brasão
+- 2101251 — Bacabeira/MA — Bandeira
+- 2101400 — Balsas/MA — Brasão
+- 2101400 — Balsas/MA — Bandeira
+- 2101509 — Barão de Grajaú/MA — Brasão
+- 2101509 — Barão de Grajaú/MA — Bandeira
+- 2101608 — Barra do Corda/MA — Brasão
+- 2101608 — Barra do Corda/MA — Bandeira
+- 2101772 — Bela Vista do Maranhão/MA — Bandeira
+- 2101806 — Benedito Leite/MA — Bandeira
+- 2101905 — Bequimão/MA — Brasão
+- 2101905 — Bequimão/MA — Bandeira
+- 2102002 — Bom Jardim/MA — Brasão
+- 2102002 — Bom Jardim/MA — Bandeira
+- 2102036 — Bom Jesus das Selvas/MA — Bandeira
+- 2102077 — Bom Lugar/MA — Brasão
+- 2102077 — Bom Lugar/MA — Bandeira
+- 2102101 — Brejo/MA — Bandeira
+- 2102200 — Buriti/MA — Brasão
+- 2102309 — Buriti Bravo/MA — Brasão
+- 2102309 — Buriti Bravo/MA — Bandeira
+- 2102325 — Buriticupu/MA — Brasão
+- 2102325 — Buriticupu/MA — Bandeira
+- 2102358 — Buritirana/MA — Bandeira
+- 2102507 — Cajari/MA — Bandeira
+- 2102556 — Campestre do Maranhão/MA — Brasão
+- 2102556 — Campestre do Maranhão/MA — Bandeira
+- 2102606 — Cândido Mendes/MA — Bandeira
+- 2102705 — Cantanhede/MA — Bandeira
+- 2102754 — Capinzal do Norte/MA — Bandeira
+- 2102804 — Carolina/MA — Brasão
+- 2102804 — Carolina/MA — Bandeira
+- 2102903 — Carutapera/MA — Bandeira
+- 2103000 — Caxias/MA — Brasão
+- 2103000 — Caxias/MA — Bandeira
+- 2103109 — Cedral/MA — Brasão
+- 2103109 — Cedral/MA — Bandeira
+- 2103125 — Central do Maranhão/MA — Brasão
+- 2103125 — Central do Maranhão/MA — Bandeira
+- 2103158 — Centro do Guilherme/MA — Brasão
+- 2103158 — Centro do Guilherme/MA — Bandeira
+- 2103174 — Centro Novo do Maranhão/MA — Brasão
+- 2103174 — Centro Novo do Maranhão/MA — Bandeira
+- 2103208 — Chapadinha/MA — Brasão
+- 2103208 — Chapadinha/MA — Bandeira
+- 2103257 — Cidelândia/MA — Brasão
+- 2103257 — Cidelândia/MA — Bandeira
+- 2103307 — Codó/MA — Brasão
+- 2103307 — Codó/MA — Bandeira
+- 2103406 — Coelho Neto/MA — Bandeira
+- 2103505 — Colinas/MA — Brasão
+- 2103505 — Colinas/MA — Bandeira
+- 2103554 — Conceição do Lago-Açu/MA — Brasão
+- 2103554 — Conceição do Lago-Açu/MA — Bandeira
+- 2103604 — Coroatá/MA — Brasão
+- 2103604 — Coroatá/MA — Bandeira
+- 2103703 — Cururupu/MA — Brasão
+- 2103703 — Cururupu/MA — Bandeira
+- 2103752 — Davinópolis/MA — Brasão
+- 2103752 — Davinópolis/MA — Bandeira
+- 2103802 — Dom Pedro/MA — Bandeira
+- 2104008 — Esperantinópolis/MA — Brasão
+- 2104008 — Esperantinópolis/MA — Bandeira
+- 2104057 — Estreito/MA — Brasão
+- 2104057 — Estreito/MA — Bandeira
+- 2104081 — Fernando Falcão/MA — Brasão
+- 2104081 — Fernando Falcão/MA — Bandeira
+- 2104206 — Fortuna/MA — Brasão
+- 2104206 — Fortuna/MA — Bandeira
+- 2104404 — Gonçalves Dias/MA — Brasão
+- 2104404 — Gonçalves Dias/MA — Bandeira
+- 2104552 — Governador Edison Lobão/MA — Brasão
+- 2104552 — Governador Edison Lobão/MA — Bandeira
+- 2104628 — Governador Luiz Rocha/MA — Brasão
+- 2104651 — Governador Newton Bello/MA — Bandeira
+- 2104677 — Governador Nunes Freire/MA — Bandeira
+- 2104800 — Grajaú/MA — Brasão
+- 2104800 — Grajaú/MA — Bandeira
+- 2104909 — Guimarães/MA — Bandeira
+- 2105005 — Humberto de Campos/MA — Brasão
+- 2105005 — Humberto de Campos/MA — Bandeira
+- 2105104 — Icatu/MA — Brasão
+- 2105104 — Icatu/MA — Bandeira
+- 2105153 — Igarapé do Meio/MA — Bandeira
+- 2105302 — Imperatriz/MA — Brasão
+- 2105302 — Imperatriz/MA — Bandeira
+- 2105401 — Itapecuru Mirim/MA — Bandeira
+- 2105427 — Itinga do Maranhão/MA — Brasão
+- 2105427 — Itinga do Maranhão/MA — Bandeira
+- 2105450 — Jatobá/MA — Brasão
+- 2105450 — Jatobá/MA — Bandeira
+- 2105500 — João Lisboa/MA — Bandeira
+- 2105609 — Joselândia/MA — Bandeira
+- 2105708 — Lago da Pedra/MA — Brasão
+- 2105708 — Lago da Pedra/MA — Bandeira
+- 2105922 — Lagoa do Mato/MA — Brasão
+- 2105922 — Lagoa do Mato/MA — Bandeira
+- 2106003 — Lima Campos/MA — Brasão
+- 2106003 — Lima Campos/MA — Bandeira
+- 2106201 — Luís Domingues/MA — Bandeira
+- 2106326 — Maracaçumé/MA — Bandeira
+- 2106359 — Marajá do Sena/MA — Brasão
+- 2106359 — Marajá do Sena/MA — Bandeira
+- 2106375 — Maranhãozinho/MA — Brasão
+- 2106375 — Maranhãozinho/MA — Bandeira
+- 2106409 — Mata Roma/MA — Bandeira
+- 2106508 — Matinha/MA — Bandeira
+- 2106607 — Matões/MA — Bandeira
+- 2106706 — Mirador/MA — Brasão
+- 2106706 — Mirador/MA — Bandeira
+- 2106755 — Miranda do Norte/MA — Brasão
+- 2106755 — Miranda do Norte/MA — Bandeira
+- 2106805 — Mirinzal/MA — Bandeira
+- 2106904 — Monção/MA — Brasão
+- 2106904 — Monção/MA — Bandeira
+- 2107209 — Nina Rodrigues/MA — Bandeira
+- 2107308 — Nova Iorque/MA — Brasão
+- 2107308 — Nova Iorque/MA — Bandeira
+- 2107357 — Nova Olinda do Maranhão/MA — Bandeira
+- 2107456 — Olinda Nova do Maranhão/MA — Brasão
+- 2107506 — Paço do Lumiar/MA — Bandeira
+- 2107605 — Palmeirândia/MA — Brasão
+- 2107605 — Palmeirândia/MA — Bandeira
+- 2107704 — Paraibano/MA — Brasão
+- 2107704 — Paraibano/MA — Bandeira
+- 2107803 — Parnarama/MA — Bandeira
+- 2107902 — Passagem Franca/MA — Brasão
+- 2107902 — Passagem Franca/MA — Bandeira
+- 2108009 — Pastos Bons/MA — Brasão
+- 2108009 — Pastos Bons/MA — Bandeira
+- 2108058 — Paulino Neves/MA — Brasão
+- 2108108 — Paulo Ramos/MA — Brasão
+- 2108108 — Paulo Ramos/MA — Bandeira
+- 2108207 — Pedreiras/MA — Brasão
+- 2108207 — Pedreiras/MA — Bandeira
+- 2108306 — Penalva/MA — Bandeira
+- 2108405 — Peri Mirim/MA — Brasão
+- 2108405 — Peri Mirim/MA — Bandeira
+- 2108454 — Peritoró/MA — Brasão
+- 2108454 — Peritoró/MA — Bandeira
+- 2108504 — Pindaré-Mirim/MA — Brasão
+- 2108603 — Pinheiro/MA — Brasão
+- 2108603 — Pinheiro/MA — Bandeira
+- 2108702 — Pio XII/MA — Bandeira
+- 2109007 — Porto Franco/MA — Brasão
+- 2109007 — Porto Franco/MA — Bandeira
+- 2109056 — Porto Rico do Maranhão/MA — Brasão
+- 2109056 — Porto Rico do Maranhão/MA — Bandeira
+- 2109106 — Presidente Dutra/MA — Bandeira
+- 2109239 — Presidente Médici/MA — Bandeira
+- 2109304 — Presidente Vargas/MA — Brasão
+- 2109304 — Presidente Vargas/MA — Bandeira
+- 2109403 — Primeira Cruz/MA — Brasão
+- 2109403 — Primeira Cruz/MA — Bandeira
+- 2109452 — Raposa/MA — Brasão
+- 2109502 — Riachão/MA — Brasão
+- 2109502 — Riachão/MA — Bandeira
+- 2109601 — Rosário/MA — Brasão
+- 2109601 — Rosário/MA — Bandeira
+- 2109759 — Santa Filomena do Maranhão/MA — Brasão
+- 2109759 — Santa Filomena do Maranhão/MA — Bandeira
+- 2109809 — Santa Helena/MA — Bandeira
+- 2109908 — Santa Inês/MA — Brasão
+- 2109908 — Santa Inês/MA — Bandeira
+- 2110005 — Santa Luzia/MA — Bandeira
+- 2110203 — Santa Rita/MA — Bandeira
+- 2110401 — São Benedito do Rio Preto/MA — Bandeira
+- 2110500 — São Bento/MA — Bandeira
+- 2110609 — São Bernardo/MA — Bandeira
+- 2110658 — São Domingos do Azeitão/MA — Brasão
+- 2110708 — São Domingos do Maranhão/MA — Brasão
+- 2110708 — São Domingos do Maranhão/MA — Bandeira
+- 2111102 — São João dos Patos/MA — Brasão
+- 2111102 — São João dos Patos/MA — Bandeira
+- 2111201 — São José de Ribamar/MA — Brasão
+- 2111201 — São José de Ribamar/MA — Bandeira
+- 2111250 — São José dos Basílios/MA — Brasão
+- 2111250 — São José dos Basílios/MA — Bandeira
+- 2111300 — São Luís/MA — Bandeira
+- 2111607 — São Raimundo das Mangabeiras/MA — Brasão
+- 2111607 — São Raimundo das Mangabeiras/MA — Bandeira
+- 2111672 — São Roberto/MA — Bandeira
+- 2111706 — São Vicente Ferrer/MA — Bandeira
+- 2111722 — Satubinha/MA — Brasão
+- 2111722 — Satubinha/MA — Bandeira
+- 2111763 — Senador La Rocque/MA — Brasão
+- 2111763 — Senador La Rocque/MA — Bandeira
+- 2111904 — Sucupira do Norte/MA — Brasão
+- 2111904 — Sucupira do Norte/MA — Bandeira
+- 2111953 — Sucupira do Riachão/MA — Brasão
+- 2111953 — Sucupira do Riachão/MA — Bandeira
+- 2112001 — Tasso Fragoso/MA — Bandeira
+- 2112100 — Timbiras/MA — Brasão
+- 2112100 — Timbiras/MA — Bandeira
+- 2112209 — Timon/MA — Brasão
+- 2112233 — Trizidela do Vale/MA — Bandeira
+- 2112308 — Tuntum/MA — Bandeira
+- 2112407 — Turiaçu/MA — Brasão
+- 2112407 — Turiaçu/MA — Bandeira
+- 2112456 — Turilândia/MA — Brasão
+- 2112456 — Turilândia/MA — Bandeira
+- 2112506 — Tutóia/MA — Brasão
+- 2112506 — Tutóia/MA — Bandeira
+- 2112605 — Urbano Santos/MA — Brasão
+- 2112605 — Urbano Santos/MA — Bandeira
+- 2112704 — Vargem Grande/MA — Brasão
+- 2112704 — Vargem Grande/MA — Bandeira
+- 2112803 — Viana/MA — Brasão
+- 2112803 — Viana/MA — Bandeira
+- 2112902 — Vitória do Mearim/MA — Brasão
+- 2112902 — Vitória do Mearim/MA — Bandeira
+- 2113009 — Vitorino Freire/MA — Bandeira
+- 2114007 — Zé Doca/MA — Brasão
+- 2114007 — Zé Doca/MA — Bandeira
+- 2200053 — Acauã/PI — Brasão
+- 2200053 — Acauã/PI — Bandeira
+- 2200103 — Agricolândia/PI — Brasão
+- 2200103 — Agricolândia/PI — Bandeira
+- 2200251 — Alagoinha do Piauí/PI — Bandeira
+- 2200400 — Altos/PI — Brasão
+- 2200400 — Altos/PI — Bandeira
+- 2200459 — Alvorada do Gurguéia/PI — Brasão
+- 2200459 — Alvorada do Gurguéia/PI — Bandeira
+- 2200608 — Angical do Piauí/PI — Bandeira
+- 2200806 — Antônio Almeida/PI — Brasão
+- 2200806 — Antônio Almeida/PI — Bandeira
+- 2200905 — Aroazes/PI — Brasão
+- 2200905 — Aroazes/PI — Bandeira
+- 2200954 — Aroeiras do Itaim/PI — Bandeira
+- 2201002 — Arraial/PI — Brasão
+- 2201051 — Assunção do Piauí/PI — Bandeira
+- 2201101 — Avelino Lopes/PI — Brasão
+- 2201101 — Avelino Lopes/PI — Bandeira
+- 2201150 — Baixa Grande do Ribeiro/PI — Brasão
+- 2201150 — Baixa Grande do Ribeiro/PI — Bandeira
+- 2201200 — Barras/PI — Brasão
+- 2201200 — Barras/PI — Bandeira
+- 2201408 — Barro Duro/PI — Brasão
+- 2201507 — Batalha/PI — Brasão
+- 2201507 — Batalha/PI — Bandeira
+- 2201606 — Beneditinos/PI — Bandeira
+- 2201705 — Bertolínia/PI — Brasão
+- 2201770 — Boa Hora/PI — Brasão
+- 2201770 — Boa Hora/PI — Bandeira
+- 2201903 — Bom Jesus/PI — Brasão
+- 2201903 — Bom Jesus/PI — Bandeira
+- 2201960 — Brasileira/PI — Brasão
+- 2201960 — Brasileira/PI — Bandeira
+- 2201988 — Brejo do Piauí/PI — Bandeira
+- 2202026 — Buriti dos Montes/PI — Brasão
+- 2202059 — Cabeceiras do Piauí/PI — Brasão
+- 2202059 — Cabeceiras do Piauí/PI — Bandeira
+- 2202075 — Cajazeiras do Piauí/PI — Brasão
+- 2202075 — Cajazeiras do Piauí/PI — Bandeira
+- 2202208 — Campo Maior/PI — Bandeira
+- 2202307 — Canto do Buriti/PI — Brasão
+- 2202307 — Canto do Buriti/PI — Bandeira
+- 2202604 — Castelo do Piauí/PI — Brasão
+- 2202604 — Castelo do Piauí/PI — Bandeira
+- 2202703 — Cocal/PI — Brasão
+- 2202703 — Cocal/PI — Bandeira
+- 2202711 — Cocal de Telha/PI — Bandeira
+- 2202752 — Colônia do Gurguéia/PI — Brasão
+- 2202901 — Corrente/PI — Brasão
+- 2202901 — Corrente/PI — Bandeira
+- 2203107 — Cristino Castro/PI — Brasão
+- 2203107 — Cristino Castro/PI — Bandeira
+- 2203206 — Curimatá/PI — Brasão
+- 2203230 — Currais/PI — Brasão
+- 2203230 — Currais/PI — Bandeira
+- 2203354 — Dirceu Arcoverde/PI — Brasão
+- 2203354 — Dirceu Arcoverde/PI — Bandeira
+- 2203404 — Dom Expedito Lopes/PI — Brasão
+- 2203404 — Dom Expedito Lopes/PI — Bandeira
+- 2203503 — Elesbão Veloso/PI — Bandeira
+- 2203701 — Esperantina/PI — Brasão
+- 2203701 — Esperantina/PI — Bandeira
+- 2203859 — Floresta do Piauí/PI — Brasão
+- 2203859 — Floresta do Piauí/PI — Bandeira
+- 2203909 — Floriano/PI — Brasão
+- 2203909 — Floriano/PI — Bandeira
+- 2204105 — Francisco Ayres/PI — Bandeira
+- 2204154 — Francisco Macedo/PI — Brasão
+- 2204154 — Francisco Macedo/PI — Bandeira
+- 2204303 — Fronteiras/PI — Brasão
+- 2204303 — Fronteiras/PI — Bandeira
+- 2204402 — Gilbués/PI — Bandeira
+- 2204501 — Guadalupe/PI — Brasão
+- 2204501 — Guadalupe/PI — Bandeira
+- 2204550 — Guaribas/PI — Brasão
+- 2204550 — Guaribas/PI — Bandeira
+- 2204600 — Hugo Napoleão/PI — Bandeira
+- 2204808 — Ipiranga do Piauí/PI — Brasão
+- 2205102 — Itaueira/PI — Bandeira
+- 2205151 — Jacobina do Piauí/PI — Brasão
+- 2205151 — Jacobina do Piauí/PI — Bandeira
+- 2205201 — Jaicós/PI — Bandeira
+- 2205276 — Jatobá do Piauí/PI — Bandeira
+- 2205409 — Joaquim Pires/PI — Brasão
+- 2205409 — Joaquim Pires/PI — Bandeira
+- 2205458 — Joca Marques/PI — Brasão
+- 2205458 — Joca Marques/PI — Bandeira
+- 2205508 — José de Freitas/PI — Bandeira
+- 2205565 — Lagoa do Barro do Piauí/PI — Bandeira
+- 2205706 — Luís Correia/PI — Bandeira
+- 2205805 — Luzilândia/PI — Brasão
+- 2205805 — Luzilândia/PI — Bandeira
+- 2205854 — Madeiro/PI — Bandeira
+- 2205904 — Manoel Emídio/PI — Brasão
+- 2205904 — Manoel Emídio/PI — Bandeira
+- 2206100 — Matias Olímpio/PI — Bandeira
+- 2206209 — Miguel Alves/PI — Brasão
+- 2206308 — Miguel Leão/PI — Brasão
+- 2206407 — Monsenhor Gil/PI — Brasão
+- 2206407 — Monsenhor Gil/PI — Bandeira
+- 2206696 — Murici dos Portelas/PI — Bandeira
+- 2206704 — Nazaré do Piauí/PI — Bandeira
+- 2206720 — Nazária/PI — Brasão
+- 2206803 — Nossa Senhora dos Remédios/PI — Brasão
+- 2206803 — Nossa Senhora dos Remédios/PI — Bandeira
+- 2207009 — Oeiras/PI — Bandeira
+- 2207207 — Padre Marcos/PI — Brasão
+- 2207306 — Paes Landim/PI — Brasão
+- 2207306 — Paes Landim/PI — Bandeira
+- 2207355 — Pajeú do Piauí/PI — Brasão
+- 2207405 — Palmeira do Piauí/PI — Brasão
+- 2207405 — Palmeira do Piauí/PI — Bandeira
+- 2207504 — Palmeirais/PI — Brasão
+- 2207504 — Palmeirais/PI — Bandeira
+- 2207702 — Parnaíba/PI — Brasão
+- 2207702 — Parnaíba/PI — Bandeira
+- 2207801 — Paulistana/PI — Brasão
+- 2207801 — Paulistana/PI — Bandeira
+- 2207900 — Pedro II/PI — Brasão
+- 2207900 — Pedro II/PI — Bandeira
+- 2207934 — Pedro Laurentino/PI — Brasão
+- 2208007 — Picos/PI — Brasão
+- 2208007 — Picos/PI — Bandeira
+- 2208106 — Pimenteiras/PI — Bandeira
+- 2208205 — Pio IX/PI — Brasão
+- 2208205 — Pio IX/PI — Bandeira
+- 2208304 — Piracuruca/PI — Brasão
+- 2208304 — Piracuruca/PI — Bandeira
+- 2208403 — Piripiri/PI — Brasão
+- 2208403 — Piripiri/PI — Bandeira
+- 2208502 — Porto/PI — Brasão
+- 2208502 — Porto/PI — Bandeira
+- 2208650 — Queimada Nova/PI — Brasão
+- 2208650 — Queimada Nova/PI — Bandeira
+- 2208809 — Regeneração/PI — Brasão
+- 2208858 — Riacho Frio/PI — Bandeira
+- 2209153 — Santa Cruz dos Milagres/PI — Bandeira
+- 2209377 — Santa Rosa do Piauí/PI — Bandeira
+- 2209401 — Santo Antônio de Lisboa/PI — Brasão
+- 2209401 — Santo Antônio de Lisboa/PI — Bandeira
+- 2209450 — Santo Antônio dos Milagres/PI — Bandeira
+- 2209500 — Santo Inácio do Piauí/PI — Bandeira
+- 2209609 — São Félix do Piauí/PI — Bandeira
+- 2209708 — São Francisco do Piauí/PI — Bandeira
+- 2209856 — São João da Canabrava/PI — Brasão
+- 2209856 — São João da Canabrava/PI — Bandeira
+- 2209906 — São João da Serra/PI — Brasão
+- 2209906 — São João da Serra/PI — Bandeira
+- 2209955 — São João da Varjota/PI — Brasão
+- 2209955 — São João da Varjota/PI — Bandeira
+- 2209971 — São João do Arraial/PI — Brasão
+- 2209971 — São João do Arraial/PI — Bandeira
+- 2210003 — São João do Piauí/PI — Brasão
+- 2210003 — São João do Piauí/PI — Bandeira
+- 2210052 — São José do Divino/PI — Bandeira
+- 2210102 — São José do Peixe/PI — Bandeira
+- 2210359 — São Lourenço do Piauí/PI — Bandeira
+- 2210375 — São Luis do Piauí/PI — Bandeira
+- 2210391 — São Miguel do Fidalgo/PI — Brasão
+- 2210409 — São Miguel do Tapuio/PI — Brasão
+- 2210508 — São Pedro do Piauí/PI — Brasão
+- 2210508 — São Pedro do Piauí/PI — Bandeira
+- 2210607 — São Raimundo Nonato/PI — Bandeira
+- 2210623 — Sebastião Barros/PI — Brasão
+- 2210623 — Sebastião Barros/PI — Bandeira
+- 2210656 — Sigefredo Pacheco/PI — Bandeira
+- 2210706 — Simões/PI — Bandeira
+- 2210805 — Simplício Mendes/PI — Bandeira
+- 2210904 — Socorro do Piauí/PI — Brasão
+- 2211001 — Teresina/PI — Brasão
+- 2211001 — Teresina/PI — Bandeira
+- 2211100 — União/PI — Brasão
+- 2211100 — União/PI — Bandeira
+- 2211308 — Valença do Piauí/PI — Brasão
+- 2211506 — Vera Mendes/PI — Brasão
+- 2211506 — Vera Mendes/PI — Bandeira
+- 2300101 — Abaiara/CE — Brasão
+- 2300101 — Abaiara/CE — Bandeira
+- 2300150 — Acarape/CE — Brasão
+- 2300200 — Acaraú/CE — Brasão
+- 2300200 — Acaraú/CE — Bandeira
+- 2300309 — Acopiara/CE — Brasão
+- 2300309 — Acopiara/CE — Bandeira
+- 2300408 — Aiuaba/CE — Bandeira
+- 2300507 — Alcântaras/CE — Brasão
+- 2300507 — Alcântaras/CE — Bandeira
+- 2300705 — Alto Santo/CE — Brasão
+- 2300705 — Alto Santo/CE — Bandeira
+- 2300754 — Amontada/CE — Brasão
+- 2300754 — Amontada/CE — Bandeira
+- 2300903 — Apuiarés/CE — Brasão
+- 2300903 — Apuiarés/CE — Bandeira
+- 2301000 — Aquiraz/CE — Brasão
+- 2301000 — Aquiraz/CE — Bandeira
+- 2301109 — Aracati/CE — Brasão
+- 2301109 — Aracati/CE — Bandeira
+- 2301208 — Aracoiaba/CE — Brasão
+- 2301257 — Ararendá/CE — Brasão
+- 2301257 — Ararendá/CE — Bandeira
+- 2301307 — Araripe/CE — Bandeira
+- 2301406 — Aratuba/CE — Brasão
+- 2301406 — Aratuba/CE — Bandeira
+- 2301505 — Arneiroz/CE — Brasão
+- 2301505 — Arneiroz/CE — Bandeira
+- 2301703 — Aurora/CE — Bandeira
+- 2301802 — Baixio/CE — Bandeira
+- 2301851 — Banabuiú/CE — Brasão
+- 2301851 — Banabuiú/CE — Bandeira
+- 2301901 — Barbalha/CE — Brasão
+- 2301901 — Barbalha/CE — Bandeira
+- 2301950 — Barreira/CE — Brasão
+- 2301950 — Barreira/CE — Bandeira
+- 2302008 — Barro/CE — Brasão
+- 2302008 — Barro/CE — Bandeira
+- 2302107 — Baturité/CE — Brasão
+- 2302107 — Baturité/CE — Bandeira
+- 2302206 — Beberibe/CE — Brasão
+- 2302206 — Beberibe/CE — Bandeira
+- 2302305 — Bela Cruz/CE — Brasão
+- 2302404 — Boa Viagem/CE — Brasão
+- 2302404 — Boa Viagem/CE — Bandeira
+- 2302503 — Brejo Santo/CE — Brasão
+- 2302503 — Brejo Santo/CE — Bandeira
+- 2302602 — Camocim/CE — Brasão
+- 2302602 — Camocim/CE — Bandeira
+- 2302701 — Campos Sales/CE — Brasão
+- 2302701 — Campos Sales/CE — Bandeira
+- 2302800 — Canindé/CE — Brasão
+- 2302800 — Canindé/CE — Bandeira
+- 2302909 — Capistrano/CE — Brasão
+- 2302909 — Capistrano/CE — Bandeira
+- 2303105 — Cariré/CE — Brasão
+- 2303105 — Cariré/CE — Bandeira
+- 2303204 — Caririaçu/CE — Brasão
+- 2303204 — Caririaçu/CE — Bandeira
+- 2303303 — Cariús/CE — Brasão
+- 2303303 — Cariús/CE — Bandeira
+- 2303402 — Carnaubal/CE — Brasão
+- 2303402 — Carnaubal/CE — Bandeira
+- 2303501 — Cascavel/CE — Brasão
+- 2303501 — Cascavel/CE — Bandeira
+- 2303600 — Catarina/CE — Brasão
+- 2303600 — Catarina/CE — Bandeira
+- 2303659 — Catunda/CE — Brasão
+- 2303659 — Catunda/CE — Bandeira
+- 2303709 — Caucaia/CE — Brasão
+- 2303709 — Caucaia/CE — Bandeira
+- 2303808 — Cedro/CE — Brasão
+- 2303808 — Cedro/CE — Bandeira
+- 2303907 — Chaval/CE — Brasão
+- 2303907 — Chaval/CE — Bandeira
+- 2304004 — Coreaú/CE — Brasão
+- 2304004 — Coreaú/CE — Bandeira
+- 2304103 — Crateús/CE — Brasão
+- 2304103 — Crateús/CE — Bandeira
+- 2304202 — Crato/CE — Brasão
+- 2304202 — Crato/CE — Bandeira
+- 2304236 — Croatá/CE — Brasão
+- 2304236 — Croatá/CE — Bandeira
+- 2304251 — Cruz/CE — Brasão
+- 2304251 — Cruz/CE — Bandeira
+- 2304269 — Deputado Irapuan Pinheiro/CE — Brasão
+- 2304269 — Deputado Irapuan Pinheiro/CE — Bandeira
+- 2304277 — Ereré/CE — Brasão
+- 2304277 — Ereré/CE — Bandeira
+- 2304301 — Farias Brito/CE — Brasão
+- 2304301 — Farias Brito/CE — Bandeira
+- 2304350 — Forquilha/CE — Brasão
+- 2304350 — Forquilha/CE — Bandeira
+- 2304400 — Fortaleza/CE — Brasão
+- 2304459 — Fortim/CE — Brasão
+- 2304459 — Fortim/CE — Bandeira
+- 2304509 — Frecheirinha/CE — Brasão
+- 2304509 — Frecheirinha/CE — Bandeira
+- 2304608 — General Sampaio/CE — Bandeira
+- 2304657 — Graça/CE — Brasão
+- 2304657 — Graça/CE — Bandeira
+- 2304707 — Granja/CE — Brasão
+- 2304707 — Granja/CE — Bandeira
+- 2304806 — Granjeiro/CE — Brasão
+- 2304806 — Granjeiro/CE — Bandeira
+- 2304905 — Groaíras/CE — Brasão
+- 2304905 — Groaíras/CE — Bandeira
+- 2304954 — Guaiúba/CE — Bandeira
+- 2305001 — Guaraciaba do Norte/CE — Brasão
+- 2305001 — Guaraciaba do Norte/CE — Bandeira
+- 2305209 — Hidrolândia/CE — Brasão
+- 2305233 — Horizonte/CE — Brasão
+- 2305233 — Horizonte/CE — Bandeira
+- 2305266 — Ibaretama/CE — Brasão
+- 2305266 — Ibaretama/CE — Bandeira
+- 2305308 — Ibiapina/CE — Brasão
+- 2305357 — Icapuí/CE — Brasão
+- 2305357 — Icapuí/CE — Bandeira
+- 2305407 — Icó/CE — Brasão
+- 2305407 — Icó/CE — Bandeira
+- 2305506 — Iguatu/CE — Brasão
+- 2305506 — Iguatu/CE — Bandeira
+- 2305605 — Independência/CE — Brasão
+- 2305605 — Independência/CE — Bandeira
+- 2305704 — Ipaumirim/CE — Brasão
+- 2305704 — Ipaumirim/CE — Bandeira
+- 2305803 — Ipu/CE — Bandeira
+- 2305902 — Ipueiras/CE — Brasão
+- 2305902 — Ipueiras/CE — Bandeira
+- 2306108 — Irauçuba/CE — Brasão
+- 2306207 — Itaiçaba/CE — Brasão
+- 2306207 — Itaiçaba/CE — Bandeira
+- 2306256 — Itaitinga/CE — Brasão
+- 2306256 — Itaitinga/CE — Bandeira
+- 2306306 — Itapajé/CE — Brasão
+- 2306306 — Itapajé/CE — Bandeira
+- 2306405 — Itapipoca/CE — Brasão
+- 2306405 — Itapipoca/CE — Bandeira
+- 2306504 — Itapiúna/CE — Brasão
+- 2306504 — Itapiúna/CE — Bandeira
+- 2306553 — Itarema/CE — Bandeira
+- 2306603 — Itatira/CE — Brasão
+- 2306603 — Itatira/CE — Bandeira
+- 2306702 — Jaguaretama/CE — Brasão
+- 2306702 — Jaguaretama/CE — Bandeira
+- 2306801 — Jaguaribara/CE — Brasão
+- 2306801 — Jaguaribara/CE — Bandeira
+- 2306900 — Jaguaribe/CE — Bandeira
+- 2307007 — Jaguaruana/CE — Brasão
+- 2307106 — Jardim/CE — Brasão
+- 2307106 — Jardim/CE — Bandeira
+- 2307205 — Jati/CE — Bandeira
+- 2307254 — Jijoca de Jericoacoara/CE — Brasão
+- 2307254 — Jijoca de Jericoacoara/CE — Bandeira
+- 2307304 — Juazeiro do Norte/CE — Brasão
+- 2307304 — Juazeiro do Norte/CE — Bandeira
+- 2307403 — Jucás/CE — Brasão
+- 2307403 — Jucás/CE — Bandeira
+- 2307502 — Lavras da Mangabeira/CE — Brasão
+- 2307502 — Lavras da Mangabeira/CE — Bandeira
+- 2307601 — Limoeiro do Norte/CE — Brasão
+- 2307601 — Limoeiro do Norte/CE — Bandeira
+- 2307635 — Madalena/CE — Brasão
+- 2307635 — Madalena/CE — Bandeira
+- 2307650 — Maracanaú/CE — Brasão
+- 2307650 — Maracanaú/CE — Bandeira
+- 2307700 — Maranguape/CE — Brasão
+- 2307700 — Maranguape/CE — Bandeira
+- 2307809 — Marco/CE — Brasão
+- 2307809 — Marco/CE — Bandeira
+- 2307908 — Martinópole/CE — Brasão
+- 2307908 — Martinópole/CE — Bandeira
+- 2308005 — Massapê/CE — Brasão
+- 2308005 — Massapê/CE — Bandeira
+- 2308104 — Mauriti/CE — Brasão
+- 2308104 — Mauriti/CE — Bandeira
+- 2308203 — Meruoca/CE — Brasão
+- 2308203 — Meruoca/CE — Bandeira
+- 2308302 — Milagres/CE — Brasão
+- 2308302 — Milagres/CE — Bandeira
+- 2308351 — Milhã/CE — Brasão
+- 2308377 — Miraíma/CE — Brasão
+- 2308377 — Miraíma/CE — Bandeira
+- 2308401 — Missão Velha/CE — Brasão
+- 2308401 — Missão Velha/CE — Bandeira
+- 2308500 — Mombaça/CE — Brasão
+- 2308500 — Mombaça/CE — Bandeira
+- 2308609 — Monsenhor Tabosa/CE — Brasão
+- 2308609 — Monsenhor Tabosa/CE — Bandeira
+- 2308708 — Morada Nova/CE — Brasão
+- 2308708 — Morada Nova/CE — Bandeira
+- 2308807 — Moraújo/CE — Brasão
+- 2308807 — Moraújo/CE — Bandeira
+- 2308906 — Morrinhos/CE — Brasão
+- 2308906 — Morrinhos/CE — Bandeira
+- 2309003 — Mucambo/CE — Brasão
+- 2309003 — Mucambo/CE — Bandeira
+- 2309102 — Mulungu/CE — Brasão
+- 2309102 — Mulungu/CE — Bandeira
+- 2309300 — Nova Russas/CE — Brasão
+- 2309300 — Nova Russas/CE — Bandeira
+- 2309409 — Novo Oriente/CE — Bandeira
+- 2309458 — Ocara/CE — Brasão
+- 2309458 — Ocara/CE — Bandeira
+- 2309508 — Orós/CE — Brasão
+- 2309508 — Orós/CE — Bandeira
+- 2309607 — Pacajus/CE — Brasão
+- 2309607 — Pacajus/CE — Bandeira
+- 2309706 — Pacatuba/CE — Brasão
+- 2309706 — Pacatuba/CE — Bandeira
+- 2309805 — Pacoti/CE — Brasão
+- 2309805 — Pacoti/CE — Bandeira
+- 2309904 — Pacujá/CE — Brasão
+- 2309904 — Pacujá/CE — Bandeira
+- 2310001 — Palhano/CE — Brasão
+- 2310001 — Palhano/CE — Bandeira
+- 2310100 — Palmácia/CE — Brasão
+- 2310100 — Palmácia/CE — Bandeira
+- 2310209 — Paracuru/CE — Brasão
+- 2310209 — Paracuru/CE — Bandeira
+- 2310258 — Paraipaba/CE — Brasão
+- 2310258 — Paraipaba/CE — Bandeira
+- 2310308 — Parambu/CE — Brasão
+- 2310308 — Parambu/CE — Bandeira
+- 2310407 — Paramoti/CE — Brasão
+- 2310407 — Paramoti/CE — Bandeira
+- 2310506 — Pedra Branca/CE — Brasão
+- 2310605 — Penaforte/CE — Brasão
+- 2310605 — Penaforte/CE — Bandeira
+- 2310704 — Pentecoste/CE — Brasão
+- 2310704 — Pentecoste/CE — Bandeira
+- 2310803 — Pereiro/CE — Brasão
+- 2310803 — Pereiro/CE — Bandeira
+- 2310852 — Pindoretama/CE — Brasão
+- 2310852 — Pindoretama/CE — Bandeira
+- 2310902 — Piquet Carneiro/CE — Bandeira
+- 2310951 — Pires Ferreira/CE — Bandeira
+- 2311009 — Poranga/CE — Brasão
+- 2311009 — Poranga/CE — Bandeira
+- 2311108 — Porteiras/CE — Brasão
+- 2311108 — Porteiras/CE — Bandeira
+- 2311231 — Potiretama/CE — Bandeira
+- 2311264 — Quiterianópolis/CE — Brasão
+- 2311264 — Quiterianópolis/CE — Bandeira
+- 2311306 — Quixadá/CE — Brasão
+- 2311306 — Quixadá/CE — Bandeira
+- 2311355 — Quixelô/CE — Brasão
+- 2311355 — Quixelô/CE — Bandeira
+- 2311405 — Quixeramobim/CE — Brasão
+- 2311504 — Quixeré/CE — Bandeira
+- 2311603 — Redenção/CE — Brasão
+- 2311603 — Redenção/CE — Bandeira
+- 2311702 — Reriutaba/CE — Brasão
+- 2311702 — Reriutaba/CE — Bandeira
+- 2311801 — Russas/CE — Brasão
+- 2311801 — Russas/CE — Bandeira
+- 2311900 — Saboeiro/CE — Brasão
+- 2311900 — Saboeiro/CE — Bandeira
+- 2312007 — Santana do Acaraú/CE — Brasão
+- 2312007 — Santana do Acaraú/CE — Bandeira
+- 2312106 — Santana do Cariri/CE — Bandeira
+- 2312205 — Santa Quitéria/CE — Brasão
+- 2312205 — Santa Quitéria/CE — Bandeira
+- 2312304 — São Benedito/CE — Brasão
+- 2312304 — São Benedito/CE — Bandeira
+- 2312403 — São Gonçalo do Amarante/CE — Brasão
+- 2312403 — São Gonçalo do Amarante/CE — Bandeira
+- 2312502 — São João do Jaguaribe/CE — Brasão
+- 2312502 — São João do Jaguaribe/CE — Bandeira
+- 2312601 — São Luís do Curu/CE — Brasão
+- 2312601 — São Luís do Curu/CE — Bandeira
+- 2312700 — Senador Pompeu/CE — Brasão
+- 2312700 — Senador Pompeu/CE — Bandeira
+- 2312809 — Senador Sá/CE — Brasão
+- 2312809 — Senador Sá/CE — Bandeira
+- 2312908 — Sobral/CE — Brasão
+- 2312908 — Sobral/CE — Bandeira
+- 2313005 — Solonópole/CE — Brasão
+- 2313005 — Solonópole/CE — Bandeira
+- 2313104 — Tabuleiro do Norte/CE — Brasão
+- 2313104 — Tabuleiro do Norte/CE — Bandeira
+- 2313203 — Tamboril/CE — Brasão
+- 2313203 — Tamboril/CE — Bandeira
+- 2313252 — Tarrafas/CE — Brasão
+- 2313252 — Tarrafas/CE — Bandeira
+- 2313302 — Tauá/CE — Brasão
+- 2313302 — Tauá/CE — Bandeira
+- 2313351 — Tejuçuoca/CE — Brasão
+- 2313351 — Tejuçuoca/CE — Bandeira
+- 2313401 — Tianguá/CE — Brasão
+- 2313401 — Tianguá/CE — Bandeira
+- 2313500 — Trairi/CE — Brasão
+- 2313500 — Trairi/CE — Bandeira
+- 2313559 — Tururu/CE — Bandeira
+- 2313609 — Ubajara/CE — Bandeira
+- 2313757 — Umirim/CE — Bandeira
+- 2313807 — Uruburetama/CE — Brasão
+- 2313807 — Uruburetama/CE — Bandeira
+- 2313906 — Uruoca/CE — Brasão
+- 2313906 — Uruoca/CE — Bandeira
+- 2313955 — Varjota/CE — Brasão
+- 2313955 — Varjota/CE — Bandeira
+- 2314003 — Várzea Alegre/CE — Brasão
+- 2314003 — Várzea Alegre/CE — Bandeira
+- 2314102 — Viçosa do Ceará/CE — Brasão
+- 2314102 — Viçosa do Ceará/CE — Bandeira
+- 2400109 — Acari/RN — Brasão
+- 2400109 — Acari/RN — Bandeira
+- 2400208 — Assú/RN — Brasão
+- 2400208 — Assú/RN — Bandeira
+- 2400307 — Afonso Bezerra/RN — Brasão
+- 2400307 — Afonso Bezerra/RN — Bandeira
+- 2400406 — Água Nova/RN — Brasão
+- 2400406 — Água Nova/RN — Bandeira
+- 2400505 — Alexandria/RN — Brasão
+- 2400505 — Alexandria/RN — Bandeira
+- 2400604 — Almino Afonso/RN — Brasão
+- 2400604 — Almino Afonso/RN — Bandeira
+- 2400703 — Alto do Rodrigues/RN — Brasão
+- 2400703 — Alto do Rodrigues/RN — Bandeira
+- 2400802 — Angicos/RN — Brasão
+- 2400802 — Angicos/RN — Bandeira
+- 2400901 — Antônio Martins/RN — Brasão
+- 2400901 — Antônio Martins/RN — Bandeira
+- 2401008 — Apodi/RN — Brasão
+- 2401008 — Apodi/RN — Bandeira
+- 2401107 — Areia Branca/RN — Brasão
+- 2401107 — Areia Branca/RN — Bandeira
+- 2401206 — Arez/RN — Brasão
+- 2401206 — Arez/RN — Bandeira
+- 2401305 — Campo Grande/RN — Brasão
+- 2401305 — Campo Grande/RN — Bandeira
+- 2401404 — Baía Formosa/RN — Brasão
+- 2401404 — Baía Formosa/RN — Bandeira
+- 2401453 — Baraúna/RN — Brasão
+- 2401453 — Baraúna/RN — Bandeira
+- 2401503 — Barcelona/RN — Brasão
+- 2401503 — Barcelona/RN — Bandeira
+- 2401602 — Bento Fernandes/RN — Brasão
+- 2401602 — Bento Fernandes/RN — Bandeira
+- 2401651 — Bodó/RN — Brasão
+- 2401651 — Bodó/RN — Bandeira
+- 2401701 — Bom Jesus/RN — Brasão
+- 2401701 — Bom Jesus/RN — Bandeira
+- 2401800 — Brejinho/RN — Brasão
+- 2401800 — Brejinho/RN — Bandeira
+- 2401859 — Caiçara do Norte/RN — Brasão
+- 2401859 — Caiçara do Norte/RN — Bandeira
+- 2401909 — Caiçara do Rio do Vento/RN — Brasão
+- 2401909 — Caiçara do Rio do Vento/RN — Bandeira
+- 2402006 — Caicó/RN — Brasão
+- 2402006 — Caicó/RN — Bandeira
+- 2402105 — Campo Redondo/RN — Brasão
+- 2402105 — Campo Redondo/RN — Bandeira
+- 2402204 — Canguaretama/RN — Brasão
+- 2402204 — Canguaretama/RN — Bandeira
+- 2402303 — Caraúbas/RN — Brasão
+- 2402303 — Caraúbas/RN — Bandeira
+- 2402402 — Carnaúba dos Dantas/RN — Brasão
+- 2402402 — Carnaúba dos Dantas/RN — Bandeira
+- 2402501 — Carnaubais/RN — Brasão
+- 2402501 — Carnaubais/RN — Bandeira
+- 2402600 — Ceará-Mirim/RN — Brasão
+- 2402600 — Ceará-Mirim/RN — Bandeira
+- 2402709 — Cerro Corá/RN — Brasão
+- 2402709 — Cerro Corá/RN — Bandeira
+- 2402808 — Coronel Ezequiel/RN — Brasão
+- 2402808 — Coronel Ezequiel/RN — Bandeira
+- 2402907 — Coronel João Pessoa/RN — Brasão
+- 2402907 — Coronel João Pessoa/RN — Bandeira
+- 2403004 — Cruzeta/RN — Brasão
+- 2403004 — Cruzeta/RN — Bandeira
+- 2403103 — Currais Novos/RN — Brasão
+- 2403103 — Currais Novos/RN — Bandeira
+- 2403202 — Doutor Severiano/RN — Brasão
+- 2403202 — Doutor Severiano/RN — Bandeira
+- 2403251 — Parnamirim/RN — Brasão
+- 2403251 — Parnamirim/RN — Bandeira
+- 2403301 — Encanto/RN — Brasão
+- 2403301 — Encanto/RN — Bandeira
+- 2403400 — Equador/RN — Brasão
+- 2403400 — Equador/RN — Bandeira
+- 2403509 — Espírito Santo/RN — Brasão
+- 2403509 — Espírito Santo/RN — Bandeira
+- 2403608 — Extremoz/RN — Brasão
+- 2403608 — Extremoz/RN — Bandeira
+- 2403707 — Felipe Guerra/RN — Brasão
+- 2403707 — Felipe Guerra/RN — Bandeira
+- 2403756 — Fernando Pedroza/RN — Brasão
+- 2403756 — Fernando Pedroza/RN — Bandeira
+- 2403806 — Florânia/RN — Brasão
+- 2403806 — Florânia/RN — Bandeira
+- 2403905 — Francisco Dantas/RN — Brasão
+- 2403905 — Francisco Dantas/RN — Bandeira
+- 2404002 — Frutuoso Gomes/RN — Brasão
+- 2404002 — Frutuoso Gomes/RN — Bandeira
+- 2404101 — Galinhos/RN — Brasão
+- 2404101 — Galinhos/RN — Bandeira
+- 2404200 — Goianinha/RN — Brasão
+- 2404200 — Goianinha/RN — Bandeira
+- 2404309 — Governador Dix-Sept Rosado/RN — Brasão
+- 2404309 — Governador Dix-Sept Rosado/RN — Bandeira
+- 2404408 — Grossos/RN — Brasão
+- 2404408 — Grossos/RN — Bandeira
+- 2404507 — Guamaré/RN — Brasão
+- 2404507 — Guamaré/RN — Bandeira
+- 2404606 — Ielmo Marinho/RN — Brasão
+- 2404606 — Ielmo Marinho/RN — Bandeira
+- 2404705 — Ipanguaçu/RN — Brasão
+- 2404705 — Ipanguaçu/RN — Bandeira
+- 2404804 — Ipueira/RN — Brasão
+- 2404804 — Ipueira/RN — Bandeira
+- 2404853 — Itajá/RN — Brasão
+- 2404853 — Itajá/RN — Bandeira
+- 2404903 — Itaú/RN — Brasão
+- 2404903 — Itaú/RN — Bandeira
+- 2405009 — Jaçanã/RN — Brasão
+- 2405009 — Jaçanã/RN — Bandeira
+- 2405108 — Jandaíra/RN — Brasão
+- 2405108 — Jandaíra/RN — Bandeira
+- 2405207 — Janduís/RN — Brasão
+- 2405207 — Janduís/RN — Bandeira
+- 2405306 — Januário Cicco/RN — Brasão
+- 2405306 — Januário Cicco/RN — Bandeira
+- 2405405 — Japi/RN — Brasão
+- 2405405 — Japi/RN — Bandeira
+- 2405504 — Jardim de Angicos/RN — Brasão
+- 2405504 — Jardim de Angicos/RN — Bandeira
+- 2405603 — Jardim de Piranhas/RN — Brasão
+- 2405603 — Jardim de Piranhas/RN — Bandeira
+- 2405702 — Jardim do Seridó/RN — Brasão
+- 2405702 — Jardim do Seridó/RN — Bandeira
+- 2405801 — João Câmara/RN — Brasão
+- 2405801 — João Câmara/RN — Bandeira
+- 2405900 — João Dias/RN — Brasão
+- 2405900 — João Dias/RN — Bandeira
+- 2406007 — José da Penha/RN — Brasão
+- 2406007 — José da Penha/RN — Bandeira
+- 2406106 — Jucurutu/RN — Brasão
+- 2406106 — Jucurutu/RN — Bandeira
+- 2406155 — Jundiá/RN — Brasão
+- 2406155 — Jundiá/RN — Bandeira
+- 2406205 — Lagoa d'Anta/RN — Brasão
+- 2406205 — Lagoa d'Anta/RN — Bandeira
+- 2406304 — Lagoa de Pedras/RN — Brasão
+- 2406304 — Lagoa de Pedras/RN — Bandeira
+- 2406403 — Lagoa de Velhos/RN — Brasão
+- 2406403 — Lagoa de Velhos/RN — Bandeira
+- 2406502 — Lagoa Nova/RN — Brasão
+- 2406502 — Lagoa Nova/RN — Bandeira
+- 2406601 — Lagoa Salgada/RN — Brasão
+- 2406601 — Lagoa Salgada/RN — Bandeira
+- 2406700 — Lajes/RN — Brasão
+- 2406700 — Lajes/RN — Bandeira
+- 2406809 — Lajes Pintadas/RN — Brasão
+- 2406809 — Lajes Pintadas/RN — Bandeira
+- 2406908 — Lucrécia/RN — Brasão
+- 2406908 — Lucrécia/RN — Bandeira
+- 2407005 — Luís Gomes/RN — Brasão
+- 2407005 — Luís Gomes/RN — Bandeira
+- 2407104 — Macaíba/RN — Brasão
+- 2407104 — Macaíba/RN — Bandeira
+- 2407203 — Macau/RN — Brasão
+- 2407203 — Macau/RN — Bandeira
+- 2407252 — Major Sales/RN — Brasão
+- 2407252 — Major Sales/RN — Bandeira
+- 2407302 — Marcelino Vieira/RN — Brasão
+- 2407302 — Marcelino Vieira/RN — Bandeira
+- 2407401 — Martins/RN — Brasão
+- 2407401 — Martins/RN — Bandeira
+- 2407500 — Maxaranguape/RN — Brasão
+- 2407500 — Maxaranguape/RN — Bandeira
+- 2407609 — Messias Targino/RN — Brasão
+- 2407609 — Messias Targino/RN — Bandeira
+- 2407708 — Montanhas/RN — Brasão
+- 2407708 — Montanhas/RN — Bandeira
+- 2407807 — Monte Alegre/RN — Brasão
+- 2407807 — Monte Alegre/RN — Bandeira
+- 2407906 — Monte das Gameleiras/RN — Brasão
+- 2407906 — Monte das Gameleiras/RN — Bandeira
+- 2408003 — Mossoró/RN — Brasão
+- 2408003 — Mossoró/RN — Bandeira
+- 2408102 — Natal/RN — Brasão
+- 2408102 — Natal/RN — Bandeira
+- 2408201 — Nísia Floresta/RN — Brasão
+- 2408201 — Nísia Floresta/RN — Bandeira
+- 2408300 — Nova Cruz/RN — Brasão
+- 2408300 — Nova Cruz/RN — Bandeira
+- 2408409 — Olho d'Água do Borges/RN — Bandeira
+- 2408508 — Ouro Branco/RN — Brasão
+- 2408508 — Ouro Branco/RN — Bandeira
+- 2408607 — Paraná/RN — Brasão
+- 2408607 — Paraná/RN — Bandeira
+- 2408706 — Paraú/RN — Brasão
+- 2408706 — Paraú/RN — Bandeira
+- 2408805 — Parazinho/RN — Brasão
+- 2408805 — Parazinho/RN — Bandeira
+- 2408904 — Parelhas/RN — Brasão
+- 2408904 — Parelhas/RN — Bandeira
+- 2408953 — Rio do Fogo/RN — Brasão
+- 2408953 — Rio do Fogo/RN — Bandeira
+- 2409100 — Passa e Fica/RN — Brasão
+- 2409100 — Passa e Fica/RN — Bandeira
+- 2409209 — Passagem/RN — Brasão
+- 2409209 — Passagem/RN — Bandeira
+- 2409308 — Patu/RN — Brasão
+- 2409308 — Patu/RN — Bandeira
+- 2409332 — Santa Maria/RN — Brasão
+- 2409332 — Santa Maria/RN — Bandeira
+- 2409407 — Pau dos Ferros/RN — Brasão
+- 2409407 — Pau dos Ferros/RN — Bandeira
+- 2409506 — Pedra Grande/RN — Brasão
+- 2409506 — Pedra Grande/RN — Bandeira
+- 2409605 — Pedra Preta/RN — Brasão
+- 2409605 — Pedra Preta/RN — Bandeira
+- 2409704 — Pedro Avelino/RN — Brasão
+- 2409704 — Pedro Avelino/RN — Bandeira
+- 2409803 — Pedro Velho/RN — Brasão
+- 2409803 — Pedro Velho/RN — Bandeira
+- 2409902 — Pendências/RN — Brasão
+- 2409902 — Pendências/RN — Bandeira
+- 2410009 — Pilões/RN — Brasão
+- 2410009 — Pilões/RN — Bandeira
+- 2410108 — Poço Branco/RN — Brasão
+- 2410108 — Poço Branco/RN — Bandeira
+- 2410207 — Portalegre/RN — Brasão
+- 2410207 — Portalegre/RN — Bandeira
+- 2410256 — Porto do Mangue/RN — Brasão
+- 2410256 — Porto do Mangue/RN — Bandeira
+- 2410306 — Serra Caiada/RN — Brasão
+- 2410306 — Serra Caiada/RN — Bandeira
+- 2410405 — Pureza/RN — Brasão
+- 2410405 — Pureza/RN — Bandeira
+- 2410504 — Rafael Fernandes/RN — Brasão
+- 2410504 — Rafael Fernandes/RN — Bandeira
+- 2410603 — Rafael Godeiro/RN — Brasão
+- 2410603 — Rafael Godeiro/RN — Bandeira
+- 2410702 — Riacho da Cruz/RN — Brasão
+- 2410702 — Riacho da Cruz/RN — Bandeira
+- 2410801 — Riacho de Santana/RN — Brasão
+- 2410801 — Riacho de Santana/RN — Bandeira
+- 2410900 — Riachuelo/RN — Brasão
+- 2410900 — Riachuelo/RN — Bandeira
+- 2411007 — Rodolfo Fernandes/RN — Brasão
+- 2411007 — Rodolfo Fernandes/RN — Bandeira
+- 2411056 — Tibau/RN — Brasão
+- 2411056 — Tibau/RN — Bandeira
+- 2411106 — Ruy Barbosa/RN — Brasão
+- 2411106 — Ruy Barbosa/RN — Bandeira
+- 2411205 — Santa Cruz/RN — Brasão
+- 2411205 — Santa Cruz/RN — Bandeira
+- 2411403 — Santana do Matos/RN — Brasão
+- 2411403 — Santana do Matos/RN — Bandeira
+- 2411429 — Santana do Seridó/RN — Brasão
+- 2411429 — Santana do Seridó/RN — Bandeira
+- 2411502 — Santo Antônio/RN — Brasão
+- 2411502 — Santo Antônio/RN — Bandeira
+- 2411601 — São Bento do Norte/RN — Brasão
+- 2411601 — São Bento do Norte/RN — Bandeira
+- 2411700 — São Bento do Trairí/RN — Brasão
+- 2411700 — São Bento do Trairí/RN — Bandeira
+- 2411908 — São Francisco do Oeste/RN — Brasão
+- 2411908 — São Francisco do Oeste/RN — Bandeira
+- 2412005 — São Gonçalo do Amarante/RN — Brasão
+- 2412005 — São Gonçalo do Amarante/RN — Bandeira
+- 2412104 — São João do Sabugi/RN — Brasão
+- 2412104 — São João do Sabugi/RN — Bandeira
+- 2412203 — São José de Mipibu/RN — Brasão
+- 2412203 — São José de Mipibu/RN — Bandeira
+- 2412302 — São José do Campestre/RN — Brasão
+- 2412302 — São José do Campestre/RN — Bandeira
+- 2412401 — São José do Seridó/RN — Brasão
+- 2412401 — São José do Seridó/RN — Bandeira
+- 2412500 — São Miguel/RN — Brasão
+- 2412500 — São Miguel/RN — Bandeira
+- 2412559 — São Miguel do Gostoso/RN — Brasão
+- 2412559 — São Miguel do Gostoso/RN — Bandeira
+- 2412609 — São Paulo do Potengi/RN — Brasão
+- 2412609 — São Paulo do Potengi/RN — Bandeira
+- 2412708 — São Pedro/RN — Brasão
+- 2412708 — São Pedro/RN — Bandeira
+- 2412807 — São Rafael/RN — Brasão
+- 2412807 — São Rafael/RN — Bandeira
+- 2412906 — São Tomé/RN — Brasão
+- 2412906 — São Tomé/RN — Bandeira
+- 2413003 — São Vicente/RN — Brasão
+- 2413003 — São Vicente/RN — Bandeira
+- 2413102 — Senador Elói de Souza/RN — Brasão
+- 2413102 — Senador Elói de Souza/RN — Bandeira
+- 2413201 — Senador Georgino Avelino/RN — Brasão
+- 2413201 — Senador Georgino Avelino/RN — Bandeira
+- 2413300 — Serra de São Bento/RN — Brasão
+- 2413300 — Serra de São Bento/RN — Bandeira
+- 2413359 — Serra do Mel/RN — Brasão
+- 2413359 — Serra do Mel/RN — Bandeira
+- 2413409 — Serra Negra do Norte/RN — Brasão
+- 2413409 — Serra Negra do Norte/RN — Bandeira
+- 2413508 — Serrinha/RN — Brasão
+- 2413508 — Serrinha/RN — Bandeira
+- 2413557 — Serrinha dos Pintos/RN — Brasão
+- 2413557 — Serrinha dos Pintos/RN — Bandeira
+- 2413607 — Severiano Melo/RN — Brasão
+- 2413607 — Severiano Melo/RN — Bandeira
+- 2413706 — Sítio Novo/RN — Brasão
+- 2413706 — Sítio Novo/RN — Bandeira
+- 2413805 — Taboleiro Grande/RN — Brasão
+- 2413805 — Taboleiro Grande/RN — Bandeira
+- 2413904 — Taipu/RN — Brasão
+- 2413904 — Taipu/RN — Bandeira
+- 2414001 — Tangará/RN — Brasão
+- 2414001 — Tangará/RN — Bandeira
+- 2414100 — Tenente Ananias/RN — Brasão
+- 2414100 — Tenente Ananias/RN — Bandeira
+- 2414159 — Tenente Laurentino Cruz/RN — Brasão
+- 2414159 — Tenente Laurentino Cruz/RN — Bandeira
+- 2414209 — Tibau do Sul/RN — Brasão
+- 2414209 — Tibau do Sul/RN — Bandeira
+- 2414308 — Timbaúba dos Batistas/RN — Brasão
+- 2414308 — Timbaúba dos Batistas/RN — Bandeira
+- 2414407 — Touros/RN — Brasão
+- 2414407 — Touros/RN — Bandeira
+- 2414456 — Triunfo Potiguar/RN — Brasão
+- 2414456 — Triunfo Potiguar/RN — Bandeira
+- 2414506 — Umarizal/RN — Brasão
+- 2414506 — Umarizal/RN — Bandeira
+- 2414605 — Upanema/RN — Brasão
+- 2414605 — Upanema/RN — Bandeira
+- 2414704 — Várzea/RN — Brasão
+- 2414704 — Várzea/RN — Bandeira
+- 2414753 — Venha-Ver/RN — Brasão
+- 2414753 — Venha-Ver/RN — Bandeira
+- 2414803 — Vera Cruz/RN — Brasão
+- 2414803 — Vera Cruz/RN — Bandeira
+- 2414902 — Viçosa/RN — Brasão
+- 2414902 — Viçosa/RN — Bandeira
+- 2415008 — Vila Flor/RN — Brasão
+- 2415008 — Vila Flor/RN — Bandeira
+- 2500106 — Água Branca/PB — Brasão
+- 2500106 — Água Branca/PB — Bandeira
+- 2500205 — Aguiar/PB — Brasão
+- 2500205 — Aguiar/PB — Bandeira
+- 2500304 — Alagoa Grande/PB — Brasão
+- 2500304 — Alagoa Grande/PB — Bandeira
+- 2500403 — Alagoa Nova/PB — Brasão
+- 2500403 — Alagoa Nova/PB — Bandeira
+- 2500502 — Alagoinha/PB — Brasão
+- 2500502 — Alagoinha/PB — Bandeira
+- 2500536 — Alcantil/PB — Brasão
+- 2500536 — Alcantil/PB — Bandeira
+- 2500577 — Algodão de Jandaíra/PB — Brasão
+- 2500577 — Algodão de Jandaíra/PB — Bandeira
+- 2500601 — Alhandra/PB — Brasão
+- 2500601 — Alhandra/PB — Bandeira
+- 2500700 — São João do Rio do Peixe/PB — Brasão
+- 2500700 — São João do Rio do Peixe/PB — Bandeira
+- 2500734 — Amparo/PB — Brasão
+- 2500734 — Amparo/PB — Bandeira
+- 2500775 — Aparecida/PB — Brasão
+- 2500775 — Aparecida/PB — Bandeira
+- 2500809 — Araçagi/PB — Brasão
+- 2500809 — Araçagi/PB — Bandeira
+- 2500908 — Arara/PB — Brasão
+- 2500908 — Arara/PB — Bandeira
+- 2501005 — Araruna/PB — Brasão
+- 2501005 — Araruna/PB — Bandeira
+- 2501104 — Areia/PB — Brasão
+- 2501104 — Areia/PB — Bandeira
+- 2501153 — Areia de Baraúnas/PB — Brasão
+- 2501153 — Areia de Baraúnas/PB — Bandeira
+- 2501203 — Areial/PB — Brasão
+- 2501203 — Areial/PB — Bandeira
+- 2501302 — Aroeiras/PB — Brasão
+- 2501302 — Aroeiras/PB — Bandeira
+- 2501351 — Assunção/PB — Bandeira
+- 2501401 — Baía da Traição/PB — Brasão
+- 2501401 — Baía da Traição/PB — Bandeira
+- 2501500 — Bananeiras/PB — Brasão
+- 2501500 — Bananeiras/PB — Bandeira
+- 2501534 — Baraúna/PB — Brasão
+- 2501534 — Baraúna/PB — Bandeira
+- 2501575 — Barra de Santana/PB — Brasão
+- 2501575 — Barra de Santana/PB — Bandeira
+- 2501609 — Barra de Santa Rosa/PB — Brasão
+- 2501609 — Barra de Santa Rosa/PB — Bandeira
+- 2501807 — Bayeux/PB — Brasão
+- 2501807 — Bayeux/PB — Bandeira
+- 2501906 — Belém/PB — Brasão
+- 2501906 — Belém/PB — Bandeira
+- 2502003 — Belém do Brejo do Cruz/PB — Brasão
+- 2502003 — Belém do Brejo do Cruz/PB — Bandeira
+- 2502052 — Bernardino Batista/PB — Brasão
+- 2502052 — Bernardino Batista/PB — Bandeira
+- 2502102 — Boa Ventura/PB — Brasão
+- 2502102 — Boa Ventura/PB — Bandeira
+- 2502151 — Boa Vista/PB — Brasão
+- 2502151 — Boa Vista/PB — Bandeira
+- 2502201 — Bom Jesus/PB — Brasão
+- 2502201 — Bom Jesus/PB — Bandeira
+- 2502300 — Bom Sucesso/PB — Brasão
+- 2502300 — Bom Sucesso/PB — Bandeira
+- 2502409 — Bonito de Santa Fé/PB — Bandeira
+- 2502508 — Boqueirão/PB — Brasão
+- 2502508 — Boqueirão/PB — Bandeira
+- 2502607 — Igaracy/PB — Brasão
+- 2502607 — Igaracy/PB — Bandeira
+- 2502706 — Borborema/PB — Brasão
+- 2502706 — Borborema/PB — Bandeira
+- 2502805 — Brejo do Cruz/PB — Brasão
+- 2502805 — Brejo do Cruz/PB — Bandeira
+- 2502904 — Brejo dos Santos/PB — Brasão
+- 2502904 — Brejo dos Santos/PB — Bandeira
+- 2503001 — Caaporã/PB — Brasão
+- 2503001 — Caaporã/PB — Bandeira
+- 2503100 — Cabaceiras/PB — Brasão
+- 2503100 — Cabaceiras/PB — Bandeira
+- 2503209 — Cabedelo/PB — Brasão
+- 2503209 — Cabedelo/PB — Bandeira
+- 2503308 — Cachoeira dos Índios/PB — Brasão
+- 2503308 — Cachoeira dos Índios/PB — Bandeira
+- 2503407 — Cacimba de Areia/PB — Bandeira
+- 2503506 — Cacimba de Dentro/PB — Brasão
+- 2503506 — Cacimba de Dentro/PB — Bandeira
+- 2503555 — Cacimbas/PB — Brasão
+- 2503555 — Cacimbas/PB — Bandeira
+- 2503605 — Caiçara/PB — Brasão
+- 2503605 — Caiçara/PB — Bandeira
+- 2503704 — Cajazeiras/PB — Brasão
+- 2503704 — Cajazeiras/PB — Bandeira
+- 2503753 — Cajazeirinhas/PB — Brasão
+- 2503753 — Cajazeirinhas/PB — Bandeira
+- 2503803 — Caldas Brandão/PB — Brasão
+- 2503803 — Caldas Brandão/PB — Bandeira
+- 2503902 — Camalaú/PB — Brasão
+- 2503902 — Camalaú/PB — Bandeira
+- 2504009 — Campina Grande/PB — Brasão
+- 2504009 — Campina Grande/PB — Bandeira
 - 2504033 — Capim/PB — Brasão
 - 2504033 — Capim/PB — Bandeira
+- 2504074 — Caraúbas/PB — Brasão
+- 2504074 — Caraúbas/PB — Bandeira
+- 2504108 — Carrapateira/PB — Brasão
+- 2504108 — Carrapateira/PB — Bandeira
+- 2504157 — Casserengue/PB — Brasão
+- 2504157 — Casserengue/PB — Bandeira
+- 2504207 — Catingueira/PB — Brasão
+- 2504207 — Catingueira/PB — Bandeira
+- 2504306 — Catolé do Rocha/PB — Brasão
+- 2504306 — Catolé do Rocha/PB — Bandeira
+- 2504355 — Caturité/PB — Brasão
+- 2504355 — Caturité/PB — Bandeira
+- 2504405 — Conceição/PB — Brasão
+- 2504405 — Conceição/PB — Bandeira
+- 2504504 — Condado/PB — Brasão
+- 2504504 — Condado/PB — Bandeira
+- 2504603 — Conde/PB — Brasão
+- 2504603 — Conde/PB — Bandeira
+- 2504702 — Congo/PB — Brasão
+- 2504702 — Congo/PB — Bandeira
+- 2504801 — Coremas/PB — Brasão
+- 2504801 — Coremas/PB — Bandeira
+- 2504850 — Coxixola/PB — Brasão
+- 2504900 — Cruz do Espírito Santo/PB — Brasão
+- 2504900 — Cruz do Espírito Santo/PB — Bandeira
+- 2505006 — Cubati/PB — Brasão
+- 2505006 — Cubati/PB — Bandeira
+- 2505105 — Cuité/PB — Brasão
+- 2505105 — Cuité/PB — Bandeira
+- 2505204 — Cuitegi/PB — Brasão
+- 2505204 — Cuitegi/PB — Bandeira
+- 2505238 — Cuité de Mamanguape/PB — Brasão
+- 2505238 — Cuité de Mamanguape/PB — Bandeira
+- 2505279 — Curral de Cima/PB — Bandeira
+- 2505303 — Curral Velho/PB — Brasão
+- 2505352 — Damião/PB — Brasão
+- 2505352 — Damião/PB — Bandeira
+- 2505402 — Desterro/PB — Brasão
+- 2505402 — Desterro/PB — Bandeira
+- 2505501 — Vista Serrana/PB — Brasão
+- 2505501 — Vista Serrana/PB — Bandeira
+- 2505600 — Diamante/PB — Brasão
+- 2505600 — Diamante/PB — Bandeira
+- 2505709 — Dona Inês/PB — Brasão
+- 2505709 — Dona Inês/PB — Bandeira
+- 2505808 — Duas Estradas/PB — Brasão
+- 2505907 — Emas/PB — Brasão
+- 2505907 — Emas/PB — Bandeira
+- 2506004 — Esperança/PB — Brasão
+- 2506004 — Esperança/PB — Bandeira
+- 2506103 — Fagundes/PB — Brasão
+- 2506103 — Fagundes/PB — Bandeira
+- 2506202 — Frei Martinho/PB — Brasão
+- 2506202 — Frei Martinho/PB — Bandeira
+- 2506251 — Gado Bravo/PB — Brasão
+- 2506251 — Gado Bravo/PB — Bandeira
+- 2506301 — Guarabira/PB — Brasão
+- 2506400 — Gurinhém/PB — Brasão
+- 2506400 — Gurinhém/PB — Bandeira
+- 2506509 — Gurjão/PB — Brasão
+- 2506509 — Gurjão/PB — Bandeira
+- 2506608 — Ibiara/PB — Brasão
+- 2506608 — Ibiara/PB — Bandeira
+- 2506707 — Imaculada/PB — Brasão
+- 2506707 — Imaculada/PB — Bandeira
+- 2506806 — Ingá/PB — Brasão
+- 2506806 — Ingá/PB — Bandeira
+- 2506905 — Itabaiana/PB — Brasão
+- 2506905 — Itabaiana/PB — Bandeira
+- 2507002 — Itaporanga/PB — Brasão
+- 2507002 — Itaporanga/PB — Bandeira
+- 2507101 — Itapororoca/PB — Brasão
+- 2507101 — Itapororoca/PB — Bandeira
+- 2507200 — Itatuba/PB — Brasão
+- 2507200 — Itatuba/PB — Bandeira
+- 2507309 — Jacaraú/PB — Brasão
+- 2507309 — Jacaraú/PB — Bandeira
+- 2507408 — Jericó/PB — Brasão
+- 2507408 — Jericó/PB — Bandeira
+- 2507507 — João Pessoa/PB — Brasão
+- 2507507 — João Pessoa/PB — Bandeira
+- 2507606 — Juarez Távora/PB — Brasão
+- 2507606 — Juarez Távora/PB — Bandeira
+- 2507705 — Juazeirinho/PB — Brasão
+- 2507705 — Juazeirinho/PB — Bandeira
+- 2507804 — Junco do Seridó/PB — Brasão
+- 2507804 — Junco do Seridó/PB — Bandeira
+- 2507903 — Juripiranga/PB — Brasão
+- 2507903 — Juripiranga/PB — Bandeira
+- 2508000 — Juru/PB — Brasão
+- 2508000 — Juru/PB — Bandeira
+- 2508109 — Lagoa/PB — Brasão
+- 2508109 — Lagoa/PB — Bandeira
+- 2508208 — Lagoa de Dentro/PB — Brasão
+- 2508208 — Lagoa de Dentro/PB — Bandeira
+- 2508307 — Lagoa Seca/PB — Brasão
+- 2508406 — Lastro/PB — Brasão
+- 2508406 — Lastro/PB — Bandeira
+- 2508505 — Livramento/PB — Brasão
+- 2508505 — Livramento/PB — Bandeira
+- 2508554 — Logradouro/PB — Brasão
+- 2508554 — Logradouro/PB — Bandeira
+- 2508604 — Lucena/PB — Brasão
+- 2508604 — Lucena/PB — Bandeira
+- 2508703 — Mãe d'Água/PB — Brasão
+- 2508703 — Mãe d'Água/PB — Bandeira
+- 2508802 — Malta/PB — Brasão
+- 2508802 — Malta/PB — Bandeira
+- 2508901 — Mamanguape/PB — Brasão
+- 2508901 — Mamanguape/PB — Bandeira
+- 2509008 — Manaíra/PB — Brasão
+- 2509008 — Manaíra/PB — Bandeira
+- 2509057 — Marcação/PB — Brasão
+- 2509057 — Marcação/PB — Bandeira
+- 2509107 — Mari/PB — Brasão
+- 2509107 — Mari/PB — Bandeira
+- 2509156 — Marizópolis/PB — Brasão
+- 2509156 — Marizópolis/PB — Bandeira
+- 2509206 — Massaranduba/PB — Brasão
+- 2509206 — Massaranduba/PB — Bandeira
+- 2509305 — Mataraca/PB — Brasão
+- 2509305 — Mataraca/PB — Bandeira
+- 2509339 — Matinhas/PB — Brasão
+- 2509339 — Matinhas/PB — Bandeira
+- 2509370 — Mato Grosso/PB — Brasão
+- 2509370 — Mato Grosso/PB — Bandeira
+- 2509396 — Maturéia/PB — Brasão
+- 2509396 — Maturéia/PB — Bandeira
+- 2509404 — Mogeiro/PB — Brasão
+- 2509404 — Mogeiro/PB — Bandeira
+- 2509503 — Montadas/PB — Brasão
+- 2509503 — Montadas/PB — Bandeira
+- 2509602 — Monte Horebe/PB — Brasão
+- 2509602 — Monte Horebe/PB — Bandeira
+- 2509701 — Monteiro/PB — Brasão
+- 2509701 — Monteiro/PB — Bandeira
+- 2509800 — Mulungu/PB — Brasão
+- 2509800 — Mulungu/PB — Bandeira
+- 2509909 — Natuba/PB — Brasão
+- 2509909 — Natuba/PB — Bandeira
+- 2510006 — Nazarezinho/PB — Brasão
+- 2510105 — Nova Floresta/PB — Brasão
+- 2510105 — Nova Floresta/PB — Bandeira
+- 2510204 — Nova Olinda/PB — Brasão
+- 2510204 — Nova Olinda/PB — Bandeira
+- 2510303 — Nova Palmeira/PB — Brasão
+- 2510303 — Nova Palmeira/PB — Bandeira
+- 2510402 — Olho d'Água/PB — Brasão
+- 2510402 — Olho d'Água/PB — Bandeira
+- 2510501 — Olivedos/PB — Brasão
+- 2510501 — Olivedos/PB — Bandeira
+- 2510600 — Ouro Velho/PB — Bandeira
+- 2510659 — Parari/PB — Brasão
+- 2510659 — Parari/PB — Bandeira
+- 2510709 — Passagem/PB — Brasão
+- 2510709 — Passagem/PB — Bandeira
+- 2510808 — Patos/PB — Brasão
+- 2510808 — Patos/PB — Bandeira
+- 2510907 — Paulista/PB — Brasão
+- 2510907 — Paulista/PB — Bandeira
+- 2511103 — Pedra Lavrada/PB — Brasão
+- 2511103 — Pedra Lavrada/PB — Bandeira
+- 2511202 — Pedras de Fogo/PB — Brasão
+- 2511202 — Pedras de Fogo/PB — Bandeira
+- 2511301 — Piancó/PB — Brasão
+- 2511301 — Piancó/PB — Bandeira
+- 2511400 — Picuí/PB — Brasão
+- 2511400 — Picuí/PB — Bandeira
+- 2511509 — Pilar/PB — Brasão
+- 2511509 — Pilar/PB — Bandeira
+- 2511608 — Pilões/PB — Brasão
+- 2511608 — Pilões/PB — Bandeira
+- 2511707 — Pilõezinhos/PB — Brasão
+- 2511707 — Pilõezinhos/PB — Bandeira
+- 2511806 — Pirpirituba/PB — Brasão
+- 2511806 — Pirpirituba/PB — Bandeira
+- 2511905 — Pitimbu/PB — Brasão
+- 2511905 — Pitimbu/PB — Bandeira
+- 2512002 — Pocinhos/PB — Brasão
+- 2512002 — Pocinhos/PB — Bandeira
+- 2512036 — Poço Dantas/PB — Brasão
+- 2512036 — Poço Dantas/PB — Bandeira
+- 2512077 — Poço de José de Moura/PB — Brasão
+- 2512077 — Poço de José de Moura/PB — Bandeira
+- 2512101 — Pombal/PB — Brasão
+- 2512101 — Pombal/PB — Bandeira
+- 2512309 — Princesa Isabel/PB — Brasão
+- 2512309 — Princesa Isabel/PB — Bandeira
+- 2512408 — Puxinanã/PB — Brasão
+- 2512408 — Puxinanã/PB — Bandeira
+- 2512507 — Queimadas/PB — Brasão
+- 2512507 — Queimadas/PB — Bandeira
+- 2512606 — Quixaba/PB — Brasão
+- 2512606 — Quixaba/PB — Bandeira
+- 2512705 — Remígio/PB — Brasão
+- 2512705 — Remígio/PB — Bandeira
+- 2512721 — Pedro Régis/PB — Brasão
+- 2512721 — Pedro Régis/PB — Bandeira
+- 2512747 — Riachão/PB — Brasão
+- 2512747 — Riachão/PB — Bandeira
+- 2512754 — Riachão do Bacamarte/PB — Brasão
+- 2512754 — Riachão do Bacamarte/PB — Bandeira
+- 2512762 — Riachão do Poço/PB — Brasão
+- 2512762 — Riachão do Poço/PB — Bandeira
+- 2512788 — Riacho de Santo Antônio/PB — Brasão
+- 2512788 — Riacho de Santo Antônio/PB — Bandeira
+- 2512804 — Riacho dos Cavalos/PB — Brasão
+- 2512804 — Riacho dos Cavalos/PB — Bandeira
+- 2512903 — Rio Tinto/PB — Brasão
+- 2512903 — Rio Tinto/PB — Bandeira
+- 2513000 — Salgadinho/PB — Brasão
+- 2513000 — Salgadinho/PB — Bandeira
+- 2513109 — Salgado de São Félix/PB — Brasão
+- 2513109 — Salgado de São Félix/PB — Bandeira
+- 2513158 — Santa Cecília/PB — Brasão
+- 2513158 — Santa Cecília/PB — Bandeira
+- 2513208 — Santa Cruz/PB — Brasão
+- 2513208 — Santa Cruz/PB — Bandeira
+- 2513307 — Santa Helena/PB — Brasão
+- 2513307 — Santa Helena/PB — Bandeira
+- 2513356 — Santa Inês/PB — Brasão
+- 2513356 — Santa Inês/PB — Bandeira
+- 2513406 — Santa Luzia/PB — Brasão
+- 2513406 — Santa Luzia/PB — Bandeira
+- 2513505 — Santana de Mangueira/PB — Brasão
+- 2513505 — Santana de Mangueira/PB — Bandeira
+- 2513604 — Santana dos Garrotes/PB — Brasão
+- 2513604 — Santana dos Garrotes/PB — Bandeira
+- 2513653 — Joca Claudino/PB — Brasão
+- 2513653 — Joca Claudino/PB — Bandeira
+- 2513703 — Santa Rita/PB — Brasão
+- 2513703 — Santa Rita/PB — Bandeira
+- 2513802 — Santa Teresinha/PB — Brasão
+- 2513802 — Santa Teresinha/PB — Bandeira
+- 2513851 — Santo André/PB — Brasão
+- 2513851 — Santo André/PB — Bandeira
+- 2513901 — São Bento/PB — Brasão
+- 2513901 — São Bento/PB — Bandeira
+- 2513927 — São Bentinho/PB — Brasão
+- 2513927 — São Bentinho/PB — Bandeira
+- 2513943 — São Domingos do Cariri/PB — Brasão
+- 2513968 — São Domingos/PB — Brasão
+- 2513968 — São Domingos/PB — Bandeira
+- 2513984 — São Francisco/PB — Brasão
+- 2513984 — São Francisco/PB — Bandeira
+- 2514008 — São João do Cariri/PB — Brasão
+- 2514008 — São João do Cariri/PB — Bandeira
+- 2514107 — São João do Tigre/PB — Brasão
+- 2514107 — São João do Tigre/PB — Bandeira
+- 2514206 — São José da Lagoa Tapada/PB — Brasão
+- 2514206 — São José da Lagoa Tapada/PB — Bandeira
+- 2514404 — São José de Espinharas/PB — Brasão
+- 2514404 — São José de Espinharas/PB — Bandeira
+- 2514453 — São José dos Ramos/PB — Brasão
+- 2514503 — São José de Piranhas/PB — Brasão
+- 2514552 — São José de Princesa/PB — Brasão
+- 2514552 — São José de Princesa/PB — Bandeira
+- 2514602 — São José do Bonfim/PB — Brasão
+- 2514602 — São José do Bonfim/PB — Bandeira
+- 2514651 — São José do Brejo do Cruz/PB — Brasão
+- 2514651 — São José do Brejo do Cruz/PB — Bandeira
+- 2514701 — São José do Sabugi/PB — Brasão
+- 2514701 — São José do Sabugi/PB — Bandeira
+- 2514800 — São José dos Cordeiros/PB — Brasão
+- 2514800 — São José dos Cordeiros/PB — Bandeira
+- 2514909 — São Mamede/PB — Brasão
+- 2514909 — São Mamede/PB — Bandeira
+- 2515005 — São Miguel de Taipu/PB — Brasão
+- 2515005 — São Miguel de Taipu/PB — Bandeira
+- 2515104 — São Sebastião de Lagoa de Roça/PB — Brasão
+- 2515104 — São Sebastião de Lagoa de Roça/PB — Bandeira
+- 2515203 — São Sebastião do Umbuzeiro/PB — Brasão
+- 2515203 — São Sebastião do Umbuzeiro/PB — Bandeira
+- 2515302 — Sapé/PB — Brasão
+- 2515302 — Sapé/PB — Bandeira
+- 2515401 — São Vicente do Seridó/PB — Brasão
+- 2515401 — São Vicente do Seridó/PB — Bandeira
+- 2515500 — Serra Branca/PB — Brasão
+- 2515500 — Serra Branca/PB — Bandeira
+- 2515609 — Serra da Raiz/PB — Brasão
+- 2515609 — Serra da Raiz/PB — Bandeira
+- 2515708 — Serra Grande/PB — Brasão
+- 2515807 — Serra Redonda/PB — Brasão
+- 2515807 — Serra Redonda/PB — Bandeira
+- 2515906 — Serraria/PB — Brasão
+- 2515906 — Serraria/PB — Bandeira
+- 2515930 — Sertãozinho/PB — Brasão
+- 2515930 — Sertãozinho/PB — Bandeira
+- 2515971 — Sobrado/PB — Brasão
+- 2515971 — Sobrado/PB — Bandeira
+- 2516003 — Solânea/PB — Brasão
+- 2516003 — Solânea/PB — Bandeira
+- 2516102 — Soledade/PB — Brasão
+- 2516102 — Soledade/PB — Bandeira
+- 2516151 — Sossêgo/PB — Brasão
+- 2516151 — Sossêgo/PB — Bandeira
+- 2516201 — Sousa/PB — Brasão
+- 2516201 — Sousa/PB — Bandeira
+- 2516300 — Sumé/PB — Brasão
+- 2516409 — Tacima/PB — Brasão
+- 2516409 — Tacima/PB — Bandeira
+- 2516508 — Taperoá/PB — Brasão
+- 2516508 — Taperoá/PB — Bandeira
+- 2516607 — Tavares/PB — Brasão
+- 2516607 — Tavares/PB — Bandeira
+- 2516706 — Teixeira/PB — Brasão
+- 2516706 — Teixeira/PB — Bandeira
+- 2516755 — Tenório/PB — Brasão
+- 2516755 — Tenório/PB — Bandeira
+- 2516805 — Triunfo/PB — Brasão
+- 2516805 — Triunfo/PB — Bandeira
+- 2516904 — Uiraúna/PB — Brasão
+- 2516904 — Uiraúna/PB — Bandeira
+- 2517001 — Umbuzeiro/PB — Brasão
+- 2517001 — Umbuzeiro/PB — Bandeira
+- 2517100 — Várzea/PB — Brasão
+- 2517100 — Várzea/PB — Bandeira
+- 2517209 — Vieirópolis/PB — Brasão
+- 2517407 — Zabelê/PB — Brasão
+- 2517407 — Zabelê/PB — Bandeira
+- 2600054 — Abreu e Lima/PE — Brasão
+- 2600054 — Abreu e Lima/PE — Bandeira
+- 2600104 — Afogados da Ingazeira/PE — Brasão
+- 2600203 — Afrânio/PE — Brasão
+- 2600203 — Afrânio/PE — Bandeira
+- 2600302 — Agrestina/PE — Brasão
+- 2600302 — Agrestina/PE — Bandeira
+- 2600401 — Água Preta/PE — Brasão
+- 2600401 — Água Preta/PE — Bandeira
+- 2600500 — Águas Belas/PE — Brasão
+- 2600500 — Águas Belas/PE — Bandeira
+- 2600609 — Alagoinha/PE — Brasão
+- 2600609 — Alagoinha/PE — Bandeira
+- 2600708 — Aliança/PE — Brasão
+- 2600708 — Aliança/PE — Bandeira
+- 2600807 — Altinho/PE — Brasão
+- 2600807 — Altinho/PE — Bandeira
+- 2600906 — Amaraji/PE — Brasão
+- 2600906 — Amaraji/PE — Bandeira
+- 2601003 — Angelim/PE — Brasão
+- 2601003 — Angelim/PE — Bandeira
+- 2601052 — Araçoiaba/PE — Brasão
+- 2601052 — Araçoiaba/PE — Bandeira
+- 2601102 — Araripina/PE — Brasão
+- 2601102 — Araripina/PE — Bandeira
+- 2601201 — Arcoverde/PE — Brasão
+- 2601201 — Arcoverde/PE — Bandeira
+- 2601300 — Barra de Guabiraba/PE — Brasão
+- 2601300 — Barra de Guabiraba/PE — Bandeira
+- 2601409 — Barreiros/PE — Brasão
+- 2601508 — Belém de Maria/PE — Brasão
+- 2601607 — Belém do São Francisco/PE — Brasão
+- 2601607 — Belém do São Francisco/PE — Bandeira
+- 2601706 — Belo Jardim/PE — Brasão
+- 2601904 — Bezerros/PE — Brasão
+- 2602001 — Bodocó/PE — Brasão
+- 2602001 — Bodocó/PE — Bandeira
+- 2602100 — Bom Conselho/PE — Brasão
+- 2602100 — Bom Conselho/PE — Bandeira
+- 2602209 — Bom Jardim/PE — Brasão
+- 2602209 — Bom Jardim/PE — Bandeira
+- 2602506 — Brejinho/PE — Brasão
+- 2602605 — Brejo da Madre de Deus/PE — Brasão
+- 2602605 — Brejo da Madre de Deus/PE — Bandeira
+- 2602803 — Buíque/PE — Brasão
+- 2602803 — Buíque/PE — Bandeira
+- 2602902 — Cabo de Santo Agostinho/PE — Brasão
+- 2602902 — Cabo de Santo Agostinho/PE — Bandeira
+- 2603009 — Cabrobó/PE — Brasão
+- 2603009 — Cabrobó/PE — Bandeira
+- 2603108 — Cachoeirinha/PE — Brasão
+- 2603108 — Cachoeirinha/PE — Bandeira
+- 2603207 — Caetés/PE — Brasão
+- 2603207 — Caetés/PE — Bandeira
+- 2603306 — Calçado/PE — Brasão
+- 2603306 — Calçado/PE — Bandeira
+- 2603405 — Calumbi/PE — Brasão
+- 2603405 — Calumbi/PE — Bandeira
+- 2603454 — Camaragibe/PE — Bandeira
+- 2603504 — Camocim de São Félix/PE — Brasão
+- 2603504 — Camocim de São Félix/PE — Bandeira
+- 2603603 — Camutanga/PE — Brasão
+- 2603603 — Camutanga/PE — Bandeira
+- 2603702 — Canhotinho/PE — Brasão
+- 2603702 — Canhotinho/PE — Bandeira
+- 2603801 — Capoeiras/PE — Brasão
+- 2603801 — Capoeiras/PE — Bandeira
+- 2603900 — Carnaíba/PE — Brasão
+- 2603900 — Carnaíba/PE — Bandeira
+- 2603926 — Carnaubeira da Penha/PE — Brasão
+- 2603926 — Carnaubeira da Penha/PE — Bandeira
+- 2604007 — Carpina/PE — Brasão
+- 2604007 — Carpina/PE — Bandeira
+- 2604106 — Caruaru/PE — Brasão
+- 2604106 — Caruaru/PE — Bandeira
+- 2604155 — Casinhas/PE — Brasão
+- 2604205 — Catende/PE — Brasão
+- 2604205 — Catende/PE — Bandeira
+- 2604304 — Cedro/PE — Bandeira
+- 2604403 — Chã de Alegria/PE — Brasão
+- 2604403 — Chã de Alegria/PE — Bandeira
+- 2604502 — Chã Grande/PE — Bandeira
+- 2604601 — Condado/PE — Brasão
+- 2604601 — Condado/PE — Bandeira
+- 2604700 — Correntes/PE — Brasão
+- 2604700 — Correntes/PE — Bandeira
+- 2604809 — Cortês/PE — Brasão
+- 2604809 — Cortês/PE — Bandeira
+- 2604908 — Cumaru/PE — Brasão
+- 2604908 — Cumaru/PE — Bandeira
+- 2605004 — Cupira/PE — Brasão
+- 2605004 — Cupira/PE — Bandeira
+- 2605103 — Custódia/PE — Bandeira
+- 2605152 — Dormentes/PE — Brasão
+- 2605152 — Dormentes/PE — Bandeira
+- 2605202 — Escada/PE — Brasão
+- 2605202 — Escada/PE — Bandeira
+- 2605301 — Exu/PE — Brasão
+- 2605301 — Exu/PE — Bandeira
+- 2605400 — Feira Nova/PE — Brasão
+- 2605400 — Feira Nova/PE — Bandeira
+- 2605509 — Ferreiros/PE — Brasão
+- 2605509 — Ferreiros/PE — Bandeira
+- 2605608 — Flores/PE — Brasão
+- 2605608 — Flores/PE — Bandeira
+- 2605707 — Floresta/PE — Brasão
+- 2605707 — Floresta/PE — Bandeira
+- 2605806 — Frei Miguelinho/PE — Brasão
+- 2605806 — Frei Miguelinho/PE — Bandeira
+- 2605905 — Gameleira/PE — Brasão
+- 2605905 — Gameleira/PE — Bandeira
+- 2606002 — Garanhuns/PE — Brasão
+- 2606002 — Garanhuns/PE — Bandeira
+- 2606101 — Glória do Goitá/PE — Brasão
+- 2606101 — Glória do Goitá/PE — Bandeira
+- 2606200 — Goiana/PE — Brasão
+- 2606200 — Goiana/PE — Bandeira
+- 2606309 — Granito/PE — Brasão
+- 2606309 — Granito/PE — Bandeira
+- 2606408 — Gravatá/PE — Brasão
+- 2606408 — Gravatá/PE — Bandeira
+- 2606507 — Iati/PE — Brasão
+- 2606507 — Iati/PE — Bandeira
+- 2606606 — Ibimirim/PE — Brasão
+- 2606606 — Ibimirim/PE — Bandeira
+- 2606705 — Ibirajuba/PE — Brasão
+- 2606705 — Ibirajuba/PE — Bandeira
+- 2606804 — Igarassu/PE — Brasão
+- 2606804 — Igarassu/PE — Bandeira
+- 2606903 — Iguaracy/PE — Bandeira
+- 2607000 — Inajá/PE — Brasão
+- 2607000 — Inajá/PE — Bandeira
+- 2607109 — Ingazeira/PE — Brasão
+- 2607109 — Ingazeira/PE — Bandeira
+- 2607208 — Ipojuca/PE — Brasão
+- 2607208 — Ipojuca/PE — Bandeira
+- 2607307 — Ipubi/PE — Brasão
+- 2607307 — Ipubi/PE — Bandeira
+- 2607406 — Itacuruba/PE — Brasão
+- 2607406 — Itacuruba/PE — Bandeira
+- 2607505 — Itaíba/PE — Bandeira
+- 2607604 — Ilha de Itamaracá/PE — Brasão
+- 2607604 — Ilha de Itamaracá/PE — Bandeira
+- 2607653 — Itambé/PE — Brasão
+- 2607752 — Itapissuma/PE — Brasão
+- 2607752 — Itapissuma/PE — Bandeira
+- 2607802 — Itaquitinga/PE — Brasão
+- 2607802 — Itaquitinga/PE — Bandeira
+- 2607901 — Jaboatão dos Guararapes/PE — Brasão
+- 2607901 — Jaboatão dos Guararapes/PE — Bandeira
+- 2607950 — Jaqueira/PE — Brasão
+- 2607950 — Jaqueira/PE — Bandeira
+- 2608057 — Jatobá/PE — Brasão
+- 2608057 — Jatobá/PE — Bandeira
+- 2608107 — João Alfredo/PE — Bandeira
+- 2608206 — Joaquim Nabuco/PE — Bandeira
+- 2608255 — Jucati/PE — Brasão
+- 2608255 — Jucati/PE — Bandeira
+- 2608305 — Jupi/PE — Brasão
+- 2608404 — Jurema/PE — Bandeira
+- 2608453 — Lagoa do Carro/PE — Brasão
+- 2608453 — Lagoa do Carro/PE — Bandeira
+- 2608503 — Lagoa de Itaenga/PE — Brasão
+- 2608503 — Lagoa de Itaenga/PE — Bandeira
+- 2608602 — Lagoa do Ouro/PE — Brasão
+- 2608602 — Lagoa do Ouro/PE — Bandeira
+- 2608701 — Lagoa dos Gatos/PE — Brasão
+- 2608701 — Lagoa dos Gatos/PE — Bandeira
+- 2608750 — Lagoa Grande/PE — Brasão
+- 2608750 — Lagoa Grande/PE — Bandeira
+- 2608800 — Lajedo/PE — Brasão
+- 2608800 — Lajedo/PE — Bandeira
+- 2608909 — Limoeiro/PE — Brasão
+- 2608909 — Limoeiro/PE — Bandeira
+- 2609006 — Macaparana/PE — Bandeira
+- 2609105 — Machados/PE — Brasão
+- 2609105 — Machados/PE — Bandeira
+- 2609154 — Manari/PE — Bandeira
+- 2609204 — Maraial/PE — Bandeira
+- 2609303 — Mirandiba/PE — Brasão
+- 2609303 — Mirandiba/PE — Bandeira
+- 2609402 — Moreno/PE — Brasão
+- 2609402 — Moreno/PE — Bandeira
+- 2609501 — Nazaré da Mata/PE — Brasão
+- 2609501 — Nazaré da Mata/PE — Bandeira
+- 2609600 — Olinda/PE — Brasão
+- 2609600 — Olinda/PE — Bandeira
+- 2609709 — Orobó/PE — Brasão
+- 2609709 — Orobó/PE — Bandeira
+- 2609808 — Orocó/PE — Brasão
+- 2609808 — Orocó/PE — Bandeira
+- 2609907 — Ouricuri/PE — Brasão
+- 2609907 — Ouricuri/PE — Bandeira
+- 2610004 — Palmares/PE — Brasão
+- 2610004 — Palmares/PE — Bandeira
+- 2610103 — Palmeirina/PE — Brasão
+- 2610103 — Palmeirina/PE — Bandeira
+- 2610202 — Panelas/PE — Brasão
+- 2610202 — Panelas/PE — Bandeira
+- 2610301 — Paranatama/PE — Bandeira
+- 2610400 — Parnamirim/PE — Brasão
+- 2610400 — Parnamirim/PE — Bandeira
+- 2610509 — Passira/PE — Brasão
+- 2610509 — Passira/PE — Bandeira
+- 2610608 — Paudalho/PE — Brasão
+- 2610608 — Paudalho/PE — Bandeira
+- 2610707 — Paulista/PE — Brasão
+- 2610707 — Paulista/PE — Bandeira
+- 2610806 — Pedra/PE — Bandeira
+- 2610905 — Pesqueira/PE — Brasão
+- 2610905 — Pesqueira/PE — Bandeira
+- 2611002 — Petrolândia/PE — Brasão
+- 2611002 — Petrolândia/PE — Bandeira
+- 2611101 — Petrolina/PE — Brasão
+- 2611101 — Petrolina/PE — Bandeira
+- 2611200 — Poção/PE — Brasão
+- 2611200 — Poção/PE — Bandeira
+- 2611309 — Pombos/PE — Brasão
+- 2611309 — Pombos/PE — Bandeira
+- 2611408 — Primavera/PE — Brasão
+- 2611408 — Primavera/PE — Bandeira
+- 2611507 — Quipapá/PE — Brasão
+- 2611507 — Quipapá/PE — Bandeira
+- 2611533 — Quixaba/PE — Brasão
+- 2611533 — Quixaba/PE — Bandeira
+- 2611606 — Recife/PE — Brasão
+- 2611606 — Recife/PE — Bandeira
+- 2611705 — Riacho das Almas/PE — Bandeira
+- 2611804 — Ribeirão/PE — Brasão
+- 2611804 — Ribeirão/PE — Bandeira
+- 2611903 — Rio Formoso/PE — Bandeira
+- 2612000 — Sairé/PE — Brasão
+- 2612000 — Sairé/PE — Bandeira
+- 2612109 — Salgadinho/PE — Bandeira
+- 2612208 — Salgueiro/PE — Brasão
+- 2612208 — Salgueiro/PE — Bandeira
+- 2612307 — Saloá/PE — Brasão
+- 2612307 — Saloá/PE — Bandeira
+- 2612406 — Sanharó/PE — Brasão
+- 2612406 — Sanharó/PE — Bandeira
+- 2612455 — Santa Cruz/PE — Bandeira
+- 2612471 — Santa Cruz da Baixa Verde/PE — Brasão
+- 2612471 — Santa Cruz da Baixa Verde/PE — Bandeira
+- 2612505 — Santa Cruz do Capibaribe/PE — Brasão
+- 2612505 — Santa Cruz do Capibaribe/PE — Bandeira
+- 2612554 — Santa Filomena/PE — Bandeira
+- 2612604 — Santa Maria da Boa Vista/PE — Brasão
+- 2612604 — Santa Maria da Boa Vista/PE — Bandeira
+- 2612703 — Santa Maria do Cambucá/PE — Brasão
+- 2612703 — Santa Maria do Cambucá/PE — Bandeira
+- 2612802 — Santa Terezinha/PE — Brasão
+- 2612802 — Santa Terezinha/PE — Bandeira
+- 2612901 — São Benedito do Sul/PE — Bandeira
+- 2613008 — São Bento do Una/PE — Brasão
+- 2613008 — São Bento do Una/PE — Bandeira
+- 2613206 — São João/PE — Brasão
+- 2613206 — São João/PE — Bandeira
+- 2613305 — São Joaquim do Monte/PE — Brasão
+- 2613305 — São Joaquim do Monte/PE — Bandeira
+- 2613404 — São José da Coroa Grande/PE — Brasão
+- 2613404 — São José da Coroa Grande/PE — Bandeira
+- 2613503 — São José do Belmonte/PE — Brasão
+- 2613503 — São José do Belmonte/PE — Bandeira
+- 2613602 — São José do Egito/PE — Brasão
+- 2613602 — São José do Egito/PE — Bandeira
+- 2613701 — São Lourenço da Mata/PE — Brasão
+- 2613701 — São Lourenço da Mata/PE — Bandeira
+- 2613800 — São Vicente Férrer/PE — Brasão
+- 2613800 — São Vicente Férrer/PE — Bandeira
+- 2613909 — Serra Talhada/PE — Brasão
+- 2613909 — Serra Talhada/PE — Bandeira
+- 2614006 — Serrita/PE — Bandeira
+- 2614105 — Sertânia/PE — Brasão
+- 2614105 — Sertânia/PE — Bandeira
+- 2614204 — Sirinhaém/PE — Brasão
+- 2614204 — Sirinhaém/PE — Bandeira
+- 2614303 — Moreilândia/PE — Bandeira
+- 2614402 — Solidão/PE — Brasão
+- 2614402 — Solidão/PE — Bandeira
+- 2614501 — Surubim/PE — Brasão
+- 2614501 — Surubim/PE — Bandeira
+- 2614600 — Tabira/PE — Brasão
+- 2614600 — Tabira/PE — Bandeira
+- 2614709 — Tacaimbó/PE — Brasão
+- 2614709 — Tacaimbó/PE — Bandeira
+- 2614808 — Tacaratu/PE — Brasão
+- 2614808 — Tacaratu/PE — Bandeira
+- 2614857 — Tamandaré/PE — Brasão
+- 2614857 — Tamandaré/PE — Bandeira
+- 2615003 — Taquaritinga do Norte/PE — Brasão
+- 2615003 — Taquaritinga do Norte/PE — Bandeira
+- 2615102 — Terezinha/PE — Brasão
+- 2615102 — Terezinha/PE — Bandeira
+- 2615201 — Terra Nova/PE — Bandeira
+- 2615409 — Toritama/PE — Bandeira
+- 2615508 — Tracunhaém/PE — Brasão
+- 2615508 — Tracunhaém/PE — Bandeira
+- 2615607 — Trindade/PE — Bandeira
+- 2615706 — Triunfo/PE — Brasão
+- 2615706 — Triunfo/PE — Bandeira
+- 2615805 — Tupanatinga/PE — Brasão
+- 2615805 — Tupanatinga/PE — Bandeira
+- 2615904 — Tuparetama/PE — Brasão
+- 2615904 — Tuparetama/PE — Bandeira
+- 2616001 — Venturosa/PE — Brasão
+- 2616001 — Venturosa/PE — Bandeira
+- 2616100 — Verdejante/PE — Brasão
+- 2616100 — Verdejante/PE — Bandeira
+- 2616183 — Vertente do Lério/PE — Brasão
+- 2616183 — Vertente do Lério/PE — Bandeira
+- 2616209 — Vertentes/PE — Brasão
+- 2616209 — Vertentes/PE — Bandeira
+- 2616308 — Vicência/PE — Brasão
+- 2616308 — Vicência/PE — Bandeira
+- 2616407 — Vitória de Santo Antão/PE — Brasão
+- 2616407 — Vitória de Santo Antão/PE — Bandeira
+- 2616506 — Xexéu/PE — Brasão
+- 2616506 — Xexéu/PE — Bandeira
+- 2700102 — Água Branca/AL — Brasão
+- 2700102 — Água Branca/AL — Bandeira
+- 2700201 — Anadia/AL — Brasão
+- 2700201 — Anadia/AL — Bandeira
+- 2700300 — Arapiraca/AL — Brasão
+- 2700300 — Arapiraca/AL — Bandeira
+- 2700409 — Atalaia/AL — Bandeira
+- 2700508 — Barra de Santo Antônio/AL — Brasão
+- 2700508 — Barra de Santo Antônio/AL — Bandeira
+- 2700607 — Barra de São Miguel/AL — Brasão
+- 2700607 — Barra de São Miguel/AL — Bandeira
+- 2700706 — Batalha/AL — Brasão
+- 2700706 — Batalha/AL — Bandeira
+- 2700805 — Belém/AL — Brasão
+- 2700805 — Belém/AL — Bandeira
+- 2700904 — Belo Monte/AL — Brasão
+- 2700904 — Belo Monte/AL — Bandeira
+- 2701001 — Boca da Mata/AL — Bandeira
+- 2701209 — Cacimbinhas/AL — Brasão
+- 2701209 — Cacimbinhas/AL — Bandeira
+- 2701308 — Cajueiro/AL — Brasão
+- 2701308 — Cajueiro/AL — Bandeira
+- 2701357 — Campestre/AL — Brasão
+- 2701357 — Campestre/AL — Bandeira
+- 2701407 — Campo Alegre/AL — Brasão
+- 2701407 — Campo Alegre/AL — Bandeira
+- 2701506 — Campo Grande/AL — Bandeira
+- 2701605 — Canapi/AL — Bandeira
+- 2701704 — Capela/AL — Brasão
+- 2701704 — Capela/AL — Bandeira
+- 2701803 — Carneiros/AL — Brasão
+- 2701803 — Carneiros/AL — Bandeira
+- 2701902 — Chã Preta/AL — Brasão
+- 2701902 — Chã Preta/AL — Bandeira
+- 2702009 — Coité do Nóia/AL — Brasão
+- 2702009 — Coité do Nóia/AL — Bandeira
+- 2702108 — Colônia Leopoldina/AL — Brasão
+- 2702108 — Colônia Leopoldina/AL — Bandeira
+- 2702207 — Coqueiro Seco/AL — Brasão
+- 2702207 — Coqueiro Seco/AL — Bandeira
+- 2702306 — Coruripe/AL — Brasão
+- 2702306 — Coruripe/AL — Bandeira
+- 2702355 — Craíbas/AL — Brasão
+- 2702355 — Craíbas/AL — Bandeira
+- 2702405 — Delmiro Gouveia/AL — Brasão
+- 2702405 — Delmiro Gouveia/AL — Bandeira
+- 2702504 — Dois Riachos/AL — Brasão
+- 2702504 — Dois Riachos/AL — Bandeira
+- 2702553 — Estrela de Alagoas/AL — Bandeira
+- 2702603 — Feira Grande/AL — Bandeira
+- 2702702 — Feliz Deserto/AL — Bandeira
+- 2702801 — Flexeiras/AL — Brasão
+- 2702801 — Flexeiras/AL — Bandeira
+- 2702900 — Girau do Ponciano/AL — Brasão
+- 2702900 — Girau do Ponciano/AL — Bandeira
+- 2703007 — Ibateguara/AL — Brasão
+- 2703007 — Ibateguara/AL — Bandeira
+- 2703106 — Igaci/AL — Brasão
+- 2703205 — Igreja Nova/AL — Bandeira
+- 2703304 — Inhapi/AL — Brasão
+- 2703304 — Inhapi/AL — Bandeira
+- 2703403 — Jacaré dos Homens/AL — Bandeira
+- 2703502 — Jacuípe/AL — Brasão
+- 2703502 — Jacuípe/AL — Bandeira
+- 2703601 — Japaratinga/AL — Brasão
+- 2703601 — Japaratinga/AL — Bandeira
+- 2703700 — Jaramataia/AL — Brasão
+- 2703700 — Jaramataia/AL — Bandeira
+- 2703759 — Jequiá da Praia/AL — Brasão
+- 2703759 — Jequiá da Praia/AL — Bandeira
+- 2703809 — Joaquim Gomes/AL — Bandeira
+- 2703908 — Jundiá/AL — Bandeira
+- 2704005 — Junqueiro/AL — Bandeira
+- 2704104 — Lagoa da Canoa/AL — Brasão
+- 2704104 — Lagoa da Canoa/AL — Bandeira
+- 2704203 — Limoeiro de Anadia/AL — Brasão
+- 2704302 — Maceió/AL — Brasão
+- 2704302 — Maceió/AL — Bandeira
+- 2704500 — Maragogi/AL — Brasão
+- 2704500 — Maragogi/AL — Bandeira
+- 2704609 — Maravilha/AL — Bandeira
+- 2704708 — Marechal Deodoro/AL — Brasão
+- 2704708 — Marechal Deodoro/AL — Bandeira
+- 2704906 — Mar Vermelho/AL — Bandeira
+- 2705002 — Mata Grande/AL — Bandeira
+- 2705101 — Matriz de Camaragibe/AL — Brasão
+- 2705101 — Matriz de Camaragibe/AL — Bandeira
+- 2705309 — Minador do Negrão/AL — Brasão
+- 2705309 — Minador do Negrão/AL — Bandeira
+- 2705507 — Murici/AL — Brasão
+- 2705507 — Murici/AL — Bandeira
+- 2705606 — Novo Lino/AL — Brasão
+- 2705606 — Novo Lino/AL — Bandeira
+- 2705705 — Olho d'Água das Flores/AL — Brasão
+- 2705705 — Olho d'Água das Flores/AL — Bandeira
+- 2705903 — Olho d'Água Grande/AL — Brasão
+- 2705903 — Olho d'Água Grande/AL — Bandeira
+- 2706000 — Olivença/AL — Brasão
+- 2706000 — Olivença/AL — Bandeira
+- 2706109 — Ouro Branco/AL — Brasão
+- 2706109 — Ouro Branco/AL — Bandeira
+- 2706307 — Palmeira dos Índios/AL — Brasão
+- 2706307 — Palmeira dos Índios/AL — Bandeira
+- 2706406 — Pão de Açúcar/AL — Brasão
+- 2706406 — Pão de Açúcar/AL — Bandeira
+- 2706448 — Paripueira/AL — Brasão
+- 2706448 — Paripueira/AL — Bandeira
+- 2706703 — Penedo/AL — Brasão
+- 2706703 — Penedo/AL — Bandeira
+- 2706802 — Piaçabuçu/AL — Brasão
+- 2706802 — Piaçabuçu/AL — Bandeira
+- 2706901 — Pilar/AL — Bandeira
+- 2707107 — Piranhas/AL — Brasão
+- 2707107 — Piranhas/AL — Bandeira
+- 2707206 — Poço das Trincheiras/AL — Brasão
+- 2707206 — Poço das Trincheiras/AL — Bandeira
+- 2707305 — Porto Calvo/AL — Bandeira
+- 2707404 — Porto de Pedras/AL — Brasão
+- 2707404 — Porto de Pedras/AL — Bandeira
+- 2707503 — Porto Real do Colégio/AL — Brasão
+- 2707503 — Porto Real do Colégio/AL — Bandeira
+- 2707602 — Quebrangulo/AL — Brasão
+- 2707602 — Quebrangulo/AL — Bandeira
+- 2707701 — Rio Largo/AL — Bandeira
+- 2707800 — Roteiro/AL — Bandeira
+- 2707909 — Santa Luzia do Norte/AL — Brasão
+- 2707909 — Santa Luzia do Norte/AL — Bandeira
+- 2708006 — Santana do Ipanema/AL — Brasão
+- 2708006 — Santana do Ipanema/AL — Bandeira
+- 2708105 — Santana do Mundaú/AL — Brasão
+- 2708105 — Santana do Mundaú/AL — Bandeira
+- 2708204 — São Brás/AL — Bandeira
+- 2708303 — São José da Laje/AL — Brasão
+- 2708303 — São José da Laje/AL — Bandeira
+- 2708402 — São José da Tapera/AL — Bandeira
+- 2708501 — São Luís do Quitunde/AL — Brasão
+- 2708501 — São Luís do Quitunde/AL — Bandeira
+- 2708600 — São Miguel dos Campos/AL — Brasão
+- 2708600 — São Miguel dos Campos/AL — Bandeira
+- 2708709 — São Miguel dos Milagres/AL — Bandeira
+- 2708808 — São Sebastião/AL — Bandeira
+- 2708907 — Satuba/AL — Brasão
+- 2708907 — Satuba/AL — Bandeira
+- 2708956 — Senador Rui Palmeira/AL — Brasão
+- 2708956 — Senador Rui Palmeira/AL — Bandeira
+- 2709004 — Tanque d'Arca/AL — Bandeira
+- 2709103 — Taquarana/AL — Brasão
+- 2709103 — Taquarana/AL — Bandeira
+- 2709152 — Teotônio Vilela/AL — Brasão
+- 2709152 — Teotônio Vilela/AL — Bandeira
+- 2709202 — Traipu/AL — Brasão
+- 2709202 — Traipu/AL — Bandeira
+- 2709301 — União dos Palmares/AL — Brasão
+- 2709301 — União dos Palmares/AL — Bandeira
+- 2709400 — Viçosa/AL — Brasão
+- 2709400 — Viçosa/AL — Bandeira
+- 2800100 — Amparo do São Francisco/SE — Brasão
+- 2800209 — Aquidabã/SE — Brasão
+- 2800209 — Aquidabã/SE — Bandeira
+- 2800308 — Aracaju/SE — Brasão
+- 2800407 — Arauá/SE — Brasão
+- 2800407 — Arauá/SE — Bandeira
+- 2800506 — Areia Branca/SE — Brasão
+- 2800605 — Barra dos Coqueiros/SE — Brasão
+- 2800605 — Barra dos Coqueiros/SE — Bandeira
+- 2800670 — Boquim/SE — Brasão
+- 2800670 — Boquim/SE — Bandeira
+- 2800704 — Brejo Grande/SE — Brasão
+- 2800704 — Brejo Grande/SE — Bandeira
+- 2801009 — Campo do Brito/SE — Brasão
+- 2801009 — Campo do Brito/SE — Bandeira
+- 2801108 — Canhoba/SE — Brasão
+- 2801108 — Canhoba/SE — Bandeira
+- 2801207 — Canindé de São Francisco/SE — Brasão
+- 2801306 — Capela/SE — Brasão
+- 2801306 — Capela/SE — Bandeira
+- 2801405 — Carira/SE — Brasão
+- 2801405 — Carira/SE — Bandeira
+- 2801504 — Carmópolis/SE — Brasão
+- 2801504 — Carmópolis/SE — Bandeira
+- 2801603 — Cedro de São João/SE — Brasão
+- 2801603 — Cedro de São João/SE — Bandeira
+- 2801702 — Cristinápolis/SE — Brasão
+- 2801702 — Cristinápolis/SE — Bandeira
+- 2801900 — Cumbe/SE — Brasão
+- 2801900 — Cumbe/SE — Bandeira
+- 2802007 — Divina Pastora/SE — Brasão
+- 2802007 — Divina Pastora/SE — Bandeira
+- 2802106 — Estância/SE — Brasão
+- 2802106 — Estância/SE — Bandeira
+- 2802205 — Feira Nova/SE — Brasão
+- 2802304 — Frei Paulo/SE — Brasão
+- 2802304 — Frei Paulo/SE — Bandeira
+- 2802403 — Gararu/SE — Brasão
+- 2802403 — Gararu/SE — Bandeira
+- 2802502 — General Maynard/SE — Brasão
+- 2802601 — Graccho Cardoso/SE — Brasão
+- 2802700 — Ilha das Flores/SE — Brasão
+- 2802700 — Ilha das Flores/SE — Bandeira
+- 2802809 — Indiaroba/SE — Brasão
+- 2802908 — Itabaiana/SE — Brasão
+- 2802908 — Itabaiana/SE — Bandeira
+- 2803005 — Itabaianinha/SE — Brasão
+- 2803005 — Itabaianinha/SE — Bandeira
+- 2803104 — Itabi/SE — Brasão
+- 2803104 — Itabi/SE — Bandeira
+- 2803203 — Itaporanga d'Ajuda/SE — Brasão
+- 2803203 — Itaporanga d'Ajuda/SE — Bandeira
+- 2803302 — Japaratuba/SE — Brasão
+- 2803302 — Japaratuba/SE — Bandeira
+- 2803401 — Japoatã/SE — Brasão
+- 2803401 — Japoatã/SE — Bandeira
+- 2803500 — Lagarto/SE — Brasão
+- 2803500 — Lagarto/SE — Bandeira
+- 2803609 — Laranjeiras/SE — Brasão
+- 2803609 — Laranjeiras/SE — Bandeira
+- 2803708 — Macambira/SE — Brasão
+- 2803708 — Macambira/SE — Bandeira
+- 2803807 — Malhada dos Bois/SE — Brasão
+- 2803906 — Malhador/SE — Brasão
+- 2803906 — Malhador/SE — Bandeira
+- 2804003 — Maruim/SE — Brasão
+- 2804003 — Maruim/SE — Bandeira
+- 2804102 — Moita Bonita/SE — Brasão
+- 2804201 — Monte Alegre de Sergipe/SE — Bandeira
+- 2804300 — Muribeca/SE — Brasão
+- 2804300 — Muribeca/SE — Bandeira
+- 2804409 — Neópolis/SE — Brasão
+- 2804458 — Nossa Senhora Aparecida/SE — Brasão
+- 2804458 — Nossa Senhora Aparecida/SE — Bandeira
+- 2804508 — Nossa Senhora da Glória/SE — Brasão
+- 2804508 — Nossa Senhora da Glória/SE — Bandeira
+- 2804607 — Nossa Senhora das Dores/SE — Brasão
+- 2804607 — Nossa Senhora das Dores/SE — Bandeira
+- 2804706 — Nossa Senhora de Lourdes/SE — Brasão
+- 2804805 — Nossa Senhora do Socorro/SE — Brasão
+- 2804805 — Nossa Senhora do Socorro/SE — Bandeira
+- 2804904 — Pacatuba/SE — Brasão
+- 2804904 — Pacatuba/SE — Bandeira
+- 2805109 — Pedrinhas/SE — Brasão
+- 2805109 — Pedrinhas/SE — Bandeira
+- 2805208 — Pinhão/SE — Brasão
+- 2805208 — Pinhão/SE — Bandeira
+- 2805307 — Pirambu/SE — Brasão
+- 2805307 — Pirambu/SE — Bandeira
+- 2805406 — Poço Redondo/SE — Brasão
+- 2805406 — Poço Redondo/SE — Bandeira
+- 2805505 — Poço Verde/SE — Brasão
+- 2805505 — Poço Verde/SE — Bandeira
+- 2805604 — Porto da Folha/SE — Brasão
+- 2805604 — Porto da Folha/SE — Bandeira
+- 2805703 — Propriá/SE — Brasão
+- 2805703 — Propriá/SE — Bandeira
+- 2805802 — Riachão do Dantas/SE — Brasão
+- 2805802 — Riachão do Dantas/SE — Bandeira
+- 2805901 — Riachuelo/SE — Brasão
+- 2805901 — Riachuelo/SE — Bandeira
+- 2806008 — Ribeirópolis/SE — Bandeira
+- 2806107 — Rosário do Catete/SE — Brasão
+- 2806107 — Rosário do Catete/SE — Bandeira
+- 2806206 — Salgado/SE — Brasão
+- 2806206 — Salgado/SE — Bandeira
+- 2806305 — Santa Luzia do Itanhy/SE — Brasão
+- 2806305 — Santa Luzia do Itanhy/SE — Bandeira
+- 2806404 — Santana do São Francisco/SE — Brasão
+- 2806503 — Santa Rosa de Lima/SE — Brasão
+- 2806503 — Santa Rosa de Lima/SE — Bandeira
+- 2806602 — Santo Amaro das Brotas/SE — Brasão
+- 2806602 — Santo Amaro das Brotas/SE — Bandeira
+- 2806701 — São Cristóvão/SE — Brasão
+- 2806701 — São Cristóvão/SE — Bandeira
+- 2806800 — São Domingos/SE — Brasão
+- 2806800 — São Domingos/SE — Bandeira
+- 2806909 — São Francisco/SE — Brasão
+- 2806909 — São Francisco/SE — Bandeira
+- 2807006 — São Miguel do Aleixo/SE — Brasão
+- 2807006 — São Miguel do Aleixo/SE — Bandeira
+- 2807105 — Simão Dias/SE — Brasão
+- 2807105 — Simão Dias/SE — Bandeira
+- 2807204 — Siriri/SE — Brasão
+- 2807204 — Siriri/SE — Bandeira
+- 2807303 — Telha/SE — Brasão
+- 2807303 — Telha/SE — Bandeira
+- 2807402 — Tobias Barreto/SE — Bandeira
+- 2807501 — Tomar do Geru/SE — Brasão
+- 2807501 — Tomar do Geru/SE — Bandeira
+- 2807600 — Umbaúba/SE — Brasão
+- 2807600 — Umbaúba/SE — Bandeira
+- 2900108 — Abaíra/BA — Brasão
+- 2900108 — Abaíra/BA — Bandeira
+- 2900207 — Abaré/BA — Brasão
+- 2900207 — Abaré/BA — Bandeira
+- 2900306 — Acajutiba/BA — Brasão
+- 2900306 — Acajutiba/BA — Bandeira
+- 2900355 — Adustina/BA — Brasão
+- 2900355 — Adustina/BA — Bandeira
+- 2900405 — Água Fria/BA — Bandeira
+- 2900504 — Érico Cardoso/BA — Brasão
+- 2900504 — Érico Cardoso/BA — Bandeira
+- 2900603 — Aiquara/BA — Brasão
+- 2900603 — Aiquara/BA — Bandeira
+- 2900702 — Alagoinhas/BA — Brasão
+- 2900702 — Alagoinhas/BA — Bandeira
+- 2900801 — Alcobaça/BA — Brasão
+- 2900801 — Alcobaça/BA — Bandeira
+- 2900900 — Almadina/BA — Brasão
+- 2900900 — Almadina/BA — Bandeira
+- 2901007 — Amargosa/BA — Bandeira
+- 2901106 — Amélia Rodrigues/BA — Brasão
+- 2901106 — Amélia Rodrigues/BA — Bandeira
+- 2901155 — América Dourada/BA — Brasão
+- 2901205 — Anagé/BA — Brasão
+- 2901205 — Anagé/BA — Bandeira
+- 2901304 — Andaraí/BA — Brasão
+- 2901353 — Andorinha/BA — Brasão
+- 2901353 — Andorinha/BA — Bandeira
+- 2901403 — Angical/BA — Brasão
+- 2901403 — Angical/BA — Bandeira
+- 2901502 — Anguera/BA — Brasão
+- 2901502 — Anguera/BA — Bandeira
+- 2901601 — Antas/BA — Brasão
+- 2901601 — Antas/BA — Bandeira
+- 2901700 — Antônio Cardoso/BA — Brasão
+- 2901700 — Antônio Cardoso/BA — Bandeira
+- 2901809 — Antônio Gonçalves/BA — Brasão
+- 2901809 — Antônio Gonçalves/BA — Bandeira
+- 2901908 — Aporá/BA — Brasão
+- 2901908 — Aporá/BA — Bandeira
+- 2901957 — Apuarema/BA — Brasão
+- 2901957 — Apuarema/BA — Bandeira
+- 2902005 — Aracatu/BA — Brasão
+- 2902005 — Aracatu/BA — Bandeira
+- 2902054 — Araçás/BA — Brasão
+- 2902054 — Araçás/BA — Bandeira
+- 2902104 — Araci/BA — Brasão
+- 2902104 — Araci/BA — Bandeira
+- 2902203 — Aramari/BA — Brasão
+- 2902203 — Aramari/BA — Bandeira
+- 2902252 — Arataca/BA — Brasão
+- 2902252 — Arataca/BA — Bandeira
+- 2902302 — Aratuípe/BA — Brasão
+- 2902401 — Aurelino Leal/BA — Brasão
+- 2902401 — Aurelino Leal/BA — Bandeira
+- 2902500 — Baianópolis/BA — Brasão
+- 2902500 — Baianópolis/BA — Bandeira
+- 2902609 — Baixa Grande/BA — Brasão
+- 2902609 — Baixa Grande/BA — Bandeira
+- 2902658 — Banzaê/BA — Brasão
+- 2902658 — Banzaê/BA — Bandeira
+- 2902708 — Barra/BA — Brasão
+- 2902708 — Barra/BA — Bandeira
+- 2902807 — Barra da Estiva/BA — Brasão
+- 2902807 — Barra da Estiva/BA — Bandeira
+- 2902906 — Barra do Choça/BA — Brasão
+- 2902906 — Barra do Choça/BA — Bandeira
+- 2903003 — Barra do Mendes/BA — Brasão
+- 2903003 — Barra do Mendes/BA — Bandeira
+- 2903102 — Barra do Rocha/BA — Brasão
+- 2903102 — Barra do Rocha/BA — Bandeira
+- 2903201 — Barreiras/BA — Brasão
+- 2903201 — Barreiras/BA — Bandeira
+- 2903235 — Barro Alto/BA — Brasão
+- 2903235 — Barro Alto/BA — Bandeira
+- 2903276 — Barrocas/BA — Brasão
+- 2903276 — Barrocas/BA — Bandeira
+- 2903300 — Barro Preto/BA — Brasão
+- 2903300 — Barro Preto/BA — Bandeira
+- 2903409 — Belmonte/BA — Brasão
+- 2903409 — Belmonte/BA — Bandeira
+- 2903508 — Belo Campo/BA — Brasão
+- 2903508 — Belo Campo/BA — Bandeira
+- 2903607 — Biritinga/BA — Brasão
+- 2903607 — Biritinga/BA — Bandeira
+- 2903706 — Boa Nova/BA — Brasão
+- 2903706 — Boa Nova/BA — Bandeira
+- 2903805 — Boa Vista do Tupim/BA — Brasão
+- 2903805 — Boa Vista do Tupim/BA — Bandeira
+- 2903904 — Bom Jesus da Lapa/BA — Brasão
+- 2903904 — Bom Jesus da Lapa/BA — Bandeira
+- 2903953 — Bom Jesus da Serra/BA — Brasão
+- 2903953 — Bom Jesus da Serra/BA — Bandeira
+- 2904001 — Boninal/BA — Brasão
+- 2904001 — Boninal/BA — Bandeira
+- 2904050 — Bonito/BA — Brasão
+- 2904050 — Bonito/BA — Bandeira
+- 2904100 — Boquira/BA — Brasão
+- 2904100 — Boquira/BA — Bandeira
+- 2904209 — Botuporã/BA — Brasão
+- 2904209 — Botuporã/BA — Bandeira
+- 2904308 — Brejões/BA — Brasão
+- 2904308 — Brejões/BA — Bandeira
+- 2904407 — Brejolândia/BA — Brasão
+- 2904407 — Brejolândia/BA — Bandeira
+- 2904506 — Brotas de Macaúbas/BA — Brasão
+- 2904506 — Brotas de Macaúbas/BA — Bandeira
+- 2904605 — Brumado/BA — Brasão
+- 2904605 — Brumado/BA — Bandeira
+- 2904704 — Buerarema/BA — Brasão
+- 2904704 — Buerarema/BA — Bandeira
+- 2904753 — Buritirama/BA — Brasão
+- 2904753 — Buritirama/BA — Bandeira
+- 2904803 — Caatiba/BA — Brasão
+- 2904803 — Caatiba/BA — Bandeira
+- 2904902 — Cachoeira/BA — Brasão
+- 2904902 — Cachoeira/BA — Bandeira
+- 2905008 — Caculé/BA — Brasão
+- 2905008 — Caculé/BA — Bandeira
+- 2905107 — Caém/BA — Brasão
+- 2905156 — Caetanos/BA — Bandeira
+- 2905206 — Caetité/BA — Brasão
+- 2905206 — Caetité/BA — Bandeira
+- 2905305 — Cafarnaum/BA — Brasão
+- 2905305 — Cafarnaum/BA — Bandeira
+- 2905404 — Cairu/BA — Brasão
+- 2905404 — Cairu/BA — Bandeira
+- 2905503 — Caldeirão Grande/BA — Brasão
+- 2905503 — Caldeirão Grande/BA — Bandeira
+- 2905602 — Camacan/BA — Brasão
+- 2905602 — Camacan/BA — Bandeira
+- 2905701 — Camaçari/BA — Brasão
+- 2905701 — Camaçari/BA — Bandeira
+- 2905800 — Camamu/BA — Brasão
+- 2905800 — Camamu/BA — Bandeira
+- 2905909 — Campo Alegre de Lourdes/BA — Brasão
+- 2905909 — Campo Alegre de Lourdes/BA — Bandeira
+- 2906006 — Campo Formoso/BA — Brasão
+- 2906006 — Campo Formoso/BA — Bandeira
+- 2906105 — Canápolis/BA — Bandeira
+- 2906204 — Canarana/BA — Brasão
+- 2906204 — Canarana/BA — Bandeira
+- 2906303 — Canavieiras/BA — Brasão
+- 2906303 — Canavieiras/BA — Bandeira
+- 2906402 — Candeal/BA — Brasão
+- 2906402 — Candeal/BA — Bandeira
+- 2906501 — Candeias/BA — Brasão
+- 2906501 — Candeias/BA — Bandeira
+- 2906600 — Candiba/BA — Brasão
+- 2906600 — Candiba/BA — Bandeira
+- 2906709 — Cândido Sales/BA — Brasão
+- 2906709 — Cândido Sales/BA — Bandeira
+- 2906808 — Cansanção/BA — Brasão
+- 2906808 — Cansanção/BA — Bandeira
+- 2906824 — Canudos/BA — Brasão
+- 2906824 — Canudos/BA — Bandeira
+- 2906857 — Capela do Alto Alegre/BA — Brasão
+- 2906857 — Capela do Alto Alegre/BA — Bandeira
+- 2906873 — Capim Grosso/BA — Brasão
+- 2906873 — Capim Grosso/BA — Bandeira
+- 2906899 — Caraíbas/BA — Brasão
+- 2906899 — Caraíbas/BA — Bandeira
+- 2906907 — Caravelas/BA — Brasão
+- 2906907 — Caravelas/BA — Bandeira
+- 2907004 — Cardeal da Silva/BA — Bandeira
+- 2907103 — Carinhanha/BA — Brasão
+- 2907103 — Carinhanha/BA — Bandeira
+- 2907202 — Casa Nova/BA — Brasão
+- 2907202 — Casa Nova/BA — Bandeira
+- 2907301 — Castro Alves/BA — Brasão
+- 2907301 — Castro Alves/BA — Bandeira
+- 2907400 — Catolândia/BA — Brasão
+- 2907400 — Catolândia/BA — Bandeira
+- 2907509 — Catu/BA — Brasão
+- 2907509 — Catu/BA — Bandeira
+- 2907558 — Caturama/BA — Brasão
+- 2907558 — Caturama/BA — Bandeira
+- 2907608 — Central/BA — Brasão
+- 2907608 — Central/BA — Bandeira
+- 2907707 — Chorrochó/BA — Brasão
+- 2907707 — Chorrochó/BA — Bandeira
+- 2907806 — Cícero Dantas/BA — Brasão
+- 2907806 — Cícero Dantas/BA — Bandeira
+- 2907905 — Cipó/BA — Brasão
+- 2907905 — Cipó/BA — Bandeira
+- 2908002 — Coaraci/BA — Brasão
+- 2908002 — Coaraci/BA — Bandeira
+- 2908101 — Cocos/BA — Brasão
+- 2908101 — Cocos/BA — Bandeira
+- 2908200 — Conceição da Feira/BA — Brasão
+- 2908200 — Conceição da Feira/BA — Bandeira
+- 2908309 — Conceição do Almeida/BA — Brasão
+- 2908309 — Conceição do Almeida/BA — Bandeira
+- 2908408 — Conceição do Coité/BA — Brasão
+- 2908408 — Conceição do Coité/BA — Bandeira
+- 2908507 — Conceição do Jacuípe/BA — Brasão
+- 2908507 — Conceição do Jacuípe/BA — Bandeira
+- 2908606 — Conde/BA — Brasão
+- 2908606 — Conde/BA — Bandeira
+- 2908705 — Condeúba/BA — Brasão
+- 2908705 — Condeúba/BA — Bandeira
+- 2908804 — Contendas do Sincorá/BA — Bandeira
+- 2908903 — Coração de Maria/BA — Brasão
+- 2908903 — Coração de Maria/BA — Bandeira
+- 2909000 — Cordeiros/BA — Brasão
+- 2909000 — Cordeiros/BA — Bandeira
+- 2909109 — Coribe/BA — Brasão
+- 2909109 — Coribe/BA — Bandeira
+- 2909208 — Coronel João Sá/BA — Brasão
+- 2909208 — Coronel João Sá/BA — Bandeira
+- 2909307 — Correntina/BA — Brasão
+- 2909307 — Correntina/BA — Bandeira
+- 2909406 — Cotegipe/BA — Bandeira
+- 2909505 — Cravolândia/BA — Brasão
+- 2909505 — Cravolândia/BA — Bandeira
+- 2909604 — Crisópolis/BA — Brasão
+- 2909604 — Crisópolis/BA — Bandeira
+- 2909703 — Cristópolis/BA — Brasão
+- 2909703 — Cristópolis/BA — Bandeira
+- 2909802 — Cruz das Almas/BA — Brasão
+- 2909802 — Cruz das Almas/BA — Bandeira
+- 2909901 — Curaçá/BA — Brasão
+- 2909901 — Curaçá/BA — Bandeira
+- 2910008 — Dário Meira/BA — Brasão
+- 2910008 — Dário Meira/BA — Bandeira
+- 2910057 — Dias d'Ávila/BA — Brasão
+- 2910057 — Dias d'Ávila/BA — Bandeira
+- 2910107 — Dom Basílio/BA — Brasão
+- 2910107 — Dom Basílio/BA — Bandeira
+- 2910206 — Dom Macedo Costa/BA — Brasão
+- 2910206 — Dom Macedo Costa/BA — Bandeira
+- 2910305 — Elísio Medrado/BA — Brasão
+- 2910404 — Encruzilhada/BA — Brasão
+- 2910404 — Encruzilhada/BA — Bandeira
+- 2910503 — Entre Rios/BA — Brasão
+- 2910503 — Entre Rios/BA — Bandeira
+- 2910602 — Esplanada/BA — Brasão
+- 2910602 — Esplanada/BA — Bandeira
+- 2910701 — Euclides da Cunha/BA — Brasão
+- 2910701 — Euclides da Cunha/BA — Bandeira
+- 2910727 — Eunápolis/BA — Brasão
+- 2910727 — Eunápolis/BA — Bandeira
+- 2910750 — Fátima/BA — Brasão
+- 2910750 — Fátima/BA — Bandeira
+- 2910776 — Feira da Mata/BA — Brasão
+- 2910776 — Feira da Mata/BA — Bandeira
+- 2910800 — Feira de Santana/BA — Brasão
+- 2910800 — Feira de Santana/BA — Bandeira
+- 2910859 — Filadélfia/BA — Brasão
+- 2910859 — Filadélfia/BA — Bandeira
+- 2910909 — Firmino Alves/BA — Brasão
+- 2910909 — Firmino Alves/BA — Bandeira
+- 2911006 — Floresta Azul/BA — Brasão
+- 2911006 — Floresta Azul/BA — Bandeira
+- 2911105 — Formosa do Rio Preto/BA — Brasão
+- 2911105 — Formosa do Rio Preto/BA — Bandeira
+- 2911204 — Gandu/BA — Brasão
+- 2911204 — Gandu/BA — Bandeira
+- 2911253 — Gavião/BA — Brasão
+- 2911253 — Gavião/BA — Bandeira
+- 2911303 — Gentio do Ouro/BA — Brasão
+- 2911303 — Gentio do Ouro/BA — Bandeira
+- 2911402 — Glória/BA — Brasão
+- 2911402 — Glória/BA — Bandeira
+- 2911501 — Gongogi/BA — Brasão
+- 2911501 — Gongogi/BA — Bandeira
+- 2911600 — Governador Mangabeira/BA — Brasão
+- 2911600 — Governador Mangabeira/BA — Bandeira
+- 2911659 — Guajeru/BA — Brasão
+- 2911659 — Guajeru/BA — Bandeira
+- 2911709 — Guanambi/BA — Brasão
+- 2911709 — Guanambi/BA — Bandeira
+- 2911808 — Guaratinga/BA — Brasão
+- 2911808 — Guaratinga/BA — Bandeira
+- 2911857 — Heliópolis/BA — Brasão
+- 2911857 — Heliópolis/BA — Bandeira
+- 2911907 — Iaçu/BA — Bandeira
+- 2912004 — Ibiassucê/BA — Brasão
+- 2912004 — Ibiassucê/BA — Bandeira
+- 2912103 — Ibicaraí/BA — Brasão
+- 2912103 — Ibicaraí/BA — Bandeira
+- 2912202 — Ibicoara/BA — Brasão
+- 2912202 — Ibicoara/BA — Bandeira
+- 2912301 — Ibicuí/BA — Brasão
+- 2912301 — Ibicuí/BA — Bandeira
+- 2912400 — Ibipeba/BA — Brasão
+- 2912400 — Ibipeba/BA — Bandeira
+- 2912509 — Ibipitanga/BA — Brasão
+- 2912509 — Ibipitanga/BA — Bandeira
+- 2912608 — Ibiquera/BA — Brasão
+- 2912608 — Ibiquera/BA — Bandeira
+- 2912707 — Ibirapitanga/BA — Bandeira
+- 2912806 — Ibirapuã/BA — Brasão
+- 2912806 — Ibirapuã/BA — Bandeira
+- 2912905 — Ibirataia/BA — Brasão
+- 2912905 — Ibirataia/BA — Bandeira
+- 2913002 — Ibitiara/BA — Brasão
+- 2913002 — Ibitiara/BA — Bandeira
+- 2913101 — Ibititá/BA — Brasão
+- 2913101 — Ibititá/BA — Bandeira
+- 2913200 — Ibotirama/BA — Brasão
+- 2913200 — Ibotirama/BA — Bandeira
+- 2913309 — Ichu/BA — Brasão
+- 2913309 — Ichu/BA — Bandeira
+- 2913408 — Igaporã/BA — Brasão
+- 2913408 — Igaporã/BA — Bandeira
+- 2913457 — Igrapiúna/BA — Brasão
+- 2913507 — Iguaí/BA — Brasão
+- 2913507 — Iguaí/BA — Bandeira
+- 2913606 — Ilhéus/BA — Brasão
+- 2913606 — Ilhéus/BA — Bandeira
+- 2913705 — Inhambupe/BA — Brasão
+- 2913705 — Inhambupe/BA — Bandeira
+- 2913804 — Ipecaetá/BA — Brasão
+- 2913804 — Ipecaetá/BA — Bandeira
+- 2913903 — Ipiaú/BA — Brasão
+- 2913903 — Ipiaú/BA — Bandeira
+- 2914000 — Ipirá/BA — Brasão
+- 2914000 — Ipirá/BA — Bandeira
+- 2914109 — Ipupiara/BA — Brasão
+- 2914109 — Ipupiara/BA — Bandeira
+- 2914208 — Irajuba/BA — Brasão
+- 2914208 — Irajuba/BA — Bandeira
+- 2914307 — Iramaia/BA — Brasão
+- 2914307 — Iramaia/BA — Bandeira
+- 2914406 — Iraquara/BA — Brasão
+- 2914406 — Iraquara/BA — Bandeira
+- 2914505 — Irará/BA — Brasão
+- 2914505 — Irará/BA — Bandeira
+- 2914604 — Irecê/BA — Brasão
+- 2914604 — Irecê/BA — Bandeira
+- 2914653 — Itabela/BA — Brasão
+- 2914653 — Itabela/BA — Bandeira
+- 2914703 — Itaberaba/BA — Brasão
+- 2914703 — Itaberaba/BA — Bandeira
+- 2914802 — Itabuna/BA — Bandeira
+- 2915007 — Itaeté/BA — Brasão
+- 2915007 — Itaeté/BA — Bandeira
+- 2915106 — Itagi/BA — Brasão
+- 2915106 — Itagi/BA — Bandeira
+- 2915205 — Itagibá/BA — Brasão
+- 2915304 — Itagimirim/BA — Brasão
+- 2915304 — Itagimirim/BA — Bandeira
+- 2915353 — Itaguaçu da Bahia/BA — Bandeira
+- 2915403 — Itaju do Colônia/BA — Brasão
+- 2915403 — Itaju do Colônia/BA — Bandeira
+- 2915502 — Itajuípe/BA — Brasão
+- 2915502 — Itajuípe/BA — Bandeira
+- 2915601 — Itamaraju/BA — Brasão
+- 2915601 — Itamaraju/BA — Bandeira
+- 2915700 — Itamari/BA — Brasão
+- 2915700 — Itamari/BA — Bandeira
+- 2915809 — Itambé/BA — Brasão
+- 2915809 — Itambé/BA — Bandeira
+- 2915908 — Itanagra/BA — Brasão
+- 2916005 — Itanhém/BA — Brasão
+- 2916005 — Itanhém/BA — Bandeira
+- 2916104 — Itaparica/BA — Brasão
+- 2916104 — Itaparica/BA — Bandeira
+- 2916203 — Itapé/BA — Brasão
+- 2916203 — Itapé/BA — Bandeira
+- 2916302 — Itapebi/BA — Brasão
+- 2916302 — Itapebi/BA — Bandeira
+- 2916401 — Itapetinga/BA — Brasão
+- 2916401 — Itapetinga/BA — Bandeira
+- 2916500 — Itapicuru/BA — Brasão
+- 2916500 — Itapicuru/BA — Bandeira
+- 2916609 — Itapitanga/BA — Brasão
+- 2916609 — Itapitanga/BA — Bandeira
+- 2916708 — Itaquara/BA — Brasão
+- 2916807 — Itarantim/BA — Brasão
+- 2916807 — Itarantim/BA — Bandeira
+- 2916856 — Itatim/BA — Brasão
+- 2916856 — Itatim/BA — Bandeira
+- 2916906 — Itiruçu/BA — Bandeira
+- 2917003 — Itiúba/BA — Bandeira
+- 2917102 — Itororó/BA — Brasão
+- 2917102 — Itororó/BA — Bandeira
+- 2917201 — Ituaçu/BA — Brasão
+- 2917201 — Ituaçu/BA — Bandeira
+- 2917300 — Ituberá/BA — Brasão
+- 2917334 — Iuiu/BA — Brasão
+- 2917334 — Iuiu/BA — Bandeira
+- 2917359 — Jaborandi/BA — Brasão
+- 2917359 — Jaborandi/BA — Bandeira
+- 2917409 — Jacaraci/BA — Brasão
+- 2917409 — Jacaraci/BA — Bandeira
+- 2917508 — Jacobina/BA — Brasão
+- 2917508 — Jacobina/BA — Bandeira
+- 2917607 — Jaguaquara/BA — Brasão
+- 2917607 — Jaguaquara/BA — Bandeira
+- 2917706 — Jaguarari/BA — Brasão
+- 2917706 — Jaguarari/BA — Bandeira
+- 2917805 — Jaguaripe/BA — Brasão
+- 2917805 — Jaguaripe/BA — Bandeira
+- 2917904 — Jandaíra/BA — Bandeira
+- 2918001 — Jequié/BA — Brasão
+- 2918001 — Jequié/BA — Bandeira
+- 2918100 — Jeremoabo/BA — Brasão
+- 2918100 — Jeremoabo/BA — Bandeira
+- 2918209 — Jiquiriçá/BA — Brasão
+- 2918209 — Jiquiriçá/BA — Bandeira
+- 2918308 — Jitaúna/BA — Brasão
+- 2918308 — Jitaúna/BA — Bandeira
+- 2918357 — João Dourado/BA — Brasão
+- 2918357 — João Dourado/BA — Bandeira
+- 2918407 — Juazeiro/BA — Brasão
+- 2918407 — Juazeiro/BA — Bandeira
+- 2918456 — Jucuruçu/BA — Brasão
+- 2918456 — Jucuruçu/BA — Bandeira
+- 2918506 — Jussara/BA — Brasão
+- 2918506 — Jussara/BA — Bandeira
+- 2918555 — Jussari/BA — Brasão
+- 2918555 — Jussari/BA — Bandeira
+- 2918605 — Jussiape/BA — Brasão
+- 2918605 — Jussiape/BA — Bandeira
+- 2918704 — Lafaiete Coutinho/BA — Brasão
+- 2918704 — Lafaiete Coutinho/BA — Bandeira
+- 2918753 — Lagoa Real/BA — Brasão
+- 2918753 — Lagoa Real/BA — Bandeira
+- 2918803 — Laje/BA — Brasão
+- 2918803 — Laje/BA — Bandeira
+- 2918902 — Lajedão/BA — Brasão
+- 2918902 — Lajedão/BA — Bandeira
+- 2919009 — Lajedinho/BA — Brasão
+- 2919009 — Lajedinho/BA — Bandeira
+- 2919058 — Lajedo do Tabocal/BA — Bandeira
+- 2919108 — Lamarão/BA — Brasão
+- 2919108 — Lamarão/BA — Bandeira
+- 2919157 — Lapão/BA — Brasão
+- 2919157 — Lapão/BA — Bandeira
+- 2919207 — Lauro de Freitas/BA — Brasão
+- 2919207 — Lauro de Freitas/BA — Bandeira
+- 2919306 — Lençóis/BA — Brasão
+- 2919306 — Lençóis/BA — Bandeira
+- 2919405 — Licínio de Almeida/BA — Brasão
+- 2919405 — Licínio de Almeida/BA — Bandeira
+- 2919504 — Livramento de Nossa Senhora/BA — Brasão
+- 2919504 — Livramento de Nossa Senhora/BA — Bandeira
+- 2919553 — Luís Eduardo Magalhães/BA — Brasão
+- 2919553 — Luís Eduardo Magalhães/BA — Bandeira
+- 2919603 — Macajuba/BA — Bandeira
+- 2919702 — Macarani/BA — Brasão
+- 2919702 — Macarani/BA — Bandeira
+- 2919801 — Macaúbas/BA — Brasão
+- 2919801 — Macaúbas/BA — Bandeira
+- 2919900 — Macururé/BA — Brasão
+- 2919900 — Macururé/BA — Bandeira
+- 2919926 — Madre de Deus/BA — Brasão
+- 2919926 — Madre de Deus/BA — Bandeira
+- 2919959 — Maetinga/BA — Brasão
+- 2919959 — Maetinga/BA — Bandeira
+- 2920007 — Maiquinique/BA — Bandeira
+- 2920106 — Mairi/BA — Brasão
+- 2920106 — Mairi/BA — Bandeira
+- 2920205 — Malhada/BA — Brasão
+- 2920205 — Malhada/BA — Bandeira
+- 2920304 — Malhada de Pedras/BA — Brasão
+- 2920403 — Manoel Vitorino/BA — Brasão
+- 2920403 — Manoel Vitorino/BA — Bandeira
+- 2920452 — Mansidão/BA — Brasão
+- 2920452 — Mansidão/BA — Bandeira
+- 2920502 — Maracás/BA — Brasão
+- 2920502 — Maracás/BA — Bandeira
+- 2920601 — Maragogipe/BA — Brasão
+- 2920601 — Maragogipe/BA — Bandeira
+- 2920700 — Maraú/BA — Brasão
+- 2920700 — Maraú/BA — Bandeira
+- 2920809 — Marcionílio Souza/BA — Brasão
+- 2920809 — Marcionílio Souza/BA — Bandeira
+- 2920908 — Mascote/BA — Brasão
+- 2920908 — Mascote/BA — Bandeira
+- 2921005 — Mata de São João/BA — Brasão
+- 2921005 — Mata de São João/BA — Bandeira
+- 2921054 — Matina/BA — Brasão
+- 2921054 — Matina/BA — Bandeira
+- 2921104 — Medeiros Neto/BA — Brasão
+- 2921104 — Medeiros Neto/BA — Bandeira
+- 2921203 — Miguel Calmon/BA — Bandeira
+- 2921302 — Milagres/BA — Brasão
+- 2921302 — Milagres/BA — Bandeira
+- 2921401 — Mirangaba/BA — Brasão
+- 2921401 — Mirangaba/BA — Bandeira
+- 2921450 — Mirante/BA — Brasão
+- 2921450 — Mirante/BA — Bandeira
+- 2921500 — Monte Santo/BA — Brasão
+- 2921500 — Monte Santo/BA — Bandeira
+- 2921609 — Morpará/BA — Brasão
+- 2921609 — Morpará/BA — Bandeira
+- 2921708 — Morro do Chapéu/BA — Brasão
+- 2921708 — Morro do Chapéu/BA — Bandeira
+- 2921807 — Mortugaba/BA — Brasão
+- 2921807 — Mortugaba/BA — Bandeira
+- 2921906 — Mucugê/BA — Brasão
+- 2921906 — Mucugê/BA — Bandeira
+- 2922003 — Mucuri/BA — Brasão
+- 2922003 — Mucuri/BA — Bandeira
+- 2922052 — Mulungu do Morro/BA — Brasão
+- 2922052 — Mulungu do Morro/BA — Bandeira
+- 2922102 — Mundo Novo/BA — Brasão
+- 2922102 — Mundo Novo/BA — Bandeira
+- 2922201 — Muniz Ferreira/BA — Brasão
+- 2922201 — Muniz Ferreira/BA — Bandeira
+- 2922250 — Muquém do São Francisco/BA — Bandeira
+- 2922300 — Muritiba/BA — Brasão
+- 2922300 — Muritiba/BA — Bandeira
+- 2922409 — Mutuípe/BA — Brasão
+- 2922409 — Mutuípe/BA — Bandeira
+- 2922508 — Nazaré/BA — Brasão
+- 2922508 — Nazaré/BA — Bandeira
+- 2922607 — Nilo Peçanha/BA — Brasão
+- 2922607 — Nilo Peçanha/BA — Bandeira
+- 2922656 — Nordestina/BA — Brasão
+- 2922656 — Nordestina/BA — Bandeira
+- 2922706 — Nova Canaã/BA — Brasão
+- 2922706 — Nova Canaã/BA — Bandeira
+- 2922730 — Nova Fátima/BA — Brasão
+- 2922730 — Nova Fátima/BA — Bandeira
+- 2922755 — Nova Ibiá/BA — Brasão
+- 2922755 — Nova Ibiá/BA — Bandeira
+- 2922805 — Nova Itarana/BA — Brasão
+- 2922805 — Nova Itarana/BA — Bandeira
+- 2922854 — Nova Redenção/BA — Brasão
+- 2922854 — Nova Redenção/BA — Bandeira
+- 2922904 — Nova Soure/BA — Brasão
+- 2922904 — Nova Soure/BA — Bandeira
+- 2923001 — Nova Viçosa/BA — Brasão
+- 2923001 — Nova Viçosa/BA — Bandeira
+- 2923035 — Novo Horizonte/BA — Brasão
+- 2923035 — Novo Horizonte/BA — Bandeira
+- 2923050 — Novo Triunfo/BA — Brasão
+- 2923050 — Novo Triunfo/BA — Bandeira
+- 2923100 — Olindina/BA — Brasão
+- 2923100 — Olindina/BA — Bandeira
+- 2923209 — Oliveira dos Brejinhos/BA — Brasão
+- 2923209 — Oliveira dos Brejinhos/BA — Bandeira
+- 2923308 — Ouriçangas/BA — Brasão
+- 2923308 — Ouriçangas/BA — Bandeira
+- 2923357 — Ourolândia/BA — Brasão
+- 2923357 — Ourolândia/BA — Bandeira
+- 2923407 — Palmas de Monte Alto/BA — Brasão
+- 2923407 — Palmas de Monte Alto/BA — Bandeira
+- 2923506 — Palmeiras/BA — Brasão
+- 2923506 — Palmeiras/BA — Bandeira
+- 2923605 — Paramirim/BA — Brasão
+- 2923605 — Paramirim/BA — Bandeira
+- 2923704 — Paratinga/BA — Brasão
+- 2923704 — Paratinga/BA — Bandeira
+- 2923803 — Paripiranga/BA — Brasão
+- 2923803 — Paripiranga/BA — Bandeira
+- 2923902 — Pau Brasil/BA — Brasão
+- 2923902 — Pau Brasil/BA — Bandeira
+- 2924009 — Paulo Afonso/BA — Brasão
+- 2924009 — Paulo Afonso/BA — Bandeira
+- 2924058 — Pé de Serra/BA — Brasão
+- 2924058 — Pé de Serra/BA — Bandeira
+- 2924108 — Pedrão/BA — Brasão
+- 2924108 — Pedrão/BA — Bandeira
+- 2924207 — Pedro Alexandre/BA — Brasão
+- 2924207 — Pedro Alexandre/BA — Bandeira
+- 2924306 — Piatã/BA — Brasão
+- 2924306 — Piatã/BA — Bandeira
+- 2924405 — Pilão Arcado/BA — Brasão
+- 2924405 — Pilão Arcado/BA — Bandeira
+- 2924504 — Pindaí/BA — Brasão
+- 2924504 — Pindaí/BA — Bandeira
+- 2924603 — Pindobaçu/BA — Brasão
+- 2924603 — Pindobaçu/BA — Bandeira
+- 2924652 — Pintadas/BA — Brasão
+- 2924652 — Pintadas/BA — Bandeira
+- 2924678 — Piraí do Norte/BA — Brasão
+- 2924678 — Piraí do Norte/BA — Bandeira
+- 2924702 — Piripá/BA — Brasão
+- 2924702 — Piripá/BA — Bandeira
+- 2924801 — Piritiba/BA — Brasão
+- 2924801 — Piritiba/BA — Bandeira
+- 2924900 — Planaltino/BA — Brasão
+- 2925006 — Planalto/BA — Brasão
+- 2925006 — Planalto/BA — Bandeira
+- 2925105 — Poções/BA — Brasão
+- 2925105 — Poções/BA — Bandeira
+- 2925204 — Pojuca/BA — Brasão
+- 2925204 — Pojuca/BA — Bandeira
+- 2925253 — Ponto Novo/BA — Brasão
+- 2925253 — Ponto Novo/BA — Bandeira
+- 2925303 — Porto Seguro/BA — Brasão
+- 2925303 — Porto Seguro/BA — Bandeira
+- 2925402 — Potiraguá/BA — Brasão
+- 2925402 — Potiraguá/BA — Bandeira
+- 2925501 — Prado/BA — Brasão
+- 2925501 — Prado/BA — Bandeira
+- 2925600 — Presidente Dutra/BA — Brasão
+- 2925600 — Presidente Dutra/BA — Bandeira
+- 2925709 — Presidente Jânio Quadros/BA — Brasão
+- 2925709 — Presidente Jânio Quadros/BA — Bandeira
+- 2925758 — Presidente Tancredo Neves/BA — Brasão
+- 2925758 — Presidente Tancredo Neves/BA — Bandeira
+- 2925808 — Queimadas/BA — Brasão
+- 2925808 — Queimadas/BA — Bandeira
+- 2925907 — Quijingue/BA — Brasão
+- 2925907 — Quijingue/BA — Bandeira
+- 2925931 — Quixabeira/BA — Brasão
+- 2925931 — Quixabeira/BA — Bandeira
+- 2925956 — Rafael Jambeiro/BA — Brasão
+- 2925956 — Rafael Jambeiro/BA — Bandeira
+- 2926004 — Remanso/BA — Brasão
+- 2926004 — Remanso/BA — Bandeira
+- 2926103 — Retirolândia/BA — Brasão
+- 2926103 — Retirolândia/BA — Bandeira
+- 2926202 — Riachão das Neves/BA — Brasão
+- 2926202 — Riachão das Neves/BA — Bandeira
+- 2926301 — Riachão do Jacuípe/BA — Brasão
+- 2926301 — Riachão do Jacuípe/BA — Bandeira
+- 2926400 — Riacho de Santana/BA — Brasão
+- 2926400 — Riacho de Santana/BA — Bandeira
+- 2926509 — Ribeira do Amparo/BA — Brasão
+- 2926509 — Ribeira do Amparo/BA — Bandeira
+- 2926608 — Ribeira do Pombal/BA — Brasão
+- 2926608 — Ribeira do Pombal/BA — Bandeira
+- 2926657 — Ribeirão do Largo/BA — Brasão
+- 2926657 — Ribeirão do Largo/BA — Bandeira
+- 2926707 — Rio de Contas/BA — Brasão
+- 2926707 — Rio de Contas/BA — Bandeira
+- 2926806 — Rio do Antônio/BA — Brasão
+- 2926806 — Rio do Antônio/BA — Bandeira
+- 2926905 — Rio do Pires/BA — Brasão
+- 2926905 — Rio do Pires/BA — Bandeira
+- 2927002 — Rio Real/BA — Brasão
+- 2927002 — Rio Real/BA — Bandeira
+- 2927101 — Rodelas/BA — Brasão
+- 2927101 — Rodelas/BA — Bandeira
+- 2927200 — Ruy Barbosa/BA — Brasão
+- 2927200 — Ruy Barbosa/BA — Bandeira
+- 2927309 — Salinas da Margarida/BA — Brasão
+- 2927309 — Salinas da Margarida/BA — Bandeira
+- 2927408 — Salvador/BA — Brasão
+- 2927507 — Santa Bárbara/BA — Brasão
+- 2927507 — Santa Bárbara/BA — Bandeira
+- 2927606 — Santa Brígida/BA — Brasão
+- 2927606 — Santa Brígida/BA — Bandeira
+- 2927705 — Santa Cruz Cabrália/BA — Brasão
+- 2927804 — Santa Cruz da Vitória/BA — Brasão
+- 2927804 — Santa Cruz da Vitória/BA — Bandeira
+- 2927903 — Santa Inês/BA — Brasão
+- 2927903 — Santa Inês/BA — Bandeira
+- 2928000 — Santaluz/BA — Brasão
+- 2928000 — Santaluz/BA — Bandeira
+- 2928059 — Santa Luzia/BA — Brasão
+- 2928059 — Santa Luzia/BA — Bandeira
+- 2928109 — Santa Maria da Vitória/BA — Bandeira
+- 2928208 — Santana/BA — Brasão
+- 2928208 — Santana/BA — Bandeira
+- 2928307 — Santanópolis/BA — Brasão
+- 2928307 — Santanópolis/BA — Bandeira
+- 2928406 — Santa Rita de Cássia/BA — Brasão
+- 2928406 — Santa Rita de Cássia/BA — Bandeira
+- 2928505 — Santa Terezinha/BA — Brasão
+- 2928604 — Santo Amaro/BA — Brasão
+- 2928604 — Santo Amaro/BA — Bandeira
+- 2928703 — Santo Antônio de Jesus/BA — Brasão
+- 2928703 — Santo Antônio de Jesus/BA — Bandeira
+- 2928802 — Santo Estêvão/BA — Brasão
+- 2928802 — Santo Estêvão/BA — Bandeira
+- 2928901 — São Desidério/BA — Brasão
+- 2928901 — São Desidério/BA — Bandeira
+- 2928950 — São Domingos/BA — Brasão
+- 2928950 — São Domingos/BA — Bandeira
+- 2929008 — São Félix/BA — Brasão
+- 2929008 — São Félix/BA — Bandeira
+- 2929057 — São Félix do Coribe/BA — Brasão
+- 2929057 — São Félix do Coribe/BA — Bandeira
+- 2929107 — São Felipe/BA — Brasão
+- 2929206 — São Francisco do Conde/BA — Brasão
+- 2929206 — São Francisco do Conde/BA — Bandeira
+- 2929255 — São Gabriel/BA — Brasão
+- 2929255 — São Gabriel/BA — Bandeira
+- 2929305 — São Gonçalo dos Campos/BA — Brasão
+- 2929305 — São Gonçalo dos Campos/BA — Bandeira
+- 2929354 — São José da Vitória/BA — Brasão
+- 2929354 — São José da Vitória/BA — Bandeira
+- 2929370 — São José do Jacuípe/BA — Bandeira
+- 2929404 — São Miguel das Matas/BA — Bandeira
+- 2929503 — São Sebastião do Passé/BA — Brasão
+- 2929503 — São Sebastião do Passé/BA — Bandeira
+- 2929602 — Sapeaçu/BA — Brasão
+- 2929602 — Sapeaçu/BA — Bandeira
+- 2929701 — Sátiro Dias/BA — Brasão
+- 2929701 — Sátiro Dias/BA — Bandeira
+- 2929750 — Saubara/BA — Bandeira
+- 2929800 — Saúde/BA — Brasão
+- 2929909 — Seabra/BA — Brasão
+- 2929909 — Seabra/BA — Bandeira
+- 2930006 — Sebastião Laranjeiras/BA — Brasão
+- 2930006 — Sebastião Laranjeiras/BA — Bandeira
+- 2930105 — Senhor do Bonfim/BA — Brasão
+- 2930105 — Senhor do Bonfim/BA — Bandeira
+- 2930154 — Serra do Ramalho/BA — Brasão
+- 2930154 — Serra do Ramalho/BA — Bandeira
+- 2930204 — Sento Sé/BA — Brasão
+- 2930204 — Sento Sé/BA — Bandeira
+- 2930303 — Serra Dourada/BA — Brasão
+- 2930303 — Serra Dourada/BA — Bandeira
+- 2930402 — Serra Preta/BA — Brasão
+- 2930402 — Serra Preta/BA — Bandeira
+- 2930501 — Serrinha/BA — Brasão
+- 2930501 — Serrinha/BA — Bandeira
+- 2930600 — Serrolândia/BA — Brasão
+- 2930600 — Serrolândia/BA — Bandeira
+- 2930709 — Simões Filho/BA — Brasão
+- 2930709 — Simões Filho/BA — Bandeira
+- 2930758 — Sítio do Mato/BA — Bandeira
+- 2930766 — Sítio do Quinto/BA — Brasão
+- 2930766 — Sítio do Quinto/BA — Bandeira
+- 2930774 — Sobradinho/BA — Brasão
+- 2930774 — Sobradinho/BA — Bandeira
+- 2930808 — Souto Soares/BA — Brasão
+- 2930808 — Souto Soares/BA — Bandeira
+- 2930907 — Tabocas do Brejo Velho/BA — Brasão
+- 2930907 — Tabocas do Brejo Velho/BA — Bandeira
+- 2931004 — Tanhaçu/BA — Brasão
+- 2931004 — Tanhaçu/BA — Bandeira
+- 2931053 — Tanque Novo/BA — Brasão
+- 2931053 — Tanque Novo/BA — Bandeira
+- 2931103 — Tanquinho/BA — Brasão
+- 2931103 — Tanquinho/BA — Bandeira
+- 2931202 — Taperoá/BA — Bandeira
+- 2931301 — Tapiramutá/BA — Brasão
+- 2931301 — Tapiramutá/BA — Bandeira
+- 2931350 — Teixeira de Freitas/BA — Brasão
+- 2931350 — Teixeira de Freitas/BA — Bandeira
+- 2931400 — Teodoro Sampaio/BA — Bandeira
+- 2931509 — Teofilândia/BA — Brasão
+- 2931509 — Teofilândia/BA — Bandeira
+- 2931608 — Teolândia/BA — Brasão
+- 2931608 — Teolândia/BA — Bandeira
+- 2931707 — Terra Nova/BA — Brasão
+- 2931707 — Terra Nova/BA — Bandeira
+- 2931806 — Tremedal/BA — Brasão
+- 2931806 — Tremedal/BA — Bandeira
+- 2931905 — Tucano/BA — Brasão
+- 2931905 — Tucano/BA — Bandeira
+- 2932002 — Uauá/BA — Brasão
+- 2932002 — Uauá/BA — Bandeira
+- 2932101 — Ubaíra/BA — Brasão
+- 2932101 — Ubaíra/BA — Bandeira
+- 2932200 — Ubaitaba/BA — Brasão
+- 2932200 — Ubaitaba/BA — Bandeira
+- 2932309 — Ubatã/BA — Brasão
+- 2932309 — Ubatã/BA — Bandeira
+- 2932408 — Uibaí/BA — Brasão
+- 2932457 — Umburanas/BA — Brasão
+- 2932457 — Umburanas/BA — Bandeira
+- 2932507 — Una/BA — Brasão
+- 2932507 — Una/BA — Bandeira
+- 2932606 — Urandi/BA — Brasão
+- 2932606 — Urandi/BA — Bandeira
+- 2932705 — Uruçuca/BA — Brasão
+- 2932705 — Uruçuca/BA — Bandeira
+- 2932804 — Utinga/BA — Brasão
+- 2932804 — Utinga/BA — Bandeira
+- 2932903 — Valença/BA — Brasão
+- 2932903 — Valença/BA — Bandeira
+- 2933000 — Valente/BA — Brasão
+- 2933000 — Valente/BA — Bandeira
+- 2933059 — Várzea da Roça/BA — Brasão
+- 2933059 — Várzea da Roça/BA — Bandeira
+- 2933109 — Várzea do Poço/BA — Bandeira
+- 2933158 — Várzea Nova/BA — Bandeira
+- 2933174 — Varzedo/BA — Brasão
+- 2933174 — Varzedo/BA — Bandeira
+- 2933208 — Vera Cruz/BA — Brasão
+- 2933208 — Vera Cruz/BA — Bandeira
+- 2933257 — Vereda/BA — Brasão
+- 2933257 — Vereda/BA — Bandeira
+- 2933307 — Vitória da Conquista/BA — Brasão
+- 2933307 — Vitória da Conquista/BA — Bandeira
+- 2933406 — Wagner/BA — Bandeira
+- 2933455 — Wanderley/BA — Brasão
+- 2933455 — Wanderley/BA — Bandeira
+- 2933505 — Wenceslau Guimarães/BA — Brasão
+- 2933505 — Wenceslau Guimarães/BA — Bandeira
+- 2933604 — Xique-Xique/BA — Brasão
+- 2933604 — Xique-Xique/BA — Bandeira
+- 3100104 — Abadia dos Dourados/MG — Brasão
+- 3100104 — Abadia dos Dourados/MG — Bandeira
 - 3100203 — Abaeté/MG — Brasão
 - 3100203 — Abaeté/MG — Bandeira
+- 3100302 — Abre Campo/MG — Brasão
+- 3100302 — Abre Campo/MG — Bandeira
+- 3100401 — Acaiaca/MG — Brasão
+- 3100401 — Acaiaca/MG — Bandeira
+- 3100500 — Açucena/MG — Brasão
+- 3100500 — Açucena/MG — Bandeira
+- 3100609 — Água Boa/MG — Brasão
+- 3100609 — Água Boa/MG — Bandeira
+- 3100708 — Água Comprida/MG — Brasão
+- 3100708 — Água Comprida/MG — Bandeira
+- 3100807 — Aguanil/MG — Brasão
+- 3100807 — Aguanil/MG — Bandeira
+- 3100906 — Águas Formosas/MG — Brasão
+- 3100906 — Águas Formosas/MG — Bandeira
+- 3101003 — Águas Vermelhas/MG — Brasão
+- 3101003 — Águas Vermelhas/MG — Bandeira
+- 3101102 — Aimorés/MG — Brasão
+- 3101102 — Aimorés/MG — Bandeira
+- 3101201 — Aiuruoca/MG — Brasão
+- 3101201 — Aiuruoca/MG — Bandeira
+- 3101300 — Alagoa/MG — Brasão
+- 3101300 — Alagoa/MG — Bandeira
+- 3101409 — Albertina/MG — Brasão
+- 3101409 — Albertina/MG — Bandeira
+- 3101508 — Além Paraíba/MG — Brasão
+- 3101508 — Além Paraíba/MG — Bandeira
+- 3101607 — Alfenas/MG — Brasão
+- 3101607 — Alfenas/MG — Bandeira
+- 3101631 — Alfredo Vasconcelos/MG — Brasão
+- 3101631 — Alfredo Vasconcelos/MG — Bandeira
+- 3101706 — Almenara/MG — Brasão
+- 3101706 — Almenara/MG — Bandeira
+- 3101805 — Alpercata/MG — Brasão
+- 3101805 — Alpercata/MG — Bandeira
+- 3101904 — Alpinópolis/MG — Brasão
+- 3101904 — Alpinópolis/MG — Bandeira
+- 3102001 — Alterosa/MG — Brasão
+- 3102001 — Alterosa/MG — Bandeira
+- 3102050 — Alto Caparaó/MG — Brasão
+- 3102050 — Alto Caparaó/MG — Bandeira
+- 3102100 — Alto Rio Doce/MG — Brasão
+- 3102100 — Alto Rio Doce/MG — Bandeira
+- 3102209 — Alvarenga/MG — Brasão
+- 3102209 — Alvarenga/MG — Bandeira
+- 3102308 — Alvinópolis/MG — Brasão
+- 3102308 — Alvinópolis/MG — Bandeira
+- 3102407 — Alvorada de Minas/MG — Brasão
+- 3102407 — Alvorada de Minas/MG — Bandeira
+- 3102506 — Amparo do Serra/MG — Brasão
+- 3102506 — Amparo do Serra/MG — Bandeira
+- 3102605 — Andradas/MG — Brasão
+- 3102605 — Andradas/MG — Bandeira
+- 3102704 — Cachoeira de Pajeú/MG — Bandeira
+- 3102803 — Andrelândia/MG — Brasão
+- 3102803 — Andrelândia/MG — Bandeira
+- 3102852 — Angelândia/MG — Brasão
+- 3102852 — Angelândia/MG — Bandeira
+- 3102902 — Antônio Carlos/MG — Brasão
+- 3102902 — Antônio Carlos/MG — Bandeira
+- 3103009 — Antônio Dias/MG — Brasão
+- 3103009 — Antônio Dias/MG — Bandeira
+- 3103108 — Antônio Prado de Minas/MG — Brasão
+- 3103108 — Antônio Prado de Minas/MG — Bandeira
+- 3103207 — Araçaí/MG — Brasão
+- 3103207 — Araçaí/MG — Bandeira
+- 3103306 — Aracitaba/MG — Brasão
+- 3103306 — Aracitaba/MG — Bandeira
+- 3103405 — Araçuaí/MG — Brasão
+- 3103405 — Araçuaí/MG — Bandeira
+- 3103504 — Araguari/MG — Brasão
+- 3103504 — Araguari/MG — Bandeira
+- 3103603 — Arantina/MG — Brasão
+- 3103603 — Arantina/MG — Bandeira
+- 3103702 — Araponga/MG — Brasão
+- 3103702 — Araponga/MG — Bandeira
+- 3103751 — Araporã/MG — Brasão
+- 3103751 — Araporã/MG — Bandeira
+- 3103801 — Arapuá/MG — Brasão
+- 3103801 — Arapuá/MG — Bandeira
+- 3103900 — Araújos/MG — Brasão
+- 3103900 — Araújos/MG — Bandeira
+- 3104007 — Araxá/MG — Brasão
+- 3104007 — Araxá/MG — Bandeira
+- 3104106 — Arceburgo/MG — Brasão
+- 3104106 — Arceburgo/MG — Bandeira
+- 3104205 — Arcos/MG — Brasão
+- 3104205 — Arcos/MG — Bandeira
+- 3104304 — Areado/MG — Brasão
+- 3104304 — Areado/MG — Bandeira
+- 3104403 — Argirita/MG — Brasão
+- 3104403 — Argirita/MG — Bandeira
+- 3104452 — Aricanduva/MG — Brasão
+- 3104452 — Aricanduva/MG — Bandeira
+- 3104502 — Arinos/MG — Brasão
+- 3104502 — Arinos/MG — Bandeira
+- 3104601 — Astolfo Dutra/MG — Brasão
+- 3104601 — Astolfo Dutra/MG — Bandeira
+- 3104700 — Ataléia/MG — Brasão
+- 3104700 — Ataléia/MG — Bandeira
+- 3104809 — Augusto de Lima/MG — Brasão
+- 3104809 — Augusto de Lima/MG — Bandeira
+- 3104908 — Baependi/MG — Brasão
+- 3104908 — Baependi/MG — Bandeira
+- 3105004 — Baldim/MG — Brasão
+- 3105004 — Baldim/MG — Bandeira
+- 3105103 — Bambuí/MG — Brasão
+- 3105103 — Bambuí/MG — Bandeira
+- 3105202 — Bandeira/MG — Brasão
+- 3105202 — Bandeira/MG — Bandeira
+- 3105301 — Bandeira do Sul/MG — Brasão
+- 3105301 — Bandeira do Sul/MG — Bandeira
+- 3105400 — Barão de Cocais/MG — Brasão
+- 3105400 — Barão de Cocais/MG — Bandeira
+- 3105509 — Barão do Monte Alto/MG — Brasão
+- 3105509 — Barão do Monte Alto/MG — Bandeira
+- 3105608 — Barbacena/MG — Brasão
+- 3105608 — Barbacena/MG — Bandeira
+- 3105707 — Barra Longa/MG — Brasão
+- 3105707 — Barra Longa/MG — Bandeira
+- 3105905 — Barroso/MG — Brasão
+- 3105905 — Barroso/MG — Bandeira
+- 3106002 — Bela Vista de Minas/MG — Brasão
+- 3106002 — Bela Vista de Minas/MG — Bandeira
+- 3106101 — Belmiro Braga/MG — Brasão
+- 3106101 — Belmiro Braga/MG — Bandeira
+- 3106200 — Belo Horizonte/MG — Brasão
+- 3106200 — Belo Horizonte/MG — Bandeira
+- 3106309 — Belo Oriente/MG — Brasão
+- 3106309 — Belo Oriente/MG — Bandeira
+- 3106408 — Belo Vale/MG — Brasão
+- 3106408 — Belo Vale/MG — Bandeira
+- 3106507 — Berilo/MG — Brasão
+- 3106507 — Berilo/MG — Bandeira
+- 3106606 — Bertópolis/MG — Brasão
+- 3106606 — Bertópolis/MG — Bandeira
+- 3106655 — Berizal/MG — Brasão
+- 3106655 — Berizal/MG — Bandeira
+- 3106705 — Betim/MG — Brasão
+- 3106705 — Betim/MG — Bandeira
+- 3106804 — Bias Fortes/MG — Brasão
+- 3106804 — Bias Fortes/MG — Bandeira
+- 3106903 — Bicas/MG — Brasão
+- 3106903 — Bicas/MG — Bandeira
+- 3107000 — Biquinhas/MG — Brasão
+- 3107000 — Biquinhas/MG — Bandeira
+- 3107109 — Boa Esperança/MG — Brasão
+- 3107109 — Boa Esperança/MG — Bandeira
+- 3107208 — Bocaina de Minas/MG — Brasão
+- 3107208 — Bocaina de Minas/MG — Bandeira
+- 3107307 — Bocaiúva/MG — Brasão
+- 3107307 — Bocaiúva/MG — Bandeira
+- 3107406 — Bom Despacho/MG — Brasão
+- 3107406 — Bom Despacho/MG — Bandeira
+- 3107505 — Bom Jardim de Minas/MG — Brasão
+- 3107505 — Bom Jardim de Minas/MG — Bandeira
+- 3107604 — Bom Jesus da Penha/MG — Brasão
+- 3107604 — Bom Jesus da Penha/MG — Bandeira
+- 3107703 — Bom Jesus do Amparo/MG — Brasão
+- 3107703 — Bom Jesus do Amparo/MG — Bandeira
+- 3107802 — Bom Jesus do Galho/MG — Brasão
+- 3107802 — Bom Jesus do Galho/MG — Bandeira
+- 3107901 — Bom Repouso/MG — Brasão
+- 3107901 — Bom Repouso/MG — Bandeira
+- 3108008 — Bom Sucesso/MG — Brasão
+- 3108008 — Bom Sucesso/MG — Bandeira
+- 3108107 — Bonfim/MG — Brasão
+- 3108107 — Bonfim/MG — Bandeira
+- 3108206 — Bonfinópolis de Minas/MG — Brasão
+- 3108206 — Bonfinópolis de Minas/MG — Bandeira
+- 3108255 — Bonito de Minas/MG — Brasão
+- 3108305 — Borda da Mata/MG — Brasão
+- 3108305 — Borda da Mata/MG — Bandeira
+- 3108404 — Botelhos/MG — Brasão
+- 3108404 — Botelhos/MG — Bandeira
+- 3108503 — Botumirim/MG — Brasão
+- 3108503 — Botumirim/MG — Bandeira
+- 3108552 — Brasilândia de Minas/MG — Brasão
+- 3108552 — Brasilândia de Minas/MG — Bandeira
+- 3108602 — Brasília de Minas/MG — Brasão
+- 3108602 — Brasília de Minas/MG — Bandeira
+- 3108701 — Brás Pires/MG — Brasão
+- 3108701 — Brás Pires/MG — Bandeira
+- 3108800 — Braúnas/MG — Brasão
+- 3108800 — Braúnas/MG — Bandeira
+- 3108909 — Brazópolis/MG — Brasão
+- 3108909 — Brazópolis/MG — Bandeira
+- 3109006 — Brumadinho/MG — Brasão
+- 3109006 — Brumadinho/MG — Bandeira
+- 3109105 — Bueno Brandão/MG — Brasão
+- 3109105 — Bueno Brandão/MG — Bandeira
+- 3109204 — Buenópolis/MG — Brasão
+- 3109204 — Buenópolis/MG — Bandeira
+- 3109253 — Bugre/MG — Brasão
+- 3109253 — Bugre/MG — Bandeira
+- 3109303 — Buritis/MG — Brasão
+- 3109303 — Buritis/MG — Bandeira
+- 3109402 — Buritizeiro/MG — Brasão
+- 3109402 — Buritizeiro/MG — Bandeira
+- 3109451 — Cabeceira Grande/MG — Brasão
+- 3109451 — Cabeceira Grande/MG — Bandeira
+- 3109501 — Cabo Verde/MG — Brasão
+- 3109501 — Cabo Verde/MG — Bandeira
+- 3109600 — Cachoeira da Prata/MG — Brasão
+- 3109600 — Cachoeira da Prata/MG — Bandeira
+- 3109709 — Cachoeira de Minas/MG — Brasão
+- 3109709 — Cachoeira de Minas/MG — Bandeira
+- 3109808 — Cachoeira Dourada/MG — Brasão
+- 3109808 — Cachoeira Dourada/MG — Bandeira
+- 3109907 — Caetanópolis/MG — Brasão
+- 3109907 — Caetanópolis/MG — Bandeira
+- 3110004 — Caeté/MG — Brasão
+- 3110004 — Caeté/MG — Bandeira
+- 3110103 — Caiana/MG — Brasão
+- 3110103 — Caiana/MG — Bandeira
+- 3110202 — Cajuri/MG — Brasão
+- 3110202 — Cajuri/MG — Bandeira
+- 3110301 — Caldas/MG — Brasão
+- 3110301 — Caldas/MG — Bandeira
+- 3110400 — Camacho/MG — Brasão
+- 3110400 — Camacho/MG — Bandeira
+- 3110509 — Camanducaia/MG — Brasão
+- 3110509 — Camanducaia/MG — Bandeira
+- 3110608 — Cambuí/MG — Brasão
+- 3110608 — Cambuí/MG — Bandeira
+- 3110707 — Cambuquira/MG — Brasão
+- 3110707 — Cambuquira/MG — Bandeira
+- 3110806 — Campanário/MG — Brasão
+- 3110806 — Campanário/MG — Bandeira
+- 3110905 — Campanha/MG — Brasão
+- 3110905 — Campanha/MG — Bandeira
+- 3111002 — Campestre/MG — Brasão
+- 3111002 — Campestre/MG — Bandeira
+- 3111101 — Campina Verde/MG — Brasão
+- 3111101 — Campina Verde/MG — Bandeira
+- 3111150 — Campo Azul/MG — Brasão
+- 3111150 — Campo Azul/MG — Bandeira
+- 3111200 — Campo Belo/MG — Brasão
+- 3111200 — Campo Belo/MG — Bandeira
+- 3111309 — Campo do Meio/MG — Brasão
+- 3111309 — Campo do Meio/MG — Bandeira
+- 3111408 — Campo Florido/MG — Brasão
+- 3111408 — Campo Florido/MG — Bandeira
+- 3111507 — Campos Altos/MG — Brasão
+- 3111507 — Campos Altos/MG — Bandeira
+- 3111606 — Campos Gerais/MG — Brasão
+- 3111606 — Campos Gerais/MG — Bandeira
+- 3111705 — Canaã/MG — Brasão
+- 3111705 — Canaã/MG — Bandeira
+- 3111804 — Canápolis/MG — Brasão
+- 3111804 — Canápolis/MG — Bandeira
+- 3111903 — Cana Verde/MG — Brasão
+- 3111903 — Cana Verde/MG — Bandeira
+- 3112000 — Candeias/MG — Brasão
+- 3112000 — Candeias/MG — Bandeira
+- 3112059 — Cantagalo/MG — Brasão
+- 3112059 — Cantagalo/MG — Bandeira
+- 3112109 — Caparaó/MG — Brasão
+- 3112109 — Caparaó/MG — Bandeira
+- 3112208 — Capela Nova/MG — Brasão
+- 3112208 — Capela Nova/MG — Bandeira
+- 3112307 — Capelinha/MG — Brasão
+- 3112307 — Capelinha/MG — Bandeira
+- 3112406 — Capetinga/MG — Brasão
+- 3112406 — Capetinga/MG — Bandeira
+- 3112505 — Capim Branco/MG — Brasão
+- 3112505 — Capim Branco/MG — Bandeira
+- 3112604 — Capinópolis/MG — Brasão
+- 3112604 — Capinópolis/MG — Bandeira
+- 3112653 — Capitão Andrade/MG — Brasão
+- 3112653 — Capitão Andrade/MG — Bandeira
+- 3112703 — Capitão Enéas/MG — Brasão
+- 3112703 — Capitão Enéas/MG — Bandeira
+- 3112802 — Capitólio/MG — Brasão
+- 3112802 — Capitólio/MG — Bandeira
+- 3112901 — Caputira/MG — Brasão
+- 3112901 — Caputira/MG — Bandeira
+- 3113008 — Caraí/MG — Brasão
+- 3113008 — Caraí/MG — Bandeira
+- 3113107 — Caranaíba/MG — Brasão
+- 3113107 — Caranaíba/MG — Bandeira
+- 3113206 — Carandaí/MG — Brasão
+- 3113206 — Carandaí/MG — Bandeira
+- 3113305 — Carangola/MG — Brasão
+- 3113305 — Carangola/MG — Bandeira
+- 3113404 — Caratinga/MG — Brasão
+- 3113404 — Caratinga/MG — Bandeira
+- 3113503 — Carbonita/MG — Brasão
+- 3113503 — Carbonita/MG — Bandeira
+- 3113602 — Careaçu/MG — Brasão
+- 3113602 — Careaçu/MG — Bandeira
+- 3113701 — Carlos Chagas/MG — Brasão
+- 3113701 — Carlos Chagas/MG — Bandeira
+- 3113800 — Carmésia/MG — Brasão
+- 3113800 — Carmésia/MG — Bandeira
+- 3113909 — Carmo da Cachoeira/MG — Brasão
+- 3113909 — Carmo da Cachoeira/MG — Bandeira
+- 3114006 — Carmo da Mata/MG — Brasão
+- 3114006 — Carmo da Mata/MG — Bandeira
+- 3114105 — Carmo de Minas/MG — Brasão
+- 3114105 — Carmo de Minas/MG — Bandeira
+- 3114204 — Carmo do Cajuru/MG — Brasão
+- 3114204 — Carmo do Cajuru/MG — Bandeira
+- 3114303 — Carmo do Paranaíba/MG — Brasão
+- 3114303 — Carmo do Paranaíba/MG — Bandeira
+- 3114402 — Carmo do Rio Claro/MG — Brasão
+- 3114402 — Carmo do Rio Claro/MG — Bandeira
+- 3114501 — Carmópolis de Minas/MG — Brasão
+- 3114501 — Carmópolis de Minas/MG — Bandeira
+- 3114550 — Carneirinho/MG — Brasão
+- 3114550 — Carneirinho/MG — Bandeira
+- 3114709 — Carvalhópolis/MG — Brasão
+- 3114709 — Carvalhópolis/MG — Bandeira
+- 3114808 — Carvalhos/MG — Brasão
+- 3114808 — Carvalhos/MG — Bandeira
+- 3114907 — Casa Grande/MG — Brasão
+- 3114907 — Casa Grande/MG — Bandeira
+- 3115003 — Cascalho Rico/MG — Brasão
+- 3115003 — Cascalho Rico/MG — Bandeira
+- 3115102 — Cássia/MG — Bandeira
+- 3115201 — Conceição da Barra de Minas/MG — Brasão
+- 3115201 — Conceição da Barra de Minas/MG — Bandeira
+- 3115300 — Cataguases/MG — Brasão
+- 3115300 — Cataguases/MG — Bandeira
+- 3115359 — Catas Altas/MG — Brasão
+- 3115359 — Catas Altas/MG — Bandeira
+- 3115409 — Catas Altas da Noruega/MG — Brasão
+- 3115409 — Catas Altas da Noruega/MG — Bandeira
+- 3115458 — Catuji/MG — Brasão
+- 3115458 — Catuji/MG — Bandeira
+- 3115474 — Catuti/MG — Brasão
+- 3115474 — Catuti/MG — Bandeira
+- 3115508 — Caxambu/MG — Brasão
+- 3115508 — Caxambu/MG — Bandeira
+- 3115607 — Cedro do Abaeté/MG — Brasão
+- 3115607 — Cedro do Abaeté/MG — Bandeira
+- 3115706 — Central de Minas/MG — Brasão
+- 3115706 — Central de Minas/MG — Bandeira
+- 3115805 — Centralina/MG — Brasão
+- 3115805 — Centralina/MG — Bandeira
+- 3115904 — Chácara/MG — Brasão
+- 3115904 — Chácara/MG — Bandeira
+- 3116001 — Chalé/MG — Brasão
+- 3116001 — Chalé/MG — Bandeira
+- 3116100 — Chapada do Norte/MG — Brasão
+- 3116100 — Chapada do Norte/MG — Bandeira
+- 3116159 — Chapada Gaúcha/MG — Brasão
+- 3116159 — Chapada Gaúcha/MG — Bandeira
+- 3116209 — Chiador/MG — Brasão
+- 3116209 — Chiador/MG — Bandeira
+- 3116308 — Cipotânea/MG — Brasão
+- 3116308 — Cipotânea/MG — Bandeira
+- 3116407 — Claraval/MG — Brasão
+- 3116407 — Claraval/MG — Bandeira
+- 3116506 — Claro dos Poções/MG — Bandeira
+- 3116605 — Cláudio/MG — Brasão
+- 3116605 — Cláudio/MG — Bandeira
+- 3116704 — Coimbra/MG — Brasão
+- 3116704 — Coimbra/MG — Bandeira
+- 3116803 — Coluna/MG — Brasão
+- 3116803 — Coluna/MG — Bandeira
+- 3116902 — Comendador Gomes/MG — Brasão
+- 3116902 — Comendador Gomes/MG — Bandeira
+- 3117009 — Comercinho/MG — Brasão
+- 3117009 — Comercinho/MG — Bandeira
+- 3117108 — Conceição da Aparecida/MG — Brasão
+- 3117108 — Conceição da Aparecida/MG — Bandeira
+- 3117207 — Conceição das Pedras/MG — Brasão
+- 3117207 — Conceição das Pedras/MG — Bandeira
+- 3117306 — Conceição das Alagoas/MG — Brasão
+- 3117306 — Conceição das Alagoas/MG — Bandeira
+- 3117405 — Conceição de Ipanema/MG — Brasão
+- 3117405 — Conceição de Ipanema/MG — Bandeira
+- 3117504 — Conceição do Mato Dentro/MG — Brasão
+- 3117504 — Conceição do Mato Dentro/MG — Bandeira
+- 3117603 — Conceição do Pará/MG — Brasão
+- 3117603 — Conceição do Pará/MG — Bandeira
+- 3117702 — Conceição do Rio Verde/MG — Brasão
+- 3117702 — Conceição do Rio Verde/MG — Bandeira
+- 3117801 — Conceição dos Ouros/MG — Brasão
+- 3117801 — Conceição dos Ouros/MG — Bandeira
+- 3117836 — Cônego Marinho/MG — Brasão
+- 3117836 — Cônego Marinho/MG — Bandeira
+- 3117876 — Confins/MG — Brasão
+- 3117876 — Confins/MG — Bandeira
+- 3117900 — Congonhal/MG — Brasão
+- 3117900 — Congonhal/MG — Bandeira
+- 3118007 — Congonhas/MG — Brasão
+- 3118007 — Congonhas/MG — Bandeira
+- 3118106 — Congonhas do Norte/MG — Brasão
+- 3118106 — Congonhas do Norte/MG — Bandeira
+- 3118205 — Conquista/MG — Brasão
+- 3118205 — Conquista/MG — Bandeira
+- 3118304 — Conselheiro Lafaiete/MG — Brasão
+- 3118304 — Conselheiro Lafaiete/MG — Bandeira
+- 3118403 — Conselheiro Pena/MG — Brasão
+- 3118403 — Conselheiro Pena/MG — Bandeira
+- 3118502 — Consolação/MG — Brasão
+- 3118502 — Consolação/MG — Bandeira
+- 3118601 — Contagem/MG — Brasão
+- 3118601 — Contagem/MG — Bandeira
+- 3118700 — Coqueiral/MG — Brasão
+- 3118700 — Coqueiral/MG — Bandeira
+- 3118809 — Coração de Jesus/MG — Brasão
+- 3118809 — Coração de Jesus/MG — Bandeira
+- 3118908 — Cordisburgo/MG — Brasão
+- 3118908 — Cordisburgo/MG — Bandeira
+- 3119005 — Cordislândia/MG — Brasão
+- 3119005 — Cordislândia/MG — Bandeira
+- 3119104 — Corinto/MG — Brasão
+- 3119104 — Corinto/MG — Bandeira
+- 3119203 — Coroaci/MG — Brasão
+- 3119203 — Coroaci/MG — Bandeira
+- 3119302 — Coromandel/MG — Brasão
+- 3119302 — Coromandel/MG — Bandeira
+- 3119401 — Coronel Fabriciano/MG — Brasão
+- 3119401 — Coronel Fabriciano/MG — Bandeira
+- 3119500 — Coronel Murta/MG — Brasão
+- 3119500 — Coronel Murta/MG — Bandeira
+- 3119609 — Coronel Pacheco/MG — Brasão
+- 3119609 — Coronel Pacheco/MG — Bandeira
+- 3119708 — Coronel Xavier Chaves/MG — Brasão
+- 3119708 — Coronel Xavier Chaves/MG — Bandeira
+- 3119807 — Córrego Danta/MG — Brasão
+- 3119807 — Córrego Danta/MG — Bandeira
+- 3119906 — Córrego do Bom Jesus/MG — Brasão
+- 3119906 — Córrego do Bom Jesus/MG — Bandeira
+- 3119955 — Córrego Fundo/MG — Brasão
+- 3119955 — Córrego Fundo/MG — Bandeira
+- 3120003 — Córrego Novo/MG — Brasão
+- 3120003 — Córrego Novo/MG — Bandeira
+- 3120102 — Couto de Magalhães de Minas/MG — Brasão
+- 3120102 — Couto de Magalhães de Minas/MG — Bandeira
+- 3120151 — Crisólita/MG — Brasão
+- 3120151 — Crisólita/MG — Bandeira
+- 3120201 — Cristais/MG — Brasão
+- 3120201 — Cristais/MG — Bandeira
+- 3120300 — Cristália/MG — Brasão
+- 3120300 — Cristália/MG — Bandeira
+- 3120409 — Cristiano Otoni/MG — Brasão
+- 3120409 — Cristiano Otoni/MG — Bandeira
+- 3120508 — Cristina/MG — Brasão
+- 3120607 — Crucilândia/MG — Brasão
+- 3120607 — Crucilândia/MG — Bandeira
+- 3120706 — Cruzeiro da Fortaleza/MG — Brasão
+- 3120706 — Cruzeiro da Fortaleza/MG — Bandeira
+- 3120805 — Cruzília/MG — Brasão
+- 3120805 — Cruzília/MG — Bandeira
+- 3120839 — Cuparaque/MG — Brasão
+- 3120839 — Cuparaque/MG — Bandeira
+- 3120870 — Curral de Dentro/MG — Brasão
+- 3120870 — Curral de Dentro/MG — Bandeira
+- 3120904 — Curvelo/MG — Brasão
+- 3120904 — Curvelo/MG — Bandeira
+- 3121001 — Datas/MG — Brasão
+- 3121001 — Datas/MG — Bandeira
+- 3121100 — Delfim Moreira/MG — Brasão
+- 3121100 — Delfim Moreira/MG — Bandeira
+- 3121209 — Delfinópolis/MG — Brasão
+- 3121209 — Delfinópolis/MG — Bandeira
+- 3121258 — Delta/MG — Brasão
+- 3121258 — Delta/MG — Bandeira
+- 3121308 — Descoberto/MG — Brasão
+- 3121308 — Descoberto/MG — Bandeira
+- 3121407 — Desterro de Entre Rios/MG — Brasão
+- 3121407 — Desterro de Entre Rios/MG — Bandeira
+- 3121506 — Desterro do Melo/MG — Brasão
+- 3121506 — Desterro do Melo/MG — Bandeira
+- 3121605 — Diamantina/MG — Brasão
+- 3121605 — Diamantina/MG — Bandeira
+- 3121704 — Diogo de Vasconcelos/MG — Brasão
+- 3121704 — Diogo de Vasconcelos/MG — Bandeira
+- 3121803 — Dionísio/MG — Brasão
+- 3121803 — Dionísio/MG — Bandeira
+- 3121902 — Divinésia/MG — Brasão
+- 3121902 — Divinésia/MG — Bandeira
+- 3122009 — Divino/MG — Brasão
+- 3122009 — Divino/MG — Bandeira
+- 3122108 — Divino das Laranjeiras/MG — Brasão
+- 3122108 — Divino das Laranjeiras/MG — Bandeira
+- 3122207 — Divinolândia de Minas/MG — Brasão
+- 3122207 — Divinolândia de Minas/MG — Bandeira
+- 3122306 — Divinópolis/MG — Brasão
+- 3122306 — Divinópolis/MG — Bandeira
+- 3122355 — Divisa Alegre/MG — Brasão
+- 3122355 — Divisa Alegre/MG — Bandeira
+- 3122405 — Divisa Nova/MG — Brasão
+- 3122405 — Divisa Nova/MG — Bandeira
+- 3122454 — Divisópolis/MG — Brasão
+- 3122454 — Divisópolis/MG — Bandeira
+- 3122470 — Dom Bosco/MG — Brasão
+- 3122470 — Dom Bosco/MG — Bandeira
+- 3122504 — Dom Cavati/MG — Brasão
+- 3122504 — Dom Cavati/MG — Bandeira
+- 3122603 — Dom Joaquim/MG — Brasão
+- 3122603 — Dom Joaquim/MG — Bandeira
+- 3122702 — Dom Silvério/MG — Brasão
+- 3122702 — Dom Silvério/MG — Bandeira
+- 3122801 — Dom Viçoso/MG — Brasão
+- 3122801 — Dom Viçoso/MG — Bandeira
+- 3122900 — Dona Euzébia/MG — Brasão
+- 3122900 — Dona Euzébia/MG — Bandeira
+- 3123007 — Dores de Campos/MG — Brasão
+- 3123007 — Dores de Campos/MG — Bandeira
+- 3123106 — Dores de Guanhães/MG — Brasão
+- 3123106 — Dores de Guanhães/MG — Bandeira
+- 3123205 — Dores do Indaiá/MG — Brasão
+- 3123205 — Dores do Indaiá/MG — Bandeira
+- 3123304 — Dores do Turvo/MG — Brasão
+- 3123304 — Dores do Turvo/MG — Bandeira
+- 3123403 — Doresópolis/MG — Brasão
+- 3123403 — Doresópolis/MG — Bandeira
+- 3123502 — Douradoquara/MG — Brasão
+- 3123502 — Douradoquara/MG — Bandeira
+- 3123528 — Durandé/MG — Brasão
+- 3123528 — Durandé/MG — Bandeira
+- 3123601 — Elói Mendes/MG — Brasão
+- 3123601 — Elói Mendes/MG — Bandeira
+- 3123700 — Engenheiro Caldas/MG — Brasão
+- 3123700 — Engenheiro Caldas/MG — Bandeira
+- 3123809 — Engenheiro Navarro/MG — Brasão
+- 3123809 — Engenheiro Navarro/MG — Bandeira
+- 3123858 — Entre Folhas/MG — Brasão
+- 3123858 — Entre Folhas/MG — Bandeira
+- 3123908 — Entre Rios de Minas/MG — Brasão
+- 3123908 — Entre Rios de Minas/MG — Bandeira
+- 3124005 — Ervália/MG — Brasão
+- 3124005 — Ervália/MG — Bandeira
+- 3124104 — Esmeraldas/MG — Brasão
+- 3124104 — Esmeraldas/MG — Bandeira
+- 3124302 — Espinosa/MG — Brasão
+- 3124302 — Espinosa/MG — Bandeira
+- 3124401 — Espírito Santo do Dourado/MG — Brasão
+- 3124401 — Espírito Santo do Dourado/MG — Bandeira
+- 3124500 — Estiva/MG — Brasão
+- 3124500 — Estiva/MG — Bandeira
+- 3124609 — Estrela Dalva/MG — Brasão
+- 3124609 — Estrela Dalva/MG — Bandeira
+- 3124708 — Estrela do Indaiá/MG — Brasão
+- 3124708 — Estrela do Indaiá/MG — Bandeira
+- 3124807 — Estrela do Sul/MG — Brasão
+- 3124807 — Estrela do Sul/MG — Bandeira
+- 3124906 — Eugenópolis/MG — Bandeira
+- 3125002 — Ewbank da Câmara/MG — Brasão
+- 3125002 — Ewbank da Câmara/MG — Bandeira
+- 3125101 — Extrema/MG — Brasão
+- 3125101 — Extrema/MG — Bandeira
+- 3125200 — Fama/MG — Brasão
+- 3125200 — Fama/MG — Bandeira
+- 3125309 — Faria Lemos/MG — Brasão
+- 3125309 — Faria Lemos/MG — Bandeira
+- 3125408 — Felício dos Santos/MG — Brasão
+- 3125408 — Felício dos Santos/MG — Bandeira
+- 3125606 — Felisburgo/MG — Brasão
+- 3125606 — Felisburgo/MG — Bandeira
+- 3125705 — Felixlândia/MG — Brasão
+- 3125705 — Felixlândia/MG — Bandeira
+- 3125804 — Fernandes Tourinho/MG — Brasão
+- 3125804 — Fernandes Tourinho/MG — Bandeira
+- 3125903 — Ferros/MG — Brasão
+- 3125903 — Ferros/MG — Bandeira
+- 3125952 — Fervedouro/MG — Brasão
+- 3125952 — Fervedouro/MG — Bandeira
+- 3126000 — Florestal/MG — Brasão
+- 3126000 — Florestal/MG — Bandeira
+- 3126109 — Formiga/MG — Bandeira
+- 3126208 — Formoso/MG — Brasão
+- 3126208 — Formoso/MG — Bandeira
+- 3126307 — Fortaleza de Minas/MG — Brasão
+- 3126307 — Fortaleza de Minas/MG — Bandeira
+- 3126406 — Fortuna de Minas/MG — Brasão
+- 3126406 — Fortuna de Minas/MG — Bandeira
+- 3126505 — Francisco Badaró/MG — Brasão
+- 3126505 — Francisco Badaró/MG — Bandeira
+- 3126604 — Francisco Dumont/MG — Brasão
+- 3126604 — Francisco Dumont/MG — Bandeira
+- 3126703 — Francisco Sá/MG — Brasão
+- 3126703 — Francisco Sá/MG — Bandeira
+- 3126752 — Franciscópolis/MG — Brasão
+- 3126752 — Franciscópolis/MG — Bandeira
+- 3126802 — Frei Gaspar/MG — Brasão
+- 3126802 — Frei Gaspar/MG — Bandeira
+- 3126901 — Frei Inocêncio/MG — Brasão
+- 3126901 — Frei Inocêncio/MG — Bandeira
+- 3126950 — Frei Lagonegro/MG — Brasão
+- 3126950 — Frei Lagonegro/MG — Bandeira
+- 3127008 — Fronteira/MG — Brasão
+- 3127008 — Fronteira/MG — Bandeira
+- 3127057 — Fronteira dos Vales/MG — Brasão
+- 3127057 — Fronteira dos Vales/MG — Bandeira
+- 3127073 — Fruta de Leite/MG — Brasão
+- 3127073 — Fruta de Leite/MG — Bandeira
+- 3127107 — Frutal/MG — Brasão
+- 3127107 — Frutal/MG — Bandeira
+- 3127206 — Funilândia/MG — Brasão
+- 3127206 — Funilândia/MG — Bandeira
+- 3127305 — Galiléia/MG — Brasão
+- 3127305 — Galiléia/MG — Bandeira
+- 3127354 — Glaucilândia/MG — Brasão
+- 3127354 — Glaucilândia/MG — Bandeira
+- 3127370 — Goiabeira/MG — Brasão
+- 3127370 — Goiabeira/MG — Bandeira
+- 3127388 — Goianá/MG — Brasão
+- 3127388 — Goianá/MG — Bandeira
+- 3127404 — Gonçalves/MG — Brasão
+- 3127404 — Gonçalves/MG — Bandeira
+- 3127503 — Gonzaga/MG — Brasão
+- 3127503 — Gonzaga/MG — Bandeira
+- 3127602 — Gouveia/MG — Brasão
+- 3127602 — Gouveia/MG — Bandeira
+- 3127701 — Governador Valadares/MG — Bandeira
+- 3127800 — Grão Mogol/MG — Bandeira
+- 3127909 — Grupiara/MG — Brasão
+- 3128006 — Guanhães/MG — Brasão
+- 3128006 — Guanhães/MG — Bandeira
+- 3128204 — Guaraciaba/MG — Brasão
+- 3128204 — Guaraciaba/MG — Bandeira
+- 3128253 — Guaraciama/MG — Bandeira
+- 3128303 — Guaranésia/MG — Brasão
+- 3128303 — Guaranésia/MG — Bandeira
+- 3128402 — Guarani/MG — Brasão
+- 3128402 — Guarani/MG — Bandeira
+- 3128501 — Guarará/MG — Brasão
+- 3128501 — Guarará/MG — Bandeira
+- 3128600 — Guarda-Mor/MG — Brasão
+- 3128600 — Guarda-Mor/MG — Bandeira
+- 3128709 — Guaxupé/MG — Brasão
+- 3128709 — Guaxupé/MG — Bandeira
+- 3128808 — Guidoval/MG — Brasão
+- 3128808 — Guidoval/MG — Bandeira
+- 3128907 — Guimarânia/MG — Brasão
+- 3128907 — Guimarânia/MG — Bandeira
+- 3129004 — Guiricema/MG — Brasão
+- 3129004 — Guiricema/MG — Bandeira
+- 3129103 — Gurinhatã/MG — Brasão
+- 3129103 — Gurinhatã/MG — Bandeira
+- 3129202 — Heliodora/MG — Brasão
+- 3129202 — Heliodora/MG — Bandeira
+- 3129301 — Iapu/MG — Brasão
+- 3129301 — Iapu/MG — Bandeira
+- 3129400 — Ibertioga/MG — Brasão
+- 3129400 — Ibertioga/MG — Bandeira
+- 3129509 — Ibiá/MG — Brasão
+- 3129509 — Ibiá/MG — Bandeira
+- 3129608 — Ibiaí/MG — Brasão
+- 3129608 — Ibiaí/MG — Bandeira
+- 3129657 — Ibiracatu/MG — Brasão
+- 3129657 — Ibiracatu/MG — Bandeira
+- 3129707 — Ibiraci/MG — Brasão
+- 3129707 — Ibiraci/MG — Bandeira
+- 3129806 — Ibirité/MG — Brasão
+- 3129806 — Ibirité/MG — Bandeira
+- 3129905 — Ibitiúra de Minas/MG — Brasão
+- 3129905 — Ibitiúra de Minas/MG — Bandeira
+- 3130002 — Ibituruna/MG — Brasão
+- 3130002 — Ibituruna/MG — Bandeira
+- 3130051 — Icaraí de Minas/MG — Brasão
+- 3130051 — Icaraí de Minas/MG — Bandeira
+- 3130101 — Igarapé/MG — Brasão
+- 3130101 — Igarapé/MG — Bandeira
+- 3130200 — Igaratinga/MG — Brasão
+- 3130200 — Igaratinga/MG — Bandeira
+- 3130309 — Iguatama/MG — Brasão
+- 3130309 — Iguatama/MG — Bandeira
+- 3130408 — Ijaci/MG — Brasão
+- 3130507 — Ilicínea/MG — Brasão
+- 3130507 — Ilicínea/MG — Bandeira
+- 3130606 — Inconfidentes/MG — Brasão
+- 3130655 — Indaiabira/MG — Brasão
+- 3130655 — Indaiabira/MG — Bandeira
+- 3130804 — Ingaí/MG — Brasão
+- 3130903 — Inhapim/MG — Brasão
+- 3130903 — Inhapim/MG — Bandeira
+- 3131000 — Inhaúma/MG — Bandeira
+- 3131158 — Ipaba/MG — Brasão
+- 3131158 — Ipaba/MG — Bandeira
+- 3131208 — Ipanema/MG — Brasão
+- 3131208 — Ipanema/MG — Bandeira
+- 3131307 — Ipatinga/MG — Brasão
+- 3131307 — Ipatinga/MG — Bandeira
+- 3131406 — Ipiaçu/MG — Brasão
+- 3131406 — Ipiaçu/MG — Bandeira
+- 3131505 — Ipuiúna/MG — Brasão
+- 3131505 — Ipuiúna/MG — Bandeira
+- 3131604 — Iraí de Minas/MG — Brasão
+- 3131703 — Itabira/MG — Brasão
+- 3131703 — Itabira/MG — Bandeira
+- 3131802 — Itabirinha/MG — Brasão
+- 3131901 — Itabirito/MG — Brasão
+- 3131901 — Itabirito/MG — Bandeira
+- 3132206 — Itaguara/MG — Brasão
+- 3132206 — Itaguara/MG — Bandeira
+- 3132305 — Itaipé/MG — Brasão
+- 3132305 — Itaipé/MG — Bandeira
+- 3132404 — Itajubá/MG — Brasão
+- 3132404 — Itajubá/MG — Bandeira
+- 3132503 — Itamarandiba/MG — Brasão
+- 3132503 — Itamarandiba/MG — Bandeira
+- 3132602 — Itamarati de Minas/MG — Brasão
+- 3132701 — Itambacuri/MG — Brasão
+- 3133006 — Itamonte/MG — Brasão
+- 3133006 — Itamonte/MG — Bandeira
+- 3133105 — Itanhandu/MG — Brasão
+- 3133105 — Itanhandu/MG — Bandeira
+- 3133204 — Itanhomi/MG — Brasão
+- 3133204 — Itanhomi/MG — Bandeira
+- 3133501 — Itapecerica/MG — Brasão
+- 3133600 — Itapeva/MG — Brasão
+- 3133600 — Itapeva/MG — Bandeira
+- 3133709 — Itatiaiuçu/MG — Brasão
+- 3133709 — Itatiaiuçu/MG — Bandeira
+- 3133758 — Itaú de Minas/MG — Brasão
+- 3133758 — Itaú de Minas/MG — Bandeira
+- 3133808 — Itaúna/MG — Brasão
+- 3133808 — Itaúna/MG — Bandeira
+- 3133907 — Itaverava/MG — Brasão
+- 3133907 — Itaverava/MG — Bandeira
+- 3134004 — Itinga/MG — Brasão
+- 3134004 — Itinga/MG — Bandeira
+- 3134103 — Itueta/MG — Brasão
+- 3134103 — Itueta/MG — Bandeira
+- 3134202 — Ituiutaba/MG — Brasão
+- 3134202 — Ituiutaba/MG — Bandeira
+- 3134400 — Iturama/MG — Brasão
+- 3134400 — Iturama/MG — Bandeira
+- 3134509 — Itutinga/MG — Brasão
+- 3134509 — Itutinga/MG — Bandeira
+- 3134608 — Jaboticatubas/MG — Brasão
+- 3134608 — Jaboticatubas/MG — Bandeira
+- 3134707 — Jacinto/MG — Brasão
+- 3134707 — Jacinto/MG — Bandeira
+- 3134806 — Jacuí/MG — Brasão
+- 3134806 — Jacuí/MG — Bandeira
+- 3134905 — Jacutinga/MG — Brasão
+- 3134905 — Jacutinga/MG — Bandeira
+- 3135001 — Jaguaraçu/MG — Brasão
+- 3135001 — Jaguaraçu/MG — Bandeira
+- 3135050 — Jaíba/MG — Brasão
+- 3135100 — Janaúba/MG — Brasão
+- 3135100 — Janaúba/MG — Bandeira
+- 3135209 — Januária/MG — Brasão
+- 3135209 — Januária/MG — Bandeira
+- 3135308 — Japaraíba/MG — Brasão
+- 3135308 — Japaraíba/MG — Bandeira
+- 3135357 — Japonvar/MG — Brasão
+- 3135357 — Japonvar/MG — Bandeira
+- 3135407 — Jeceaba/MG — Brasão
+- 3135407 — Jeceaba/MG — Bandeira
+- 3135803 — Jequitinhonha/MG — Brasão
+- 3135803 — Jequitinhonha/MG — Bandeira
+- 3135902 — Jesuânia/MG — Brasão
+- 3135902 — Jesuânia/MG — Bandeira
+- 3136009 — Joaíma/MG — Bandeira
+- 3136108 — Joanésia/MG — Brasão
+- 3136108 — Joanésia/MG — Bandeira
+- 3136207 — João Monlevade/MG — Brasão
+- 3136207 — João Monlevade/MG — Bandeira
+- 3136306 — João Pinheiro/MG — Brasão
+- 3136306 — João Pinheiro/MG — Bandeira
+- 3136553 — José Raydan/MG — Brasão
+- 3136553 — José Raydan/MG — Bandeira
+- 3136603 — Nova União/MG — Brasão
+- 3136603 — Nova União/MG — Bandeira
+- 3136652 — Juatuba/MG — Brasão
+- 3136652 — Juatuba/MG — Bandeira
+- 3136702 — Juiz de Fora/MG — Brasão
+- 3136702 — Juiz de Fora/MG — Bandeira
+- 3136900 — Juruaia/MG — Brasão
+- 3136900 — Juruaia/MG — Bandeira
+- 3136959 — Juvenília/MG — Brasão
+- 3136959 — Juvenília/MG — Bandeira
+- 3137007 — Ladainha/MG — Brasão
+- 3137007 — Ladainha/MG — Bandeira
+- 3137106 — Lagamar/MG — Brasão
+- 3137106 — Lagamar/MG — Bandeira
+- 3137205 — Lagoa da Prata/MG — Bandeira
+- 3137304 — Lagoa dos Patos/MG — Brasão
+- 3137304 — Lagoa dos Patos/MG — Bandeira
+- 3137403 — Lagoa Dourada/MG — Brasão
+- 3137403 — Lagoa Dourada/MG — Bandeira
+- 3137502 — Lagoa Formosa/MG — Brasão
+- 3137502 — Lagoa Formosa/MG — Bandeira
+- 3137536 — Lagoa Grande/MG — Brasão
+- 3137536 — Lagoa Grande/MG — Bandeira
+- 3137601 — Lagoa Santa/MG — Brasão
+- 3137601 — Lagoa Santa/MG — Bandeira
+- 3137700 — Lajinha/MG — Brasão
+- 3137700 — Lajinha/MG — Bandeira
+- 3137809 — Lambari/MG — Brasão
+- 3137809 — Lambari/MG — Bandeira
+- 3137908 — Lamim/MG — Brasão
+- 3137908 — Lamim/MG — Bandeira
+- 3138203 — Lavras/MG — Brasão
+- 3138203 — Lavras/MG — Bandeira
+- 3138401 — Leopoldina/MG — Brasão
+- 3138401 — Leopoldina/MG — Bandeira
+- 3138500 — Liberdade/MG — Brasão
+- 3138500 — Liberdade/MG — Bandeira
+- 3138609 — Lima Duarte/MG — Brasão
+- 3138609 — Lima Duarte/MG — Bandeira
+- 3138625 — Limeira do Oeste/MG — Brasão
+- 3138625 — Limeira do Oeste/MG — Bandeira
+- 3138658 — Lontra/MG — Brasão
+- 3138674 — Luisburgo/MG — Brasão
+- 3138674 — Luisburgo/MG — Bandeira
+- 3138807 — Luz/MG — Brasão
+- 3138807 — Luz/MG — Bandeira
+- 3139003 — Machado/MG — Brasão
+- 3139003 — Machado/MG — Bandeira
+- 3139102 — Madre de Deus de Minas/MG — Brasão
+- 3139102 — Madre de Deus de Minas/MG — Bandeira
+- 3139201 — Malacacheta/MG — Bandeira
+- 3139250 — Mamonas/MG — Brasão
+- 3139250 — Mamonas/MG — Bandeira
+- 3139300 — Manga/MG — Brasão
+- 3139300 — Manga/MG — Bandeira
+- 3139409 — Manhuaçu/MG — Brasão
+- 3139409 — Manhuaçu/MG — Bandeira
+- 3139508 — Manhumirim/MG — Brasão
+- 3139508 — Manhumirim/MG — Bandeira
+- 3139607 — Mantena/MG — Brasão
+- 3139607 — Mantena/MG — Bandeira
+- 3139805 — Mar de Espanha/MG — Brasão
+- 3139805 — Mar de Espanha/MG — Bandeira
+- 3139904 — Maria da Fé/MG — Brasão
+- 3139904 — Maria da Fé/MG — Bandeira
+- 3140001 — Mariana/MG — Brasão
+- 3140001 — Mariana/MG — Bandeira
+- 3140159 — Mário Campos/MG — Brasão
+- 3140209 — Maripá de Minas/MG — Brasão
+- 3140308 — Marliéria/MG — Brasão
+- 3140308 — Marliéria/MG — Bandeira
+- 3140407 — Marmelópolis/MG — Brasão
+- 3140407 — Marmelópolis/MG — Bandeira
+- 3140506 — Martinho Campos/MG — Bandeira
+- 3140530 — Martins Soares/MG — Brasão
+- 3140530 — Martins Soares/MG — Bandeira
+- 3140555 — Mata Verde/MG — Brasão
+- 3140555 — Mata Verde/MG — Bandeira
+- 3140704 — Mateus Leme/MG — Brasão
+- 3140704 — Mateus Leme/MG — Bandeira
+- 3140803 — Matias Barbosa/MG — Brasão
+- 3140803 — Matias Barbosa/MG — Bandeira
+- 3140852 — Matias Cardoso/MG — Brasão
+- 3140852 — Matias Cardoso/MG — Bandeira
+- 3141009 — Mato Verde/MG — Brasão
+- 3141009 — Mato Verde/MG — Bandeira
+- 3141108 — Matozinhos/MG — Brasão
+- 3141108 — Matozinhos/MG — Bandeira
+- 3141207 — Matutina/MG — Brasão
+- 3141207 — Matutina/MG — Bandeira
+- 3141405 — Medina/MG — Brasão
+- 3141405 — Medina/MG — Bandeira
+- 3141504 — Mendes Pimentel/MG — Bandeira
+- 3141603 — Mercês/MG — Brasão
+- 3141603 — Mercês/MG — Bandeira
+- 3141702 — Mesquita/MG — Brasão
+- 3141702 — Mesquita/MG — Bandeira
+- 3141801 — Minas Novas/MG — Bandeira
+- 3141900 — Minduri/MG — Brasão
+- 3141900 — Minduri/MG — Bandeira
+- 3142007 — Mirabela/MG — Brasão
+- 3142007 — Mirabela/MG — Bandeira
+- 3142106 — Miradouro/MG — Brasão
+- 3142205 — Miraí/MG — Brasão
+- 3142205 — Miraí/MG — Bandeira
+- 3142254 — Miravânia/MG — Brasão
+- 3142254 — Miravânia/MG — Bandeira
+- 3142304 — Moeda/MG — Brasão
+- 3142304 — Moeda/MG — Bandeira
+- 3142502 — Monjolos/MG — Brasão
+- 3142502 — Monjolos/MG — Bandeira
+- 3142700 — Montalvânia/MG — Brasão
+- 3142700 — Montalvânia/MG — Bandeira
+- 3142809 — Monte Alegre de Minas/MG — Brasão
+- 3142809 — Monte Alegre de Minas/MG — Bandeira
+- 3142908 — Monte Azul/MG — Brasão
+- 3142908 — Monte Azul/MG — Bandeira
+- 3143005 — Monte Belo/MG — Brasão
+- 3143005 — Monte Belo/MG — Bandeira
+- 3143104 — Monte Carmelo/MG — Brasão
+- 3143104 — Monte Carmelo/MG — Bandeira
+- 3143203 — Monte Santo de Minas/MG — Brasão
+- 3143203 — Monte Santo de Minas/MG — Bandeira
+- 3143302 — Montes Claros/MG — Brasão
+- 3143302 — Montes Claros/MG — Bandeira
+- 3143401 — Monte Sião/MG — Brasão
+- 3143401 — Monte Sião/MG — Bandeira
+- 3143450 — Montezuma/MG — Brasão
+- 3143500 — Morada Nova de Minas/MG — Brasão
+- 3143807 — Munhoz/MG — Bandeira
+- 3143906 — Muriaé/MG — Brasão
+- 3143906 — Muriaé/MG — Bandeira
+- 3144003 — Mutum/MG — Brasão
+- 3144003 — Mutum/MG — Bandeira
+- 3144102 — Muzambinho/MG — Brasão
+- 3144102 — Muzambinho/MG — Bandeira
+- 3144201 — Nacip Raydan/MG — Brasão
+- 3144300 — Nanuque/MG — Brasão
+- 3144300 — Nanuque/MG — Bandeira
+- 3144359 — Naque/MG — Brasão
+- 3144359 — Naque/MG — Bandeira
+- 3144409 — Natércia/MG — Brasão
+- 3144508 — Nazareno/MG — Brasão
+- 3144508 — Nazareno/MG — Bandeira
+- 3144656 — Ninheira/MG — Brasão
+- 3144656 — Ninheira/MG — Bandeira
+- 3144706 — Nova Era/MG — Brasão
+- 3144706 — Nova Era/MG — Bandeira
+- 3144805 — Nova Lima/MG — Brasão
+- 3144805 — Nova Lima/MG — Bandeira
+- 3144904 — Nova Módica/MG — Brasão
+- 3144904 — Nova Módica/MG — Bandeira
+- 3145000 — Nova Ponte/MG — Brasão
+- 3145000 — Nova Ponte/MG — Bandeira
+- 3145059 — Nova Porteirinha/MG — Brasão
+- 3145059 — Nova Porteirinha/MG — Bandeira
+- 3145109 — Nova Resende/MG — Brasão
+- 3145109 — Nova Resende/MG — Bandeira
+- 3145208 — Nova Serrana/MG — Brasão
+- 3145208 — Nova Serrana/MG — Bandeira
+- 3145307 — Novo Cruzeiro/MG — Brasão
+- 3145307 — Novo Cruzeiro/MG — Bandeira
+- 3145356 — Novo Oriente de Minas/MG — Brasão
+- 3145356 — Novo Oriente de Minas/MG — Bandeira
+- 3145406 — Olaria/MG — Bandeira
+- 3145505 — Olímpio Noronha/MG — Brasão
+- 3145505 — Olímpio Noronha/MG — Bandeira
+- 3145604 — Oliveira/MG — Brasão
+- 3145604 — Oliveira/MG — Bandeira
+- 3145802 — Onça de Pitangui/MG — Brasão
+- 3145851 — Oratórios/MG — Brasão
+- 3145851 — Oratórios/MG — Bandeira
+- 3145901 — Ouro Branco/MG — Brasão
+- 3145901 — Ouro Branco/MG — Bandeira
+- 3146008 — Ouro Fino/MG — Brasão
+- 3146008 — Ouro Fino/MG — Bandeira
+- 3146107 — Ouro Preto/MG — Brasão
+- 3146107 — Ouro Preto/MG — Bandeira
+- 3146206 — Ouro Verde de Minas/MG — Bandeira
+- 3146305 — Padre Paraíso/MG — Bandeira
+- 3146503 — Pains/MG — Brasão
+- 3146503 — Pains/MG — Bandeira
+- 3146701 — Palma/MG — Brasão
+- 3146701 — Palma/MG — Bandeira
+- 3146909 — Papagaios/MG — Brasão
+- 3146909 — Papagaios/MG — Bandeira
+- 3147006 — Paracatu/MG — Brasão
+- 3147006 — Paracatu/MG — Bandeira
+- 3147105 — Pará de Minas/MG — Brasão
+- 3147105 — Pará de Minas/MG — Bandeira
+- 3147204 — Paraguaçu/MG — Brasão
+- 3147204 — Paraguaçu/MG — Bandeira
+- 3147303 — Paraisópolis/MG — Brasão
+- 3147303 — Paraisópolis/MG — Bandeira
+- 3147402 — Paraopeba/MG — Brasão
+- 3147501 — Passabém/MG — Brasão
+- 3147501 — Passabém/MG — Bandeira
+- 3147600 — Passa Quatro/MG — Brasão
+- 3147600 — Passa Quatro/MG — Bandeira
+- 3147709 — Passa Tempo/MG — Brasão
+- 3147709 — Passa Tempo/MG — Bandeira
+- 3147808 — Passa Vinte/MG — Brasão
+- 3147907 — Passos/MG — Brasão
+- 3147907 — Passos/MG — Bandeira
+- 3148004 — Patos de Minas/MG — Brasão
+- 3148004 — Patos de Minas/MG — Bandeira
+- 3148103 — Patrocínio/MG — Brasão
+- 3148103 — Patrocínio/MG — Bandeira
+- 3148202 — Patrocínio do Muriaé/MG — Brasão
+- 3148202 — Patrocínio do Muriaé/MG — Bandeira
+- 3148301 — Paula Cândido/MG — Brasão
+- 3148301 — Paula Cândido/MG — Bandeira
+- 3148400 — Paulistas/MG — Brasão
+- 3148509 — Pavão/MG — Brasão
+- 3148509 — Pavão/MG — Bandeira
+- 3148707 — Pedra Azul/MG — Brasão
+- 3148707 — Pedra Azul/MG — Bandeira
+- 3149101 — Pedralva/MG — Brasão
+- 3149101 — Pedralva/MG — Bandeira
+- 3149309 — Pedro Leopoldo/MG — Brasão
+- 3149309 — Pedro Leopoldo/MG — Bandeira
+- 3149507 — Pequeri/MG — Brasão
+- 3149507 — Pequeri/MG — Bandeira
+- 3149804 — Perdizes/MG — Brasão
+- 3149903 — Perdões/MG — Brasão
+- 3149903 — Perdões/MG — Bandeira
+- 3149952 — Periquito/MG — Brasão
+- 3149952 — Periquito/MG — Bandeira
+- 3150000 — Pescador/MG — Brasão
+- 3150109 — Piau/MG — Bandeira
+- 3150208 — Piedade de Ponte Nova/MG — Brasão
+- 3150208 — Piedade de Ponte Nova/MG — Bandeira
+- 3150307 — Piedade do Rio Grande/MG — Brasão
+- 3150307 — Piedade do Rio Grande/MG — Bandeira
+- 3150505 — Pimenta/MG — Brasão
+- 3150505 — Pimenta/MG — Bandeira
+- 3150604 — Piracema/MG — Brasão
+- 3150604 — Piracema/MG — Bandeira
+- 3150703 — Pirajuba/MG — Brasão
+- 3150703 — Pirajuba/MG — Bandeira
+- 3150802 — Piranga/MG — Brasão
+- 3150802 — Piranga/MG — Bandeira
+- 3150901 — Piranguçu/MG — Brasão
+- 3151008 — Piranguinho/MG — Brasão
+- 3151008 — Piranguinho/MG — Bandeira
+- 3151107 — Pirapetinga/MG — Brasão
+- 3151107 — Pirapetinga/MG — Bandeira
+- 3151206 — Pirapora/MG — Brasão
+- 3151206 — Pirapora/MG — Bandeira
+- 3151305 — Piraúba/MG — Brasão
+- 3151404 — Pitangui/MG — Brasão
+- 3151404 — Pitangui/MG — Bandeira
+- 3151503 — Piumhi/MG — Brasão
+- 3151503 — Piumhi/MG — Bandeira
+- 3151602 — Planura/MG — Brasão
+- 3151602 — Planura/MG — Bandeira
+- 3151701 — Poço Fundo/MG — Brasão
+- 3151701 — Poço Fundo/MG — Bandeira
+- 3151800 — Poços de Caldas/MG — Brasão
+- 3151800 — Poços de Caldas/MG — Bandeira
+- 3151909 — Pocrane/MG — Brasão
+- 3151909 — Pocrane/MG — Bandeira
+- 3152006 — Pompéu/MG — Brasão
+- 3152006 — Pompéu/MG — Bandeira
+- 3152105 — Ponte Nova/MG — Brasão
+- 3152105 — Ponte Nova/MG — Bandeira
+- 3152170 — Ponto dos Volantes/MG — Brasão
+- 3152170 — Ponto dos Volantes/MG — Bandeira
+- 3152204 — Porteirinha/MG — Brasão
+- 3152303 — Porto Firme/MG — Bandeira
+- 3152402 — Poté/MG — Brasão
+- 3152402 — Poté/MG — Bandeira
+- 3152501 — Pouso Alegre/MG — Brasão
+- 3152501 — Pouso Alegre/MG — Bandeira
+- 3152600 — Pouso Alto/MG — Brasão
+- 3152600 — Pouso Alto/MG — Bandeira
+- 3152709 — Prados/MG — Brasão
+- 3152709 — Prados/MG — Bandeira
+- 3152808 — Prata/MG — Brasão
+- 3152808 — Prata/MG — Bandeira
+- 3152907 — Pratápolis/MG — Brasão
+- 3152907 — Pratápolis/MG — Bandeira
+- 3153004 — Pratinha/MG — Brasão
+- 3153301 — Presidente Kubitschek/MG — Brasão
+- 3153301 — Presidente Kubitschek/MG — Bandeira
+- 3153400 — Presidente Olegário/MG — Brasão
+- 3153400 — Presidente Olegário/MG — Bandeira
+- 3153509 — Alto Jequitibá/MG — Brasão
+- 3153509 — Alto Jequitibá/MG — Bandeira
+- 3153608 — Prudente de Morais/MG — Brasão
+- 3153707 — Quartel Geral/MG — Brasão
+- 3153707 — Quartel Geral/MG — Bandeira
+- 3153905 — Raposos/MG — Brasão
+- 3153905 — Raposos/MG — Bandeira
+- 3154002 — Raul Soares/MG — Brasão
+- 3154002 — Raul Soares/MG — Bandeira
+- 3154101 — Recreio/MG — Brasão
+- 3154101 — Recreio/MG — Bandeira
+- 3154150 — Reduto/MG — Brasão
+- 3154150 — Reduto/MG — Bandeira
+- 3154200 — Resende Costa/MG — Brasão
+- 3154200 — Resende Costa/MG — Bandeira
+- 3154309 — Resplendor/MG — Brasão
+- 3154309 — Resplendor/MG — Bandeira
+- 3154408 — Ressaquinha/MG — Brasão
+- 3154408 — Ressaquinha/MG — Bandeira
+- 3154606 — Ribeirão das Neves/MG — Brasão
+- 3154606 — Ribeirão das Neves/MG — Bandeira
+- 3154705 — Ribeirão Vermelho/MG — Bandeira
+- 3154804 — Rio Acima/MG — Brasão
+- 3154903 — Rio Casca/MG — Brasão
+- 3154903 — Rio Casca/MG — Bandeira
+- 3155009 — Rio Doce/MG — Brasão
+- 3155009 — Rio Doce/MG — Bandeira
+- 3155108 — Rio do Prado/MG — Brasão
+- 3155108 — Rio do Prado/MG — Bandeira
+- 3155207 — Rio Espera/MG — Bandeira
+- 3155306 — Rio Manso/MG — Brasão
+- 3155405 — Rio Novo/MG — Brasão
+- 3155405 — Rio Novo/MG — Bandeira
+- 3155504 — Rio Paranaíba/MG — Brasão
+- 3155504 — Rio Paranaíba/MG — Bandeira
+- 3155603 — Rio Pardo de Minas/MG — Brasão
+- 3155603 — Rio Pardo de Minas/MG — Bandeira
+- 3155702 — Rio Piracicaba/MG — Brasão
+- 3155702 — Rio Piracicaba/MG — Bandeira
+- 3155801 — Rio Pomba/MG — Brasão
+- 3155801 — Rio Pomba/MG — Bandeira
+- 3155900 — Rio Preto/MG — Brasão
+- 3155900 — Rio Preto/MG — Bandeira
+- 3156007 — Rio Vermelho/MG — Brasão
+- 3156007 — Rio Vermelho/MG — Bandeira
+- 3156106 — Ritápolis/MG — Brasão
+- 3156205 — Rochedo de Minas/MG — Brasão
+- 3156205 — Rochedo de Minas/MG — Bandeira
+- 3156403 — Romaria/MG — Brasão
+- 3156403 — Romaria/MG — Bandeira
+- 3156502 — Rubelita/MG — Brasão
+- 3156502 — Rubelita/MG — Bandeira
+- 3156601 — Rubim/MG — Brasão
+- 3156601 — Rubim/MG — Bandeira
+- 3156700 — Sabará/MG — Brasão
+- 3156700 — Sabará/MG — Bandeira
+- 3156809 — Sabinópolis/MG — Brasão
+- 3156809 — Sabinópolis/MG — Bandeira
+- 3156908 — Sacramento/MG — Brasão
+- 3156908 — Sacramento/MG — Bandeira
+- 3157005 — Salinas/MG — Brasão
+- 3157005 — Salinas/MG — Bandeira
+- 3157104 — Salto da Divisa/MG — Bandeira
+- 3157203 — Santa Bárbara/MG — Brasão
+- 3157203 — Santa Bárbara/MG — Bandeira
+- 3157252 — Santa Bárbara do Leste/MG — Brasão
+- 3157252 — Santa Bárbara do Leste/MG — Bandeira
+- 3157278 — Santa Bárbara do Monte Verde/MG — Brasão
+- 3157278 — Santa Bárbara do Monte Verde/MG — Bandeira
+- 3157336 — Santa Cruz de Minas/MG — Bandeira
+- 3157401 — Santa Cruz do Escalvado/MG — Brasão
+- 3157401 — Santa Cruz do Escalvado/MG — Bandeira
+- 3157500 — Santa Efigênia de Minas/MG — Brasão
+- 3157609 — Santa Fé de Minas/MG — Brasão
+- 3157609 — Santa Fé de Minas/MG — Bandeira
+- 3157658 — Santa Helena de Minas/MG — Brasão
+- 3157708 — Santa Juliana/MG — Brasão
+- 3157807 — Santa Luzia/MG — Brasão
+- 3157807 — Santa Luzia/MG — Bandeira
+- 3157906 — Santa Margarida/MG — Brasão
+- 3158003 — Santa Maria de Itabira/MG — Brasão
+- 3158003 — Santa Maria de Itabira/MG — Bandeira
+- 3158102 — Santa Maria do Salto/MG — Brasão
+- 3158102 — Santa Maria do Salto/MG — Bandeira
+- 3158201 — Santa Maria do Suaçuí/MG — Brasão
+- 3158201 — Santa Maria do Suaçuí/MG — Bandeira
+- 3158300 — Santana da Vargem/MG — Brasão
+- 3158300 — Santana da Vargem/MG — Bandeira
+- 3158409 — Santana de Cataguases/MG — Brasão
+- 3158706 — Santana do Garambéu/MG — Brasão
+- 3158805 — Santana do Jacaré/MG — Brasão
+- 3158805 — Santana do Jacaré/MG — Bandeira
+- 3158904 — Santana do Manhuaçu/MG — Brasão
+- 3158904 — Santana do Manhuaçu/MG — Bandeira
+- 3159001 — Santana do Riacho/MG — Brasão
+- 3159001 — Santana do Riacho/MG — Bandeira
+- 3159100 — Santana dos Montes/MG — Brasão
+- 3159100 — Santana dos Montes/MG — Bandeira
+- 3159209 — Santa Rita de Caldas/MG — Brasão
+- 3159308 — Santa Rita de Jacutinga/MG — Brasão
+- 3159308 — Santa Rita de Jacutinga/MG — Bandeira
+- 3159357 — Santa Rita de Minas/MG — Brasão
+- 3159357 — Santa Rita de Minas/MG — Bandeira
+- 3159506 — Santa Rita do Itueto/MG — Brasão
+- 3159605 — Santa Rita do Sapucaí/MG — Brasão
+- 3159605 — Santa Rita do Sapucaí/MG — Bandeira
+- 3159803 — Santa Vitória/MG — Brasão
+- 3159902 — Santo Antônio do Amparo/MG — Brasão
+- 3159902 — Santo Antônio do Amparo/MG — Bandeira
+- 3160108 — Santo Antônio do Grama/MG — Brasão
+- 3160108 — Santo Antônio do Grama/MG — Bandeira
+- 3160207 — Santo Antônio do Itambé/MG — Brasão
+- 3160306 — Santo Antônio do Jacinto/MG — Brasão
+- 3160306 — Santo Antônio do Jacinto/MG — Bandeira
+- 3160405 — Santo Antônio do Monte/MG — Brasão
+- 3160405 — Santo Antônio do Monte/MG — Bandeira
+- 3160504 — Santo Antônio do Rio Abaixo/MG — Brasão
+- 3160504 — Santo Antônio do Rio Abaixo/MG — Bandeira
+- 3160603 — Santo Hipólito/MG — Brasão
+- 3160702 — Santos Dumont/MG — Brasão
+- 3160702 — Santos Dumont/MG — Bandeira
+- 3160801 — São Bento Abade/MG — Brasão
+- 3160801 — São Bento Abade/MG — Bandeira
+- 3160900 — São Brás do Suaçuí/MG — Brasão
+- 3160900 — São Brás do Suaçuí/MG — Bandeira
+- 3160959 — São Domingos das Dores/MG — Brasão
+- 3160959 — São Domingos das Dores/MG — Bandeira
+- 3161007 — São Domingos do Prata/MG — Brasão
+- 3161007 — São Domingos do Prata/MG — Bandeira
+- 3161056 — São Félix de Minas/MG — Brasão
+- 3161056 — São Félix de Minas/MG — Bandeira
+- 3161106 — São Francisco/MG — Brasão
+- 3161106 — São Francisco/MG — Bandeira
+- 3161205 — São Francisco de Paula/MG — Brasão
+- 3161205 — São Francisco de Paula/MG — Bandeira
+- 3161502 — São Geraldo/MG — Brasão
+- 3161502 — São Geraldo/MG — Bandeira
+- 3161650 — São Geraldo do Baixio/MG — Brasão
+- 3161650 — São Geraldo do Baixio/MG — Bandeira
+- 3161809 — São Gonçalo do Pará/MG — Brasão
+- 3161809 — São Gonçalo do Pará/MG — Bandeira
+- 3161908 — São Gonçalo do Rio Abaixo/MG — Brasão
+- 3161908 — São Gonçalo do Rio Abaixo/MG — Bandeira
+- 3162005 — São Gonçalo do Sapucaí/MG — Brasão
+- 3162005 — São Gonçalo do Sapucaí/MG — Bandeira
+- 3162104 — São Gotardo/MG — Brasão
+- 3162104 — São Gotardo/MG — Bandeira
+- 3162252 — São João da Lagoa/MG — Bandeira
+- 3162302 — São João da Mata/MG — Brasão
+- 3162302 — São João da Mata/MG — Bandeira
+- 3162500 — São João del Rei/MG — Brasão
+- 3162500 — São João del Rei/MG — Bandeira
+- 3162559 — São João do Manhuaçu/MG — Brasão
+- 3162609 — São João do Oriente/MG — Brasão
+- 3162609 — São João do Oriente/MG — Bandeira
+- 3162708 — São João do Paraíso/MG — Brasão
+- 3162708 — São João do Paraíso/MG — Bandeira
+- 3162807 — São João Evangelista/MG — Brasão
+- 3162807 — São João Evangelista/MG — Bandeira
+- 3162906 — São João Nepomuceno/MG — Brasão
+- 3162906 — São João Nepomuceno/MG — Bandeira
+- 3162922 — São Joaquim de Bicas/MG — Brasão
+- 3162922 — São Joaquim de Bicas/MG — Bandeira
+- 3162948 — São José da Barra/MG — Brasão
+- 3162948 — São José da Barra/MG — Bandeira
+- 3162955 — São José da Lapa/MG — Brasão
+- 3162955 — São José da Lapa/MG — Bandeira
+- 3163003 — São José da Safira/MG — Brasão
+- 3163003 — São José da Safira/MG — Bandeira
+- 3163102 — São José da Varginha/MG — Brasão
+- 3163201 — São José do Alegre/MG — Brasão
+- 3163300 — São José do Divino/MG — Brasão
+- 3163409 — São José do Goiabal/MG — Brasão
+- 3163409 — São José do Goiabal/MG — Bandeira
+- 3163508 — São José do Jacuri/MG — Brasão
+- 3163508 — São José do Jacuri/MG — Bandeira
+- 3163607 — São José do Mantimento/MG — Brasão
+- 3163706 — São Lourenço/MG — Brasão
+- 3163706 — São Lourenço/MG — Bandeira
+- 3164001 — São Pedro dos Ferros/MG — Brasão
+- 3164001 — São Pedro dos Ferros/MG — Bandeira
+- 3164100 — São Pedro do Suaçuí/MG — Brasão
+- 3164209 — São Romão/MG — Brasão
+- 3164209 — São Romão/MG — Bandeira
+- 3164407 — São Sebastião da Bela Vista/MG — Brasão
+- 3164407 — São Sebastião da Bela Vista/MG — Bandeira
+- 3164431 — São Sebastião da Vargem Alegre/MG — Brasão
+- 3164704 — São Sebastião do Paraíso/MG — Brasão
+- 3164704 — São Sebastião do Paraíso/MG — Bandeira
+- 3164902 — São Sebastião do Rio Verde/MG — Brasão
+- 3164902 — São Sebastião do Rio Verde/MG — Bandeira
+- 3165008 — São Tiago/MG — Brasão
+- 3165008 — São Tiago/MG — Bandeira
+- 3165206 — São Tomé das Letras/MG — Brasão
+- 3165206 — São Tomé das Letras/MG — Bandeira
+- 3165305 — São Vicente de Minas/MG — Brasão
+- 3165305 — São Vicente de Minas/MG — Bandeira
+- 3165404 — Sapucaí-Mirim/MG — Brasão
+- 3165404 — Sapucaí-Mirim/MG — Bandeira
+- 3165503 — Sardoá/MG — Brasão
+- 3165503 — Sardoá/MG — Bandeira
+- 3165537 — Sarzedo/MG — Brasão
+- 3165552 — Setubinha/MG — Brasão
+- 3165552 — Setubinha/MG — Bandeira
+- 3165560 — Sem-Peixe/MG — Brasão
+- 3165578 — Senador Amaral/MG — Brasão
+- 3165578 — Senador Amaral/MG — Bandeira
+- 3165602 — Senador Cortes/MG — Brasão
+- 3165701 — Senador Firmino/MG — Brasão
+- 3165701 — Senador Firmino/MG — Bandeira
+- 3165800 — Senador José Bento/MG — Brasão
+- 3165800 — Senador José Bento/MG — Bandeira
+- 3166006 — Senhora de Oliveira/MG — Brasão
+- 3166006 — Senhora de Oliveira/MG — Bandeira
+- 3166105 — Senhora do Porto/MG — Brasão
+- 3166204 — Senhora dos Remédios/MG — Brasão
+- 3166204 — Senhora dos Remédios/MG — Bandeira
+- 3166303 — Sericita/MG — Brasão
+- 3166303 — Sericita/MG — Bandeira
+- 3166402 — Seritinga/MG — Brasão
+- 3166402 — Seritinga/MG — Bandeira
+- 3166600 — Serra da Saudade/MG — Brasão
+- 3166600 — Serra da Saudade/MG — Bandeira
+- 3166709 — Serra dos Aimorés/MG — Brasão
+- 3166709 — Serra dos Aimorés/MG — Bandeira
+- 3166907 — Serrania/MG — Brasão
+- 3166907 — Serrania/MG — Bandeira
+- 3167103 — Serro/MG — Brasão
+- 3167103 — Serro/MG — Bandeira
+- 3167202 — Sete Lagoas/MG — Brasão
+- 3167202 — Sete Lagoas/MG — Bandeira
+- 3167301 — Silveirânia/MG — Brasão
+- 3167301 — Silveirânia/MG — Bandeira
+- 3167608 — Simonésia/MG — Brasão
+- 3167608 — Simonésia/MG — Bandeira
+- 3167707 — Sobrália/MG — Brasão
+- 3167707 — Sobrália/MG — Bandeira
+- 3167806 — Soledade de Minas/MG — Brasão
+- 3167806 — Soledade de Minas/MG — Bandeira
+- 3167905 — Tabuleiro/MG — Brasão
+- 3167905 — Tabuleiro/MG — Bandeira
+- 3168002 — Taiobeiras/MG — Brasão
+- 3168002 — Taiobeiras/MG — Bandeira
+- 3168051 — Taparuba/MG — Brasão
+- 3168051 — Taparuba/MG — Bandeira
+- 3168101 — Tapira/MG — Brasão
+- 3168101 — Tapira/MG — Bandeira
+- 3168309 — Taquaraçu de Minas/MG — Brasão
+- 3168408 — Tarumirim/MG — Brasão
+- 3168408 — Tarumirim/MG — Bandeira
+- 3168507 — Teixeiras/MG — Brasão
+- 3168507 — Teixeiras/MG — Bandeira
+- 3168606 — Teófilo Otoni/MG — Brasão
+- 3168606 — Teófilo Otoni/MG — Bandeira
+- 3168705 — Timóteo/MG — Brasão
+- 3168705 — Timóteo/MG — Bandeira
+- 3168804 — Tiradentes/MG — Brasão
+- 3168804 — Tiradentes/MG — Bandeira
+- 3168903 — Tiros/MG — Brasão
+- 3168903 — Tiros/MG — Bandeira
+- 3169059 — Tocos do Moji/MG — Brasão
+- 3169208 — Tombos/MG — Brasão
+- 3169208 — Tombos/MG — Bandeira
+- 3169307 — Três Corações/MG — Brasão
+- 3169307 — Três Corações/MG — Bandeira
+- 3169356 — Três Marias/MG — Brasão
+- 3169406 — Três Pontas/MG — Brasão
+- 3169406 — Três Pontas/MG — Bandeira
+- 3169505 — Tumiritinga/MG — Brasão
+- 3169505 — Tumiritinga/MG — Bandeira
+- 3169604 — Tupaciguara/MG — Brasão
+- 3169604 — Tupaciguara/MG — Bandeira
+- 3169703 — Turmalina/MG — Brasão
+- 3169703 — Turmalina/MG — Bandeira
+- 3169901 — Ubá/MG — Brasão
+- 3169901 — Ubá/MG — Bandeira
+- 3170008 — Ubaí/MG — Brasão
+- 3170008 — Ubaí/MG — Bandeira
+- 3170057 — Ubaporanga/MG — Brasão
+- 3170057 — Ubaporanga/MG — Bandeira
+- 3170107 — Uberaba/MG — Brasão
+- 3170107 — Uberaba/MG — Bandeira
+- 3170206 — Uberlândia/MG — Brasão
+- 3170206 — Uberlândia/MG — Bandeira
+- 3170305 — Umburatiba/MG — Brasão
+- 3170305 — Umburatiba/MG — Bandeira
+- 3170404 — Unaí/MG — Brasão
+- 3170404 — Unaí/MG — Bandeira
+- 3170438 — União de Minas/MG — Brasão
+- 3170438 — União de Minas/MG — Bandeira
+- 3170503 — Urucânia/MG — Brasão
+- 3170503 — Urucânia/MG — Bandeira
+- 3170529 — Urucuia/MG — Brasão
+- 3170529 — Urucuia/MG — Bandeira
+- 3170578 — Vargem Alegre/MG — Brasão
+- 3170578 — Vargem Alegre/MG — Bandeira
+- 3170602 — Vargem Bonita/MG — Bandeira
+- 3170701 — Varginha/MG — Brasão
+- 3170701 — Varginha/MG — Bandeira
+- 3170800 — Várzea da Palma/MG — Brasão
+- 3170800 — Várzea da Palma/MG — Bandeira
+- 3170909 — Varzelândia/MG — Brasão
+- 3170909 — Varzelândia/MG — Bandeira
+- 3171006 — Vazante/MG — Brasão
+- 3171006 — Vazante/MG — Bandeira
+- 3171071 — Veredinha/MG — Brasão
+- 3171154 — Vermelho Novo/MG — Brasão
+- 3171154 — Vermelho Novo/MG — Bandeira
+- 3171204 — Vespasiano/MG — Brasão
+- 3171204 — Vespasiano/MG — Bandeira
+- 3171303 — Viçosa/MG — Brasão
+- 3171303 — Viçosa/MG — Bandeira
+- 3171402 — Vieiras/MG — Brasão
+- 3171402 — Vieiras/MG — Bandeira
+- 3171501 — Mathias Lobato/MG — Brasão
+- 3171501 — Mathias Lobato/MG — Bandeira
+- 3171600 — Virgem da Lapa/MG — Brasão
+- 3171600 — Virgem da Lapa/MG — Bandeira
+- 3171709 — Virgínia/MG — Brasão
+- 3172004 — Visconde do Rio Branco/MG — Brasão
+- 3172004 — Visconde do Rio Branco/MG — Bandeira
+- 3172202 — Wenceslau Braz/MG — Brasão
+- 3172202 — Wenceslau Braz/MG — Bandeira
+- 3200102 — Afonso Cláudio/ES — Brasão
+- 3200102 — Afonso Cláudio/ES — Bandeira
+- 3200136 — Águia Branca/ES — Brasão
+- 3200136 — Águia Branca/ES — Bandeira
+- 3200169 — Água Doce do Norte/ES — Brasão
+- 3200201 — Alegre/ES — Brasão
+- 3200201 — Alegre/ES — Bandeira
+- 3200300 — Alfredo Chaves/ES — Brasão
+- 3200300 — Alfredo Chaves/ES — Bandeira
+- 3200359 — Alto Rio Novo/ES — Brasão
+- 3200359 — Alto Rio Novo/ES — Bandeira
+- 3200409 — Anchieta/ES — Brasão
+- 3200409 — Anchieta/ES — Bandeira
+- 3200508 — Apiacá/ES — Brasão
+- 3200508 — Apiacá/ES — Bandeira
+- 3200607 — Aracruz/ES — Brasão
+- 3200607 — Aracruz/ES — Bandeira
+- 3200706 — Atílio Vivácqua/ES — Brasão
+- 3200706 — Atílio Vivácqua/ES — Bandeira
+- 3200805 — Baixo Guandu/ES — Brasão
+- 3200805 — Baixo Guandu/ES — Bandeira
+- 3200904 — Barra de São Francisco/ES — Brasão
+- 3200904 — Barra de São Francisco/ES — Bandeira
+- 3201001 — Boa Esperança/ES — Brasão
+- 3201001 — Boa Esperança/ES — Bandeira
+- 3201100 — Bom Jesus do Norte/ES — Brasão
+- 3201100 — Bom Jesus do Norte/ES — Bandeira
+- 3201159 — Brejetuba/ES — Brasão
+- 3201159 — Brejetuba/ES — Bandeira
+- 3201209 — Cachoeiro de Itapemirim/ES — Brasão
+- 3201308 — Cariacica/ES — Brasão
+- 3201308 — Cariacica/ES — Bandeira
+- 3201407 — Castelo/ES — Brasão
+- 3201407 — Castelo/ES — Bandeira
+- 3201506 — Colatina/ES — Brasão
+- 3201506 — Colatina/ES — Bandeira
+- 3201605 — Conceição da Barra/ES — Brasão
+- 3201605 — Conceição da Barra/ES — Bandeira
+- 3201704 — Conceição do Castelo/ES — Brasão
+- 3201704 — Conceição do Castelo/ES — Bandeira
+- 3201902 — Domingos Martins/ES — Brasão
+- 3201902 — Domingos Martins/ES — Bandeira
+- 3202009 — Dores do Rio Preto/ES — Brasão
+- 3202009 — Dores do Rio Preto/ES — Bandeira
+- 3202108 — Ecoporanga/ES — Brasão
+- 3202108 — Ecoporanga/ES — Bandeira
+- 3202207 — Fundão/ES — Brasão
+- 3202207 — Fundão/ES — Bandeira
+- 3202256 — Governador Lindenberg/ES — Brasão
+- 3202256 — Governador Lindenberg/ES — Bandeira
+- 3202306 — Guaçuí/ES — Brasão
+- 3202306 — Guaçuí/ES — Bandeira
+- 3202405 — Guarapari/ES — Brasão
+- 3202405 — Guarapari/ES — Bandeira
+- 3202454 — Ibatiba/ES — Brasão
+- 3202454 — Ibatiba/ES — Bandeira
+- 3202504 — Ibiraçu/ES — Brasão
+- 3202504 — Ibiraçu/ES — Bandeira
+- 3202553 — Ibitirama/ES — Brasão
+- 3202553 — Ibitirama/ES — Bandeira
+- 3202603 — Iconha/ES — Brasão
+- 3202603 — Iconha/ES — Bandeira
+- 3202652 — Irupi/ES — Brasão
+- 3202652 — Irupi/ES — Bandeira
+- 3202702 — Itaguaçu/ES — Brasão
+- 3202702 — Itaguaçu/ES — Bandeira
+- 3202801 — Itapemirim/ES — Brasão
+- 3202801 — Itapemirim/ES — Bandeira
+- 3202900 — Itarana/ES — Brasão
+- 3202900 — Itarana/ES — Bandeira
+- 3203007 — Iúna/ES — Brasão
+- 3203007 — Iúna/ES — Bandeira
+- 3203056 — Jaguaré/ES — Brasão
+- 3203056 — Jaguaré/ES — Bandeira
+- 3203106 — Jerônimo Monteiro/ES — Brasão
+- 3203106 — Jerônimo Monteiro/ES — Bandeira
+- 3203130 — João Neiva/ES — Brasão
+- 3203130 — João Neiva/ES — Bandeira
+- 3203163 — Laranja da Terra/ES — Brasão
+- 3203163 — Laranja da Terra/ES — Bandeira
+- 3203205 — Linhares/ES — Brasão
+- 3203205 — Linhares/ES — Bandeira
+- 3203304 — Mantenópolis/ES — Brasão
+- 3203304 — Mantenópolis/ES — Bandeira
+- 3203320 — Marataízes/ES — Brasão
+- 3203320 — Marataízes/ES — Bandeira
+- 3203346 — Marechal Floriano/ES — Brasão
+- 3203346 — Marechal Floriano/ES — Bandeira
+- 3203353 — Marilândia/ES — Brasão
+- 3203353 — Marilândia/ES — Bandeira
+- 3203403 — Mimoso do Sul/ES — Brasão
+- 3203403 — Mimoso do Sul/ES — Bandeira
+- 3203502 — Montanha/ES — Brasão
+- 3203502 — Montanha/ES — Bandeira
+- 3203601 — Mucurici/ES — Brasão
+- 3203601 — Mucurici/ES — Bandeira
+- 3203700 — Muniz Freire/ES — Brasão
+- 3203700 — Muniz Freire/ES — Bandeira
+- 3203809 — Muqui/ES — Brasão
+- 3203809 — Muqui/ES — Bandeira
+- 3203908 — Nova Venécia/ES — Brasão
+- 3203908 — Nova Venécia/ES — Bandeira
+- 3204005 — Pancas/ES — Brasão
+- 3204005 — Pancas/ES — Bandeira
+- 3204054 — Pedro Canário/ES — Brasão
+- 3204054 — Pedro Canário/ES — Bandeira
+- 3204104 — Pinheiros/ES — Brasão
+- 3204104 — Pinheiros/ES — Bandeira
+- 3204203 — Piúma/ES — Brasão
+- 3204203 — Piúma/ES — Bandeira
+- 3204252 — Ponto Belo/ES — Brasão
+- 3204252 — Ponto Belo/ES — Bandeira
+- 3204302 — Presidente Kennedy/ES — Brasão
+- 3204302 — Presidente Kennedy/ES — Bandeira
+- 3204351 — Rio Bananal/ES — Brasão
+- 3204351 — Rio Bananal/ES — Bandeira
+- 3204401 — Rio Novo do Sul/ES — Brasão
+- 3204401 — Rio Novo do Sul/ES — Bandeira
+- 3204500 — Santa Leopoldina/ES — Brasão
+- 3204500 — Santa Leopoldina/ES — Bandeira
+- 3204559 — Santa Maria de Jetibá/ES — Brasão
+- 3204559 — Santa Maria de Jetibá/ES — Bandeira
+- 3204609 — Santa Teresa/ES — Brasão
+- 3204609 — Santa Teresa/ES — Bandeira
+- 3204658 — São Domingos do Norte/ES — Brasão
+- 3204658 — São Domingos do Norte/ES — Bandeira
+- 3204708 — São Gabriel da Palha/ES — Brasão
+- 3204708 — São Gabriel da Palha/ES — Bandeira
+- 3204807 — São José do Calçado/ES — Brasão
+- 3204807 — São José do Calçado/ES — Bandeira
+- 3204906 — São Mateus/ES — Brasão
+- 3204906 — São Mateus/ES — Bandeira
+- 3204955 — São Roque do Canaã/ES — Brasão
+- 3204955 — São Roque do Canaã/ES — Bandeira
+- 3205002 — Serra/ES — Brasão
+- 3205002 — Serra/ES — Bandeira
+- 3205010 — Sooretama/ES — Brasão
+- 3205010 — Sooretama/ES — Bandeira
+- 3205036 — Vargem Alta/ES — Brasão
+- 3205036 — Vargem Alta/ES — Bandeira
+- 3205069 — Venda Nova do Imigrante/ES — Brasão
+- 3205069 — Venda Nova do Imigrante/ES — Bandeira
+- 3205101 — Viana/ES — Brasão
+- 3205101 — Viana/ES — Bandeira
+- 3205150 — Vila Pavão/ES — Brasão
+- 3205150 — Vila Pavão/ES — Bandeira
+- 3205176 — Vila Valério/ES — Brasão
+- 3205176 — Vila Valério/ES — Bandeira
+- 3205200 — Vila Velha/ES — Brasão
+- 3205200 — Vila Velha/ES — Bandeira
+- 3205309 — Vitória/ES — Brasão
+- 3205309 — Vitória/ES — Bandeira
+- 3300100 — Angra dos Reis/RJ — Brasão
+- 3300100 — Angra dos Reis/RJ — Bandeira
+- 3300159 — Aperibé/RJ — Brasão
+- 3300159 — Aperibé/RJ — Bandeira
+- 3300209 — Araruama/RJ — Brasão
+- 3300209 — Araruama/RJ — Bandeira
+- 3300225 — Areal/RJ — Brasão
+- 3300225 — Areal/RJ — Bandeira
+- 3300233 — Armação dos Búzios/RJ — Brasão
+- 3300233 — Armação dos Búzios/RJ — Bandeira
+- 3300258 — Arraial do Cabo/RJ — Brasão
+- 3300258 — Arraial do Cabo/RJ — Bandeira
+- 3300308 — Barra do Piraí/RJ — Brasão
+- 3300308 — Barra do Piraí/RJ — Bandeira
+- 3300407 — Barra Mansa/RJ — Brasão
+- 3300407 — Barra Mansa/RJ — Bandeira
+- 3300456 — Belford Roxo/RJ — Brasão
+- 3300456 — Belford Roxo/RJ — Bandeira
+- 3300506 — Bom Jardim/RJ — Brasão
+- 3300506 — Bom Jardim/RJ — Bandeira
+- 3300605 — Bom Jesus do Itabapoana/RJ — Brasão
+- 3300605 — Bom Jesus do Itabapoana/RJ — Bandeira
+- 3300704 — Cabo Frio/RJ — Brasão
+- 3300704 — Cabo Frio/RJ — Bandeira
+- 3300803 — Cachoeiras de Macacu/RJ — Brasão
+- 3300803 — Cachoeiras de Macacu/RJ — Bandeira
+- 3300902 — Cambuci/RJ — Brasão
+- 3300902 — Cambuci/RJ — Bandeira
+- 3300936 — Carapebus/RJ — Brasão
+- 3300936 — Carapebus/RJ — Bandeira
+- 3300951 — Comendador Levy Gasparian/RJ — Brasão
+- 3300951 — Comendador Levy Gasparian/RJ — Bandeira
+- 3301009 — Campos dos Goytacazes/RJ — Brasão
+- 3301009 — Campos dos Goytacazes/RJ — Bandeira
+- 3301108 — Cantagalo/RJ — Brasão
+- 3301108 — Cantagalo/RJ — Bandeira
+- 3301157 — Cardoso Moreira/RJ — Brasão
+- 3301157 — Cardoso Moreira/RJ — Bandeira
+- 3301207 — Carmo/RJ — Brasão
+- 3301207 — Carmo/RJ — Bandeira
+- 3301306 — Casimiro de Abreu/RJ — Brasão
+- 3301306 — Casimiro de Abreu/RJ — Bandeira
+- 3301405 — Conceição de Macabu/RJ — Brasão
+- 3301405 — Conceição de Macabu/RJ — Bandeira
+- 3301504 — Cordeiro/RJ — Brasão
+- 3301504 — Cordeiro/RJ — Bandeira
+- 3301603 — Duas Barras/RJ — Brasão
+- 3301603 — Duas Barras/RJ — Bandeira
+- 3301702 — Duque de Caxias/RJ — Brasão
+- 3301702 — Duque de Caxias/RJ — Bandeira
+- 3301801 — Engenheiro Paulo de Frontin/RJ — Brasão
+- 3301801 — Engenheiro Paulo de Frontin/RJ — Bandeira
+- 3301850 — Guapimirim/RJ — Brasão
+- 3301850 — Guapimirim/RJ — Bandeira
+- 3301876 — Iguaba Grande/RJ — Brasão
+- 3301876 — Iguaba Grande/RJ — Bandeira
+- 3301900 — Itaboraí/RJ — Brasão
+- 3301900 — Itaboraí/RJ — Bandeira
+- 3302007 — Itaguaí/RJ — Brasão
+- 3302007 — Itaguaí/RJ — Bandeira
+- 3302056 — Italva/RJ — Brasão
+- 3302056 — Italva/RJ — Bandeira
+- 3302106 — Itaocara/RJ — Brasão
+- 3302106 — Itaocara/RJ — Bandeira
+- 3302205 — Itaperuna/RJ — Brasão
+- 3302205 — Itaperuna/RJ — Bandeira
+- 3302254 — Itatiaia/RJ — Brasão
+- 3302254 — Itatiaia/RJ — Bandeira
+- 3302270 — Japeri/RJ — Brasão
+- 3302270 — Japeri/RJ — Bandeira
+- 3302304 — Laje do Muriaé/RJ — Brasão
+- 3302304 — Laje do Muriaé/RJ — Bandeira
+- 3302403 — Macaé/RJ — Brasão
+- 3302403 — Macaé/RJ — Bandeira
+- 3302452 — Macuco/RJ — Brasão
+- 3302452 — Macuco/RJ — Bandeira
+- 3302601 — Mangaratiba/RJ — Brasão
+- 3302601 — Mangaratiba/RJ — Bandeira
+- 3302700 — Maricá/RJ — Brasão
+- 3302700 — Maricá/RJ — Bandeira
+- 3302809 — Mendes/RJ — Brasão
+- 3302809 — Mendes/RJ — Bandeira
+- 3302858 — Mesquita/RJ — Brasão
+- 3302858 — Mesquita/RJ — Bandeira
+- 3302908 — Miguel Pereira/RJ — Brasão
+- 3302908 — Miguel Pereira/RJ — Bandeira
+- 3303005 — Miracema/RJ — Brasão
+- 3303005 — Miracema/RJ — Bandeira
+- 3303104 — Natividade/RJ — Brasão
+- 3303104 — Natividade/RJ — Bandeira
+- 3303203 — Nilópolis/RJ — Brasão
+- 3303203 — Nilópolis/RJ — Bandeira
+- 3303302 — Niterói/RJ — Brasão
+- 3303302 — Niterói/RJ — Bandeira
+- 3303401 — Nova Friburgo/RJ — Brasão
+- 3303401 — Nova Friburgo/RJ — Bandeira
+- 3303500 — Nova Iguaçu/RJ — Brasão
+- 3303500 — Nova Iguaçu/RJ — Bandeira
+- 3303609 — Paracambi/RJ — Bandeira
+- 3303708 — Paraíba do Sul/RJ — Brasão
+- 3303708 — Paraíba do Sul/RJ — Bandeira
+- 3303807 — Paraty/RJ — Brasão
+- 3303807 — Paraty/RJ — Bandeira
+- 3303856 — Paty do Alferes/RJ — Brasão
+- 3303856 — Paty do Alferes/RJ — Bandeira
+- 3303906 — Petrópolis/RJ — Brasão
+- 3303906 — Petrópolis/RJ — Bandeira
+- 3303955 — Pinheiral/RJ — Brasão
+- 3303955 — Pinheiral/RJ — Bandeira
+- 3304003 — Piraí/RJ — Brasão
+- 3304003 — Piraí/RJ — Bandeira
+- 3304102 — Porciúncula/RJ — Brasão
+- 3304102 — Porciúncula/RJ — Bandeira
+- 3304110 — Porto Real/RJ — Brasão
+- 3304110 — Porto Real/RJ — Bandeira
+- 3304128 — Quatis/RJ — Brasão
+- 3304128 — Quatis/RJ — Bandeira
+- 3304144 — Queimados/RJ — Brasão
+- 3304144 — Queimados/RJ — Bandeira
+- 3304151 — Quissamã/RJ — Brasão
+- 3304151 — Quissamã/RJ — Bandeira
+- 3304201 — Resende/RJ — Brasão
+- 3304201 — Resende/RJ — Bandeira
+- 3304300 — Rio Bonito/RJ — Brasão
+- 3304300 — Rio Bonito/RJ — Bandeira
+- 3304409 — Rio Claro/RJ — Brasão
+- 3304409 — Rio Claro/RJ — Bandeira
+- 3304508 — Rio das Flores/RJ — Brasão
+- 3304508 — Rio das Flores/RJ — Bandeira
+- 3304524 — Rio das Ostras/RJ — Brasão
+- 3304524 — Rio das Ostras/RJ — Bandeira
+- 3304557 — Rio de Janeiro/RJ — Brasão
+- 3304557 — Rio de Janeiro/RJ — Bandeira
+- 3304607 — Santa Maria Madalena/RJ — Brasão
+- 3304607 — Santa Maria Madalena/RJ — Bandeira
+- 3304706 — Santo Antônio de Pádua/RJ — Brasão
+- 3304706 — Santo Antônio de Pádua/RJ — Bandeira
+- 3304755 — São Francisco de Itabapoana/RJ — Brasão
+- 3304755 — São Francisco de Itabapoana/RJ — Bandeira
+- 3304805 — São Fidélis/RJ — Brasão
+- 3304805 — São Fidélis/RJ — Bandeira
+- 3304904 — São Gonçalo/RJ — Brasão
+- 3304904 — São Gonçalo/RJ — Bandeira
+- 3305000 — São João da Barra/RJ — Brasão
+- 3305000 — São João da Barra/RJ — Bandeira
+- 3305109 — São João de Meriti/RJ — Brasão
+- 3305109 — São João de Meriti/RJ — Bandeira
+- 3305133 — São José de Ubá/RJ — Brasão
+- 3305133 — São José de Ubá/RJ — Bandeira
+- 3305158 — São José do Vale do Rio Preto/RJ — Brasão
+- 3305158 — São José do Vale do Rio Preto/RJ — Bandeira
+- 3305208 — São Pedro da Aldeia/RJ — Brasão
+- 3305208 — São Pedro da Aldeia/RJ — Bandeira
+- 3305307 — São Sebastião do Alto/RJ — Brasão
+- 3305307 — São Sebastião do Alto/RJ — Bandeira
+- 3305406 — Sapucaia/RJ — Brasão
+- 3305406 — Sapucaia/RJ — Bandeira
+- 3305505 — Saquarema/RJ — Brasão
+- 3305505 — Saquarema/RJ — Bandeira
+- 3305554 — Seropédica/RJ — Brasão
+- 3305554 — Seropédica/RJ — Bandeira
+- 3305604 — Silva Jardim/RJ — Brasão
+- 3305604 — Silva Jardim/RJ — Bandeira
+- 3305703 — Sumidouro/RJ — Brasão
+- 3305703 — Sumidouro/RJ — Bandeira
+- 3305752 — Tanguá/RJ — Brasão
+- 3305752 — Tanguá/RJ — Bandeira
+- 3305802 — Teresópolis/RJ — Brasão
+- 3305802 — Teresópolis/RJ — Bandeira
+- 3305901 — Trajano de Moraes/RJ — Brasão
+- 3305901 — Trajano de Moraes/RJ — Bandeira
+- 3306008 — Três Rios/RJ — Brasão
+- 3306008 — Três Rios/RJ — Bandeira
+- 3306107 — Valença/RJ — Brasão
+- 3306107 — Valença/RJ — Bandeira
+- 3306156 — Varre-Sai/RJ — Brasão
+- 3306156 — Varre-Sai/RJ — Bandeira
+- 3306206 — Vassouras/RJ — Brasão
+- 3306206 — Vassouras/RJ — Bandeira
+- 3306305 — Volta Redonda/RJ — Brasão
+- 3306305 — Volta Redonda/RJ — Bandeira
+- 3500105 — Adamantina/SP — Brasão
+- 3500105 — Adamantina/SP — Bandeira
+- 3500204 — Adolfo/SP — Bandeira
+- 3500303 — Aguaí/SP — Brasão
+- 3500303 — Aguaí/SP — Bandeira
+- 3500402 — Águas da Prata/SP — Brasão
+- 3500402 — Águas da Prata/SP — Bandeira
+- 3500501 — Águas de Lindóia/SP — Brasão
+- 3500501 — Águas de Lindóia/SP — Bandeira
+- 3500550 — Águas de Santa Bárbara/SP — Brasão
+- 3500550 — Águas de Santa Bárbara/SP — Bandeira
 - 3500600 — Águas de São Pedro/SP — Brasão
 - 3500600 — Águas de São Pedro/SP — Bandeira
+- 3500709 — Agudos/SP — Brasão
+- 3500709 — Agudos/SP — Bandeira
+- 3500758 — Alambari/SP — Bandeira
+- 3500808 — Alfredo Marcondes/SP — Brasão
+- 3500808 — Alfredo Marcondes/SP — Bandeira
+- 3500907 — Altair/SP — Brasão
+- 3500907 — Altair/SP — Bandeira
+- 3501004 — Altinópolis/SP — Brasão
+- 3501004 — Altinópolis/SP — Bandeira
+- 3501103 — Alto Alegre/SP — Brasão
+- 3501103 — Alto Alegre/SP — Bandeira
+- 3501152 — Alumínio/SP — Brasão
+- 3501152 — Alumínio/SP — Bandeira
+- 3501202 — Álvares Florence/SP — Brasão
+- 3501202 — Álvares Florence/SP — Bandeira
+- 3501301 — Álvares Machado/SP — Brasão
+- 3501301 — Álvares Machado/SP — Bandeira
+- 3501400 — Álvaro de Carvalho/SP — Brasão
+- 3501400 — Álvaro de Carvalho/SP — Bandeira
+- 3501509 — Alvinlândia/SP — Brasão
+- 3501509 — Alvinlândia/SP — Bandeira
+- 3501608 — Americana/SP — Brasão
+- 3501608 — Americana/SP — Bandeira
+- 3501707 — Américo Brasiliense/SP — Brasão
+- 3501707 — Américo Brasiliense/SP — Bandeira
+- 3501806 — Américo de Campos/SP — Brasão
+- 3501806 — Américo de Campos/SP — Bandeira
+- 3501905 — Amparo/SP — Brasão
+- 3501905 — Amparo/SP — Bandeira
+- 3502002 — Analândia/SP — Brasão
+- 3502002 — Analândia/SP — Bandeira
+- 3502101 — Andradina/SP — Brasão
+- 3502101 — Andradina/SP — Bandeira
+- 3502200 — Angatuba/SP — Brasão
+- 3502200 — Angatuba/SP — Bandeira
+- 3502309 — Anhembi/SP — Brasão
+- 3502309 — Anhembi/SP — Bandeira
+- 3502408 — Anhumas/SP — Brasão
+- 3502408 — Anhumas/SP — Bandeira
+- 3502507 — Aparecida/SP — Brasão
+- 3502507 — Aparecida/SP — Bandeira
+- 3502606 — Aparecida d'Oeste/SP — Brasão
+- 3502606 — Aparecida d'Oeste/SP — Bandeira
+- 3502705 — Apiaí/SP — Brasão
+- 3502705 — Apiaí/SP — Bandeira
+- 3502754 — Araçariguama/SP — Brasão
+- 3502754 — Araçariguama/SP — Bandeira
+- 3502804 — Araçatuba/SP — Brasão
+- 3502804 — Araçatuba/SP — Bandeira
+- 3502903 — Araçoiaba da Serra/SP — Brasão
+- 3502903 — Araçoiaba da Serra/SP — Bandeira
+- 3503000 — Aramina/SP — Brasão
+- 3503000 — Aramina/SP — Bandeira
+- 3503109 — Arandu/SP — Brasão
+- 3503109 — Arandu/SP — Bandeira
+- 3503158 — Arapeí/SP — Brasão
+- 3503158 — Arapeí/SP — Bandeira
+- 3503208 — Araraquara/SP — Brasão
+- 3503208 — Araraquara/SP — Bandeira
+- 3503307 — Araras/SP — Bandeira
+- 3503356 — Arco-Íris/SP — Brasão
+- 3503356 — Arco-Íris/SP — Bandeira
+- 3503406 — Arealva/SP — Brasão
+- 3503406 — Arealva/SP — Bandeira
+- 3503505 — Areias/SP — Brasão
+- 3503505 — Areias/SP — Bandeira
+- 3503604 — Areiópolis/SP — Brasão
+- 3503604 — Areiópolis/SP — Bandeira
+- 3503703 — Ariranha/SP — Brasão
+- 3503703 — Ariranha/SP — Bandeira
+- 3503802 — Artur Nogueira/SP — Brasão
+- 3503802 — Artur Nogueira/SP — Bandeira
+- 3503901 — Arujá/SP — Brasão
+- 3503901 — Arujá/SP — Bandeira
+- 3503950 — Aspásia/SP — Brasão
+- 3503950 — Aspásia/SP — Bandeira
+- 3504008 — Assis/SP — Brasão
+- 3504008 — Assis/SP — Bandeira
+- 3504107 — Atibaia/SP — Brasão
+- 3504107 — Atibaia/SP — Bandeira
+- 3504206 — Auriflama/SP — Brasão
+- 3504206 — Auriflama/SP — Bandeira
+- 3504305 — Avaí/SP — Brasão
+- 3504305 — Avaí/SP — Bandeira
+- 3504404 — Avanhandava/SP — Brasão
+- 3504404 — Avanhandava/SP — Bandeira
+- 3504503 — Avaré/SP — Brasão
+- 3504503 — Avaré/SP — Bandeira
+- 3504602 — Bady Bassitt/SP — Bandeira
+- 3504701 — Balbinos/SP — Brasão
+- 3504701 — Balbinos/SP — Bandeira
+- 3504800 — Bálsamo/SP — Brasão
+- 3504800 — Bálsamo/SP — Bandeira
+- 3504909 — Bananal/SP — Brasão
+- 3504909 — Bananal/SP — Bandeira
+- 3505005 — Barão de Antonina/SP — Brasão
+- 3505005 — Barão de Antonina/SP — Bandeira
+- 3505104 — Barbosa/SP — Brasão
+- 3505104 — Barbosa/SP — Bandeira
+- 3505203 — Bariri/SP — Brasão
+- 3505203 — Bariri/SP — Bandeira
+- 3505302 — Barra Bonita/SP — Brasão
+- 3505302 — Barra Bonita/SP — Bandeira
+- 3505351 — Barra do Chapéu/SP — Brasão
+- 3505351 — Barra do Chapéu/SP — Bandeira
+- 3505401 — Barra do Turvo/SP — Brasão
+- 3505401 — Barra do Turvo/SP — Bandeira
+- 3505500 — Barretos/SP — Brasão
+- 3505500 — Barretos/SP — Bandeira
+- 3505609 — Barrinha/SP — Brasão
+- 3505609 — Barrinha/SP — Bandeira
+- 3505708 — Barueri/SP — Brasão
+- 3505708 — Barueri/SP — Bandeira
+- 3505807 — Bastos/SP — Brasão
+- 3505807 — Bastos/SP — Bandeira
+- 3505906 — Batatais/SP — Brasão
+- 3505906 — Batatais/SP — Bandeira
+- 3506003 — Bauru/SP — Brasão
+- 3506003 — Bauru/SP — Bandeira
+- 3506102 — Bebedouro/SP — Brasão
+- 3506102 — Bebedouro/SP — Bandeira
+- 3506201 — Bento de Abreu/SP — Brasão
+- 3506201 — Bento de Abreu/SP — Bandeira
+- 3506300 — Bernardino de Campos/SP — Brasão
+- 3506300 — Bernardino de Campos/SP — Bandeira
+- 3506359 — Bertioga/SP — Brasão
+- 3506359 — Bertioga/SP — Bandeira
+- 3506409 — Bilac/SP — Brasão
+- 3506409 — Bilac/SP — Bandeira
+- 3506508 — Birigui/SP — Brasão
+- 3506508 — Birigui/SP — Bandeira
+- 3506607 — Biritiba Mirim/SP — Brasão
+- 3506607 — Biritiba Mirim/SP — Bandeira
+- 3506706 — Boa Esperança do Sul/SP — Brasão
+- 3506706 — Boa Esperança do Sul/SP — Bandeira
+- 3506805 — Bocaina/SP — Brasão
+- 3506805 — Bocaina/SP — Bandeira
+- 3506904 — Bofete/SP — Brasão
+- 3506904 — Bofete/SP — Bandeira
+- 3507001 — Boituva/SP — Brasão
+- 3507001 — Boituva/SP — Bandeira
+- 3507100 — Bom Jesus dos Perdões/SP — Brasão
+- 3507100 — Bom Jesus dos Perdões/SP — Bandeira
+- 3507159 — Bom Sucesso de Itararé/SP — Brasão
+- 3507159 — Bom Sucesso de Itararé/SP — Bandeira
+- 3507209 — Borá/SP — Brasão
+- 3507209 — Borá/SP — Bandeira
+- 3507308 — Boracéia/SP — Brasão
+- 3507308 — Boracéia/SP — Bandeira
+- 3507407 — Borborema/SP — Brasão
+- 3507407 — Borborema/SP — Bandeira
+- 3507456 — Borebi/SP — Brasão
+- 3507456 — Borebi/SP — Bandeira
+- 3507506 — Botucatu/SP — Brasão
+- 3507506 — Botucatu/SP — Bandeira
+- 3507605 — Bragança Paulista/SP — Brasão
+- 3507605 — Bragança Paulista/SP — Bandeira
+- 3507704 — Braúna/SP — Brasão
+- 3507704 — Braúna/SP — Bandeira
+- 3507753 — Brejo Alegre/SP — Brasão
+- 3507753 — Brejo Alegre/SP — Bandeira
+- 3507803 — Brodowski/SP — Brasão
+- 3507803 — Brodowski/SP — Bandeira
+- 3507902 — Brotas/SP — Brasão
+- 3507902 — Brotas/SP — Bandeira
+- 3508009 — Buri/SP — Brasão
+- 3508009 — Buri/SP — Bandeira
+- 3508108 — Buritama/SP — Brasão
+- 3508108 — Buritama/SP — Bandeira
+- 3508207 — Buritizal/SP — Brasão
+- 3508207 — Buritizal/SP — Bandeira
+- 3508306 — Cabrália Paulista/SP — Brasão
+- 3508306 — Cabrália Paulista/SP — Bandeira
+- 3508405 — Cabreúva/SP — Brasão
+- 3508405 — Cabreúva/SP — Bandeira
+- 3508504 — Caçapava/SP — Brasão
+- 3508504 — Caçapava/SP — Bandeira
+- 3508603 — Cachoeira Paulista/SP — Brasão
+- 3508603 — Cachoeira Paulista/SP — Bandeira
+- 3508702 — Caconde/SP — Brasão
+- 3508702 — Caconde/SP — Bandeira
+- 3508801 — Cafelândia/SP — Brasão
+- 3508801 — Cafelândia/SP — Bandeira
+- 3508900 — Caiabu/SP — Brasão
+- 3508900 — Caiabu/SP — Bandeira
+- 3509007 — Caieiras/SP — Brasão
+- 3509007 — Caieiras/SP — Bandeira
+- 3509106 — Caiuá/SP — Brasão
+- 3509106 — Caiuá/SP — Bandeira
+- 3509205 — Cajamar/SP — Brasão
+- 3509205 — Cajamar/SP — Bandeira
+- 3509254 — Cajati/SP — Bandeira
+- 3509304 — Cajobi/SP — Brasão
+- 3509304 — Cajobi/SP — Bandeira
+- 3509403 — Cajuru/SP — Brasão
+- 3509403 — Cajuru/SP — Bandeira
+- 3509452 — Campina do Monte Alegre/SP — Brasão
+- 3509452 — Campina do Monte Alegre/SP — Bandeira
+- 3509502 — Campinas/SP — Brasão
+- 3509502 — Campinas/SP — Bandeira
+- 3509601 — Campo Limpo Paulista/SP — Brasão
+- 3509601 — Campo Limpo Paulista/SP — Bandeira
+- 3509700 — Campos do Jordão/SP — Brasão
+- 3509809 — Campos Novos Paulista/SP — Brasão
+- 3509809 — Campos Novos Paulista/SP — Bandeira
+- 3509908 — Cananéia/SP — Brasão
+- 3509908 — Cananéia/SP — Bandeira
+- 3509957 — Canas/SP — Brasão
+- 3509957 — Canas/SP — Bandeira
+- 3510005 — Cândido Mota/SP — Brasão
+- 3510005 — Cândido Mota/SP — Bandeira
+- 3510104 — Cândido Rodrigues/SP — Brasão
+- 3510104 — Cândido Rodrigues/SP — Bandeira
+- 3510153 — Canitar/SP — Bandeira
+- 3510203 — Capão Bonito/SP — Brasão
+- 3510203 — Capão Bonito/SP — Bandeira
+- 3510302 — Capela do Alto/SP — Brasão
+- 3510302 — Capela do Alto/SP — Bandeira
+- 3510401 — Capivari/SP — Brasão
+- 3510401 — Capivari/SP — Bandeira
+- 3510500 — Caraguatatuba/SP — Brasão
+- 3510500 — Caraguatatuba/SP — Bandeira
+- 3510609 — Carapicuíba/SP — Brasão
+- 3510609 — Carapicuíba/SP — Bandeira
+- 3510708 — Cardoso/SP — Brasão
+- 3510708 — Cardoso/SP — Bandeira
+- 3510807 — Casa Branca/SP — Brasão
+- 3510807 — Casa Branca/SP — Bandeira
+- 3510906 — Cássia dos Coqueiros/SP — Brasão
+- 3510906 — Cássia dos Coqueiros/SP — Bandeira
+- 3511003 — Castilho/SP — Brasão
+- 3511003 — Castilho/SP — Bandeira
+- 3511102 — Catanduva/SP — Brasão
+- 3511102 — Catanduva/SP — Bandeira
+- 3511201 — Catiguá/SP — Brasão
+- 3511201 — Catiguá/SP — Bandeira
+- 3511300 — Cedral/SP — Brasão
+- 3511300 — Cedral/SP — Bandeira
+- 3511409 — Cerqueira César/SP — Brasão
+- 3511409 — Cerqueira César/SP — Bandeira
+- 3511508 — Cerquilho/SP — Brasão
+- 3511508 — Cerquilho/SP — Bandeira
+- 3511607 — Cesário Lange/SP — Brasão
+- 3511607 — Cesário Lange/SP — Bandeira
+- 3511706 — Charqueada/SP — Brasão
+- 3511706 — Charqueada/SP — Bandeira
+- 3511904 — Clementina/SP — Brasão
+- 3511904 — Clementina/SP — Bandeira
+- 3512001 — Colina/SP — Bandeira
+- 3512100 — Colômbia/SP — Brasão
+- 3512100 — Colômbia/SP — Bandeira
+- 3512209 — Conchal/SP — Brasão
+- 3512209 — Conchal/SP — Bandeira
+- 3512308 — Conchas/SP — Brasão
+- 3512308 — Conchas/SP — Bandeira
+- 3512407 — Cordeirópolis/SP — Brasão
+- 3512407 — Cordeirópolis/SP — Bandeira
+- 3512506 — Coroados/SP — Brasão
+- 3512506 — Coroados/SP — Bandeira
+- 3512605 — Coronel Macedo/SP — Brasão
+- 3512605 — Coronel Macedo/SP — Bandeira
+- 3512704 — Corumbataí/SP — Brasão
+- 3512704 — Corumbataí/SP — Bandeira
+- 3512803 — Cosmópolis/SP — Brasão
+- 3512803 — Cosmópolis/SP — Bandeira
+- 3512902 — Cosmorama/SP — Brasão
+- 3512902 — Cosmorama/SP — Bandeira
+- 3513009 — Cotia/SP — Brasão
+- 3513009 — Cotia/SP — Bandeira
+- 3513108 — Cravinhos/SP — Brasão
+- 3513108 — Cravinhos/SP — Bandeira
+- 3513207 — Cristais Paulista/SP — Brasão
+- 3513207 — Cristais Paulista/SP — Bandeira
+- 3513306 — Cruzália/SP — Brasão
+- 3513306 — Cruzália/SP — Bandeira
+- 3513405 — Cruzeiro/SP — Brasão
+- 3513405 — Cruzeiro/SP — Bandeira
+- 3513504 — Cubatão/SP — Brasão
+- 3513504 — Cubatão/SP — Bandeira
+- 3513603 — Cunha/SP — Brasão
+- 3513603 — Cunha/SP — Bandeira
+- 3513702 — Descalvado/SP — Brasão
+- 3513702 — Descalvado/SP — Bandeira
+- 3513801 — Diadema/SP — Brasão
+- 3513801 — Diadema/SP — Bandeira
+- 3513850 — Dirce Reis/SP — Brasão
+- 3513850 — Dirce Reis/SP — Bandeira
+- 3513900 — Divinolândia/SP — Brasão
+- 3513900 — Divinolândia/SP — Bandeira
+- 3514007 — Dobrada/SP — Brasão
+- 3514007 — Dobrada/SP — Bandeira
+- 3514106 — Dois Córregos/SP — Brasão
+- 3514106 — Dois Córregos/SP — Bandeira
+- 3514205 — Dolcinópolis/SP — Brasão
+- 3514205 — Dolcinópolis/SP — Bandeira
+- 3514304 — Dourado/SP — Brasão
+- 3514304 — Dourado/SP — Bandeira
+- 3514403 — Dracena/SP — Brasão
+- 3514403 — Dracena/SP — Bandeira
+- 3514502 — Duartina/SP — Brasão
+- 3514502 — Duartina/SP — Bandeira
+- 3514601 — Dumont/SP — Brasão
+- 3514601 — Dumont/SP — Bandeira
+- 3514700 — Echaporã/SP — Brasão
+- 3514700 — Echaporã/SP — Bandeira
+- 3514809 — Eldorado/SP — Brasão
+- 3514809 — Eldorado/SP — Bandeira
+- 3514908 — Elias Fausto/SP — Brasão
+- 3514908 — Elias Fausto/SP — Bandeira
+- 3514924 — Elisiário/SP — Brasão
+- 3514924 — Elisiário/SP — Bandeira
+- 3514957 — Embaúba/SP — Brasão
+- 3514957 — Embaúba/SP — Bandeira
+- 3515004 — Embu das Artes/SP — Brasão
+- 3515004 — Embu das Artes/SP — Bandeira
+- 3515103 — Embu-Guaçu/SP — Brasão
+- 3515103 — Embu-Guaçu/SP — Bandeira
+- 3515129 — Emilianópolis/SP — Bandeira
+- 3515152 — Engenheiro Coelho/SP — Brasão
+- 3515152 — Engenheiro Coelho/SP — Bandeira
+- 3515186 — Espírito Santo do Pinhal/SP — Brasão
+- 3515186 — Espírito Santo do Pinhal/SP — Bandeira
+- 3515194 — Espírito Santo do Turvo/SP — Brasão
+- 3515194 — Espírito Santo do Turvo/SP — Bandeira
+- 3515202 — Estrela d'Oeste/SP — Brasão
+- 3515202 — Estrela d'Oeste/SP — Bandeira
+- 3515301 — Estrela do Norte/SP — Brasão
+- 3515301 — Estrela do Norte/SP — Bandeira
+- 3515350 — Euclides da Cunha Paulista/SP — Bandeira
+- 3515400 — Fartura/SP — Brasão
+- 3515400 — Fartura/SP — Bandeira
+- 3515509 — Fernandópolis/SP — Brasão
+- 3515509 — Fernandópolis/SP — Bandeira
+- 3515608 — Fernando Prestes/SP — Brasão
+- 3515608 — Fernando Prestes/SP — Bandeira
+- 3515657 — Fernão/SP — Brasão
+- 3515657 — Fernão/SP — Bandeira
+- 3515707 — Ferraz de Vasconcelos/SP — Brasão
+- 3515707 — Ferraz de Vasconcelos/SP — Bandeira
+- 3515806 — Flora Rica/SP — Brasão
+- 3515806 — Flora Rica/SP — Bandeira
+- 3515905 — Floreal/SP — Brasão
+- 3515905 — Floreal/SP — Bandeira
+- 3516002 — Flórida Paulista/SP — Brasão
+- 3516002 — Flórida Paulista/SP — Bandeira
+- 3516101 — Florínea/SP — Brasão
+- 3516101 — Florínea/SP — Bandeira
+- 3516200 — Franca/SP — Brasão
+- 3516200 — Franca/SP — Bandeira
+- 3516309 — Francisco Morato/SP — Brasão
+- 3516309 — Francisco Morato/SP — Bandeira
+- 3516408 — Franco da Rocha/SP — Brasão
+- 3516408 — Franco da Rocha/SP — Bandeira
+- 3516507 — Gabriel Monteiro/SP — Brasão
+- 3516507 — Gabriel Monteiro/SP — Bandeira
+- 3516606 — Gália/SP — Brasão
+- 3516606 — Gália/SP — Bandeira
+- 3516705 — Garça/SP — Brasão
+- 3516705 — Garça/SP — Bandeira
+- 3516804 — Gastão Vidigal/SP — Brasão
+- 3516804 — Gastão Vidigal/SP — Bandeira
+- 3516853 — Gavião Peixoto/SP — Brasão
+- 3516853 — Gavião Peixoto/SP — Bandeira
+- 3516903 — General Salgado/SP — Brasão
+- 3516903 — General Salgado/SP — Bandeira
+- 3517000 — Getulina/SP — Brasão
+- 3517000 — Getulina/SP — Bandeira
+- 3517109 — Glicério/SP — Brasão
+- 3517109 — Glicério/SP — Bandeira
+- 3517208 — Guaiçara/SP — Brasão
+- 3517208 — Guaiçara/SP — Bandeira
+- 3517307 — Guaimbê/SP — Brasão
+- 3517307 — Guaimbê/SP — Bandeira
+- 3517406 — Guaíra/SP — Brasão
+- 3517406 — Guaíra/SP — Bandeira
+- 3517505 — Guapiaçu/SP — Brasão
+- 3517505 — Guapiaçu/SP — Bandeira
+- 3517604 — Guapiara/SP — Brasão
+- 3517604 — Guapiara/SP — Bandeira
+- 3517703 — Guará/SP — Brasão
+- 3517703 — Guará/SP — Bandeira
+- 3517802 — Guaraçaí/SP — Brasão
+- 3517802 — Guaraçaí/SP — Bandeira
+- 3517901 — Guaraci/SP — Bandeira
+- 3518008 — Guarani d'Oeste/SP — Brasão
+- 3518008 — Guarani d'Oeste/SP — Bandeira
+- 3518107 — Guarantã/SP — Brasão
+- 3518107 — Guarantã/SP — Bandeira
+- 3518206 — Guararapes/SP — Brasão
+- 3518206 — Guararapes/SP — Bandeira
+- 3518305 — Guararema/SP — Brasão
+- 3518305 — Guararema/SP — Bandeira
+- 3518404 — Guaratinguetá/SP — Brasão
+- 3518503 — Guareí/SP — Brasão
+- 3518503 — Guareí/SP — Bandeira
+- 3518602 — Guariba/SP — Brasão
+- 3518602 — Guariba/SP — Bandeira
+- 3518701 — Guarujá/SP — Brasão
+- 3518701 — Guarujá/SP — Bandeira
+- 3518800 — Guarulhos/SP — Brasão
+- 3518800 — Guarulhos/SP — Bandeira
+- 3518859 — Guatapará/SP — Brasão
+- 3518859 — Guatapará/SP — Bandeira
+- 3518909 — Guzolândia/SP — Brasão
+- 3518909 — Guzolândia/SP — Bandeira
+- 3519006 — Herculândia/SP — Brasão
+- 3519006 — Herculândia/SP — Bandeira
+- 3519055 — Holambra/SP — Brasão
+- 3519055 — Holambra/SP — Bandeira
+- 3519071 — Hortolândia/SP — Brasão
+- 3519071 — Hortolândia/SP — Bandeira
+- 3519105 — Iacanga/SP — Brasão
+- 3519105 — Iacanga/SP — Bandeira
+- 3519204 — Iacri/SP — Brasão
+- 3519204 — Iacri/SP — Bandeira
+- 3519253 — Iaras/SP — Brasão
+- 3519253 — Iaras/SP — Bandeira
+- 3519303 — Ibaté/SP — Brasão
+- 3519303 — Ibaté/SP — Bandeira
+- 3519402 — Ibirá/SP — Brasão
+- 3519402 — Ibirá/SP — Bandeira
+- 3519501 — Ibirarema/SP — Brasão
+- 3519501 — Ibirarema/SP — Bandeira
+- 3519600 — Ibitinga/SP — Brasão
+- 3519600 — Ibitinga/SP — Bandeira
+- 3519709 — Ibiúna/SP — Brasão
+- 3519709 — Ibiúna/SP — Bandeira
+- 3519808 — Icém/SP — Brasão
+- 3519808 — Icém/SP — Bandeira
+- 3519907 — Iepê/SP — Brasão
+- 3519907 — Iepê/SP — Bandeira
+- 3520004 — Igaraçu do Tietê/SP — Brasão
+- 3520004 — Igaraçu do Tietê/SP — Bandeira
+- 3520103 — Igarapava/SP — Brasão
+- 3520103 — Igarapava/SP — Bandeira
+- 3520202 — Igaratá/SP — Brasão
+- 3520202 — Igaratá/SP — Bandeira
+- 3520301 — Iguape/SP — Brasão
+- 3520301 — Iguape/SP — Bandeira
+- 3520400 — Ilhabela/SP — Brasão
+- 3520400 — Ilhabela/SP — Bandeira
+- 3520426 — Ilha Comprida/SP — Brasão
+- 3520426 — Ilha Comprida/SP — Bandeira
+- 3520442 — Ilha Solteira/SP — Brasão
+- 3520442 — Ilha Solteira/SP — Bandeira
+- 3520509 — Indaiatuba/SP — Brasão
+- 3520509 — Indaiatuba/SP — Bandeira
+- 3520608 — Indiana/SP — Brasão
+- 3520608 — Indiana/SP — Bandeira
+- 3520707 — Indiaporã/SP — Brasão
+- 3520707 — Indiaporã/SP — Bandeira
+- 3520806 — Inúbia Paulista/SP — Brasão
+- 3520806 — Inúbia Paulista/SP — Bandeira
+- 3520905 — Ipaussu/SP — Brasão
+- 3520905 — Ipaussu/SP — Bandeira
+- 3521002 — Iperó/SP — Brasão
+- 3521002 — Iperó/SP — Bandeira
+- 3521101 — Ipeúna/SP — Brasão
+- 3521101 — Ipeúna/SP — Bandeira
+- 3521150 — Ipiguá/SP — Brasão
+- 3521150 — Ipiguá/SP — Bandeira
+- 3521200 — Iporanga/SP — Brasão
+- 3521200 — Iporanga/SP — Bandeira
+- 3521309 — Ipuã/SP — Brasão
+- 3521309 — Ipuã/SP — Bandeira
+- 3521408 — Iracemápolis/SP — Brasão
+- 3521408 — Iracemápolis/SP — Bandeira
+- 3521507 — Irapuã/SP — Brasão
+- 3521507 — Irapuã/SP — Bandeira
+- 3521606 — Irapuru/SP — Brasão
+- 3521606 — Irapuru/SP — Bandeira
+- 3521705 — Itaberá/SP — Brasão
+- 3521705 — Itaberá/SP — Bandeira
+- 3521804 — Itaí/SP — Brasão
+- 3521804 — Itaí/SP — Bandeira
+- 3521903 — Itajobi/SP — Brasão
+- 3521903 — Itajobi/SP — Bandeira
+- 3522000 — Itaju/SP — Brasão
+- 3522000 — Itaju/SP — Bandeira
+- 3522109 — Itanhaém/SP — Brasão
+- 3522109 — Itanhaém/SP — Bandeira
+- 3522158 — Itaoca/SP — Brasão
+- 3522158 — Itaoca/SP — Bandeira
+- 3522208 — Itapecerica da Serra/SP — Brasão
+- 3522208 — Itapecerica da Serra/SP — Bandeira
+- 3522307 — Itapetininga/SP — Brasão
+- 3522307 — Itapetininga/SP — Bandeira
+- 3522406 — Itapeva/SP — Brasão
+- 3522406 — Itapeva/SP — Bandeira
+- 3522505 — Itapevi/SP — Brasão
+- 3522505 — Itapevi/SP — Bandeira
+- 3522604 — Itapira/SP — Brasão
+- 3522604 — Itapira/SP — Bandeira
+- 3522653 — Itapirapuã Paulista/SP — Brasão
+- 3522653 — Itapirapuã Paulista/SP — Bandeira
+- 3522802 — Itaporanga/SP — Brasão
+- 3522802 — Itaporanga/SP — Bandeira
+- 3522901 — Itapuí/SP — Brasão
+- 3522901 — Itapuí/SP — Bandeira
+- 3523008 — Itapura/SP — Brasão
+- 3523008 — Itapura/SP — Bandeira
+- 3523107 — Itaquaquecetuba/SP — Brasão
+- 3523107 — Itaquaquecetuba/SP — Bandeira
+- 3523206 — Itararé/SP — Brasão
+- 3523206 — Itararé/SP — Bandeira
+- 3523305 — Itariri/SP — Brasão
+- 3523305 — Itariri/SP — Bandeira
+- 3523503 — Itatinga/SP — Brasão
+- 3523503 — Itatinga/SP — Bandeira
+- 3523602 — Itirapina/SP — Brasão
+- 3523602 — Itirapina/SP — Bandeira
+- 3523701 — Itirapuã/SP — Brasão
+- 3523701 — Itirapuã/SP — Bandeira
+- 3523800 — Itobi/SP — Brasão
+- 3523800 — Itobi/SP — Bandeira
+- 3523909 — Itu/SP — Brasão
+- 3523909 — Itu/SP — Bandeira
+- 3524006 — Itupeva/SP — Brasão
+- 3524006 — Itupeva/SP — Bandeira
+- 3524105 — Ituverava/SP — Brasão
+- 3524105 — Ituverava/SP — Bandeira
+- 3524204 — Jaborandi/SP — Brasão
+- 3524204 — Jaborandi/SP — Bandeira
+- 3524303 — Jaboticabal/SP — Brasão
+- 3524303 — Jaboticabal/SP — Bandeira
+- 3524402 — Jacareí/SP — Brasão
+- 3524402 — Jacareí/SP — Bandeira
+- 3524501 — Jaci/SP — Brasão
+- 3524501 — Jaci/SP — Bandeira
+- 3524600 — Jacupiranga/SP — Brasão
+- 3524600 — Jacupiranga/SP — Bandeira
+- 3524709 — Jaguariúna/SP — Brasão
+- 3524709 — Jaguariúna/SP — Bandeira
+- 3524808 — Jales/SP — Brasão
+- 3524808 — Jales/SP — Bandeira
+- 3524907 — Jambeiro/SP — Brasão
+- 3524907 — Jambeiro/SP — Bandeira
+- 3525003 — Jandira/SP — Brasão
+- 3525003 — Jandira/SP — Bandeira
+- 3525102 — Jardinópolis/SP — Brasão
+- 3525102 — Jardinópolis/SP — Bandeira
+- 3525201 — Jarinu/SP — Brasão
+- 3525201 — Jarinu/SP — Bandeira
+- 3525300 — Jaú/SP — Brasão
+- 3525300 — Jaú/SP — Bandeira
+- 3525409 — Jeriquara/SP — Bandeira
+- 3525508 — Joanópolis/SP — Brasão
+- 3525508 — Joanópolis/SP — Bandeira
+- 3525607 — João Ramalho/SP — Brasão
+- 3525607 — João Ramalho/SP — Bandeira
+- 3525706 — José Bonifácio/SP — Brasão
+- 3525706 — José Bonifácio/SP — Bandeira
+- 3525805 — Júlio Mesquita/SP — Brasão
+- 3525805 — Júlio Mesquita/SP — Bandeira
+- 3525854 — Jumirim/SP — Bandeira
+- 3525904 — Jundiaí/SP — Brasão
+- 3526001 — Junqueirópolis/SP — Brasão
+- 3526001 — Junqueirópolis/SP — Bandeira
+- 3526100 — Juquiá/SP — Bandeira
+- 3526209 — Juquitiba/SP — Brasão
+- 3526209 — Juquitiba/SP — Bandeira
+- 3526308 — Lagoinha/SP — Brasão
+- 3526506 — Lavínia/SP — Brasão
+- 3526506 — Lavínia/SP — Bandeira
+- 3526605 — Lavrinhas/SP — Brasão
+- 3526605 — Lavrinhas/SP — Bandeira
+- 3526704 — Leme/SP — Bandeira
+- 3526803 — Lençóis Paulista/SP — Brasão
+- 3526803 — Lençóis Paulista/SP — Bandeira
+- 3526902 — Limeira/SP — Bandeira
+- 3527009 — Lindóia/SP — Brasão
+- 3527009 — Lindóia/SP — Bandeira
+- 3527108 — Lins/SP — Brasão
+- 3527108 — Lins/SP — Bandeira
+- 3527207 — Lorena/SP — Brasão
+- 3527256 — Lourdes/SP — Brasão
+- 3527256 — Lourdes/SP — Bandeira
+- 3527306 — Louveira/SP — Brasão
+- 3527306 — Louveira/SP — Bandeira
+- 3527405 — Lucélia/SP — Brasão
+- 3527405 — Lucélia/SP — Bandeira
+- 3527504 — Lucianópolis/SP — Brasão
+- 3527504 — Lucianópolis/SP — Bandeira
+- 3527603 — Luís Antônio/SP — Brasão
+- 3527603 — Luís Antônio/SP — Bandeira
+- 3527702 — Luiziânia/SP — Brasão
+- 3527702 — Luiziânia/SP — Bandeira
+- 3527801 — Lupércio/SP — Brasão
+- 3527801 — Lupércio/SP — Bandeira
+- 3527900 — Lutécia/SP — Brasão
+- 3527900 — Lutécia/SP — Bandeira
+- 3528007 — Macatuba/SP — Brasão
+- 3528007 — Macatuba/SP — Bandeira
+- 3528106 — Macaubal/SP — Brasão
+- 3528106 — Macaubal/SP — Bandeira
+- 3528205 — Macedônia/SP — Brasão
+- 3528205 — Macedônia/SP — Bandeira
+- 3528304 — Magda/SP — Brasão
+- 3528304 — Magda/SP — Bandeira
+- 3528403 — Mairinque/SP — Brasão
+- 3528403 — Mairinque/SP — Bandeira
+- 3528502 — Mairiporã/SP — Brasão
+- 3528502 — Mairiporã/SP — Bandeira
+- 3528601 — Manduri/SP — Brasão
+- 3528601 — Manduri/SP — Bandeira
+- 3528700 — Marabá Paulista/SP — Brasão
+- 3528700 — Marabá Paulista/SP — Bandeira
+- 3528809 — Maracaí/SP — Brasão
+- 3528809 — Maracaí/SP — Bandeira
+- 3528858 — Marapoama/SP — Brasão
+- 3528858 — Marapoama/SP — Bandeira
+- 3528908 — Mariápolis/SP — Brasão
+- 3528908 — Mariápolis/SP — Bandeira
+- 3529005 — Marília/SP — Brasão
+- 3529005 — Marília/SP — Bandeira
+- 3529104 — Marinópolis/SP — Brasão
+- 3529104 — Marinópolis/SP — Bandeira
+- 3529203 — Martinópolis/SP — Brasão
+- 3529203 — Martinópolis/SP — Bandeira
+- 3529302 — Matão/SP — Brasão
+- 3529302 — Matão/SP — Bandeira
+- 3529401 — Mauá/SP — Brasão
+- 3529401 — Mauá/SP — Bandeira
+- 3529500 — Mendonça/SP — Brasão
+- 3529500 — Mendonça/SP — Bandeira
+- 3529609 — Meridiano/SP — Brasão
+- 3529609 — Meridiano/SP — Bandeira
+- 3529658 — Mesópolis/SP — Brasão
+- 3529658 — Mesópolis/SP — Bandeira
+- 3529708 — Miguelópolis/SP — Brasão
+- 3529708 — Miguelópolis/SP — Bandeira
+- 3529807 — Mineiros do Tietê/SP — Brasão
+- 3529807 — Mineiros do Tietê/SP — Bandeira
+- 3529906 — Miracatu/SP — Brasão
+- 3529906 — Miracatu/SP — Bandeira
+- 3530003 — Mira Estrela/SP — Brasão
+- 3530003 — Mira Estrela/SP — Bandeira
+- 3530102 — Mirandópolis/SP — Brasão
+- 3530102 — Mirandópolis/SP — Bandeira
+- 3530201 — Mirante do Paranapanema/SP — Brasão
+- 3530201 — Mirante do Paranapanema/SP — Bandeira
+- 3530300 — Mirassol/SP — Brasão
+- 3530300 — Mirassol/SP — Bandeira
+- 3530409 — Mirassolândia/SP — Brasão
+- 3530409 — Mirassolândia/SP — Bandeira
+- 3530508 — Mococa/SP — Brasão
+- 3530508 — Mococa/SP — Bandeira
+- 3530607 — Mogi das Cruzes/SP — Brasão
+- 3530607 — Mogi das Cruzes/SP — Bandeira
+- 3530706 — Mogi Guaçu/SP — Brasão
+- 3530706 — Mogi Guaçu/SP — Bandeira
+- 3530805 — Mogi Mirim/SP — Brasão
+- 3530805 — Mogi Mirim/SP — Bandeira
+- 3530904 — Mombuca/SP — Brasão
+- 3530904 — Mombuca/SP — Bandeira
+- 3531001 — Monções/SP — Brasão
+- 3531001 — Monções/SP — Bandeira
+- 3531100 — Mongaguá/SP — Brasão
+- 3531100 — Mongaguá/SP — Bandeira
+- 3531209 — Monte Alegre do Sul/SP — Brasão
+- 3531209 — Monte Alegre do Sul/SP — Bandeira
+- 3531308 — Monte Alto/SP — Brasão
+- 3531308 — Monte Alto/SP — Bandeira
+- 3531407 — Monte Aprazível/SP — Brasão
+- 3531407 — Monte Aprazível/SP — Bandeira
+- 3531506 — Monte Azul Paulista/SP — Brasão
+- 3531506 — Monte Azul Paulista/SP — Bandeira
+- 3531605 — Monte Castelo/SP — Brasão
+- 3531605 — Monte Castelo/SP — Bandeira
+- 3531704 — Monteiro Lobato/SP — Brasão
+- 3531704 — Monteiro Lobato/SP — Bandeira
+- 3531803 — Monte Mor/SP — Brasão
+- 3531803 — Monte Mor/SP — Bandeira
+- 3531902 — Morro Agudo/SP — Brasão
+- 3531902 — Morro Agudo/SP — Bandeira
+- 3532009 — Morungaba/SP — Brasão
+- 3532009 — Morungaba/SP — Bandeira
+- 3532058 — Motuca/SP — Brasão
+- 3532058 — Motuca/SP — Bandeira
+- 3532108 — Murutinga do Sul/SP — Brasão
+- 3532108 — Murutinga do Sul/SP — Bandeira
+- 3532157 — Nantes/SP — Brasão
+- 3532157 — Nantes/SP — Bandeira
+- 3532207 — Narandiba/SP — Brasão
+- 3532207 — Narandiba/SP — Bandeira
+- 3532306 — Natividade da Serra/SP — Brasão
+- 3532306 — Natividade da Serra/SP — Bandeira
+- 3532405 — Nazaré Paulista/SP — Brasão
+- 3532405 — Nazaré Paulista/SP — Bandeira
+- 3532504 — Neves Paulista/SP — Brasão
+- 3532504 — Neves Paulista/SP — Bandeira
+- 3532603 — Nhandeara/SP — Brasão
+- 3532603 — Nhandeara/SP — Bandeira
+- 3532702 — Nipoã/SP — Brasão
+- 3532702 — Nipoã/SP — Bandeira
+- 3532801 — Nova Aliança/SP — Brasão
+- 3532801 — Nova Aliança/SP — Bandeira
+- 3532827 — Nova Campina/SP — Brasão
+- 3532827 — Nova Campina/SP — Bandeira
+- 3532843 — Nova Canaã Paulista/SP — Bandeira
+- 3532868 — Nova Castilho/SP — Brasão
+- 3532868 — Nova Castilho/SP — Bandeira
+- 3532900 — Nova Europa/SP — Brasão
+- 3532900 — Nova Europa/SP — Bandeira
+- 3533007 — Nova Granada/SP — Brasão
+- 3533007 — Nova Granada/SP — Bandeira
+- 3533106 — Nova Guataporanga/SP — Brasão
+- 3533106 — Nova Guataporanga/SP — Bandeira
+- 3533205 — Nova Independência/SP — Brasão
+- 3533205 — Nova Independência/SP — Bandeira
+- 3533254 — Novais/SP — Brasão
+- 3533254 — Novais/SP — Bandeira
+- 3533304 — Nova Luzitânia/SP — Brasão
+- 3533304 — Nova Luzitânia/SP — Bandeira
+- 3533403 — Nova Odessa/SP — Brasão
+- 3533403 — Nova Odessa/SP — Bandeira
+- 3533502 — Novo Horizonte/SP — Brasão
+- 3533502 — Novo Horizonte/SP — Bandeira
+- 3533601 — Nuporanga/SP — Brasão
+- 3533601 — Nuporanga/SP — Bandeira
+- 3533700 — Ocauçu/SP — Brasão
+- 3533700 — Ocauçu/SP — Bandeira
+- 3533809 — Óleo/SP — Brasão
+- 3533809 — Óleo/SP — Bandeira
+- 3533908 — Olímpia/SP — Brasão
+- 3533908 — Olímpia/SP — Bandeira
+- 3534005 — Onda Verde/SP — Brasão
+- 3534005 — Onda Verde/SP — Bandeira
+- 3534104 — Oriente/SP — Brasão
+- 3534104 — Oriente/SP — Bandeira
+- 3534203 — Orindiúva/SP — Brasão
+- 3534203 — Orindiúva/SP — Bandeira
+- 3534302 — Orlândia/SP — Brasão
+- 3534302 — Orlândia/SP — Bandeira
+- 3534401 — Osasco/SP — Brasão
+- 3534401 — Osasco/SP — Bandeira
+- 3534500 — Oscar Bressane/SP — Brasão
+- 3534500 — Oscar Bressane/SP — Bandeira
+- 3534609 — Osvaldo Cruz/SP — Brasão
+- 3534609 — Osvaldo Cruz/SP — Bandeira
+- 3534708 — Ourinhos/SP — Brasão
+- 3534708 — Ourinhos/SP — Bandeira
+- 3534757 — Ouroeste/SP — Brasão
+- 3534757 — Ouroeste/SP — Bandeira
+- 3534807 — Ouro Verde/SP — Brasão
+- 3534807 — Ouro Verde/SP — Bandeira
+- 3534906 — Pacaembu/SP — Brasão
+- 3534906 — Pacaembu/SP — Bandeira
+- 3535002 — Palestina/SP — Brasão
+- 3535002 — Palestina/SP — Bandeira
+- 3535101 — Palmares Paulista/SP — Brasão
+- 3535101 — Palmares Paulista/SP — Bandeira
+- 3535200 — Palmeira d'Oeste/SP — Brasão
+- 3535200 — Palmeira d'Oeste/SP — Bandeira
+- 3535309 — Palmital/SP — Brasão
+- 3535309 — Palmital/SP — Bandeira
+- 3535408 — Panorama/SP — Brasão
+- 3535408 — Panorama/SP — Bandeira
+- 3535507 — Paraguaçu Paulista/SP — Brasão
+- 3535507 — Paraguaçu Paulista/SP — Bandeira
+- 3535606 — Paraibuna/SP — Brasão
+- 3535606 — Paraibuna/SP — Bandeira
+- 3535705 — Paraíso/SP — Brasão
+- 3535705 — Paraíso/SP — Bandeira
+- 3535804 — Paranapanema/SP — Brasão
+- 3535804 — Paranapanema/SP — Bandeira
+- 3535903 — Paranapuã/SP — Brasão
+- 3535903 — Paranapuã/SP — Bandeira
+- 3536000 — Parapuã/SP — Brasão
+- 3536000 — Parapuã/SP — Bandeira
+- 3536109 — Pardinho/SP — Brasão
+- 3536109 — Pardinho/SP — Bandeira
+- 3536208 — Pariquera-Açu/SP — Brasão
+- 3536208 — Pariquera-Açu/SP — Bandeira
+- 3536257 — Parisi/SP — Brasão
+- 3536257 — Parisi/SP — Bandeira
+- 3536307 — Patrocínio Paulista/SP — Brasão
+- 3536307 — Patrocínio Paulista/SP — Bandeira
+- 3536406 — Paulicéia/SP — Brasão
+- 3536406 — Paulicéia/SP — Bandeira
+- 3536505 — Paulínia/SP — Brasão
+- 3536505 — Paulínia/SP — Bandeira
+- 3536570 — Paulistânia/SP — Brasão
+- 3536570 — Paulistânia/SP — Bandeira
+- 3536604 — Paulo de Faria/SP — Brasão
+- 3536604 — Paulo de Faria/SP — Bandeira
+- 3536703 — Pederneiras/SP — Brasão
+- 3536703 — Pederneiras/SP — Bandeira
+- 3536802 — Pedra Bela/SP — Brasão
+- 3536802 — Pedra Bela/SP — Bandeira
+- 3536901 — Pedranópolis/SP — Brasão
+- 3536901 — Pedranópolis/SP — Bandeira
+- 3537008 — Pedregulho/SP — Brasão
+- 3537008 — Pedregulho/SP — Bandeira
+- 3537107 — Pedreira/SP — Brasão
+- 3537107 — Pedreira/SP — Bandeira
+- 3537156 — Pedrinhas Paulista/SP — Brasão
+- 3537156 — Pedrinhas Paulista/SP — Bandeira
+- 3537206 — Pedro de Toledo/SP — Brasão
+- 3537206 — Pedro de Toledo/SP — Bandeira
+- 3537305 — Penápolis/SP — Brasão
+- 3537305 — Penápolis/SP — Bandeira
+- 3537404 — Pereira Barreto/SP — Brasão
+- 3537404 — Pereira Barreto/SP — Bandeira
+- 3537503 — Pereiras/SP — Brasão
+- 3537503 — Pereiras/SP — Bandeira
+- 3537602 — Peruíbe/SP — Bandeira
+- 3537701 — Piacatu/SP — Brasão
+- 3537701 — Piacatu/SP — Bandeira
+- 3537800 — Piedade/SP — Brasão
+- 3537800 — Piedade/SP — Bandeira
+- 3537909 — Pilar do Sul/SP — Brasão
+- 3537909 — Pilar do Sul/SP — Bandeira
+- 3538006 — Pindamonhangaba/SP — Brasão
+- 3538006 — Pindamonhangaba/SP — Bandeira
+- 3538105 — Pindorama/SP — Brasão
+- 3538105 — Pindorama/SP — Bandeira
+- 3538204 — Pinhalzinho/SP — Brasão
+- 3538204 — Pinhalzinho/SP — Bandeira
+- 3538303 — Piquerobi/SP — Brasão
+- 3538303 — Piquerobi/SP — Bandeira
+- 3538501 — Piquete/SP — Brasão
+- 3538501 — Piquete/SP — Bandeira
+- 3538600 — Piracaia/SP — Brasão
+- 3538600 — Piracaia/SP — Bandeira
+- 3538709 — Piracicaba/SP — Brasão
+- 3538709 — Piracicaba/SP — Bandeira
+- 3538808 — Piraju/SP — Brasão
+- 3538808 — Piraju/SP — Bandeira
+- 3538907 — Pirajuí/SP — Brasão
+- 3538907 — Pirajuí/SP — Bandeira
+- 3539004 — Pirangi/SP — Brasão
+- 3539004 — Pirangi/SP — Bandeira
+- 3539103 — Pirapora do Bom Jesus/SP — Brasão
+- 3539103 — Pirapora do Bom Jesus/SP — Bandeira
+- 3539202 — Pirapozinho/SP — Brasão
+- 3539202 — Pirapozinho/SP — Bandeira
+- 3539301 — Pirassununga/SP — Brasão
+- 3539301 — Pirassununga/SP — Bandeira
+- 3539400 — Piratininga/SP — Brasão
+- 3539400 — Piratininga/SP — Bandeira
+- 3539509 — Pitangueiras/SP — Brasão
+- 3539509 — Pitangueiras/SP — Bandeira
+- 3539608 — Planalto/SP — Brasão
+- 3539608 — Planalto/SP — Bandeira
+- 3539707 — Platina/SP — Brasão
+- 3539707 — Platina/SP — Bandeira
+- 3539806 — Poá/SP — Brasão
+- 3539806 — Poá/SP — Bandeira
+- 3539905 — Poloni/SP — Brasão
+- 3539905 — Poloni/SP — Bandeira
+- 3540002 — Pompéia/SP — Brasão
+- 3540002 — Pompéia/SP — Bandeira
+- 3540101 — Pongaí/SP — Brasão
+- 3540101 — Pongaí/SP — Bandeira
+- 3540200 — Pontal/SP — Brasão
+- 3540200 — Pontal/SP — Bandeira
+- 3540259 — Pontalinda/SP — Brasão
+- 3540259 — Pontalinda/SP — Bandeira
+- 3540309 — Pontes Gestal/SP — Brasão
+- 3540309 — Pontes Gestal/SP — Bandeira
+- 3540408 — Populina/SP — Brasão
+- 3540408 — Populina/SP — Bandeira
+- 3540507 — Porangaba/SP — Bandeira
+- 3540606 — Porto Feliz/SP — Brasão
+- 3540606 — Porto Feliz/SP — Bandeira
+- 3540705 — Porto Ferreira/SP — Brasão
+- 3540754 — Potim/SP — Brasão
+- 3540754 — Potim/SP — Bandeira
+- 3540804 — Potirendaba/SP — Brasão
+- 3540804 — Potirendaba/SP — Bandeira
+- 3540853 — Pracinha/SP — Brasão
+- 3540853 — Pracinha/SP — Bandeira
+- 3540903 — Pradópolis/SP — Brasão
+- 3540903 — Pradópolis/SP — Bandeira
+- 3541000 — Praia Grande/SP — Brasão
+- 3541000 — Praia Grande/SP — Bandeira
+- 3541059 — Pratânia/SP — Brasão
+- 3541059 — Pratânia/SP — Bandeira
+- 3541109 — Presidente Alves/SP — Brasão
+- 3541109 — Presidente Alves/SP — Bandeira
+- 3541208 — Presidente Bernardes/SP — Brasão
+- 3541208 — Presidente Bernardes/SP — Bandeira
+- 3541307 — Presidente Epitácio/SP — Brasão
+- 3541307 — Presidente Epitácio/SP — Bandeira
+- 3541406 — Presidente Prudente/SP — Brasão
+- 3541505 — Presidente Venceslau/SP — Brasão
+- 3541505 — Presidente Venceslau/SP — Bandeira
+- 3541604 — Promissão/SP — Brasão
+- 3541604 — Promissão/SP — Bandeira
+- 3541653 — Quadra/SP — Brasão
+- 3541653 — Quadra/SP — Bandeira
+- 3541703 — Quatá/SP — Brasão
+- 3541703 — Quatá/SP — Bandeira
+- 3541802 — Queiroz/SP — Brasão
+- 3541802 — Queiroz/SP — Bandeira
+- 3541901 — Queluz/SP — Brasão
+- 3541901 — Queluz/SP — Bandeira
+- 3542008 — Quintana/SP — Brasão
+- 3542008 — Quintana/SP — Bandeira
+- 3542107 — Rafard/SP — Brasão
+- 3542107 — Rafard/SP — Bandeira
+- 3542206 — Rancharia/SP — Brasão
+- 3542206 — Rancharia/SP — Bandeira
+- 3542305 — Redenção da Serra/SP — Brasão
+- 3542305 — Redenção da Serra/SP — Bandeira
+- 3542404 — Regente Feijó/SP — Brasão
+- 3542404 — Regente Feijó/SP — Bandeira
+- 3542503 — Reginópolis/SP — Brasão
+- 3542503 — Reginópolis/SP — Bandeira
+- 3542602 — Registro/SP — Brasão
+- 3542602 — Registro/SP — Bandeira
+- 3542701 — Restinga/SP — Brasão
+- 3542701 — Restinga/SP — Bandeira
+- 3542800 — Ribeira/SP — Brasão
+- 3542800 — Ribeira/SP — Bandeira
+- 3542909 — Ribeirão Bonito/SP — Brasão
+- 3542909 — Ribeirão Bonito/SP — Bandeira
+- 3543006 — Ribeirão Branco/SP — Brasão
+- 3543006 — Ribeirão Branco/SP — Bandeira
+- 3543105 — Ribeirão Corrente/SP — Brasão
+- 3543105 — Ribeirão Corrente/SP — Bandeira
+- 3543204 — Ribeirão do Sul/SP — Brasão
+- 3543204 — Ribeirão do Sul/SP — Bandeira
+- 3543238 — Ribeirão dos Índios/SP — Brasão
+- 3543238 — Ribeirão dos Índios/SP — Bandeira
+- 3543253 — Ribeirão Grande/SP — Brasão
+- 3543253 — Ribeirão Grande/SP — Bandeira
+- 3543303 — Ribeirão Pires/SP — Brasão
+- 3543303 — Ribeirão Pires/SP — Bandeira
+- 3543402 — Ribeirão Preto/SP — Brasão
+- 3543402 — Ribeirão Preto/SP — Bandeira
+- 3543501 — Riversul/SP — Brasão
+- 3543501 — Riversul/SP — Bandeira
+- 3543600 — Rifaina/SP — Brasão
+- 3543600 — Rifaina/SP — Bandeira
+- 3543709 — Rincão/SP — Brasão
+- 3543709 — Rincão/SP — Bandeira
+- 3543808 — Rinópolis/SP — Brasão
+- 3543808 — Rinópolis/SP — Bandeira
+- 3544004 — Rio das Pedras/SP — Brasão
+- 3544004 — Rio das Pedras/SP — Bandeira
+- 3544103 — Rio Grande da Serra/SP — Brasão
+- 3544103 — Rio Grande da Serra/SP — Bandeira
+- 3544202 — Riolândia/SP — Brasão
+- 3544202 — Riolândia/SP — Bandeira
+- 3544251 — Rosana/SP — Brasão
+- 3544251 — Rosana/SP — Bandeira
+- 3544301 — Roseira/SP — Brasão
+- 3544301 — Roseira/SP — Bandeira
+- 3544400 — Rubiácea/SP — Brasão
+- 3544400 — Rubiácea/SP — Bandeira
+- 3544509 — Rubinéia/SP — Brasão
+- 3544509 — Rubinéia/SP — Bandeira
+- 3544608 — Sabino/SP — Brasão
+- 3544608 — Sabino/SP — Bandeira
+- 3544707 — Sagres/SP — Brasão
+- 3544707 — Sagres/SP — Bandeira
+- 3544806 — Sales/SP — Brasão
+- 3544806 — Sales/SP — Bandeira
+- 3544905 — Sales Oliveira/SP — Brasão
+- 3544905 — Sales Oliveira/SP — Bandeira
+- 3545001 — Salesópolis/SP — Brasão
+- 3545001 — Salesópolis/SP — Bandeira
+- 3545100 — Salmourão/SP — Brasão
+- 3545100 — Salmourão/SP — Bandeira
+- 3545159 — Saltinho/SP — Brasão
+- 3545159 — Saltinho/SP — Bandeira
+- 3545209 — Salto/SP — Brasão
+- 3545209 — Salto/SP — Bandeira
+- 3545308 — Salto de Pirapora/SP — Brasão
+- 3545308 — Salto de Pirapora/SP — Bandeira
+- 3545407 — Salto Grande/SP — Brasão
+- 3545407 — Salto Grande/SP — Bandeira
+- 3545506 — Sandovalina/SP — Brasão
+- 3545506 — Sandovalina/SP — Bandeira
+- 3545605 — Santa Adélia/SP — Brasão
+- 3545605 — Santa Adélia/SP — Bandeira
+- 3545704 — Santa Albertina/SP — Brasão
+- 3545704 — Santa Albertina/SP — Bandeira
+- 3545803 — Santa Bárbara d'Oeste/SP — Brasão
+- 3545803 — Santa Bárbara d'Oeste/SP — Bandeira
+- 3546009 — Santa Branca/SP — Brasão
+- 3546009 — Santa Branca/SP — Bandeira
+- 3546108 — Santa Clara d'Oeste/SP — Brasão
+- 3546108 — Santa Clara d'Oeste/SP — Bandeira
+- 3546207 — Santa Cruz da Conceição/SP — Bandeira
+- 3546256 — Santa Cruz da Esperança/SP — Brasão
+- 3546256 — Santa Cruz da Esperança/SP — Bandeira
+- 3546306 — Santa Cruz das Palmeiras/SP — Brasão
+- 3546306 — Santa Cruz das Palmeiras/SP — Bandeira
+- 3546405 — Santa Cruz do Rio Pardo/SP — Brasão
+- 3546405 — Santa Cruz do Rio Pardo/SP — Bandeira
+- 3546504 — Santa Ernestina/SP — Brasão
+- 3546504 — Santa Ernestina/SP — Bandeira
+- 3546603 — Santa Fé do Sul/SP — Brasão
+- 3546603 — Santa Fé do Sul/SP — Bandeira
+- 3546702 — Santa Gertrudes/SP — Brasão
+- 3546702 — Santa Gertrudes/SP — Bandeira
+- 3546801 — Santa Isabel/SP — Brasão
+- 3546801 — Santa Isabel/SP — Bandeira
+- 3546900 — Santa Lúcia/SP — Brasão
+- 3546900 — Santa Lúcia/SP — Bandeira
+- 3547007 — Santa Maria da Serra/SP — Brasão
+- 3547007 — Santa Maria da Serra/SP — Bandeira
+- 3547106 — Santa Mercedes/SP — Brasão
+- 3547106 — Santa Mercedes/SP — Bandeira
+- 3547205 — Santana da Ponte Pensa/SP — Brasão
+- 3547205 — Santana da Ponte Pensa/SP — Bandeira
+- 3547304 — Santana de Parnaíba/SP — Brasão
+- 3547304 — Santana de Parnaíba/SP — Bandeira
+- 3547403 — Santa Rita d'Oeste/SP — Brasão
+- 3547403 — Santa Rita d'Oeste/SP — Bandeira
+- 3547502 — Santa Rita do Passa Quatro/SP — Brasão
+- 3547502 — Santa Rita do Passa Quatro/SP — Bandeira
+- 3547601 — Santa Rosa de Viterbo/SP — Brasão
+- 3547601 — Santa Rosa de Viterbo/SP — Bandeira
+- 3547650 — Santa Salete/SP — Brasão
+- 3547650 — Santa Salete/SP — Bandeira
+- 3547700 — Santo Anastácio/SP — Brasão
+- 3547700 — Santo Anastácio/SP — Bandeira
+- 3547809 — Santo André/SP — Brasão
+- 3547809 — Santo André/SP — Bandeira
+- 3547908 — Santo Antônio da Alegria/SP — Brasão
+- 3547908 — Santo Antônio da Alegria/SP — Bandeira
+- 3548005 — Santo Antônio de Posse/SP — Brasão
+- 3548005 — Santo Antônio de Posse/SP — Bandeira
+- 3548054 — Santo Antônio do Aracanguá/SP — Brasão
+- 3548054 — Santo Antônio do Aracanguá/SP — Bandeira
+- 3548104 — Santo Antônio do Jardim/SP — Brasão
+- 3548104 — Santo Antônio do Jardim/SP — Bandeira
+- 3548203 — Santo Antônio do Pinhal/SP — Brasão
+- 3548203 — Santo Antônio do Pinhal/SP — Bandeira
+- 3548302 — Santo Expedito/SP — Brasão
+- 3548302 — Santo Expedito/SP — Bandeira
+- 3548401 — Santópolis do Aguapeí/SP — Brasão
+- 3548401 — Santópolis do Aguapeí/SP — Bandeira
+- 3548500 — Santos/SP — Bandeira
+- 3548609 — São Bento do Sapucaí/SP — Brasão
+- 3548609 — São Bento do Sapucaí/SP — Bandeira
+- 3548708 — São Bernardo do Campo/SP — Brasão
+- 3548708 — São Bernardo do Campo/SP — Bandeira
+- 3548807 — São Caetano do Sul/SP — Bandeira
+- 3548906 — São Carlos/SP — Brasão
+- 3548906 — São Carlos/SP — Bandeira
+- 3549003 — São Francisco/SP — Bandeira
+- 3549102 — São João da Boa Vista/SP — Brasão
+- 3549102 — São João da Boa Vista/SP — Bandeira
+- 3549201 — São João das Duas Pontes/SP — Brasão
+- 3549201 — São João das Duas Pontes/SP — Bandeira
+- 3549250 — São João de Iracema/SP — Brasão
+- 3549250 — São João de Iracema/SP — Bandeira
+- 3549300 — São João do Pau d'Alho/SP — Brasão
+- 3549300 — São João do Pau d'Alho/SP — Bandeira
+- 3549409 — São Joaquim da Barra/SP — Brasão
+- 3549409 — São Joaquim da Barra/SP — Bandeira
+- 3549508 — São José da Bela Vista/SP — Brasão
+- 3549508 — São José da Bela Vista/SP — Bandeira
+- 3549607 — São José do Barreiro/SP — Brasão
+- 3549607 — São José do Barreiro/SP — Bandeira
+- 3549706 — São José do Rio Pardo/SP — Brasão
+- 3549706 — São José do Rio Pardo/SP — Bandeira
+- 3549805 — São José do Rio Preto/SP — Brasão
+- 3549805 — São José do Rio Preto/SP — Bandeira
+- 3549904 — São José dos Campos/SP — Brasão
+- 3549904 — São José dos Campos/SP — Bandeira
+- 3549953 — São Lourenço da Serra/SP — Brasão
+- 3549953 — São Lourenço da Serra/SP — Bandeira
+- 3550001 — São Luiz do Paraitinga/SP — Brasão
+- 3550001 — São Luiz do Paraitinga/SP — Bandeira
+- 3550100 — São Manuel/SP — Brasão
+- 3550100 — São Manuel/SP — Bandeira
+- 3550209 — São Miguel Arcanjo/SP — Brasão
+- 3550209 — São Miguel Arcanjo/SP — Bandeira
+- 3550308 — São Paulo/SP — Bandeira
+- 3550407 — São Pedro/SP — Brasão
+- 3550407 — São Pedro/SP — Bandeira
+- 3550506 — São Pedro do Turvo/SP — Brasão
+- 3550506 — São Pedro do Turvo/SP — Bandeira
+- 3550605 — São Roque/SP — Brasão
+- 3550605 — São Roque/SP — Bandeira
+- 3550704 — São Sebastião/SP — Brasão
+- 3550704 — São Sebastião/SP — Bandeira
+- 3550803 — São Sebastião da Grama/SP — Brasão
+- 3550803 — São Sebastião da Grama/SP — Bandeira
+- 3550902 — São Simão/SP — Brasão
+- 3550902 — São Simão/SP — Bandeira
+- 3551009 — São Vicente/SP — Brasão
+- 3551009 — São Vicente/SP — Bandeira
+- 3551108 — Sarapuí/SP — Brasão
+- 3551108 — Sarapuí/SP — Bandeira
+- 3551207 — Sarutaiá/SP — Brasão
+- 3551207 — Sarutaiá/SP — Bandeira
+- 3551306 — Sebastianópolis do Sul/SP — Brasão
+- 3551306 — Sebastianópolis do Sul/SP — Bandeira
+- 3551405 — Serra Azul/SP — Brasão
+- 3551405 — Serra Azul/SP — Bandeira
+- 3551504 — Serrana/SP — Brasão
+- 3551504 — Serrana/SP — Bandeira
+- 3551603 — Serra Negra/SP — Brasão
+- 3551603 — Serra Negra/SP — Bandeira
+- 3551702 — Sertãozinho/SP — Brasão
+- 3551702 — Sertãozinho/SP — Bandeira
+- 3551801 — Sete Barras/SP — Brasão
+- 3551801 — Sete Barras/SP — Bandeira
+- 3551900 — Severínia/SP — Brasão
+- 3551900 — Severínia/SP — Bandeira
+- 3552007 — Silveiras/SP — Brasão
+- 3552007 — Silveiras/SP — Bandeira
+- 3552106 — Socorro/SP — Brasão
+- 3552106 — Socorro/SP — Bandeira
+- 3552205 — Sorocaba/SP — Brasão
+- 3552205 — Sorocaba/SP — Bandeira
+- 3552304 — Sud Mennucci/SP — Brasão
+- 3552304 — Sud Mennucci/SP — Bandeira
+- 3552403 — Sumaré/SP — Brasão
+- 3552403 — Sumaré/SP — Bandeira
+- 3552502 — Suzano/SP — Brasão
+- 3552502 — Suzano/SP — Bandeira
+- 3552551 — Suzanápolis/SP — Brasão
+- 3552551 — Suzanápolis/SP — Bandeira
+- 3552601 — Tabapuã/SP — Brasão
+- 3552601 — Tabapuã/SP — Bandeira
+- 3552700 — Tabatinga/SP — Brasão
+- 3552700 — Tabatinga/SP — Bandeira
+- 3552809 — Taboão da Serra/SP — Brasão
+- 3552809 — Taboão da Serra/SP — Bandeira
+- 3552908 — Taciba/SP — Brasão
+- 3552908 — Taciba/SP — Bandeira
+- 3553005 — Taguaí/SP — Brasão
+- 3553005 — Taguaí/SP — Bandeira
+- 3553104 — Taiaçu/SP — Brasão
+- 3553104 — Taiaçu/SP — Bandeira
+- 3553203 — Taiúva/SP — Brasão
+- 3553203 — Taiúva/SP — Bandeira
+- 3553302 — Tambaú/SP — Brasão
+- 3553302 — Tambaú/SP — Bandeira
+- 3553401 — Tanabi/SP — Brasão
+- 3553401 — Tanabi/SP — Bandeira
+- 3553500 — Tapiraí/SP — Brasão
+- 3553500 — Tapiraí/SP — Bandeira
+- 3553609 — Tapiratiba/SP — Brasão
+- 3553609 — Tapiratiba/SP — Bandeira
+- 3553658 — Taquaral/SP — Brasão
+- 3553658 — Taquaral/SP — Bandeira
+- 3553708 — Taquaritinga/SP — Brasão
+- 3553708 — Taquaritinga/SP — Bandeira
+- 3553807 — Taquarituba/SP — Brasão
+- 3553807 — Taquarituba/SP — Bandeira
+- 3553856 — Taquarivaí/SP — Brasão
+- 3553856 — Taquarivaí/SP — Bandeira
+- 3553906 — Tarabai/SP — Brasão
+- 3553906 — Tarabai/SP — Bandeira
+- 3553955 — Tarumã/SP — Brasão
+- 3553955 — Tarumã/SP — Bandeira
+- 3554003 — Tatuí/SP — Brasão
+- 3554003 — Tatuí/SP — Bandeira
+- 3554102 — Taubaté/SP — Brasão
+- 3554102 — Taubaté/SP — Bandeira
+- 3554201 — Tejupá/SP — Brasão
+- 3554201 — Tejupá/SP — Bandeira
+- 3554300 — Teodoro Sampaio/SP — Brasão
+- 3554300 — Teodoro Sampaio/SP — Bandeira
+- 3554409 — Terra Roxa/SP — Brasão
+- 3554409 — Terra Roxa/SP — Bandeira
+- 3554508 — Tietê/SP — Brasão
+- 3554508 — Tietê/SP — Bandeira
+- 3554607 — Timburi/SP — Brasão
+- 3554607 — Timburi/SP — Bandeira
+- 3554656 — Torre de Pedra/SP — Brasão
+- 3554656 — Torre de Pedra/SP — Bandeira
+- 3554706 — Torrinha/SP — Brasão
+- 3554706 — Torrinha/SP — Bandeira
+- 3554755 — Trabiju/SP — Brasão
+- 3554755 — Trabiju/SP — Bandeira
+- 3554805 — Tremembé/SP — Brasão
+- 3554805 — Tremembé/SP — Bandeira
+- 3554904 — Três Fronteiras/SP — Brasão
+- 3554904 — Três Fronteiras/SP — Bandeira
+- 3554953 — Tuiuti/SP — Brasão
+- 3554953 — Tuiuti/SP — Bandeira
+- 3555000 — Tupã/SP — Brasão
+- 3555000 — Tupã/SP — Bandeira
+- 3555109 — Tupi Paulista/SP — Brasão
+- 3555109 — Tupi Paulista/SP — Bandeira
+- 3555208 — Turiúba/SP — Brasão
+- 3555208 — Turiúba/SP — Bandeira
+- 3555307 — Turmalina/SP — Brasão
+- 3555307 — Turmalina/SP — Bandeira
+- 3555356 — Ubarana/SP — Bandeira
+- 3555406 — Ubatuba/SP — Brasão
+- 3555505 — Ubirajara/SP — Brasão
+- 3555505 — Ubirajara/SP — Bandeira
+- 3555604 — Uchoa/SP — Brasão
+- 3555604 — Uchoa/SP — Bandeira
+- 3555703 — União Paulista/SP — Brasão
+- 3555703 — União Paulista/SP — Bandeira
+- 3555802 — Urânia/SP — Brasão
+- 3555802 — Urânia/SP — Bandeira
+- 3555901 — Uru/SP — Brasão
+- 3555901 — Uru/SP — Bandeira
+- 3556008 — Urupês/SP — Brasão
+- 3556008 — Urupês/SP — Bandeira
+- 3556107 — Valentim Gentil/SP — Brasão
+- 3556107 — Valentim Gentil/SP — Bandeira
+- 3556206 — Valinhos/SP — Brasão
+- 3556305 — Valparaíso/SP — Brasão
+- 3556305 — Valparaíso/SP — Bandeira
+- 3556354 — Vargem/SP — Brasão
+- 3556354 — Vargem/SP — Bandeira
+- 3556404 — Vargem Grande do Sul/SP — Brasão
+- 3556404 — Vargem Grande do Sul/SP — Bandeira
+- 3556453 — Vargem Grande Paulista/SP — Brasão
+- 3556453 — Vargem Grande Paulista/SP — Bandeira
+- 3556503 — Várzea Paulista/SP — Brasão
+- 3556503 — Várzea Paulista/SP — Bandeira
+- 3556602 — Vera Cruz/SP — Bandeira
+- 3556701 — Vinhedo/SP — Brasão
+- 3556701 — Vinhedo/SP — Bandeira
+- 3556800 — Viradouro/SP — Brasão
+- 3556800 — Viradouro/SP — Bandeira
+- 3556909 — Vista Alegre do Alto/SP — Brasão
+- 3556909 — Vista Alegre do Alto/SP — Bandeira
+- 3556958 — Vitória Brasil/SP — Brasão
+- 3556958 — Vitória Brasil/SP — Bandeira
+- 3557006 — Votorantim/SP — Brasão
+- 3557006 — Votorantim/SP — Bandeira
+- 3557105 — Votuporanga/SP — Brasão
+- 3557105 — Votuporanga/SP — Bandeira
+- 3557154 — Zacarias/SP — Brasão
+- 3557154 — Zacarias/SP — Bandeira
+- 3557204 — Chavantes/SP — Brasão
+- 3557204 — Chavantes/SP — Bandeira
+- 3557303 — Estiva Gerbi/SP — Brasão
+- 3557303 — Estiva Gerbi/SP — Bandeira
+- 4100103 — Abatiá/PR — Brasão
+- 4100103 — Abatiá/PR — Bandeira
+- 4100202 — Adrianópolis/PR — Brasão
+- 4100301 — Agudos do Sul/PR — Brasão
+- 4100400 — Almirante Tamandaré/PR — Brasão
+- 4100400 — Almirante Tamandaré/PR — Bandeira
+- 4100459 — Altamira do Paraná/PR — Brasão
+- 4100459 — Altamira do Paraná/PR — Bandeira
+- 4100509 — Altônia/PR — Brasão
+- 4100509 — Altônia/PR — Bandeira
+- 4100608 — Alto Paraná/PR — Brasão
+- 4100608 — Alto Paraná/PR — Bandeira
+- 4100707 — Alto Piquiri/PR — Brasão
+- 4100707 — Alto Piquiri/PR — Bandeira
+- 4100806 — Alvorada do Sul/PR — Brasão
+- 4100806 — Alvorada do Sul/PR — Bandeira
+- 4100905 — Amaporã/PR — Brasão
+- 4100905 — Amaporã/PR — Bandeira
+- 4101002 — Ampére/PR — Brasão
+- 4101002 — Ampére/PR — Bandeira
+- 4101101 — Andirá/PR — Brasão
+- 4101101 — Andirá/PR — Bandeira
+- 4101150 — Ângulo/PR — Brasão
+- 4101150 — Ângulo/PR — Bandeira
+- 4101200 — Antonina/PR — Brasão
+- 4101200 — Antonina/PR — Bandeira
+- 4101309 — Antônio Olinto/PR — Brasão
+- 4101408 — Apucarana/PR — Brasão
+- 4101408 — Apucarana/PR — Bandeira
+- 4101507 — Arapongas/PR — Brasão
+- 4101507 — Arapongas/PR — Bandeira
+- 4101606 — Arapoti/PR — Brasão
+- 4101606 — Arapoti/PR — Bandeira
+- 4101655 — Arapuã/PR — Brasão
+- 4101705 — Araruna/PR — Brasão
+- 4101705 — Araruna/PR — Bandeira
+- 4101804 — Araucária/PR — Brasão
+- 4101804 — Araucária/PR — Bandeira
+- 4101853 — Ariranha do Ivaí/PR — Brasão
+- 4101853 — Ariranha do Ivaí/PR — Bandeira
+- 4101903 — Assaí/PR — Brasão
+- 4101903 — Assaí/PR — Bandeira
+- 4102000 — Assis Chateaubriand/PR — Brasão
+- 4102000 — Assis Chateaubriand/PR — Bandeira
+- 4102109 — Astorga/PR — Brasão
+- 4102109 — Astorga/PR — Bandeira
+- 4102208 — Atalaia/PR — Brasão
+- 4102307 — Balsa Nova/PR — Brasão
+- 4102307 — Balsa Nova/PR — Bandeira
+- 4102406 — Bandeirantes/PR — Brasão
+- 4102406 — Bandeirantes/PR — Bandeira
+- 4102505 — Barbosa Ferraz/PR — Brasão
+- 4102505 — Barbosa Ferraz/PR — Bandeira
+- 4102604 — Barracão/PR — Brasão
+- 4102604 — Barracão/PR — Bandeira
+- 4102703 — Barra do Jacaré/PR — Bandeira
+- 4102802 — Bela Vista do Paraíso/PR — Brasão
+- 4102802 — Bela Vista do Paraíso/PR — Bandeira
+- 4102901 — Bituruna/PR — Brasão
+- 4102901 — Bituruna/PR — Bandeira
+- 4103008 — Boa Esperança/PR — Brasão
+- 4103008 — Boa Esperança/PR — Bandeira
+- 4103024 — Boa Esperança do Iguaçu/PR — Brasão
+- 4103024 — Boa Esperança do Iguaçu/PR — Bandeira
+- 4103040 — Boa Ventura de São Roque/PR — Brasão
+- 4103040 — Boa Ventura de São Roque/PR — Bandeira
+- 4103057 — Boa Vista da Aparecida/PR — Brasão
+- 4103057 — Boa Vista da Aparecida/PR — Bandeira
+- 4103107 — Bocaiúva do Sul/PR — Bandeira
+- 4103156 — Bom Jesus do Sul/PR — Brasão
+- 4103156 — Bom Jesus do Sul/PR — Bandeira
+- 4103206 — Bom Sucesso/PR — Bandeira
+- 4103222 — Bom Sucesso do Sul/PR — Brasão
+- 4103222 — Bom Sucesso do Sul/PR — Bandeira
+- 4103305 — Borrazópolis/PR — Brasão
+- 4103354 — Braganey/PR — Brasão
+- 4103354 — Braganey/PR — Bandeira
+- 4103370 — Brasilândia do Sul/PR — Brasão
+- 4103370 — Brasilândia do Sul/PR — Bandeira
+- 4103404 — Cafeara/PR — Brasão
+- 4103404 — Cafeara/PR — Bandeira
+- 4103453 — Cafelândia/PR — Brasão
+- 4103453 — Cafelândia/PR — Bandeira
+- 4103503 — Califórnia/PR — Brasão
+- 4103503 — Califórnia/PR — Bandeira
+- 4103602 — Cambará/PR — Brasão
+- 4103602 — Cambará/PR — Bandeira
+- 4103701 — Cambé/PR — Brasão
+- 4103701 — Cambé/PR — Bandeira
+- 4103800 — Cambira/PR — Bandeira
+- 4103909 — Campina da Lagoa/PR — Brasão
+- 4103909 — Campina da Lagoa/PR — Bandeira
+- 4103958 — Campina do Simão/PR — Brasão
+- 4103958 — Campina do Simão/PR — Bandeira
+- 4104006 — Campina Grande do Sul/PR — Brasão
+- 4104006 — Campina Grande do Sul/PR — Bandeira
+- 4104055 — Campo Bonito/PR — Brasão
+- 4104055 — Campo Bonito/PR — Bandeira
+- 4104204 — Campo Largo/PR — Brasão
+- 4104204 — Campo Largo/PR — Bandeira
+- 4104253 — Campo Magro/PR — Brasão
+- 4104253 — Campo Magro/PR — Bandeira
+- 4104303 — Campo Mourão/PR — Brasão
+- 4104303 — Campo Mourão/PR — Bandeira
+- 4104402 — Cândido de Abreu/PR — Brasão
+- 4104402 — Cândido de Abreu/PR — Bandeira
+- 4104428 — Candói/PR — Brasão
+- 4104428 — Candói/PR — Bandeira
+- 4104451 — Cantagalo/PR — Brasão
+- 4104451 — Cantagalo/PR — Bandeira
+- 4104501 — Capanema/PR — Brasão
+- 4104501 — Capanema/PR — Bandeira
+- 4104600 — Capitão Leônidas Marques/PR — Brasão
+- 4104600 — Capitão Leônidas Marques/PR — Bandeira
+- 4104659 — Carambeí/PR — Brasão
+- 4104659 — Carambeí/PR — Bandeira
+- 4104709 — Carlópolis/PR — Brasão
+- 4104709 — Carlópolis/PR — Bandeira
+- 4104808 — Cascavel/PR — Brasão
+- 4104808 — Cascavel/PR — Bandeira
+- 4104907 — Castro/PR — Bandeira
+- 4105003 — Catanduvas/PR — Brasão
+- 4105003 — Catanduvas/PR — Bandeira
+- 4105102 — Centenário do Sul/PR — Brasão
+- 4105102 — Centenário do Sul/PR — Bandeira
+- 4105201 — Cerro Azul/PR — Brasão
+- 4105201 — Cerro Azul/PR — Bandeira
+- 4105300 — Céu Azul/PR — Brasão
+- 4105300 — Céu Azul/PR — Bandeira
+- 4105409 — Chopinzinho/PR — Brasão
+- 4105409 — Chopinzinho/PR — Bandeira
+- 4105508 — Cianorte/PR — Brasão
+- 4105508 — Cianorte/PR — Bandeira
+- 4105607 — Cidade Gaúcha/PR — Brasão
+- 4105607 — Cidade Gaúcha/PR — Bandeira
+- 4105706 — Clevelândia/PR — Bandeira
+- 4105805 — Colombo/PR — Brasão
+- 4105805 — Colombo/PR — Bandeira
+- 4105904 — Colorado/PR — Bandeira
+- 4106001 — Congonhinhas/PR — Brasão
+- 4106100 — Conselheiro Mairinck/PR — Brasão
+- 4106100 — Conselheiro Mairinck/PR — Bandeira
+- 4106209 — Contenda/PR — Brasão
+- 4106209 — Contenda/PR — Bandeira
+- 4106308 — Corbélia/PR — Brasão
+- 4106308 — Corbélia/PR — Bandeira
+- 4106407 — Cornélio Procópio/PR — Bandeira
+- 4106506 — Coronel Vivida/PR — Bandeira
+- 4106571 — Cruzeiro do Iguaçu/PR — Brasão
+- 4106571 — Cruzeiro do Iguaçu/PR — Bandeira
+- 4106605 — Cruzeiro do Oeste/PR — Bandeira
+- 4106704 — Cruzeiro do Sul/PR — Brasão
+- 4106704 — Cruzeiro do Sul/PR — Bandeira
+- 4106803 — Cruz Machado/PR — Brasão
+- 4106803 — Cruz Machado/PR — Bandeira
+- 4106902 — Curitiba/PR — Brasão
+- 4106902 — Curitiba/PR — Bandeira
+- 4107009 — Curiúva/PR — Brasão
+- 4107009 — Curiúva/PR — Bandeira
+- 4107108 — Diamante do Norte/PR — Bandeira
+- 4107124 — Diamante do Sul/PR — Brasão
+- 4107124 — Diamante do Sul/PR — Bandeira
+- 4107207 — Dois Vizinhos/PR — Brasão
+- 4107207 — Dois Vizinhos/PR — Bandeira
+- 4107256 — Douradina/PR — Brasão
+- 4107256 — Douradina/PR — Bandeira
+- 4107306 — Doutor Camargo/PR — Brasão
+- 4107306 — Doutor Camargo/PR — Bandeira
+- 4107405 — Enéas Marques/PR — Brasão
+- 4107405 — Enéas Marques/PR — Bandeira
+- 4107504 — Engenheiro Beltrão/PR — Brasão
+- 4107504 — Engenheiro Beltrão/PR — Bandeira
+- 4107520 — Esperança Nova/PR — Brasão
+- 4107520 — Esperança Nova/PR — Bandeira
+- 4107538 — Entre Rios do Oeste/PR — Bandeira
+- 4107546 — Espigão Alto do Iguaçu/PR — Brasão
+- 4107546 — Espigão Alto do Iguaçu/PR — Bandeira
+- 4107553 — Farol/PR — Brasão
+- 4107553 — Farol/PR — Bandeira
+- 4107603 — Faxinal/PR — Brasão
+- 4107603 — Faxinal/PR — Bandeira
+- 4107652 — Fazenda Rio Grande/PR — Brasão
+- 4107652 — Fazenda Rio Grande/PR — Bandeira
+- 4107702 — Fênix/PR — Brasão
+- 4107751 — Figueira/PR — Brasão
+- 4107751 — Figueira/PR — Bandeira
+- 4107801 — Floraí/PR — Brasão
+- 4107801 — Floraí/PR — Bandeira
+- 4107850 — Flor da Serra do Sul/PR — Brasão
+- 4107850 — Flor da Serra do Sul/PR — Bandeira
+- 4107900 — Floresta/PR — Brasão
+- 4107900 — Floresta/PR — Bandeira
+- 4108007 — Florestópolis/PR — Brasão
+- 4108007 — Florestópolis/PR — Bandeira
+- 4108106 — Flórida/PR — Brasão
+- 4108106 — Flórida/PR — Bandeira
+- 4108205 — Formosa do Oeste/PR — Brasão
+- 4108304 — Foz do Iguaçu/PR — Brasão
+- 4108304 — Foz do Iguaçu/PR — Bandeira
+- 4108320 — Francisco Alves/PR — Brasão
+- 4108320 — Francisco Alves/PR — Bandeira
+- 4108403 — Francisco Beltrão/PR — Brasão
+- 4108403 — Francisco Beltrão/PR — Bandeira
+- 4108452 — Foz do Jordão/PR — Brasão
+- 4108452 — Foz do Jordão/PR — Bandeira
+- 4108502 — General Carneiro/PR — Brasão
+- 4108502 — General Carneiro/PR — Bandeira
+- 4108601 — Goioerê/PR — Bandeira
+- 4108650 — Goioxim/PR — Brasão
+- 4108650 — Goioxim/PR — Bandeira
+- 4108700 — Grandes Rios/PR — Brasão
+- 4108700 — Grandes Rios/PR — Bandeira
+- 4108809 — Guaíra/PR — Brasão
+- 4108809 — Guaíra/PR — Bandeira
+- 4108908 — Guairaçá/PR — Brasão
+- 4108957 — Guamiranga/PR — Brasão
+- 4108957 — Guamiranga/PR — Bandeira
+- 4109104 — Guaporema/PR — Brasão
+- 4109104 — Guaporema/PR — Bandeira
+- 4109203 — Guaraci/PR — Brasão
+- 4109203 — Guaraci/PR — Bandeira
+- 4109302 — Guaraniaçu/PR — Brasão
+- 4109302 — Guaraniaçu/PR — Bandeira
+- 4109401 — Guarapuava/PR — Brasão
+- 4109401 — Guarapuava/PR — Bandeira
+- 4109500 — Guaraqueçaba/PR — Brasão
+- 4109500 — Guaraqueçaba/PR — Bandeira
+- 4109609 — Guaratuba/PR — Brasão
+- 4109609 — Guaratuba/PR — Bandeira
+- 4109658 — Honório Serpa/PR — Brasão
+- 4109658 — Honório Serpa/PR — Bandeira
+- 4109708 — Ibaiti/PR — Brasão
+- 4109708 — Ibaiti/PR — Bandeira
+- 4109757 — Ibema/PR — Brasão
+- 4109757 — Ibema/PR — Bandeira
+- 4109807 — Ibiporã/PR — Bandeira
+- 4109906 — Icaraíma/PR — Brasão
+- 4109906 — Icaraíma/PR — Bandeira
+- 4110003 — Iguaraçu/PR — Brasão
+- 4110003 — Iguaraçu/PR — Bandeira
+- 4110052 — Iguatu/PR — Brasão
+- 4110052 — Iguatu/PR — Bandeira
+- 4110078 — Imbaú/PR — Brasão
+- 4110078 — Imbaú/PR — Bandeira
+- 4110102 — Imbituva/PR — Brasão
+- 4110102 — Imbituva/PR — Bandeira
+- 4110201 — Inácio Martins/PR — Brasão
+- 4110201 — Inácio Martins/PR — Bandeira
+- 4110300 — Inajá/PR — Bandeira
+- 4110409 — Indianópolis/PR — Brasão
+- 4110409 — Indianópolis/PR — Bandeira
+- 4110508 — Ipiranga/PR — Brasão
+- 4110508 — Ipiranga/PR — Bandeira
+- 4110607 — Iporã/PR — Brasão
+- 4110607 — Iporã/PR — Bandeira
+- 4110656 — Iracema do Oeste/PR — Brasão
+- 4110656 — Iracema do Oeste/PR — Bandeira
+- 4110706 — Irati/PR — Brasão
+- 4110706 — Irati/PR — Bandeira
+- 4110805 — Iretama/PR — Brasão
+- 4110805 — Iretama/PR — Bandeira
+- 4110953 — Itaipulândia/PR — Brasão
+- 4110953 — Itaipulândia/PR — Bandeira
+- 4111100 — Itambé/PR — Brasão
+- 4111100 — Itambé/PR — Bandeira
+- 4111258 — Itaperuçu/PR — Bandeira
+- 4111308 — Itaúna do Sul/PR — Bandeira
+- 4111407 — Ivaí/PR — Brasão
+- 4111407 — Ivaí/PR — Bandeira
+- 4111506 — Ivaiporã/PR — Brasão
+- 4111506 — Ivaiporã/PR — Bandeira
+- 4111555 — Ivaté/PR — Brasão
+- 4111555 — Ivaté/PR — Bandeira
+- 4111605 — Ivatuba/PR — Brasão
+- 4111605 — Ivatuba/PR — Bandeira
+- 4111704 — Jaboti/PR — Brasão
+- 4111803 — Jacarezinho/PR — Brasão
+- 4111803 — Jacarezinho/PR — Bandeira
+- 4111902 — Jaguapitã/PR — Brasão
+- 4111902 — Jaguapitã/PR — Bandeira
+- 4112009 — Jaguariaíva/PR — Brasão
+- 4112009 — Jaguariaíva/PR — Bandeira
+- 4112108 — Jandaia do Sul/PR — Brasão
+- 4112108 — Jandaia do Sul/PR — Bandeira
+- 4112207 — Janiópolis/PR — Brasão
+- 4112207 — Janiópolis/PR — Bandeira
+- 4112306 — Japira/PR — Brasão
+- 4112306 — Japira/PR — Bandeira
+- 4112405 — Japurá/PR — Brasão
+- 4112405 — Japurá/PR — Bandeira
+- 4112504 — Jardim Alegre/PR — Brasão
+- 4112504 — Jardim Alegre/PR — Bandeira
+- 4112603 — Jardim Olinda/PR — Brasão
+- 4112603 — Jardim Olinda/PR — Bandeira
+- 4112702 — Jataizinho/PR — Brasão
+- 4112702 — Jataizinho/PR — Bandeira
+- 4112751 — Jesuítas/PR — Brasão
+- 4112751 — Jesuítas/PR — Bandeira
+- 4112801 — Joaquim Távora/PR — Brasão
+- 4112801 — Joaquim Távora/PR — Bandeira
+- 4112900 — Jundiaí do Sul/PR — Brasão
+- 4112959 — Juranda/PR — Brasão
+- 4112959 — Juranda/PR — Bandeira
+- 4113007 — Jussara/PR — Brasão
+- 4113007 — Jussara/PR — Bandeira
+- 4113106 — Kaloré/PR — Brasão
+- 4113106 — Kaloré/PR — Bandeira
+- 4113205 — Lapa/PR — Brasão
+- 4113205 — Lapa/PR — Bandeira
+- 4113254 — Laranjal/PR — Brasão
+- 4113254 — Laranjal/PR — Bandeira
+- 4113304 — Laranjeiras do Sul/PR — Brasão
+- 4113304 — Laranjeiras do Sul/PR — Bandeira
+- 4113403 — Leópolis/PR — Brasão
+- 4113403 — Leópolis/PR — Bandeira
+- 4113429 — Lidianópolis/PR — Brasão
+- 4113452 — Lindoeste/PR — Brasão
+- 4113452 — Lindoeste/PR — Bandeira
+- 4113502 — Loanda/PR — Brasão
+- 4113502 — Loanda/PR — Bandeira
+- 4113601 — Lobato/PR — Brasão
+- 4113601 — Lobato/PR — Bandeira
+- 4113700 — Londrina/PR — Bandeira
+- 4113734 — Luiziana/PR — Brasão
+- 4113734 — Luiziana/PR — Bandeira
+- 4113759 — Lunardelli/PR — Brasão
+- 4113759 — Lunardelli/PR — Bandeira
+- 4113809 — Lupionópolis/PR — Brasão
+- 4113809 — Lupionópolis/PR — Bandeira
+- 4113908 — Mallet/PR — Brasão
+- 4113908 — Mallet/PR — Bandeira
+- 4114005 — Mamborê/PR — Brasão
+- 4114005 — Mamborê/PR — Bandeira
+- 4114104 — Mandaguaçu/PR — Brasão
+- 4114104 — Mandaguaçu/PR — Bandeira
+- 4114203 — Mandaguari/PR — Brasão
+- 4114203 — Mandaguari/PR — Bandeira
+- 4114302 — Mandirituba/PR — Brasão
+- 4114302 — Mandirituba/PR — Bandeira
+- 4114351 — Manfrinópolis/PR — Brasão
+- 4114351 — Manfrinópolis/PR — Bandeira
+- 4114401 — Mangueirinha/PR — Brasão
+- 4114401 — Mangueirinha/PR — Bandeira
+- 4114500 — Manoel Ribas/PR — Brasão
+- 4114500 — Manoel Ribas/PR — Bandeira
+- 4114609 — Marechal Cândido Rondon/PR — Brasão
+- 4114609 — Marechal Cândido Rondon/PR — Bandeira
+- 4114807 — Marialva/PR — Brasão
+- 4114807 — Marialva/PR — Bandeira
+- 4114906 — Marilândia do Sul/PR — Brasão
+- 4114906 — Marilândia do Sul/PR — Bandeira
+- 4115002 — Marilena/PR — Brasão
+- 4115002 — Marilena/PR — Bandeira
+- 4115101 — Mariluz/PR — Brasão
+- 4115200 — Maringá/PR — Brasão
+- 4115200 — Maringá/PR — Bandeira
+- 4115309 — Mariópolis/PR — Bandeira
+- 4115358 — Maripá/PR — Bandeira
+- 4115408 — Marmeleiro/PR — Brasão
+- 4115408 — Marmeleiro/PR — Bandeira
+- 4115457 — Marquinho/PR — Brasão
+- 4115457 — Marquinho/PR — Bandeira
+- 4115606 — Matelândia/PR — Brasão
+- 4115606 — Matelândia/PR — Bandeira
+- 4115705 — Matinhos/PR — Brasão
+- 4115705 — Matinhos/PR — Bandeira
+- 4115754 — Mauá da Serra/PR — Bandeira
+- 4115804 — Medianeira/PR — Brasão
+- 4115804 — Medianeira/PR — Bandeira
+- 4115853 — Mercedes/PR — Brasão
+- 4115853 — Mercedes/PR — Bandeira
+- 4115903 — Mirador/PR — Brasão
+- 4115903 — Mirador/PR — Bandeira
+- 4116000 — Miraselva/PR — Brasão
+- 4116000 — Miraselva/PR — Bandeira
+- 4116059 — Missal/PR — Brasão
+- 4116059 — Missal/PR — Bandeira
+- 4116109 — Moreira Sales/PR — Brasão
+- 4116109 — Moreira Sales/PR — Bandeira
+- 4116208 — Morretes/PR — Brasão
+- 4116208 — Morretes/PR — Bandeira
+- 4116505 — Nova Aliança do Ivaí/PR — Brasão
+- 4116505 — Nova Aliança do Ivaí/PR — Bandeira
+- 4116703 — Nova Aurora/PR — Brasão
+- 4116703 — Nova Aurora/PR — Bandeira
+- 4116802 — Nova Cantu/PR — Brasão
+- 4116802 — Nova Cantu/PR — Bandeira
+- 4116901 — Nova Esperança/PR — Brasão
+- 4116901 — Nova Esperança/PR — Bandeira
+- 4117057 — Nova Laranjeiras/PR — Brasão
+- 4117057 — Nova Laranjeiras/PR — Bandeira
+- 4117107 — Nova Londrina/PR — Brasão
+- 4117107 — Nova Londrina/PR — Bandeira
+- 4117206 — Nova Olímpia/PR — Brasão
+- 4117206 — Nova Olímpia/PR — Bandeira
+- 4117214 — Nova Santa Bárbara/PR — Bandeira
+- 4117222 — Nova Santa Rosa/PR — Brasão
+- 4117222 — Nova Santa Rosa/PR — Bandeira
+- 4117255 — Nova Prata do Iguaçu/PR — Brasão
+- 4117255 — Nova Prata do Iguaçu/PR — Bandeira
+- 4117271 — Nova Tebas/PR — Brasão
+- 4117271 — Nova Tebas/PR — Bandeira
+- 4117297 — Novo Itacolomi/PR — Brasão
+- 4117297 — Novo Itacolomi/PR — Bandeira
+- 4117305 — Ortigueira/PR — Brasão
+- 4117305 — Ortigueira/PR — Bandeira
+- 4117404 — Ourizona/PR — Bandeira
+- 4117453 — Ouro Verde do Oeste/PR — Brasão
+- 4117453 — Ouro Verde do Oeste/PR — Bandeira
+- 4117503 — Paiçandu/PR — Brasão
+- 4117503 — Paiçandu/PR — Bandeira
+- 4117602 — Palmas/PR — Brasão
+- 4117602 — Palmas/PR — Bandeira
+- 4117701 — Palmeira/PR — Brasão
+- 4117701 — Palmeira/PR — Bandeira
+- 4117800 — Palmital/PR — Brasão
+- 4117800 — Palmital/PR — Bandeira
+- 4117909 — Palotina/PR — Brasão
+- 4117909 — Palotina/PR — Bandeira
+- 4118006 — Paraíso do Norte/PR — Bandeira
+- 4118105 — Paranacity/PR — Brasão
+- 4118105 — Paranacity/PR — Bandeira
+- 4118204 — Paranaguá/PR — Brasão
+- 4118204 — Paranaguá/PR — Bandeira
+- 4118402 — Paranavaí/PR — Brasão
+- 4118402 — Paranavaí/PR — Bandeira
+- 4118451 — Pato Bragado/PR — Brasão
+- 4118451 — Pato Bragado/PR — Bandeira
+- 4118501 — Pato Branco/PR — Brasão
+- 4118501 — Pato Branco/PR — Bandeira
+- 4118709 — Paulo Frontin/PR — Bandeira
+- 4118808 — Peabiru/PR — Brasão
+- 4118808 — Peabiru/PR — Bandeira
+- 4118857 — Perobal/PR — Brasão
+- 4118857 — Perobal/PR — Bandeira
+- 4118907 — Pérola/PR — Brasão
+- 4118907 — Pérola/PR — Bandeira
+- 4119004 — Pérola d'Oeste/PR — Brasão
+- 4119004 — Pérola d'Oeste/PR — Bandeira
+- 4119103 — Piên/PR — Brasão
+- 4119103 — Piên/PR — Bandeira
+- 4119152 — Pinhais/PR — Brasão
+- 4119152 — Pinhais/PR — Bandeira
+- 4119202 — Pinhalão/PR — Brasão
+- 4119202 — Pinhalão/PR — Bandeira
+- 4119251 — Pinhal de São Bento/PR — Brasão
+- 4119251 — Pinhal de São Bento/PR — Bandeira
+- 4119301 — Pinhão/PR — Brasão
+- 4119301 — Pinhão/PR — Bandeira
+- 4119400 — Piraí do Sul/PR — Brasão
+- 4119400 — Piraí do Sul/PR — Bandeira
+- 4119509 — Piraquara/PR — Bandeira
+- 4119608 — Pitanga/PR — Brasão
+- 4119608 — Pitanga/PR — Bandeira
+- 4119657 — Pitangueiras/PR — Brasão
+- 4119657 — Pitangueiras/PR — Bandeira
+- 4119806 — Planalto/PR — Brasão
+- 4119806 — Planalto/PR — Bandeira
+- 4119905 — Ponta Grossa/PR — Brasão
+- 4119905 — Ponta Grossa/PR — Bandeira
+- 4119954 — Pontal do Paraná/PR — Brasão
+- 4119954 — Pontal do Paraná/PR — Bandeira
+- 4120002 — Porecatu/PR — Brasão
+- 4120002 — Porecatu/PR — Bandeira
+- 4120101 — Porto Amazonas/PR — Brasão
+- 4120101 — Porto Amazonas/PR — Bandeira
+- 4120150 — Porto Barreiro/PR — Brasão
+- 4120150 — Porto Barreiro/PR — Bandeira
+- 4120200 — Porto Rico/PR — Brasão
+- 4120200 — Porto Rico/PR — Bandeira
+- 4120408 — Presidente Castelo Branco/PR — Bandeira
+- 4120507 — Primeiro de Maio/PR — Brasão
+- 4120507 — Primeiro de Maio/PR — Bandeira
+- 4120606 — Prudentópolis/PR — Bandeira
+- 4120655 — Quarto Centenário/PR — Brasão
+- 4120655 — Quarto Centenário/PR — Bandeira
+- 4120705 — Quatiguá/PR — Brasão
+- 4120705 — Quatiguá/PR — Bandeira
+- 4120804 — Quatro Barras/PR — Brasão
+- 4120804 — Quatro Barras/PR — Bandeira
+- 4120853 — Quatro Pontes/PR — Bandeira
+- 4120903 — Quedas do Iguaçu/PR — Brasão
+- 4120903 — Quedas do Iguaçu/PR — Bandeira
+- 4121000 — Querência do Norte/PR — Brasão
+- 4121000 — Querência do Norte/PR — Bandeira
+- 4121109 — Quinta do Sol/PR — Brasão
+- 4121208 — Quitandinha/PR — Brasão
+- 4121208 — Quitandinha/PR — Bandeira
+- 4121307 — Rancho Alegre/PR — Bandeira
+- 4121406 — Realeza/PR — Brasão
+- 4121406 — Realeza/PR — Bandeira
+- 4121505 — Rebouças/PR — Brasão
+- 4121505 — Rebouças/PR — Bandeira
+- 4121703 — Reserva/PR — Brasão
+- 4121703 — Reserva/PR — Bandeira
+- 4121752 — Reserva do Iguaçu/PR — Brasão
+- 4121752 — Reserva do Iguaçu/PR — Bandeira
+- 4121802 — Ribeirão Claro/PR — Brasão
+- 4121802 — Ribeirão Claro/PR — Bandeira
+- 4121901 — Ribeirão do Pinhal/PR — Brasão
+- 4121901 — Ribeirão do Pinhal/PR — Bandeira
+- 4122008 — Rio Azul/PR — Brasão
+- 4122008 — Rio Azul/PR — Bandeira
+- 4122156 — Rio Bonito do Iguaçu/PR — Brasão
+- 4122156 — Rio Bonito do Iguaçu/PR — Bandeira
+- 4122172 — Rio Branco do Ivaí/PR — Brasão
+- 4122172 — Rio Branco do Ivaí/PR — Bandeira
+- 4122206 — Rio Branco do Sul/PR — Brasão
+- 4122206 — Rio Branco do Sul/PR — Bandeira
+- 4122305 — Rio Negro/PR — Brasão
+- 4122305 — Rio Negro/PR — Bandeira
+- 4122404 — Rolândia/PR — Brasão
+- 4122404 — Rolândia/PR — Bandeira
+- 4122503 — Roncador/PR — Bandeira
+- 4122602 — Rondon/PR — Brasão
+- 4122602 — Rondon/PR — Bandeira
+- 4122651 — Rosário do Ivaí/PR — Brasão
+- 4122651 — Rosário do Ivaí/PR — Bandeira
+- 4122701 — Sabáudia/PR — Brasão
+- 4122701 — Sabáudia/PR — Bandeira
+- 4122909 — Salto do Itararé/PR — Brasão
+- 4123006 — Salto do Lontra/PR — Brasão
+- 4123006 — Salto do Lontra/PR — Bandeira
+- 4123105 — Santa Amélia/PR — Bandeira
+- 4123204 — Santa Cecília do Pavão/PR — Brasão
+- 4123204 — Santa Cecília do Pavão/PR — Bandeira
+- 4123303 — Santa Cruz de Monte Castelo/PR — Brasão
+- 4123303 — Santa Cruz de Monte Castelo/PR — Bandeira
+- 4123402 — Santa Fé/PR — Brasão
+- 4123402 — Santa Fé/PR — Bandeira
+- 4123501 — Santa Helena/PR — Brasão
+- 4123501 — Santa Helena/PR — Bandeira
+- 4123600 — Santa Inês/PR — Brasão
+- 4123600 — Santa Inês/PR — Bandeira
+- 4123709 — Santa Isabel do Ivaí/PR — Brasão
+- 4123709 — Santa Isabel do Ivaí/PR — Bandeira
+- 4123808 — Santa Izabel do Oeste/PR — Brasão
+- 4123808 — Santa Izabel do Oeste/PR — Bandeira
+- 4123824 — Santa Lúcia/PR — Brasão
+- 4123824 — Santa Lúcia/PR — Bandeira
+- 4123857 — Santa Maria do Oeste/PR — Brasão
+- 4123857 — Santa Maria do Oeste/PR — Bandeira
+- 4123907 — Santa Mariana/PR — Brasão
+- 4123907 — Santa Mariana/PR — Bandeira
+- 4124004 — Santana do Itararé/PR — Brasão
+- 4124004 — Santana do Itararé/PR — Bandeira
+- 4124020 — Santa Tereza do Oeste/PR — Brasão
+- 4124020 — Santa Tereza do Oeste/PR — Bandeira
+- 4124053 — Santa Terezinha de Itaipu/PR — Bandeira
+- 4124103 — Santo Antônio da Platina/PR — Brasão
+- 4124103 — Santo Antônio da Platina/PR — Bandeira
+- 4124202 — Santo Antônio do Caiuá/PR — Brasão
+- 4124202 — Santo Antônio do Caiuá/PR — Bandeira
+- 4124301 — Santo Antônio do Paraíso/PR — Brasão
+- 4124301 — Santo Antônio do Paraíso/PR — Bandeira
+- 4124400 — Santo Antônio do Sudoeste/PR — Brasão
+- 4124400 — Santo Antônio do Sudoeste/PR — Bandeira
+- 4124608 — São Carlos do Ivaí/PR — Brasão
+- 4124608 — São Carlos do Ivaí/PR — Bandeira
+- 4124707 — São Jerônimo da Serra/PR — Brasão
+- 4124707 — São Jerônimo da Serra/PR — Bandeira
+- 4124806 — São João/PR — Bandeira
+- 4124905 — São João do Caiuá/PR — Bandeira
+- 4125100 — São João do Triunfo/PR — Brasão
+- 4125100 — São João do Triunfo/PR — Bandeira
+- 4125209 — São Jorge d'Oeste/PR — Brasão
+- 4125308 — São Jorge do Ivaí/PR — Bandeira
+- 4125357 — São Jorge do Patrocínio/PR — Brasão
+- 4125357 — São Jorge do Patrocínio/PR — Bandeira
+- 4125407 — São José da Boa Vista/PR — Brasão
+- 4125407 — São José da Boa Vista/PR — Bandeira
+- 4125506 — São José dos Pinhais/PR — Brasão
+- 4125506 — São José dos Pinhais/PR — Bandeira
+- 4125555 — São Manoel do Paraná/PR — Brasão
+- 4125555 — São Manoel do Paraná/PR — Bandeira
+- 4125605 — São Mateus do Sul/PR — Brasão
+- 4125605 — São Mateus do Sul/PR — Bandeira
+- 4125704 — São Miguel do Iguaçu/PR — Brasão
+- 4125704 — São Miguel do Iguaçu/PR — Bandeira
+- 4125753 — São Pedro do Iguaçu/PR — Bandeira
+- 4125803 — São Pedro do Ivaí/PR — Brasão
+- 4125803 — São Pedro do Ivaí/PR — Bandeira
+- 4125902 — São Pedro do Paraná/PR — Brasão
+- 4125902 — São Pedro do Paraná/PR — Bandeira
+- 4126009 — São Sebastião da Amoreira/PR — Brasão
+- 4126009 — São Sebastião da Amoreira/PR — Bandeira
+- 4126207 — Sapopema/PR — Brasão
+- 4126207 — Sapopema/PR — Bandeira
+- 4126256 — Sarandi/PR — Brasão
+- 4126256 — Sarandi/PR — Bandeira
+- 4126306 — Sengés/PR — Brasão
+- 4126306 — Sengés/PR — Bandeira
+- 4126355 — Serranópolis do Iguaçu/PR — Bandeira
+- 4126405 — Sertaneja/PR — Brasão
+- 4126405 — Sertaneja/PR — Bandeira
+- 4126504 — Sertanópolis/PR — Brasão
+- 4126504 — Sertanópolis/PR — Bandeira
+- 4126603 — Siqueira Campos/PR — Brasão
+- 4126603 — Siqueira Campos/PR — Bandeira
+- 4126652 — Sulina/PR — Brasão
+- 4126652 — Sulina/PR — Bandeira
+- 4126678 — Tamarana/PR — Brasão
+- 4126678 — Tamarana/PR — Bandeira
+- 4126702 — Tamboara/PR — Bandeira
+- 4126801 — Tapejara/PR — Bandeira
+- 4126900 — Tapira/PR — Brasão
+- 4126900 — Tapira/PR — Bandeira
+- 4127007 — Teixeira Soares/PR — Bandeira
+- 4127106 — Telêmaco Borba/PR — Brasão
+- 4127106 — Telêmaco Borba/PR — Bandeira
+- 4127205 — Terra Boa/PR — Brasão
+- 4127205 — Terra Boa/PR — Bandeira
+- 4127304 — Terra Rica/PR — Brasão
+- 4127304 — Terra Rica/PR — Bandeira
+- 4127403 — Terra Roxa/PR — Brasão
+- 4127403 — Terra Roxa/PR — Bandeira
+- 4127502 — Tibagi/PR — Brasão
+- 4127502 — Tibagi/PR — Bandeira
+- 4127601 — Tijucas do Sul/PR — Brasão
+- 4127601 — Tijucas do Sul/PR — Bandeira
+- 4127700 — Toledo/PR — Brasão
+- 4127700 — Toledo/PR — Bandeira
+- 4127809 — Tomazina/PR — Brasão
+- 4127809 — Tomazina/PR — Bandeira
+- 4127858 — Três Barras do Paraná/PR — Brasão
+- 4127858 — Três Barras do Paraná/PR — Bandeira
+- 4127882 — Tunas do Paraná/PR — Brasão
+- 4127882 — Tunas do Paraná/PR — Bandeira
+- 4127957 — Tupãssi/PR — Brasão
+- 4127957 — Tupãssi/PR — Bandeira
+- 4127965 — Turvo/PR — Brasão
+- 4127965 — Turvo/PR — Bandeira
+- 4128005 — Ubiratã/PR — Brasão
+- 4128005 — Ubiratã/PR — Bandeira
+- 4128104 — Umuarama/PR — Brasão
+- 4128104 — Umuarama/PR — Bandeira
+- 4128203 — União da Vitória/PR — Brasão
+- 4128203 — União da Vitória/PR — Bandeira
+- 4128401 — Uraí/PR — Brasão
+- 4128401 — Uraí/PR — Bandeira
+- 4128500 — Wenceslau Braz/PR — Brasão
+- 4128500 — Wenceslau Braz/PR — Bandeira
+- 4128534 — Ventania/PR — Brasão
+- 4128534 — Ventania/PR — Bandeira
+- 4128559 — Vera Cruz do Oeste/PR — Brasão
+- 4128559 — Vera Cruz do Oeste/PR — Bandeira
+- 4128609 — Verê/PR — Brasão
+- 4128609 — Verê/PR — Bandeira
+- 4128625 — Alto Paraíso/PR — Bandeira
+- 4128658 — Virmond/PR — Brasão
+- 4128658 — Virmond/PR — Bandeira
+- 4128708 — Vitorino/PR — Brasão
+- 4128708 — Vitorino/PR — Bandeira
+- 4128807 — Xambrê/PR — Brasão
+- 4128807 — Xambrê/PR — Bandeira
+- 4200051 — Abdon Batista/SC — Brasão
+- 4200051 — Abdon Batista/SC — Bandeira
+- 4200101 — Abelardo Luz/SC — Brasão
+- 4200101 — Abelardo Luz/SC — Bandeira
+- 4200200 — Agrolândia/SC — Brasão
+- 4200200 — Agrolândia/SC — Bandeira
+- 4200309 — Agronômica/SC — Brasão
+- 4200309 — Agronômica/SC — Bandeira
+- 4200408 — Água Doce/SC — Brasão
+- 4200408 — Água Doce/SC — Bandeira
+- 4200507 — Águas de Chapecó/SC — Brasão
+- 4200507 — Águas de Chapecó/SC — Bandeira
+- 4200556 — Águas Frias/SC — Brasão
+- 4200556 — Águas Frias/SC — Bandeira
+- 4200606 — Águas Mornas/SC — Brasão
+- 4200606 — Águas Mornas/SC — Bandeira
+- 4200705 — Alfredo Wagner/SC — Brasão
+- 4200705 — Alfredo Wagner/SC — Bandeira
+- 4200754 — Alto Bela Vista/SC — Brasão
+- 4200754 — Alto Bela Vista/SC — Bandeira
+- 4200804 — Anchieta/SC — Brasão
+- 4200804 — Anchieta/SC — Bandeira
+- 4200903 — Angelina/SC — Brasão
+- 4200903 — Angelina/SC — Bandeira
+- 4201000 — Anita Garibaldi/SC — Brasão
+- 4201000 — Anita Garibaldi/SC — Bandeira
+- 4201109 — Anitápolis/SC — Brasão
+- 4201109 — Anitápolis/SC — Bandeira
+- 4201208 — Antônio Carlos/SC — Brasão
+- 4201208 — Antônio Carlos/SC — Bandeira
+- 4201257 — Apiúna/SC — Brasão
+- 4201257 — Apiúna/SC — Bandeira
+- 4201273 — Arabutã/SC — Brasão
+- 4201273 — Arabutã/SC — Bandeira
+- 4201307 — Araquari/SC — Brasão
+- 4201307 — Araquari/SC — Bandeira
+- 4201406 — Araranguá/SC — Brasão
+- 4201406 — Araranguá/SC — Bandeira
+- 4201505 — Armazém/SC — Brasão
+- 4201505 — Armazém/SC — Bandeira
+- 4201604 — Arroio Trinta/SC — Brasão
+- 4201604 — Arroio Trinta/SC — Bandeira
+- 4201653 — Arvoredo/SC — Brasão
+- 4201653 — Arvoredo/SC — Bandeira
+- 4201703 — Ascurra/SC — Brasão
+- 4201703 — Ascurra/SC — Bandeira
+- 4201802 — Atalanta/SC — Brasão
+- 4201802 — Atalanta/SC — Bandeira
+- 4201901 — Aurora/SC — Brasão
+- 4201950 — Balneário Arroio do Silva/SC — Brasão
+- 4201950 — Balneário Arroio do Silva/SC — Bandeira
+- 4202008 — Balneário Camboriú/SC — Brasão
+- 4202008 — Balneário Camboriú/SC — Bandeira
+- 4202057 — Balneário Barra do Sul/SC — Brasão
+- 4202057 — Balneário Barra do Sul/SC — Bandeira
+- 4202073 — Balneário Gaivota/SC — Brasão
+- 4202073 — Balneário Gaivota/SC — Bandeira
+- 4202081 — Bandeirante/SC — Brasão
+- 4202081 — Bandeirante/SC — Bandeira
+- 4202099 — Barra Bonita/SC — Brasão
+- 4202099 — Barra Bonita/SC — Bandeira
+- 4202107 — Barra Velha/SC — Brasão
+- 4202107 — Barra Velha/SC — Bandeira
+- 4202131 — Bela Vista do Toldo/SC — Brasão
+- 4202131 — Bela Vista do Toldo/SC — Bandeira
+- 4202156 — Belmonte/SC — Brasão
+- 4202156 — Belmonte/SC — Bandeira
+- 4202206 — Benedito Novo/SC — Brasão
+- 4202206 — Benedito Novo/SC — Bandeira
+- 4202305 — Biguaçu/SC — Brasão
+- 4202305 — Biguaçu/SC — Bandeira
+- 4202438 — Bocaina do Sul/SC — Brasão
+- 4202438 — Bocaina do Sul/SC — Bandeira
+- 4202453 — Bombinhas/SC — Brasão
+- 4202453 — Bombinhas/SC — Bandeira
+- 4202503 — Bom Jardim da Serra/SC — Brasão
+- 4202503 — Bom Jardim da Serra/SC — Bandeira
+- 4202537 — Bom Jesus/SC — Brasão
+- 4202537 — Bom Jesus/SC — Bandeira
+- 4202578 — Bom Jesus do Oeste/SC — Brasão
+- 4202578 — Bom Jesus do Oeste/SC — Bandeira
+- 4202602 — Bom Retiro/SC — Brasão
+- 4202602 — Bom Retiro/SC — Bandeira
+- 4202701 — Botuverá/SC — Brasão
+- 4202701 — Botuverá/SC — Bandeira
+- 4202800 — Braço do Norte/SC — Brasão
+- 4202800 — Braço do Norte/SC — Bandeira
+- 4202859 — Braço do Trombudo/SC — Brasão
+- 4202859 — Braço do Trombudo/SC — Bandeira
+- 4202875 — Brunópolis/SC — Brasão
+- 4202875 — Brunópolis/SC — Bandeira
+- 4202909 — Brusque/SC — Brasão
+- 4202909 — Brusque/SC — Bandeira
+- 4203006 — Caçador/SC — Brasão
+- 4203006 — Caçador/SC — Bandeira
+- 4203105 — Caibi/SC — Brasão
+- 4203105 — Caibi/SC — Bandeira
+- 4203154 — Calmon/SC — Brasão
+- 4203154 — Calmon/SC — Bandeira
+- 4203204 — Camboriú/SC — Brasão
+- 4203204 — Camboriú/SC — Bandeira
+- 4203253 — Capão Alto/SC — Brasão
+- 4203253 — Capão Alto/SC — Bandeira
+- 4203303 — Campo Alegre/SC — Brasão
+- 4203303 — Campo Alegre/SC — Bandeira
+- 4203402 — Campo Belo do Sul/SC — Brasão
+- 4203402 — Campo Belo do Sul/SC — Bandeira
+- 4203501 — Campo Erê/SC — Brasão
+- 4203600 — Campos Novos/SC — Brasão
+- 4203600 — Campos Novos/SC — Bandeira
+- 4203709 — Canelinha/SC — Brasão
+- 4203709 — Canelinha/SC — Bandeira
+- 4203808 — Canoinhas/SC — Brasão
+- 4203808 — Canoinhas/SC — Bandeira
+- 4203907 — Capinzal/SC — Brasão
+- 4203907 — Capinzal/SC — Bandeira
+- 4203956 — Capivari de Baixo/SC — Brasão
+- 4203956 — Capivari de Baixo/SC — Bandeira
+- 4204004 — Catanduvas/SC — Brasão
+- 4204004 — Catanduvas/SC — Bandeira
+- 4204103 — Caxambu do Sul/SC — Brasão
+- 4204103 — Caxambu do Sul/SC — Bandeira
+- 4204152 — Celso Ramos/SC — Brasão
+- 4204152 — Celso Ramos/SC — Bandeira
+- 4204178 — Cerro Negro/SC — Brasão
+- 4204178 — Cerro Negro/SC — Bandeira
+- 4204194 — Chapadão do Lageado/SC — Brasão
+- 4204194 — Chapadão do Lageado/SC — Bandeira
+- 4204202 — Chapecó/SC — Brasão
+- 4204202 — Chapecó/SC — Bandeira
+- 4204251 — Cocal do Sul/SC — Brasão
+- 4204251 — Cocal do Sul/SC — Bandeira
+- 4204301 — Concórdia/SC — Bandeira
+- 4204350 — Cordilheira Alta/SC — Brasão
+- 4204350 — Cordilheira Alta/SC — Bandeira
+- 4204400 — Coronel Freitas/SC — Brasão
+- 4204400 — Coronel Freitas/SC — Bandeira
+- 4204459 — Coronel Martins/SC — Brasão
+- 4204459 — Coronel Martins/SC — Bandeira
+- 4204509 — Corupá/SC — Brasão
+- 4204509 — Corupá/SC — Bandeira
+- 4204558 — Correia Pinto/SC — Brasão
+- 4204558 — Correia Pinto/SC — Bandeira
+- 4204608 — Criciúma/SC — Brasão
+- 4204608 — Criciúma/SC — Bandeira
+- 4204707 — Cunha Porã/SC — Brasão
+- 4204707 — Cunha Porã/SC — Bandeira
+- 4204756 — Cunhataí/SC — Brasão
+- 4204756 — Cunhataí/SC — Bandeira
+- 4204806 — Curitibanos/SC — Brasão
+- 4204806 — Curitibanos/SC — Bandeira
+- 4204905 — Descanso/SC — Brasão
+- 4204905 — Descanso/SC — Bandeira
+- 4205001 — Dionísio Cerqueira/SC — Brasão
+- 4205001 — Dionísio Cerqueira/SC — Bandeira
+- 4205100 — Dona Emma/SC — Brasão
+- 4205100 — Dona Emma/SC — Bandeira
+- 4205159 — Doutor Pedrinho/SC — Brasão
+- 4205159 — Doutor Pedrinho/SC — Bandeira
+- 4205175 — Entre Rios/SC — Brasão
+- 4205175 — Entre Rios/SC — Bandeira
+- 4205191 — Ermo/SC — Brasão
+- 4205191 — Ermo/SC — Bandeira
+- 4205209 — Erval Velho/SC — Brasão
+- 4205209 — Erval Velho/SC — Bandeira
+- 4205308 — Faxinal dos Guedes/SC — Brasão
+- 4205308 — Faxinal dos Guedes/SC — Bandeira
+- 4205357 — Flor do Sertão/SC — Brasão
+- 4205357 — Flor do Sertão/SC — Bandeira
+- 4205407 — Florianópolis/SC — Brasão
+- 4205407 — Florianópolis/SC — Bandeira
+- 4205431 — Formosa do Sul/SC — Brasão
+- 4205431 — Formosa do Sul/SC — Bandeira
+- 4205456 — Forquilhinha/SC — Brasão
+- 4205456 — Forquilhinha/SC — Bandeira
+- 4205506 — Fraiburgo/SC — Brasão
+- 4205506 — Fraiburgo/SC — Bandeira
+- 4205555 — Frei Rogério/SC — Brasão
+- 4205555 — Frei Rogério/SC — Bandeira
+- 4205605 — Galvão/SC — Brasão
+- 4205605 — Galvão/SC — Bandeira
+- 4205704 — Garopaba/SC — Bandeira
+- 4205803 — Garuva/SC — Brasão
+- 4205803 — Garuva/SC — Bandeira
+- 4205902 — Gaspar/SC — Brasão
+- 4205902 — Gaspar/SC — Bandeira
+- 4206009 — Governador Celso Ramos/SC — Brasão
+- 4206009 — Governador Celso Ramos/SC — Bandeira
+- 4206108 — Grão-Pará/SC — Brasão
+- 4206108 — Grão-Pará/SC — Bandeira
+- 4206207 — Gravatal/SC — Brasão
+- 4206207 — Gravatal/SC — Bandeira
+- 4206306 — Guabiruba/SC — Brasão
+- 4206306 — Guabiruba/SC — Bandeira
+- 4206405 — Guaraciaba/SC — Brasão
+- 4206405 — Guaraciaba/SC — Bandeira
+- 4206504 — Guaramirim/SC — Brasão
+- 4206504 — Guaramirim/SC — Bandeira
+- 4206603 — Guarujá do Sul/SC — Brasão
+- 4206603 — Guarujá do Sul/SC — Bandeira
+- 4206652 — Guatambú/SC — Brasão
+- 4206702 — Herval d'Oeste/SC — Brasão
+- 4206702 — Herval d'Oeste/SC — Bandeira
+- 4206751 — Ibiam/SC — Brasão
+- 4206751 — Ibiam/SC — Bandeira
+- 4206801 — Ibicaré/SC — Brasão
+- 4206801 — Ibicaré/SC — Bandeira
+- 4206900 — Ibirama/SC — Brasão
+- 4206900 — Ibirama/SC — Bandeira
+- 4207007 — Içara/SC — Brasão
+- 4207007 — Içara/SC — Bandeira
+- 4207106 — Ilhota/SC — Brasão
+- 4207106 — Ilhota/SC — Bandeira
+- 4207205 — Imaruí/SC — Brasão
+- 4207205 — Imaruí/SC — Bandeira
+- 4207304 — Imbituba/SC — Brasão
+- 4207304 — Imbituba/SC — Bandeira
+- 4207403 — Imbuia/SC — Brasão
+- 4207403 — Imbuia/SC — Bandeira
+- 4207502 — Indaial/SC — Brasão
+- 4207502 — Indaial/SC — Bandeira
+- 4207577 — Iomerê/SC — Brasão
+- 4207577 — Iomerê/SC — Bandeira
+- 4207601 — Ipira/SC — Brasão
+- 4207601 — Ipira/SC — Bandeira
+- 4207650 — Iporã do Oeste/SC — Brasão
+- 4207650 — Iporã do Oeste/SC — Bandeira
+- 4207684 — Ipuaçu/SC — Brasão
+- 4207684 — Ipuaçu/SC — Bandeira
+- 4207700 — Ipumirim/SC — Brasão
+- 4207700 — Ipumirim/SC — Bandeira
+- 4207759 — Iraceminha/SC — Brasão
+- 4207759 — Iraceminha/SC — Bandeira
+- 4207809 — Irani/SC — Brasão
+- 4207809 — Irani/SC — Bandeira
+- 4207858 — Irati/SC — Brasão
+- 4207858 — Irati/SC — Bandeira
+- 4207908 — Irineópolis/SC — Brasão
+- 4207908 — Irineópolis/SC — Bandeira
+- 4208005 — Itá/SC — Brasão
+- 4208005 — Itá/SC — Bandeira
+- 4208104 — Itaiópolis/SC — Brasão
+- 4208104 — Itaiópolis/SC — Bandeira
+- 4208203 — Itajaí/SC — Brasão
+- 4208302 — Itapema/SC — Brasão
+- 4208302 — Itapema/SC — Bandeira
+- 4208401 — Itapiranga/SC — Brasão
+- 4208401 — Itapiranga/SC — Bandeira
+- 4208450 — Itapoá/SC — Brasão
+- 4208450 — Itapoá/SC — Bandeira
+- 4208500 — Ituporanga/SC — Brasão
+- 4208500 — Ituporanga/SC — Bandeira
+- 4208609 — Jaborá/SC — Brasão
+- 4208609 — Jaborá/SC — Bandeira
+- 4208708 — Jacinto Machado/SC — Brasão
+- 4208708 — Jacinto Machado/SC — Bandeira
+- 4208807 — Jaguaruna/SC — Brasão
+- 4208807 — Jaguaruna/SC — Bandeira
+- 4208906 — Jaraguá do Sul/SC — Bandeira
+- 4208955 — Jardinópolis/SC — Brasão
+- 4208955 — Jardinópolis/SC — Bandeira
+- 4209003 — Joaçaba/SC — Brasão
+- 4209003 — Joaçaba/SC — Bandeira
+- 4209102 — Joinville/SC — Brasão
+- 4209102 — Joinville/SC — Bandeira
+- 4209151 — José Boiteux/SC — Brasão
+- 4209151 — José Boiteux/SC — Bandeira
+- 4209177 — Jupiá/SC — Brasão
+- 4209177 — Jupiá/SC — Bandeira
+- 4209201 — Lacerdópolis/SC — Brasão
+- 4209201 — Lacerdópolis/SC — Bandeira
+- 4209300 — Lages/SC — Brasão
+- 4209300 — Lages/SC — Bandeira
+- 4209409 — Laguna/SC — Brasão
+- 4209409 — Laguna/SC — Bandeira
+- 4209458 — Lajeado Grande/SC — Brasão
+- 4209458 — Lajeado Grande/SC — Bandeira
+- 4209508 — Laurentino/SC — Brasão
+- 4209508 — Laurentino/SC — Bandeira
+- 4209607 — Lauro Müller/SC — Brasão
+- 4209607 — Lauro Müller/SC — Bandeira
+- 4209706 — Lebon Régis/SC — Brasão
+- 4209706 — Lebon Régis/SC — Bandeira
+- 4209805 — Leoberto Leal/SC — Brasão
+- 4209805 — Leoberto Leal/SC — Bandeira
+- 4209854 — Lindóia do Sul/SC — Brasão
+- 4209854 — Lindóia do Sul/SC — Bandeira
+- 4209904 — Lontras/SC — Brasão
+- 4209904 — Lontras/SC — Bandeira
+- 4210001 — Luiz Alves/SC — Brasão
+- 4210035 — Luzerna/SC — Brasão
+- 4210035 — Luzerna/SC — Bandeira
+- 4210050 — Macieira/SC — Brasão
+- 4210050 — Macieira/SC — Bandeira
+- 4210100 — Mafra/SC — Brasão
+- 4210100 — Mafra/SC — Bandeira
+- 4210209 — Major Gercino/SC — Brasão
+- 4210209 — Major Gercino/SC — Bandeira
+- 4210308 — Major Vieira/SC — Brasão
+- 4210308 — Major Vieira/SC — Bandeira
+- 4210407 — Maracajá/SC — Brasão
+- 4210407 — Maracajá/SC — Bandeira
+- 4210506 — Maravilha/SC — Brasão
+- 4210506 — Maravilha/SC — Bandeira
+- 4210555 — Marema/SC — Brasão
+- 4210555 — Marema/SC — Bandeira
+- 4210605 — Massaranduba/SC — Brasão
+- 4210605 — Massaranduba/SC — Bandeira
+- 4210704 — Matos Costa/SC — Brasão
+- 4210704 — Matos Costa/SC — Bandeira
+- 4210803 — Meleiro/SC — Brasão
+- 4210803 — Meleiro/SC — Bandeira
+- 4210852 — Mirim Doce/SC — Brasão
+- 4210852 — Mirim Doce/SC — Bandeira
+- 4210902 — Modelo/SC — Brasão
+- 4210902 — Modelo/SC — Bandeira
+- 4211009 — Mondaí/SC — Brasão
+- 4211009 — Mondaí/SC — Bandeira
+- 4211058 — Monte Carlo/SC — Brasão
+- 4211058 — Monte Carlo/SC — Bandeira
+- 4211108 — Monte Castelo/SC — Brasão
+- 4211108 — Monte Castelo/SC — Bandeira
+- 4211207 — Morro da Fumaça/SC — Brasão
+- 4211207 — Morro da Fumaça/SC — Bandeira
+- 4211256 — Morro Grande/SC — Brasão
+- 4211256 — Morro Grande/SC — Bandeira
+- 4211306 — Navegantes/SC — Brasão
+- 4211306 — Navegantes/SC — Bandeira
+- 4211405 — Nova Erechim/SC — Brasão
+- 4211405 — Nova Erechim/SC — Bandeira
+- 4211454 — Nova Itaberaba/SC — Brasão
+- 4211454 — Nova Itaberaba/SC — Bandeira
+- 4211504 — Nova Trento/SC — Brasão
+- 4211504 — Nova Trento/SC — Bandeira
+- 4211603 — Nova Veneza/SC — Brasão
+- 4211603 — Nova Veneza/SC — Bandeira
+- 4211652 — Novo Horizonte/SC — Brasão
+- 4211652 — Novo Horizonte/SC — Bandeira
+- 4211702 — Orleans/SC — Brasão
+- 4211702 — Orleans/SC — Bandeira
+- 4211751 — Otacílio Costa/SC — Brasão
+- 4211751 — Otacílio Costa/SC — Bandeira
+- 4211801 — Ouro/SC — Brasão
+- 4211801 — Ouro/SC — Bandeira
+- 4211850 — Ouro Verde/SC — Brasão
+- 4211850 — Ouro Verde/SC — Bandeira
+- 4211876 — Paial/SC — Brasão
+- 4211876 — Paial/SC — Bandeira
+- 4211892 — Painel/SC — Brasão
+- 4211892 — Painel/SC — Bandeira
+- 4211900 — Palhoça/SC — Brasão
+- 4211900 — Palhoça/SC — Bandeira
+- 4212007 — Palma Sola/SC — Brasão
+- 4212007 — Palma Sola/SC — Bandeira
+- 4212056 — Palmeira/SC — Brasão
+- 4212056 — Palmeira/SC — Bandeira
+- 4212106 — Palmitos/SC — Brasão
+- 4212106 — Palmitos/SC — Bandeira
+- 4212205 — Papanduva/SC — Brasão
+- 4212205 — Papanduva/SC — Bandeira
+- 4212239 — Paraíso/SC — Brasão
+- 4212239 — Paraíso/SC — Bandeira
+- 4212254 — Passo de Torres/SC — Brasão
+- 4212254 — Passo de Torres/SC — Bandeira
+- 4212270 — Passos Maia/SC — Brasão
+- 4212270 — Passos Maia/SC — Bandeira
+- 4212304 — Paulo Lopes/SC — Brasão
+- 4212304 — Paulo Lopes/SC — Bandeira
+- 4212403 — Pedras Grandes/SC — Brasão
+- 4212403 — Pedras Grandes/SC — Bandeira
+- 4212502 — Penha/SC — Brasão
+- 4212502 — Penha/SC — Bandeira
+- 4212601 — Peritiba/SC — Brasão
+- 4212601 — Peritiba/SC — Bandeira
+- 4212650 — Pescaria Brava/SC — Brasão
+- 4212650 — Pescaria Brava/SC — Bandeira
+- 4212700 — Petrolândia/SC — Brasão
+- 4212700 — Petrolândia/SC — Bandeira
+- 4212809 — Balneário Piçarras/SC — Brasão
+- 4212809 — Balneário Piçarras/SC — Bandeira
+- 4212908 — Pinhalzinho/SC — Brasão
+- 4212908 — Pinhalzinho/SC — Bandeira
+- 4213005 — Pinheiro Preto/SC — Brasão
+- 4213005 — Pinheiro Preto/SC — Bandeira
+- 4213104 — Piratuba/SC — Brasão
+- 4213104 — Piratuba/SC — Bandeira
+- 4213153 — Planalto Alegre/SC — Brasão
+- 4213153 — Planalto Alegre/SC — Bandeira
+- 4213203 — Pomerode/SC — Brasão
+- 4213203 — Pomerode/SC — Bandeira
+- 4213302 — Ponte Alta/SC — Brasão
+- 4213302 — Ponte Alta/SC — Bandeira
+- 4213351 — Ponte Alta do Norte/SC — Brasão
+- 4213351 — Ponte Alta do Norte/SC — Bandeira
+- 4213401 — Ponte Serrada/SC — Brasão
+- 4213401 — Ponte Serrada/SC — Bandeira
+- 4213500 — Porto Belo/SC — Brasão
+- 4213500 — Porto Belo/SC — Bandeira
+- 4213609 — Porto União/SC — Brasão
+- 4213609 — Porto União/SC — Bandeira
+- 4213708 — Pouso Redondo/SC — Brasão
+- 4213708 — Pouso Redondo/SC — Bandeira
+- 4213807 — Praia Grande/SC — Brasão
+- 4213906 — Presidente Castello Branco/SC — Brasão
+- 4213906 — Presidente Castello Branco/SC — Bandeira
+- 4214003 — Presidente Getúlio/SC — Brasão
+- 4214003 — Presidente Getúlio/SC — Bandeira
+- 4214102 — Presidente Nereu/SC — Brasão
+- 4214102 — Presidente Nereu/SC — Bandeira
+- 4214151 — Princesa/SC — Brasão
+- 4214151 — Princesa/SC — Bandeira
+- 4214201 — Quilombo/SC — Brasão
+- 4214201 — Quilombo/SC — Bandeira
+- 4214300 — Rancho Queimado/SC — Brasão
+- 4214300 — Rancho Queimado/SC — Bandeira
+- 4214409 — Rio das Antas/SC — Brasão
+- 4214409 — Rio das Antas/SC — Bandeira
+- 4214508 — Rio do Campo/SC — Brasão
+- 4214508 — Rio do Campo/SC — Bandeira
+- 4214607 — Rio do Oeste/SC — Brasão
+- 4214607 — Rio do Oeste/SC — Bandeira
+- 4214706 — Rio dos Cedros/SC — Brasão
+- 4214706 — Rio dos Cedros/SC — Bandeira
+- 4214805 — Rio do Sul/SC — Brasão
+- 4214805 — Rio do Sul/SC — Bandeira
+- 4214904 — Rio Fortuna/SC — Brasão
+- 4214904 — Rio Fortuna/SC — Bandeira
+- 4215000 — Rio Negrinho/SC — Brasão
+- 4215000 — Rio Negrinho/SC — Bandeira
+- 4215075 — Riqueza/SC — Brasão
+- 4215075 — Riqueza/SC — Bandeira
+- 4215109 — Rodeio/SC — Brasão
+- 4215109 — Rodeio/SC — Bandeira
+- 4215208 — Romelândia/SC — Brasão
+- 4215208 — Romelândia/SC — Bandeira
+- 4215307 — Salete/SC — Brasão
+- 4215307 — Salete/SC — Bandeira
+- 4215356 — Saltinho/SC — Brasão
+- 4215356 — Saltinho/SC — Bandeira
+- 4215406 — Salto Veloso/SC — Brasão
+- 4215406 — Salto Veloso/SC — Bandeira
+- 4215455 — Sangão/SC — Brasão
+- 4215505 — Santa Cecília/SC — Brasão
+- 4215505 — Santa Cecília/SC — Bandeira
+- 4215554 — Santa Helena/SC — Brasão
+- 4215554 — Santa Helena/SC — Bandeira
+- 4215604 — Santa Rosa de Lima/SC — Brasão
+- 4215604 — Santa Rosa de Lima/SC — Bandeira
+- 4215653 — Santa Rosa do Sul/SC — Brasão
+- 4215653 — Santa Rosa do Sul/SC — Bandeira
+- 4215679 — Santa Terezinha/SC — Brasão
+- 4215679 — Santa Terezinha/SC — Bandeira
+- 4215687 — Santa Terezinha do Progresso/SC — Brasão
+- 4215687 — Santa Terezinha do Progresso/SC — Bandeira
+- 4215695 — Santiago do Sul/SC — Brasão
+- 4215695 — Santiago do Sul/SC — Bandeira
+- 4215703 — Santo Amaro da Imperatriz/SC — Brasão
+- 4215703 — Santo Amaro da Imperatriz/SC — Bandeira
+- 4215752 — São Bernardino/SC — Brasão
+- 4215752 — São Bernardino/SC — Bandeira
+- 4215802 — São Bento do Sul/SC — Brasão
+- 4215802 — São Bento do Sul/SC — Bandeira
+- 4215901 — São Bonifácio/SC — Brasão
+- 4215901 — São Bonifácio/SC — Bandeira
+- 4216008 — São Carlos/SC — Brasão
+- 4216057 — São Cristóvão do Sul/SC — Brasão
+- 4216057 — São Cristóvão do Sul/SC — Bandeira
+- 4216107 — São Domingos/SC — Brasão
+- 4216107 — São Domingos/SC — Bandeira
+- 4216206 — São Francisco do Sul/SC — Brasão
+- 4216206 — São Francisco do Sul/SC — Bandeira
+- 4216255 — São João do Oeste/SC — Brasão
+- 4216255 — São João do Oeste/SC — Bandeira
+- 4216305 — São João Batista/SC — Brasão
+- 4216305 — São João Batista/SC — Bandeira
+- 4216354 — São João do Itaperiú/SC — Brasão
+- 4216354 — São João do Itaperiú/SC — Bandeira
+- 4216404 — São João do Sul/SC — Brasão
+- 4216404 — São João do Sul/SC — Bandeira
+- 4216503 — São Joaquim/SC — Brasão
+- 4216503 — São Joaquim/SC — Bandeira
+- 4216602 — São José/SC — Brasão
+- 4216602 — São José/SC — Bandeira
+- 4216701 — São José do Cedro/SC — Brasão
+- 4216701 — São José do Cedro/SC — Bandeira
+- 4216800 — São José do Cerrito/SC — Brasão
+- 4216800 — São José do Cerrito/SC — Bandeira
+- 4216909 — São Lourenço do Oeste/SC — Brasão
+- 4216909 — São Lourenço do Oeste/SC — Bandeira
+- 4217006 — São Ludgero/SC — Brasão
+- 4217006 — São Ludgero/SC — Bandeira
+- 4217105 — São Martinho/SC — Brasão
+- 4217105 — São Martinho/SC — Bandeira
+- 4217154 — São Miguel da Boa Vista/SC — Brasão
+- 4217154 — São Miguel da Boa Vista/SC — Bandeira
+- 4217204 — São Miguel do Oeste/SC — Brasão
+- 4217204 — São Miguel do Oeste/SC — Bandeira
+- 4217253 — São Pedro de Alcântara/SC — Brasão
+- 4217253 — São Pedro de Alcântara/SC — Bandeira
+- 4217303 — Saudades/SC — Brasão
+- 4217303 — Saudades/SC — Bandeira
+- 4217402 — Schroeder/SC — Brasão
+- 4217402 — Schroeder/SC — Bandeira
+- 4217501 — Seara/SC — Brasão
+- 4217501 — Seara/SC — Bandeira
+- 4217550 — Serra Alta/SC — Brasão
+- 4217550 — Serra Alta/SC — Bandeira
+- 4217600 — Siderópolis/SC — Brasão
+- 4217600 — Siderópolis/SC — Bandeira
+- 4217709 — Sombrio/SC — Brasão
+- 4217709 — Sombrio/SC — Bandeira
+- 4217758 — Sul Brasil/SC — Brasão
+- 4217758 — Sul Brasil/SC — Bandeira
+- 4217808 — Taió/SC — Brasão
+- 4217808 — Taió/SC — Bandeira
+- 4217907 — Tangará/SC — Brasão
+- 4217907 — Tangará/SC — Bandeira
+- 4217956 — Tigrinhos/SC — Brasão
+- 4217956 — Tigrinhos/SC — Bandeira
+- 4218004 — Tijucas/SC — Brasão
+- 4218004 — Tijucas/SC — Bandeira
+- 4218103 — Timbé do Sul/SC — Brasão
+- 4218103 — Timbé do Sul/SC — Bandeira
+- 4218202 — Timbó/SC — Brasão
+- 4218202 — Timbó/SC — Bandeira
+- 4218251 — Timbó Grande/SC — Brasão
+- 4218251 — Timbó Grande/SC — Bandeira
+- 4218301 — Três Barras/SC — Brasão
+- 4218301 — Três Barras/SC — Bandeira
+- 4218350 — Treviso/SC — Brasão
+- 4218350 — Treviso/SC — Bandeira
+- 4218400 — Treze de Maio/SC — Brasão
+- 4218400 — Treze de Maio/SC — Bandeira
+- 4218509 — Treze Tílias/SC — Brasão
+- 4218509 — Treze Tílias/SC — Bandeira
+- 4218608 — Trombudo Central/SC — Brasão
+- 4218608 — Trombudo Central/SC — Bandeira
+- 4218707 — Tubarão/SC — Brasão
+- 4218707 — Tubarão/SC — Bandeira
+- 4218756 — Tunápolis/SC — Brasão
+- 4218756 — Tunápolis/SC — Bandeira
+- 4218806 — Turvo/SC — Brasão
+- 4218806 — Turvo/SC — Bandeira
+- 4218855 — União do Oeste/SC — Brasão
+- 4218905 — Urubici/SC — Brasão
+- 4218905 — Urubici/SC — Bandeira
+- 4218954 — Urupema/SC — Brasão
+- 4218954 — Urupema/SC — Bandeira
+- 4219002 — Urussanga/SC — Brasão
+- 4219002 — Urussanga/SC — Bandeira
+- 4219101 — Vargeão/SC — Brasão
+- 4219101 — Vargeão/SC — Bandeira
+- 4219150 — Vargem/SC — Brasão
+- 4219150 — Vargem/SC — Bandeira
+- 4219176 — Vargem Bonita/SC — Brasão
+- 4219176 — Vargem Bonita/SC — Bandeira
+- 4219200 — Vidal Ramos/SC — Brasão
+- 4219200 — Vidal Ramos/SC — Bandeira
+- 4219309 — Videira/SC — Brasão
+- 4219309 — Videira/SC — Bandeira
+- 4219358 — Vitor Meireles/SC — Brasão
+- 4219358 — Vitor Meireles/SC — Bandeira
+- 4219408 — Witmarsum/SC — Brasão
+- 4219408 — Witmarsum/SC — Bandeira
+- 4219507 — Xanxerê/SC — Brasão
+- 4219507 — Xanxerê/SC — Bandeira
+- 4219606 — Xavantina/SC — Brasão
+- 4219606 — Xavantina/SC — Bandeira
+- 4219705 — Xaxim/SC — Brasão
+- 4219705 — Xaxim/SC — Bandeira
+- 4219853 — Zortéa/SC — Brasão
+- 4219853 — Zortéa/SC — Bandeira
+- 4220000 — Balneário Rincão/SC — Brasão
+- 4220000 — Balneário Rincão/SC — Bandeira
+- 4300034 — Aceguá/RS — Brasão
+- 4300034 — Aceguá/RS — Bandeira
+- 4300059 — Água Santa/RS — Brasão
+- 4300059 — Água Santa/RS — Bandeira
+- 4300109 — Agudo/RS — Brasão
+- 4300109 — Agudo/RS — Bandeira
+- 4300208 — Ajuricaba/RS — Brasão
+- 4300208 — Ajuricaba/RS — Bandeira
+- 4300307 — Alecrim/RS — Brasão
+- 4300307 — Alecrim/RS — Bandeira
+- 4300406 — Alegrete/RS — Brasão
+- 4300406 — Alegrete/RS — Bandeira
+- 4300455 — Alegria/RS — Brasão
+- 4300455 — Alegria/RS — Bandeira
+- 4300471 — Almirante Tamandaré do Sul/RS — Brasão
+- 4300471 — Almirante Tamandaré do Sul/RS — Bandeira
+- 4300505 — Alpestre/RS — Brasão
+- 4300505 — Alpestre/RS — Bandeira
+- 4300554 — Alto Alegre/RS — Brasão
+- 4300554 — Alto Alegre/RS — Bandeira
+- 4300570 — Alto Feliz/RS — Brasão
+- 4300570 — Alto Feliz/RS — Bandeira
+- 4300604 — Alvorada/RS — Bandeira
+- 4300638 — Amaral Ferrador/RS — Brasão
+- 4300638 — Amaral Ferrador/RS — Bandeira
+- 4300646 — Ametista do Sul/RS — Brasão
+- 4300646 — Ametista do Sul/RS — Bandeira
+- 4300661 — André da Rocha/RS — Brasão
+- 4300661 — André da Rocha/RS — Bandeira
+- 4300703 — Anta Gorda/RS — Brasão
+- 4300703 — Anta Gorda/RS — Bandeira
+- 4300802 — Antônio Prado/RS — Brasão
+- 4300802 — Antônio Prado/RS — Bandeira
+- 4300851 — Arambaré/RS — Brasão
+- 4300851 — Arambaré/RS — Bandeira
+- 4300877 — Araricá/RS — Brasão
+- 4300877 — Araricá/RS — Bandeira
+- 4300901 — Aratiba/RS — Brasão
+- 4300901 — Aratiba/RS — Bandeira
+- 4301008 — Arroio do Meio/RS — Brasão
+- 4301008 — Arroio do Meio/RS — Bandeira
+- 4301057 — Arroio do Sal/RS — Brasão
+- 4301057 — Arroio do Sal/RS — Bandeira
+- 4301073 — Arroio do Padre/RS — Brasão
+- 4301073 — Arroio do Padre/RS — Bandeira
+- 4301107 — Arroio dos Ratos/RS — Brasão
+- 4301107 — Arroio dos Ratos/RS — Bandeira
+- 4301206 — Arroio do Tigre/RS — Brasão
+- 4301206 — Arroio do Tigre/RS — Bandeira
+- 4301305 — Arroio Grande/RS — Brasão
+- 4301305 — Arroio Grande/RS — Bandeira
+- 4301404 — Arvorezinha/RS — Brasão
+- 4301404 — Arvorezinha/RS — Bandeira
+- 4301503 — Augusto Pestana/RS — Brasão
+- 4301503 — Augusto Pestana/RS — Bandeira
+- 4301552 — Áurea/RS — Brasão
+- 4301552 — Áurea/RS — Bandeira
+- 4301602 — Bagé/RS — Brasão
+- 4301602 — Bagé/RS — Bandeira
+- 4301636 — Balneário Pinhal/RS — Brasão
+- 4301636 — Balneário Pinhal/RS — Bandeira
+- 4301651 — Barão/RS — Brasão
+- 4301651 — Barão/RS — Bandeira
+- 4301701 — Barão de Cotegipe/RS — Brasão
+- 4301701 — Barão de Cotegipe/RS — Bandeira
+- 4301750 — Barão do Triunfo/RS — Brasão
+- 4301750 — Barão do Triunfo/RS — Bandeira
+- 4301800 — Barracão/RS — Brasão
+- 4301800 — Barracão/RS — Bandeira
+- 4301859 — Barra do Guarita/RS — Brasão
+- 4301859 — Barra do Guarita/RS — Bandeira
+- 4301875 — Barra do Quaraí/RS — Brasão
+- 4301875 — Barra do Quaraí/RS — Bandeira
+- 4301909 — Barra do Ribeiro/RS — Brasão
+- 4301909 — Barra do Ribeiro/RS — Bandeira
+- 4301925 — Barra do Rio Azul/RS — Brasão
+- 4301925 — Barra do Rio Azul/RS — Bandeira
+- 4301958 — Barra Funda/RS — Brasão
+- 4301958 — Barra Funda/RS — Bandeira
+- 4302006 — Barros Cassal/RS — Brasão
+- 4302006 — Barros Cassal/RS — Bandeira
+- 4302055 — Benjamin Constant do Sul/RS — Brasão
+- 4302055 — Benjamin Constant do Sul/RS — Bandeira
+- 4302154 — Boa Vista das Missões/RS — Brasão
+- 4302154 — Boa Vista das Missões/RS — Bandeira
+- 4302204 — Boa Vista do Buricá/RS — Brasão
+- 4302204 — Boa Vista do Buricá/RS — Bandeira
+- 4302220 — Boa Vista do Cadeado/RS — Brasão
+- 4302220 — Boa Vista do Cadeado/RS — Bandeira
+- 4302238 — Boa Vista do Incra/RS — Brasão
+- 4302238 — Boa Vista do Incra/RS — Bandeira
+- 4302253 — Boa Vista do Sul/RS — Brasão
+- 4302253 — Boa Vista do Sul/RS — Bandeira
+- 4302303 — Bom Jesus/RS — Brasão
+- 4302303 — Bom Jesus/RS — Bandeira
+- 4302352 — Bom Princípio/RS — Brasão
+- 4302352 — Bom Princípio/RS — Bandeira
+- 4302378 — Bom Progresso/RS — Brasão
+- 4302378 — Bom Progresso/RS — Bandeira
+- 4302402 — Bom Retiro do Sul/RS — Brasão
+- 4302402 — Bom Retiro do Sul/RS — Bandeira
+- 4302451 — Boqueirão do Leão/RS — Brasão
+- 4302451 — Boqueirão do Leão/RS — Bandeira
+- 4302501 — Bossoroca/RS — Brasão
+- 4302501 — Bossoroca/RS — Bandeira
+- 4302584 — Bozano/RS — Brasão
+- 4302584 — Bozano/RS — Bandeira
+- 4302600 — Braga/RS — Brasão
+- 4302600 — Braga/RS — Bandeira
+- 4302659 — Brochier/RS — Brasão
+- 4302659 — Brochier/RS — Bandeira
+- 4302709 — Butiá/RS — Brasão
+- 4302709 — Butiá/RS — Bandeira
+- 4302808 — Caçapava do Sul/RS — Brasão
+- 4302808 — Caçapava do Sul/RS — Bandeira
+- 4302907 — Cacequi/RS — Brasão
+- 4302907 — Cacequi/RS — Bandeira
+- 4303004 — Cachoeira do Sul/RS — Brasão
+- 4303004 — Cachoeira do Sul/RS — Bandeira
+- 4303103 — Cachoeirinha/RS — Brasão
+- 4303103 — Cachoeirinha/RS — Bandeira
+- 4303202 — Cacique Doble/RS — Brasão
+- 4303202 — Cacique Doble/RS — Bandeira
+- 4303301 — Caibaté/RS — Brasão
+- 4303301 — Caibaté/RS — Bandeira
+- 4303400 — Caiçara/RS — Brasão
+- 4303400 — Caiçara/RS — Bandeira
+- 4303509 — Camaquã/RS — Brasão
+- 4303509 — Camaquã/RS — Bandeira
+- 4303558 — Camargo/RS — Brasão
+- 4303558 — Camargo/RS — Bandeira
+- 4303608 — Cambará do Sul/RS — Brasão
+- 4303608 — Cambará do Sul/RS — Bandeira
+- 4303673 — Campestre da Serra/RS — Brasão
+- 4303673 — Campestre da Serra/RS — Bandeira
+- 4303707 — Campina das Missões/RS — Brasão
+- 4303707 — Campina das Missões/RS — Bandeira
+- 4303806 — Campinas do Sul/RS — Brasão
+- 4303806 — Campinas do Sul/RS — Bandeira
+- 4303905 — Campo Bom/RS — Brasão
+- 4303905 — Campo Bom/RS — Bandeira
+- 4304002 — Campo Novo/RS — Brasão
+- 4304002 — Campo Novo/RS — Bandeira
+- 4304101 — Campos Borges/RS — Brasão
+- 4304101 — Campos Borges/RS — Bandeira
+- 4304200 — Candelária/RS — Brasão
+- 4304200 — Candelária/RS — Bandeira
+- 4304309 — Cândido Godói/RS — Brasão
+- 4304309 — Cândido Godói/RS — Bandeira
+- 4304358 — Candiota/RS — Brasão
+- 4304358 — Candiota/RS — Bandeira
+- 4304408 — Canela/RS — Brasão
+- 4304408 — Canela/RS — Bandeira
+- 4304507 — Canguçu/RS — Brasão
+- 4304507 — Canguçu/RS — Bandeira
+- 4304606 — Canoas/RS — Brasão
+- 4304606 — Canoas/RS — Bandeira
+- 4304614 — Canudos do Vale/RS — Brasão
+- 4304614 — Canudos do Vale/RS — Bandeira
+- 4304622 — Capão Bonito do Sul/RS — Brasão
+- 4304622 — Capão Bonito do Sul/RS — Bandeira
+- 4304630 — Capão da Canoa/RS — Brasão
+- 4304630 — Capão da Canoa/RS — Bandeira
+- 4304655 — Capão do Cipó/RS — Brasão
+- 4304655 — Capão do Cipó/RS — Bandeira
+- 4304663 — Capão do Leão/RS — Brasão
+- 4304663 — Capão do Leão/RS — Bandeira
+- 4304671 — Capivari do Sul/RS — Brasão
+- 4304671 — Capivari do Sul/RS — Bandeira
+- 4304689 — Capela de Santana/RS — Brasão
+- 4304689 — Capela de Santana/RS — Bandeira
+- 4304697 — Capitão/RS — Brasão
+- 4304697 — Capitão/RS — Bandeira
+- 4304705 — Carazinho/RS — Brasão
+- 4304705 — Carazinho/RS — Bandeira
+- 4304713 — Caraá/RS — Brasão
+- 4304713 — Caraá/RS — Bandeira
+- 4304804 — Carlos Barbosa/RS — Brasão
+- 4304804 — Carlos Barbosa/RS — Bandeira
+- 4304853 — Carlos Gomes/RS — Brasão
+- 4304853 — Carlos Gomes/RS — Bandeira
+- 4304903 — Casca/RS — Brasão
+- 4304903 — Casca/RS — Bandeira
+- 4304952 — Caseiros/RS — Brasão
+- 4304952 — Caseiros/RS — Bandeira
+- 4305009 — Catuípe/RS — Brasão
+- 4305009 — Catuípe/RS — Bandeira
+- 4305108 — Caxias do Sul/RS — Brasão
+- 4305108 — Caxias do Sul/RS — Bandeira
+- 4305116 — Centenário/RS — Brasão
+- 4305116 — Centenário/RS — Bandeira
+- 4305124 — Cerrito/RS — Brasão
+- 4305124 — Cerrito/RS — Bandeira
+- 4305132 — Cerro Branco/RS — Brasão
+- 4305132 — Cerro Branco/RS — Bandeira
+- 4305157 — Cerro Grande/RS — Brasão
+- 4305157 — Cerro Grande/RS — Bandeira
+- 4305173 — Cerro Grande do Sul/RS — Brasão
+- 4305173 — Cerro Grande do Sul/RS — Bandeira
+- 4305207 — Cerro Largo/RS — Brasão
+- 4305207 — Cerro Largo/RS — Bandeira
+- 4305306 — Chapada/RS — Brasão
+- 4305306 — Chapada/RS — Bandeira
+- 4305355 — Charqueadas/RS — Brasão
+- 4305355 — Charqueadas/RS — Bandeira
+- 4305371 — Charrua/RS — Brasão
+- 4305371 — Charrua/RS — Bandeira
+- 4305405 — Chiapetta/RS — Brasão
+- 4305405 — Chiapetta/RS — Bandeira
+- 4305439 — Chuí/RS — Brasão
+- 4305439 — Chuí/RS — Bandeira
+- 4305447 — Chuvisca/RS — Brasão
+- 4305447 — Chuvisca/RS — Bandeira
+- 4305454 — Cidreira/RS — Brasão
+- 4305454 — Cidreira/RS — Bandeira
+- 4305504 — Ciríaco/RS — Brasão
+- 4305504 — Ciríaco/RS — Bandeira
+- 4305587 — Colinas/RS — Brasão
+- 4305587 — Colinas/RS — Bandeira
+- 4305603 — Colorado/RS — Brasão
+- 4305603 — Colorado/RS — Bandeira
+- 4305702 — Condor/RS — Brasão
+- 4305702 — Condor/RS — Bandeira
+- 4305801 — Constantina/RS — Brasão
+- 4305801 — Constantina/RS — Bandeira
+- 4305835 — Coqueiro Baixo/RS — Brasão
+- 4305835 — Coqueiro Baixo/RS — Bandeira
+- 4305850 — Coqueiros do Sul/RS — Brasão
+- 4305850 — Coqueiros do Sul/RS — Bandeira
+- 4305871 — Coronel Barros/RS — Brasão
+- 4305871 — Coronel Barros/RS — Bandeira
+- 4305900 — Coronel Bicaco/RS — Brasão
+- 4305900 — Coronel Bicaco/RS — Bandeira
+- 4305934 — Coronel Pilar/RS — Brasão
+- 4305934 — Coronel Pilar/RS — Bandeira
+- 4305959 — Cotiporã/RS — Brasão
+- 4305959 — Cotiporã/RS — Bandeira
+- 4305975 — Coxilha/RS — Brasão
+- 4305975 — Coxilha/RS — Bandeira
+- 4306007 — Crissiumal/RS — Brasão
+- 4306007 — Crissiumal/RS — Bandeira
+- 4306056 — Cristal/RS — Brasão
+- 4306056 — Cristal/RS — Bandeira
+- 4306072 — Cristal do Sul/RS — Brasão
+- 4306072 — Cristal do Sul/RS — Bandeira
+- 4306106 — Cruz Alta/RS — Brasão
+- 4306106 — Cruz Alta/RS — Bandeira
+- 4306130 — Cruzaltense/RS — Brasão
+- 4306130 — Cruzaltense/RS — Bandeira
+- 4306205 — Cruzeiro do Sul/RS — Brasão
+- 4306205 — Cruzeiro do Sul/RS — Bandeira
+- 4306304 — David Canabarro/RS — Brasão
+- 4306304 — David Canabarro/RS — Bandeira
+- 4306320 — Derrubadas/RS — Brasão
+- 4306353 — Dezesseis de Novembro/RS — Brasão
+- 4306353 — Dezesseis de Novembro/RS — Bandeira
+- 4306379 — Dilermando de Aguiar/RS — Brasão
+- 4306379 — Dilermando de Aguiar/RS — Bandeira
+- 4306403 — Dois Irmãos/RS — Brasão
+- 4306403 — Dois Irmãos/RS — Bandeira
+- 4306429 — Dois Irmãos das Missões/RS — Brasão
+- 4306429 — Dois Irmãos das Missões/RS — Bandeira
+- 4306452 — Dois Lajeados/RS — Brasão
+- 4306452 — Dois Lajeados/RS — Bandeira
+- 4306502 — Dom Feliciano/RS — Brasão
+- 4306502 — Dom Feliciano/RS — Bandeira
+- 4306551 — Dom Pedro de Alcântara/RS — Brasão
+- 4306551 — Dom Pedro de Alcântara/RS — Bandeira
+- 4306601 — Dom Pedrito/RS — Brasão
+- 4306700 — Dona Francisca/RS — Brasão
+- 4306700 — Dona Francisca/RS — Bandeira
+- 4306734 — Doutor Maurício Cardoso/RS — Brasão
+- 4306734 — Doutor Maurício Cardoso/RS — Bandeira
+- 4306759 — Doutor Ricardo/RS — Brasão
+- 4306759 — Doutor Ricardo/RS — Bandeira
+- 4306767 — Eldorado do Sul/RS — Brasão
+- 4306767 — Eldorado do Sul/RS — Bandeira
+- 4306809 — Encantado/RS — Brasão
+- 4306809 — Encantado/RS — Bandeira
+- 4306908 — Encruzilhada do Sul/RS — Brasão
+- 4306908 — Encruzilhada do Sul/RS — Bandeira
+- 4306924 — Engenho Velho/RS — Brasão
+- 4306924 — Engenho Velho/RS — Bandeira
+- 4306932 — Entre-Ijuís/RS — Brasão
+- 4306932 — Entre-Ijuís/RS — Bandeira
+- 4306957 — Entre Rios do Sul/RS — Brasão
+- 4306957 — Entre Rios do Sul/RS — Bandeira
+- 4306973 — Erebango/RS — Brasão
+- 4306973 — Erebango/RS — Bandeira
+- 4307005 — Erechim/RS — Brasão
+- 4307005 — Erechim/RS — Bandeira
+- 4307054 — Ernestina/RS — Brasão
+- 4307054 — Ernestina/RS — Bandeira
+- 4307104 — Herval/RS — Brasão
+- 4307104 — Herval/RS — Bandeira
+- 4307203 — Erval Grande/RS — Brasão
+- 4307203 — Erval Grande/RS — Bandeira
+- 4307302 — Erval Seco/RS — Brasão
+- 4307302 — Erval Seco/RS — Bandeira
+- 4307401 — Esmeralda/RS — Brasão
+- 4307401 — Esmeralda/RS — Bandeira
+- 4307450 — Esperança do Sul/RS — Brasão
+- 4307450 — Esperança do Sul/RS — Bandeira
+- 4307500 — Espumoso/RS — Brasão
+- 4307500 — Espumoso/RS — Bandeira
+- 4307559 — Estação/RS — Brasão
+- 4307559 — Estação/RS — Bandeira
+- 4307609 — Estância Velha/RS — Brasão
+- 4307609 — Estância Velha/RS — Bandeira
+- 4307708 — Esteio/RS — Brasão
+- 4307708 — Esteio/RS — Bandeira
+- 4307807 — Estrela/RS — Brasão
+- 4307807 — Estrela/RS — Bandeira
+- 4307815 — Estrela Velha/RS — Brasão
+- 4307815 — Estrela Velha/RS — Bandeira
+- 4307831 — Eugênio de Castro/RS — Brasão
+- 4307831 — Eugênio de Castro/RS — Bandeira
+- 4307864 — Fagundes Varela/RS — Brasão
+- 4307864 — Fagundes Varela/RS — Bandeira
+- 4307906 — Farroupilha/RS — Brasão
+- 4307906 — Farroupilha/RS — Bandeira
+- 4308003 — Faxinal do Soturno/RS — Brasão
+- 4308003 — Faxinal do Soturno/RS — Bandeira
+- 4308052 — Faxinalzinho/RS — Brasão
+- 4308052 — Faxinalzinho/RS — Bandeira
+- 4308078 — Fazenda Vilanova/RS — Brasão
+- 4308078 — Fazenda Vilanova/RS — Bandeira
+- 4308102 — Feliz/RS — Brasão
+- 4308102 — Feliz/RS — Bandeira
+- 4308201 — Flores da Cunha/RS — Brasão
+- 4308201 — Flores da Cunha/RS — Bandeira
+- 4308250 — Floriano Peixoto/RS — Brasão
+- 4308250 — Floriano Peixoto/RS — Bandeira
+- 4308300 — Fontoura Xavier/RS — Brasão
+- 4308300 — Fontoura Xavier/RS — Bandeira
+- 4308409 — Formigueiro/RS — Brasão
+- 4308409 — Formigueiro/RS — Bandeira
+- 4308433 — Forquetinha/RS — Brasão
+- 4308433 — Forquetinha/RS — Bandeira
+- 4308458 — Fortaleza dos Valos/RS — Brasão
+- 4308458 — Fortaleza dos Valos/RS — Bandeira
+- 4308607 — Garibaldi/RS — Brasão
+- 4308607 — Garibaldi/RS — Bandeira
+- 4308656 — Garruchos/RS — Brasão
+- 4308656 — Garruchos/RS — Bandeira
+- 4308706 — Gaurama/RS — Brasão
+- 4308706 — Gaurama/RS — Bandeira
+- 4308805 — General Câmara/RS — Brasão
+- 4308805 — General Câmara/RS — Bandeira
+- 4308854 — Gentil/RS — Brasão
+- 4308854 — Gentil/RS — Bandeira
+- 4308904 — Getúlio Vargas/RS — Brasão
+- 4308904 — Getúlio Vargas/RS — Bandeira
+- 4309001 — Giruá/RS — Brasão
+- 4309001 — Giruá/RS — Bandeira
+- 4309050 — Glorinha/RS — Brasão
+- 4309050 — Glorinha/RS — Bandeira
+- 4309100 — Gramado/RS — Brasão
+- 4309100 — Gramado/RS — Bandeira
+- 4309126 — Gramado dos Loureiros/RS — Brasão
+- 4309126 — Gramado dos Loureiros/RS — Bandeira
+- 4309159 — Gramado Xavier/RS — Brasão
+- 4309159 — Gramado Xavier/RS — Bandeira
+- 4309209 — Gravataí/RS — Brasão
+- 4309209 — Gravataí/RS — Bandeira
+- 4309258 — Guabiju/RS — Brasão
+- 4309258 — Guabiju/RS — Bandeira
+- 4309308 — Guaíba/RS — Brasão
+- 4309308 — Guaíba/RS — Bandeira
+- 4309407 — Guaporé/RS — Brasão
+- 4309407 — Guaporé/RS — Bandeira
+- 4309506 — Guarani das Missões/RS — Brasão
+- 4309506 — Guarani das Missões/RS — Bandeira
+- 4309555 — Harmonia/RS — Brasão
+- 4309555 — Harmonia/RS — Bandeira
+- 4309571 — Herveiras/RS — Brasão
+- 4309571 — Herveiras/RS — Bandeira
+- 4309605 — Horizontina/RS — Brasão
+- 4309605 — Horizontina/RS — Bandeira
+- 4309654 — Hulha Negra/RS — Brasão
+- 4309654 — Hulha Negra/RS — Bandeira
+- 4309704 — Humaitá/RS — Brasão
+- 4309704 — Humaitá/RS — Bandeira
+- 4309753 — Ibarama/RS — Brasão
+- 4309753 — Ibarama/RS — Bandeira
+- 4309803 — Ibiaçá/RS — Brasão
+- 4309803 — Ibiaçá/RS — Bandeira
+- 4309902 — Ibiraiaras/RS — Brasão
+- 4309902 — Ibiraiaras/RS — Bandeira
+- 4309951 — Ibirapuitã/RS — Brasão
+- 4309951 — Ibirapuitã/RS — Bandeira
+- 4310009 — Ibirubá/RS — Brasão
+- 4310009 — Ibirubá/RS — Bandeira
+- 4310108 — Igrejinha/RS — Brasão
+- 4310207 — Ijuí/RS — Brasão
+- 4310207 — Ijuí/RS — Bandeira
+- 4310306 — Ilópolis/RS — Brasão
+- 4310306 — Ilópolis/RS — Bandeira
+- 4310330 — Imbé/RS — Brasão
+- 4310330 — Imbé/RS — Bandeira
+- 4310363 — Imigrante/RS — Brasão
+- 4310363 — Imigrante/RS — Bandeira
+- 4310405 — Independência/RS — Brasão
+- 4310405 — Independência/RS — Bandeira
+- 4310413 — Inhacorá/RS — Brasão
+- 4310413 — Inhacorá/RS — Bandeira
+- 4310439 — Ipê/RS — Brasão
+- 4310439 — Ipê/RS — Bandeira
+- 4310462 — Ipiranga do Sul/RS — Brasão
+- 4310462 — Ipiranga do Sul/RS — Bandeira
+- 4310504 — Iraí/RS — Brasão
+- 4310504 — Iraí/RS — Bandeira
+- 4310538 — Itaara/RS — Brasão
+- 4310538 — Itaara/RS — Bandeira
+- 4310553 — Itacurubi/RS — Brasão
+- 4310553 — Itacurubi/RS — Bandeira
+- 4310579 — Itapuca/RS — Brasão
+- 4310579 — Itapuca/RS — Bandeira
+- 4310603 — Itaqui/RS — Brasão
+- 4310603 — Itaqui/RS — Bandeira
+- 4310652 — Itati/RS — Brasão
+- 4310652 — Itati/RS — Bandeira
+- 4310702 — Itatiba do Sul/RS — Brasão
+- 4310702 — Itatiba do Sul/RS — Bandeira
+- 4310751 — Ivorá/RS — Brasão
+- 4310751 — Ivorá/RS — Bandeira
+- 4310801 — Ivoti/RS — Brasão
+- 4310801 — Ivoti/RS — Bandeira
+- 4310850 — Jaboticaba/RS — Brasão
+- 4310850 — Jaboticaba/RS — Bandeira
+- 4310876 — Jacuizinho/RS — Brasão
+- 4310876 — Jacuizinho/RS — Bandeira
+- 4310900 — Jacutinga/RS — Brasão
+- 4310900 — Jacutinga/RS — Bandeira
+- 4311007 — Jaguarão/RS — Brasão
+- 4311007 — Jaguarão/RS — Bandeira
+- 4311106 — Jaguari/RS — Brasão
+- 4311106 — Jaguari/RS — Bandeira
+- 4311122 — Jaquirana/RS — Brasão
+- 4311122 — Jaquirana/RS — Bandeira
+- 4311130 — Jari/RS — Brasão
+- 4311130 — Jari/RS — Bandeira
+- 4311155 — Jóia/RS — Brasão
+- 4311155 — Jóia/RS — Bandeira
+- 4311205 — Júlio de Castilhos/RS — Brasão
+- 4311205 — Júlio de Castilhos/RS — Bandeira
+- 4311239 — Lagoa Bonita do Sul/RS — Brasão
+- 4311239 — Lagoa Bonita do Sul/RS — Bandeira
+- 4311254 — Lagoão/RS — Brasão
+- 4311254 — Lagoão/RS — Bandeira
+- 4311270 — Lagoa dos Três Cantos/RS — Brasão
+- 4311270 — Lagoa dos Três Cantos/RS — Bandeira
+- 4311304 — Lagoa Vermelha/RS — Brasão
+- 4311304 — Lagoa Vermelha/RS — Bandeira
+- 4311403 — Lajeado/RS — Brasão
+- 4311403 — Lajeado/RS — Bandeira
+- 4311429 — Lajeado do Bugre/RS — Brasão
+- 4311429 — Lajeado do Bugre/RS — Bandeira
+- 4311502 — Lavras do Sul/RS — Brasão
+- 4311502 — Lavras do Sul/RS — Bandeira
+- 4311601 — Liberato Salzano/RS — Brasão
+- 4311601 — Liberato Salzano/RS — Bandeira
+- 4311627 — Lindolfo Collor/RS — Brasão
+- 4311627 — Lindolfo Collor/RS — Bandeira
+- 4311643 — Linha Nova/RS — Brasão
+- 4311643 — Linha Nova/RS — Bandeira
+- 4311700 — Machadinho/RS — Brasão
+- 4311700 — Machadinho/RS — Bandeira
+- 4311718 — Maçambará/RS — Brasão
+- 4311718 — Maçambará/RS — Bandeira
+- 4311734 — Mampituba/RS — Brasão
+- 4311734 — Mampituba/RS — Bandeira
+- 4311759 — Manoel Viana/RS — Brasão
+- 4311759 — Manoel Viana/RS — Bandeira
+- 4311775 — Maquiné/RS — Brasão
+- 4311775 — Maquiné/RS — Bandeira
+- 4311791 — Maratá/RS — Brasão
+- 4311791 — Maratá/RS — Bandeira
+- 4311809 — Marau/RS — Brasão
+- 4311809 — Marau/RS — Bandeira
+- 4311908 — Marcelino Ramos/RS — Brasão
+- 4311908 — Marcelino Ramos/RS — Bandeira
+- 4311981 — Mariana Pimentel/RS — Brasão
+- 4311981 — Mariana Pimentel/RS — Bandeira
+- 4312005 — Mariano Moro/RS — Brasão
+- 4312005 — Mariano Moro/RS — Bandeira
+- 4312054 — Marques de Souza/RS — Brasão
+- 4312054 — Marques de Souza/RS — Bandeira
+- 4312104 — Mata/RS — Brasão
+- 4312104 — Mata/RS — Bandeira
+- 4312138 — Mato Castelhano/RS — Brasão
+- 4312138 — Mato Castelhano/RS — Bandeira
+- 4312153 — Mato Leitão/RS — Brasão
+- 4312153 — Mato Leitão/RS — Bandeira
+- 4312179 — Mato Queimado/RS — Brasão
+- 4312179 — Mato Queimado/RS — Bandeira
+- 4312203 — Maximiliano de Almeida/RS — Brasão
+- 4312203 — Maximiliano de Almeida/RS — Bandeira
+- 4312252 — Minas do Leão/RS — Brasão
+- 4312252 — Minas do Leão/RS — Bandeira
+- 4312302 — Miraguaí/RS — Brasão
+- 4312302 — Miraguaí/RS — Bandeira
+- 4312351 — Montauri/RS — Brasão
+- 4312351 — Montauri/RS — Bandeira
+- 4312377 — Monte Alegre dos Campos/RS — Brasão
+- 4312377 — Monte Alegre dos Campos/RS — Bandeira
+- 4312385 — Monte Belo do Sul/RS — Brasão
+- 4312385 — Monte Belo do Sul/RS — Bandeira
+- 4312401 — Montenegro/RS — Brasão
+- 4312401 — Montenegro/RS — Bandeira
+- 4312427 — Mormaço/RS — Brasão
+- 4312427 — Mormaço/RS — Bandeira
+- 4312443 — Morrinhos do Sul/RS — Brasão
+- 4312443 — Morrinhos do Sul/RS — Bandeira
+- 4312450 — Morro Redondo/RS — Brasão
+- 4312450 — Morro Redondo/RS — Bandeira
+- 4312476 — Morro Reuter/RS — Brasão
+- 4312476 — Morro Reuter/RS — Bandeira
+- 4312500 — Mostardas/RS — Brasão
+- 4312500 — Mostardas/RS — Bandeira
+- 4312609 — Muçum/RS — Brasão
+- 4312609 — Muçum/RS — Bandeira
+- 4312617 — Muitos Capões/RS — Brasão
+- 4312617 — Muitos Capões/RS — Bandeira
+- 4312625 — Muliterno/RS — Brasão
+- 4312625 — Muliterno/RS — Bandeira
+- 4312658 — Não-Me-Toque/RS — Brasão
+- 4312658 — Não-Me-Toque/RS — Bandeira
+- 4312674 — Nicolau Vergueiro/RS — Brasão
+- 4312674 — Nicolau Vergueiro/RS — Bandeira
+- 4312708 — Nonoai/RS — Brasão
+- 4312708 — Nonoai/RS — Bandeira
+- 4312757 — Nova Alvorada/RS — Brasão
+- 4312757 — Nova Alvorada/RS — Bandeira
+- 4312807 — Nova Araçá/RS — Brasão
+- 4312807 — Nova Araçá/RS — Bandeira
+- 4312906 — Nova Bassano/RS — Brasão
+- 4312906 — Nova Bassano/RS — Bandeira
+- 4312955 — Nova Boa Vista/RS — Brasão
+- 4312955 — Nova Boa Vista/RS — Bandeira
+- 4313003 — Nova Bréscia/RS — Brasão
+- 4313003 — Nova Bréscia/RS — Bandeira
+- 4313011 — Nova Candelária/RS — Bandeira
+- 4313037 — Nova Esperança do Sul/RS — Brasão
+- 4313037 — Nova Esperança do Sul/RS — Bandeira
+- 4313060 — Nova Hartz/RS — Brasão
+- 4313060 — Nova Hartz/RS — Bandeira
+- 4313086 — Nova Pádua/RS — Brasão
+- 4313086 — Nova Pádua/RS — Bandeira
+- 4313102 — Nova Palma/RS — Brasão
+- 4313102 — Nova Palma/RS — Bandeira
+- 4313201 — Nova Petrópolis/RS — Brasão
+- 4313201 — Nova Petrópolis/RS — Bandeira
+- 4313300 — Nova Prata/RS — Brasão
+- 4313300 — Nova Prata/RS — Bandeira
+- 4313334 — Nova Ramada/RS — Brasão
+- 4313334 — Nova Ramada/RS — Bandeira
+- 4313359 — Nova Roma do Sul/RS — Brasão
+- 4313359 — Nova Roma do Sul/RS — Bandeira
+- 4313375 — Nova Santa Rita/RS — Brasão
+- 4313375 — Nova Santa Rita/RS — Bandeira
+- 4313391 — Novo Cabrais/RS — Brasão
+- 4313391 — Novo Cabrais/RS — Bandeira
+- 4313409 — Novo Hamburgo/RS — Brasão
+- 4313409 — Novo Hamburgo/RS — Bandeira
+- 4313425 — Novo Machado/RS — Brasão
+- 4313425 — Novo Machado/RS — Bandeira
+- 4313441 — Novo Tiradentes/RS — Brasão
+- 4313441 — Novo Tiradentes/RS — Bandeira
+- 4313466 — Novo Xingu/RS — Brasão
+- 4313466 — Novo Xingu/RS — Bandeira
+- 4313490 — Novo Barreiro/RS — Bandeira
+- 4313508 — Osório/RS — Brasão
+- 4313508 — Osório/RS — Bandeira
+- 4313607 — Paim Filho/RS — Brasão
+- 4313607 — Paim Filho/RS — Bandeira
+- 4313656 — Palmares do Sul/RS — Brasão
+- 4313656 — Palmares do Sul/RS — Bandeira
+- 4313706 — Palmeira das Missões/RS — Brasão
+- 4313706 — Palmeira das Missões/RS — Bandeira
+- 4313805 — Palmitinho/RS — Brasão
+- 4313805 — Palmitinho/RS — Bandeira
+- 4313904 — Panambi/RS — Brasão
+- 4313904 — Panambi/RS — Bandeira
+- 4313953 — Pantano Grande/RS — Brasão
+- 4313953 — Pantano Grande/RS — Bandeira
+- 4314001 — Paraí/RS — Brasão
+- 4314001 — Paraí/RS — Bandeira
+- 4314027 — Paraíso do Sul/RS — Brasão
+- 4314027 — Paraíso do Sul/RS — Bandeira
+- 4314035 — Pareci Novo/RS — Brasão
+- 4314035 — Pareci Novo/RS — Bandeira
+- 4314050 — Parobé/RS — Brasão
+- 4314050 — Parobé/RS — Bandeira
+- 4314068 — Passa Sete/RS — Brasão
+- 4314068 — Passa Sete/RS — Bandeira
+- 4314076 — Passo do Sobrado/RS — Brasão
+- 4314076 — Passo do Sobrado/RS — Bandeira
+- 4314100 — Passo Fundo/RS — Brasão
+- 4314100 — Passo Fundo/RS — Bandeira
+- 4314134 — Paulo Bento/RS — Brasão
+- 4314134 — Paulo Bento/RS — Bandeira
+- 4314159 — Paverama/RS — Brasão
+- 4314159 — Paverama/RS — Bandeira
+- 4314175 — Pedras Altas/RS — Brasão
+- 4314175 — Pedras Altas/RS — Bandeira
+- 4314209 — Pedro Osório/RS — Brasão
+- 4314209 — Pedro Osório/RS — Bandeira
+- 4314308 — Pejuçara/RS — Brasão
+- 4314308 — Pejuçara/RS — Bandeira
+- 4314407 — Pelotas/RS — Brasão
+- 4314407 — Pelotas/RS — Bandeira
+- 4314423 — Picada Café/RS — Brasão
+- 4314423 — Picada Café/RS — Bandeira
+- 4314456 — Pinhal/RS — Brasão
+- 4314456 — Pinhal/RS — Bandeira
+- 4314464 — Pinhal da Serra/RS — Brasão
+- 4314464 — Pinhal da Serra/RS — Bandeira
+- 4314472 — Pinhal Grande/RS — Brasão
+- 4314472 — Pinhal Grande/RS — Bandeira
+- 4314498 — Pinheirinho do Vale/RS — Brasão
+- 4314498 — Pinheirinho do Vale/RS — Bandeira
+- 4314506 — Pinheiro Machado/RS — Brasão
+- 4314506 — Pinheiro Machado/RS — Bandeira
+- 4314548 — Pinto Bandeira/RS — Brasão
+- 4314548 — Pinto Bandeira/RS — Bandeira
+- 4314555 — Pirapó/RS — Bandeira
+- 4314605 — Piratini/RS — Brasão
+- 4314605 — Piratini/RS — Bandeira
+- 4314704 — Planalto/RS — Brasão
+- 4314704 — Planalto/RS — Bandeira
+- 4314753 — Poço das Antas/RS — Brasão
+- 4314753 — Poço das Antas/RS — Bandeira
+- 4314779 — Pontão/RS — Brasão
+- 4314779 — Pontão/RS — Bandeira
+- 4314787 — Ponte Preta/RS — Bandeira
+- 4314803 — Portão/RS — Brasão
+- 4314803 — Portão/RS — Bandeira
+- 4314902 — Porto Alegre/RS — Brasão
+- 4314902 — Porto Alegre/RS — Bandeira
+- 4315008 — Porto Lucena/RS — Brasão
+- 4315008 — Porto Lucena/RS — Bandeira
+- 4315057 — Porto Mauá/RS — Brasão
+- 4315057 — Porto Mauá/RS — Bandeira
+- 4315073 — Porto Vera Cruz/RS — Brasão
+- 4315073 — Porto Vera Cruz/RS — Bandeira
+- 4315107 — Porto Xavier/RS — Brasão
+- 4315107 — Porto Xavier/RS — Bandeira
+- 4315131 — Pouso Novo/RS — Brasão
+- 4315131 — Pouso Novo/RS — Bandeira
+- 4315149 — Presidente Lucena/RS — Brasão
+- 4315149 — Presidente Lucena/RS — Bandeira
+- 4315156 — Progresso/RS — Brasão
+- 4315156 — Progresso/RS — Bandeira
+- 4315172 — Protásio Alves/RS — Brasão
+- 4315172 — Protásio Alves/RS — Bandeira
+- 4315206 — Putinga/RS — Brasão
+- 4315206 — Putinga/RS — Bandeira
+- 4315305 — Quaraí/RS — Brasão
+- 4315305 — Quaraí/RS — Bandeira
+- 4315313 — Quatro Irmãos/RS — Brasão
+- 4315313 — Quatro Irmãos/RS — Bandeira
+- 4315321 — Quevedos/RS — Brasão
+- 4315321 — Quevedos/RS — Bandeira
+- 4315354 — Quinze de Novembro/RS — Brasão
+- 4315354 — Quinze de Novembro/RS — Bandeira
+- 4315404 — Redentora/RS — Brasão
+- 4315404 — Redentora/RS — Bandeira
+- 4315453 — Relvado/RS — Brasão
+- 4315453 — Relvado/RS — Bandeira
+- 4315503 — Restinga Sêca/RS — Brasão
+- 4315503 — Restinga Sêca/RS — Bandeira
+- 4315552 — Rio dos Índios/RS — Brasão
+- 4315552 — Rio dos Índios/RS — Bandeira
+- 4315602 — Rio Grande/RS — Brasão
+- 4315602 — Rio Grande/RS — Bandeira
+- 4315701 — Rio Pardo/RS — Brasão
+- 4315701 — Rio Pardo/RS — Bandeira
+- 4315750 — Riozinho/RS — Brasão
+- 4315750 — Riozinho/RS — Bandeira
+- 4315800 — Roca Sales/RS — Brasão
+- 4315800 — Roca Sales/RS — Bandeira
+- 4315909 — Rodeio Bonito/RS — Brasão
+- 4315909 — Rodeio Bonito/RS — Bandeira
+- 4315958 — Rolador/RS — Brasão
+- 4315958 — Rolador/RS — Bandeira
+- 4316006 — Rolante/RS — Brasão
+- 4316006 — Rolante/RS — Bandeira
+- 4316105 — Ronda Alta/RS — Brasão
+- 4316105 — Ronda Alta/RS — Bandeira
+- 4316204 — Rondinha/RS — Brasão
+- 4316204 — Rondinha/RS — Bandeira
+- 4316303 — Roque Gonzales/RS — Brasão
+- 4316303 — Roque Gonzales/RS — Bandeira
+- 4316402 — Rosário do Sul/RS — Brasão
+- 4316402 — Rosário do Sul/RS — Bandeira
+- 4316428 — Sagrada Família/RS — Brasão
+- 4316428 — Sagrada Família/RS — Bandeira
+- 4316436 — Saldanha Marinho/RS — Brasão
+- 4316436 — Saldanha Marinho/RS — Bandeira
+- 4316451 — Salto do Jacuí/RS — Brasão
+- 4316451 — Salto do Jacuí/RS — Bandeira
+- 4316477 — Salvador das Missões/RS — Brasão
+- 4316477 — Salvador das Missões/RS — Bandeira
+- 4316501 — Salvador do Sul/RS — Brasão
+- 4316501 — Salvador do Sul/RS — Bandeira
+- 4316600 — Sananduva/RS — Brasão
+- 4316600 — Sananduva/RS — Bandeira
+- 4316709 — Santa Bárbara do Sul/RS — Brasão
+- 4316709 — Santa Bárbara do Sul/RS — Bandeira
+- 4316733 — Santa Cecília do Sul/RS — Brasão
+- 4316733 — Santa Cecília do Sul/RS — Bandeira
+- 4316758 — Santa Clara do Sul/RS — Brasão
+- 4316758 — Santa Clara do Sul/RS — Bandeira
+- 4316808 — Santa Cruz do Sul/RS — Brasão
+- 4316808 — Santa Cruz do Sul/RS — Bandeira
+- 4316907 — Santa Maria/RS — Brasão
+- 4316907 — Santa Maria/RS — Bandeira
+- 4316956 — Santa Maria do Herval/RS — Brasão
+- 4316956 — Santa Maria do Herval/RS — Bandeira
+- 4316972 — Santa Margarida do Sul/RS — Brasão
+- 4316972 — Santa Margarida do Sul/RS — Bandeira
+- 4317004 — Santana da Boa Vista/RS — Brasão
+- 4317004 — Santana da Boa Vista/RS — Bandeira
+- 4317103 — Sant'Ana do Livramento/RS — Brasão
+- 4317103 — Sant'Ana do Livramento/RS — Bandeira
+- 4317202 — Santa Rosa/RS — Brasão
+- 4317202 — Santa Rosa/RS — Bandeira
+- 4317251 — Santa Tereza/RS — Brasão
+- 4317251 — Santa Tereza/RS — Bandeira
+- 4317301 — Santa Vitória do Palmar/RS — Brasão
+- 4317301 — Santa Vitória do Palmar/RS — Bandeira
+- 4317400 — Santiago/RS — Brasão
+- 4317400 — Santiago/RS — Bandeira
+- 4317509 — Santo Ângelo/RS — Brasão
+- 4317509 — Santo Ângelo/RS — Bandeira
+- 4317558 — Santo Antônio do Palma/RS — Brasão
+- 4317558 — Santo Antônio do Palma/RS — Bandeira
+- 4317608 — Santo Antônio da Patrulha/RS — Brasão
+- 4317608 — Santo Antônio da Patrulha/RS — Bandeira
+- 4317707 — Santo Antônio das Missões/RS — Brasão
+- 4317707 — Santo Antônio das Missões/RS — Bandeira
+- 4317756 — Santo Antônio do Planalto/RS — Brasão
+- 4317756 — Santo Antônio do Planalto/RS — Bandeira
+- 4317806 — Santo Augusto/RS — Brasão
+- 4317806 — Santo Augusto/RS — Bandeira
+- 4317905 — Santo Cristo/RS — Brasão
+- 4317905 — Santo Cristo/RS — Bandeira
+- 4317954 — Santo Expedito do Sul/RS — Brasão
+- 4317954 — Santo Expedito do Sul/RS — Bandeira
+- 4318002 — São Borja/RS — Brasão
+- 4318002 — São Borja/RS — Bandeira
+- 4318051 — São Domingos do Sul/RS — Brasão
+- 4318051 — São Domingos do Sul/RS — Bandeira
+- 4318101 — São Francisco de Assis/RS — Brasão
+- 4318101 — São Francisco de Assis/RS — Bandeira
+- 4318200 — São Francisco de Paula/RS — Brasão
+- 4318200 — São Francisco de Paula/RS — Bandeira
+- 4318309 — São Gabriel/RS — Brasão
+- 4318309 — São Gabriel/RS — Bandeira
+- 4318408 — São Jerônimo/RS — Brasão
+- 4318408 — São Jerônimo/RS — Bandeira
+- 4318424 — São João da Urtiga/RS — Brasão
+- 4318424 — São João da Urtiga/RS — Bandeira
+- 4318432 — São João do Polêsine/RS — Brasão
+- 4318432 — São João do Polêsine/RS — Bandeira
+- 4318440 — São Jorge/RS — Brasão
+- 4318440 — São Jorge/RS — Bandeira
+- 4318457 — São José das Missões/RS — Brasão
+- 4318457 — São José das Missões/RS — Bandeira
+- 4318465 — São José do Herval/RS — Brasão
+- 4318465 — São José do Herval/RS — Bandeira
+- 4318481 — São José do Hortêncio/RS — Brasão
+- 4318481 — São José do Hortêncio/RS — Bandeira
+- 4318499 — São José do Inhacorá/RS — Brasão
+- 4318507 — São José do Norte/RS — Brasão
+- 4318507 — São José do Norte/RS — Bandeira
+- 4318606 — São José do Ouro/RS — Brasão
+- 4318606 — São José do Ouro/RS — Bandeira
+- 4318614 — São José do Sul/RS — Brasão
+- 4318614 — São José do Sul/RS — Bandeira
+- 4318622 — São José dos Ausentes/RS — Brasão
+- 4318622 — São José dos Ausentes/RS — Bandeira
+- 4318705 — São Leopoldo/RS — Brasão
+- 4318705 — São Leopoldo/RS — Bandeira
+- 4318804 — São Lourenço do Sul/RS — Brasão
+- 4318903 — São Luiz Gonzaga/RS — Brasão
+- 4318903 — São Luiz Gonzaga/RS — Bandeira
+- 4319000 — São Marcos/RS — Brasão
+- 4319000 — São Marcos/RS — Bandeira
+- 4319109 — São Martinho/RS — Brasão
+- 4319109 — São Martinho/RS — Bandeira
+- 4319125 — São Martinho da Serra/RS — Brasão
+- 4319125 — São Martinho da Serra/RS — Bandeira
+- 4319158 — São Miguel das Missões/RS — Brasão
+- 4319158 — São Miguel das Missões/RS — Bandeira
+- 4319208 — São Nicolau/RS — Brasão
+- 4319208 — São Nicolau/RS — Bandeira
+- 4319307 — São Paulo das Missões/RS — Bandeira
+- 4319356 — São Pedro da Serra/RS — Brasão
+- 4319356 — São Pedro da Serra/RS — Bandeira
+- 4319364 — São Pedro das Missões/RS — Brasão
+- 4319364 — São Pedro das Missões/RS — Bandeira
+- 4319372 — São Pedro do Butiá/RS — Brasão
+- 4319372 — São Pedro do Butiá/RS — Bandeira
+- 4319406 — São Pedro do Sul/RS — Brasão
+- 4319406 — São Pedro do Sul/RS — Bandeira
+- 4319505 — São Sebastião do Caí/RS — Brasão
+- 4319505 — São Sebastião do Caí/RS — Bandeira
+- 4319604 — São Sepé/RS — Brasão
+- 4319604 — São Sepé/RS — Bandeira
+- 4319703 — São Valentim/RS — Brasão
+- 4319703 — São Valentim/RS — Bandeira
+- 4319711 — São Valentim do Sul/RS — Brasão
+- 4319711 — São Valentim do Sul/RS — Bandeira
+- 4319737 — São Valério do Sul/RS — Brasão
+- 4319737 — São Valério do Sul/RS — Bandeira
+- 4319752 — São Vendelino/RS — Brasão
+- 4319752 — São Vendelino/RS — Bandeira
+- 4319802 — São Vicente do Sul/RS — Brasão
+- 4319802 — São Vicente do Sul/RS — Bandeira
+- 4319901 — Sapiranga/RS — Brasão
+- 4319901 — Sapiranga/RS — Bandeira
+- 4320008 — Sapucaia do Sul/RS — Brasão
+- 4320008 — Sapucaia do Sul/RS — Bandeira
+- 4320107 — Sarandi/RS — Brasão
+- 4320107 — Sarandi/RS — Bandeira
+- 4320206 — Seberi/RS — Brasão
+- 4320206 — Seberi/RS — Bandeira
+- 4320230 — Sede Nova/RS — Brasão
+- 4320230 — Sede Nova/RS — Bandeira
+- 4320263 — Segredo/RS — Brasão
+- 4320263 — Segredo/RS — Bandeira
+- 4320305 — Selbach/RS — Brasão
+- 4320305 — Selbach/RS — Bandeira
+- 4320321 — Senador Salgado Filho/RS — Brasão
+- 4320321 — Senador Salgado Filho/RS — Bandeira
+- 4320354 — Sentinela do Sul/RS — Bandeira
+- 4320404 — Serafina Corrêa/RS — Brasão
+- 4320404 — Serafina Corrêa/RS — Bandeira
+- 4320453 — Sério/RS — Brasão
+- 4320453 — Sério/RS — Bandeira
+- 4320503 — Sertão/RS — Brasão
+- 4320503 — Sertão/RS — Bandeira
+- 4320552 — Sertão Santana/RS — Brasão
+- 4320552 — Sertão Santana/RS — Bandeira
+- 4320578 — Sete de Setembro/RS — Brasão
+- 4320578 — Sete de Setembro/RS — Bandeira
+- 4320602 — Severiano de Almeida/RS — Brasão
+- 4320602 — Severiano de Almeida/RS — Bandeira
+- 4320651 — Silveira Martins/RS — Brasão
+- 4320651 — Silveira Martins/RS — Bandeira
+- 4320677 — Sinimbu/RS — Brasão
+- 4320677 — Sinimbu/RS — Bandeira
+- 4320701 — Sobradinho/RS — Brasão
+- 4320701 — Sobradinho/RS — Bandeira
+- 4320800 — Soledade/RS — Brasão
+- 4320800 — Soledade/RS — Bandeira
+- 4320859 — Tabaí/RS — Brasão
+- 4320859 — Tabaí/RS — Bandeira
+- 4320909 — Tapejara/RS — Brasão
+- 4320909 — Tapejara/RS — Bandeira
+- 4321006 — Tapera/RS — Brasão
+- 4321006 — Tapera/RS — Bandeira
+- 4321204 — Taquara/RS — Brasão
+- 4321204 — Taquara/RS — Bandeira
+- 4321303 — Taquari/RS — Brasão
+- 4321303 — Taquari/RS — Bandeira
+- 4321329 — Taquaruçu do Sul/RS — Brasão
+- 4321329 — Taquaruçu do Sul/RS — Bandeira
+- 4321352 — Tavares/RS — Brasão
+- 4321352 — Tavares/RS — Bandeira
+- 4321402 — Tenente Portela/RS — Brasão
+- 4321402 — Tenente Portela/RS — Bandeira
+- 4321436 — Terra de Areia/RS — Brasão
+- 4321436 — Terra de Areia/RS — Bandeira
+- 4321451 — Teutônia/RS — Brasão
+- 4321451 — Teutônia/RS — Bandeira
+- 4321469 — Tio Hugo/RS — Brasão
+- 4321469 — Tio Hugo/RS — Bandeira
+- 4321477 — Tiradentes do Sul/RS — Brasão
+- 4321477 — Tiradentes do Sul/RS — Bandeira
+- 4321493 — Toropi/RS — Brasão
+- 4321493 — Toropi/RS — Bandeira
+- 4321501 — Torres/RS — Brasão
+- 4321501 — Torres/RS — Bandeira
+- 4321600 — Tramandaí/RS — Brasão
+- 4321600 — Tramandaí/RS — Bandeira
+- 4321626 — Travesseiro/RS — Brasão
+- 4321626 — Travesseiro/RS — Bandeira
+- 4321634 — Três Arroios/RS — Bandeira
+- 4321667 — Três Cachoeiras/RS — Brasão
+- 4321667 — Três Cachoeiras/RS — Bandeira
+- 4321709 — Três Coroas/RS — Brasão
+- 4321709 — Três Coroas/RS — Bandeira
+- 4321808 — Três de Maio/RS — Brasão
+- 4321808 — Três de Maio/RS — Bandeira
+- 4321832 — Três Forquilhas/RS — Brasão
+- 4321832 — Três Forquilhas/RS — Bandeira
+- 4321857 — Três Palmeiras/RS — Brasão
+- 4321857 — Três Palmeiras/RS — Bandeira
+- 4321907 — Três Passos/RS — Brasão
+- 4321907 — Três Passos/RS — Bandeira
+- 4321956 — Trindade do Sul/RS — Brasão
+- 4321956 — Trindade do Sul/RS — Bandeira
+- 4322004 — Triunfo/RS — Brasão
+- 4322004 — Triunfo/RS — Bandeira
+- 4322103 — Tucunduva/RS — Brasão
+- 4322103 — Tucunduva/RS — Bandeira
+- 4322152 — Tunas/RS — Brasão
+- 4322152 — Tunas/RS — Bandeira
+- 4322186 — Tupanci do Sul/RS — Brasão
+- 4322186 — Tupanci do Sul/RS — Bandeira
+- 4322202 — Tupanciretã/RS — Brasão
+- 4322202 — Tupanciretã/RS — Bandeira
+- 4322251 — Tupandi/RS — Brasão
+- 4322251 — Tupandi/RS — Bandeira
+- 4322301 — Tuparendi/RS — Brasão
+- 4322301 — Tuparendi/RS — Bandeira
+- 4322327 — Turuçu/RS — Brasão
+- 4322327 — Turuçu/RS — Bandeira
+- 4322343 — Ubiretama/RS — Brasão
+- 4322343 — Ubiretama/RS — Bandeira
+- 4322350 — União da Serra/RS — Brasão
+- 4322350 — União da Serra/RS — Bandeira
+- 4322376 — Unistalda/RS — Brasão
+- 4322376 — Unistalda/RS — Bandeira
+- 4322400 — Uruguaiana/RS — Brasão
+- 4322400 — Uruguaiana/RS — Bandeira
+- 4322509 — Vacaria/RS — Brasão
+- 4322509 — Vacaria/RS — Bandeira
+- 4322525 — Vale Verde/RS — Bandeira
+- 4322533 — Vale do Sol/RS — Brasão
+- 4322533 — Vale do Sol/RS — Bandeira
+- 4322541 — Vale Real/RS — Brasão
+- 4322541 — Vale Real/RS — Bandeira
+- 4322558 — Vanini/RS — Brasão
+- 4322608 — Venâncio Aires/RS — Brasão
+- 4322608 — Venâncio Aires/RS — Bandeira
+- 4322707 — Vera Cruz/RS — Bandeira
+- 4322806 — Veranópolis/RS — Brasão
+- 4322806 — Veranópolis/RS — Bandeira
+- 4322855 — Vespasiano Corrêa/RS — Brasão
+- 4322855 — Vespasiano Corrêa/RS — Bandeira
+- 4322905 — Viadutos/RS — Brasão
+- 4322905 — Viadutos/RS — Bandeira
+- 4323002 — Viamão/RS — Brasão
+- 4323002 — Viamão/RS — Bandeira
+- 4323101 — Vicente Dutra/RS — Brasão
+- 4323200 — Victor Graeff/RS — Brasão
+- 4323200 — Victor Graeff/RS — Bandeira
+- 4323309 — Vila Flores/RS — Brasão
+- 4323309 — Vila Flores/RS — Bandeira
+- 4323358 — Vila Lângaro/RS — Brasão
+- 4323358 — Vila Lângaro/RS — Bandeira
+- 4323408 — Vila Maria/RS — Brasão
+- 4323408 — Vila Maria/RS — Bandeira
+- 4323457 — Vila Nova do Sul/RS — Brasão
+- 4323457 — Vila Nova do Sul/RS — Bandeira
+- 4323507 — Vista Alegre/RS — Bandeira
+- 4323606 — Vista Alegre do Prata/RS — Brasão
+- 4323606 — Vista Alegre do Prata/RS — Bandeira
+- 4323705 — Vista Gaúcha/RS — Brasão
+- 4323705 — Vista Gaúcha/RS — Bandeira
+- 4323754 — Vitória das Missões/RS — Brasão
+- 4323754 — Vitória das Missões/RS — Bandeira
+- 4323770 — Westfália/RS — Brasão
+- 4323770 — Westfália/RS — Bandeira
+- 4323804 — Xangri-lá/RS — Brasão
+- 4323804 — Xangri-lá/RS — Bandeira
+- 5000203 — Água Clara/MS — Brasão
+- 5000203 — Água Clara/MS — Bandeira
+- 5000252 — Alcinópolis/MS — Brasão
+- 5000252 — Alcinópolis/MS — Bandeira
+- 5000609 — Amambai/MS — Bandeira
+- 5000708 — Anastácio/MS — Bandeira
+- 5000807 — Anaurilândia/MS — Bandeira
+- 5000856 — Angélica/MS — Bandeira
+- 5000906 — Antônio João/MS — Bandeira
+- 5001003 — Aparecida do Taboado/MS — Brasão
+- 5001003 — Aparecida do Taboado/MS — Bandeira
+- 5001102 — Aquidauana/MS — Brasão
+- 5001102 — Aquidauana/MS — Bandeira
+- 5001243 — Aral Moreira/MS — Brasão
+- 5001243 — Aral Moreira/MS — Bandeira
+- 5001508 — Bandeirantes/MS — Brasão
+- 5001508 — Bandeirantes/MS — Bandeira
+- 5001904 — Bataguassu/MS — Brasão
+- 5001904 — Bataguassu/MS — Bandeira
+- 5002001 — Batayporã/MS — Brasão
+- 5002001 — Batayporã/MS — Bandeira
+- 5002100 — Bela Vista/MS — Bandeira
+- 5002159 — Bodoquena/MS — Brasão
+- 5002159 — Bodoquena/MS — Bandeira
+- 5002209 — Bonito/MS — Brasão
+- 5002209 — Bonito/MS — Bandeira
+- 5002308 — Brasilândia/MS — Bandeira
+- 5002407 — Caarapó/MS — Brasão
+- 5002407 — Caarapó/MS — Bandeira
+- 5002605 — Camapuã/MS — Brasão
+- 5002605 — Camapuã/MS — Bandeira
+- 5002704 — Campo Grande/MS — Brasão
+- 5002704 — Campo Grande/MS — Bandeira
+- 5002803 — Caracol/MS — Bandeira
+- 5002902 — Cassilândia/MS — Bandeira
+- 5002951 — Chapadão do Sul/MS — Brasão
+- 5002951 — Chapadão do Sul/MS — Bandeira
+- 5003108 — Corguinho/MS — Bandeira
+- 5003157 — Coronel Sapucaia/MS — Bandeira
+- 5003207 — Corumbá/MS — Brasão
+- 5003207 — Corumbá/MS — Bandeira
+- 5003256 — Costa Rica/MS — Brasão
+- 5003256 — Costa Rica/MS — Bandeira
+- 5003306 — Coxim/MS — Brasão
+- 5003306 — Coxim/MS — Bandeira
+- 5003454 — Deodápolis/MS — Brasão
+- 5003454 — Deodápolis/MS — Bandeira
+- 5003488 — Dois Irmãos do Buriti/MS — Brasão
+- 5003488 — Dois Irmãos do Buriti/MS — Bandeira
+- 5003504 — Douradina/MS — Bandeira
+- 5003702 — Dourados/MS — Bandeira
+- 5003751 — Eldorado/MS — Bandeira
+- 5003801 — Fátima do Sul/MS — Brasão
+- 5003801 — Fátima do Sul/MS — Bandeira
+- 5003900 — Figueirão/MS — Bandeira
+- 5004007 — Glória de Dourados/MS — Brasão
+- 5004007 — Glória de Dourados/MS — Bandeira
+- 5004106 — Guia Lopes da Laguna/MS — Brasão
+- 5004106 — Guia Lopes da Laguna/MS — Bandeira
+- 5004304 — Iguatemi/MS — Brasão
+- 5004304 — Iguatemi/MS — Bandeira
+- 5004403 — Inocência/MS — Brasão
+- 5004403 — Inocência/MS — Bandeira
+- 5004502 — Itaporã/MS — Brasão
+- 5004502 — Itaporã/MS — Bandeira
+- 5004601 — Itaquiraí/MS — Bandeira
+- 5004700 — Ivinhema/MS — Bandeira
+- 5004809 — Japorã/MS — Brasão
+- 5004809 — Japorã/MS — Bandeira
+- 5004908 — Jaraguari/MS — Bandeira
+- 5005004 — Jardim/MS — Brasão
+- 5005004 — Jardim/MS — Bandeira
+- 5005103 — Jateí/MS — Brasão
+- 5005103 — Jateí/MS — Bandeira
+- 5005152 — Juti/MS — Bandeira
+- 5005202 — Ladário/MS — Brasão
+- 5005202 — Ladário/MS — Bandeira
+- 5005251 — Laguna Carapã/MS — Bandeira
+- 5005400 — Maracaju/MS — Bandeira
+- 5005608 — Miranda/MS — Brasão
+- 5005608 — Miranda/MS — Bandeira
+- 5005681 — Mundo Novo/MS — Brasão
+- 5005681 — Mundo Novo/MS — Bandeira
+- 5005707 — Naviraí/MS — Brasão
+- 5005707 — Naviraí/MS — Bandeira
+- 5005806 — Nioaque/MS — Bandeira
+- 5006002 — Nova Alvorada do Sul/MS — Bandeira
+- 5006200 — Nova Andradina/MS — Brasão
+- 5006200 — Nova Andradina/MS — Bandeira
+- 5006259 — Novo Horizonte do Sul/MS — Brasão
+- 5006259 — Novo Horizonte do Sul/MS — Bandeira
+- 5006275 — Paraíso das Águas/MS — Bandeira
+- 5006309 — Paranaíba/MS — Brasão
+- 5006309 — Paranaíba/MS — Bandeira
+- 5006358 — Paranhos/MS — Bandeira
+- 5006408 — Pedro Gomes/MS — Brasão
+- 5006408 — Pedro Gomes/MS — Bandeira
+- 5006606 — Ponta Porã/MS — Brasão
+- 5006606 — Ponta Porã/MS — Bandeira
+- 5006903 — Porto Murtinho/MS — Bandeira
+- 5007109 — Ribas do Rio Pardo/MS — Brasão
+- 5007109 — Ribas do Rio Pardo/MS — Bandeira
+- 5007208 — Rio Brilhante/MS — Bandeira
+- 5007307 — Rio Negro/MS — Brasão
+- 5007307 — Rio Negro/MS — Bandeira
+- 5007406 — Rio Verde de Mato Grosso/MS — Brasão
+- 5007406 — Rio Verde de Mato Grosso/MS — Bandeira
+- 5007505 — Rochedo/MS — Bandeira
+- 5007554 — Santa Rita do Pardo/MS — Bandeira
+- 5007695 — São Gabriel do Oeste/MS — Brasão
+- 5007695 — São Gabriel do Oeste/MS — Bandeira
+- 5007703 — Sete Quedas/MS — Brasão
+- 5007703 — Sete Quedas/MS — Bandeira
+- 5007802 — Selvíria/MS — Brasão
+- 5007802 — Selvíria/MS — Bandeira
+- 5007901 — Sidrolândia/MS — Brasão
+- 5007901 — Sidrolândia/MS — Bandeira
+- 5007935 — Sonora/MS — Brasão
+- 5007935 — Sonora/MS — Bandeira
+- 5007950 — Tacuru/MS — Bandeira
+- 5007976 — Taquarussu/MS — Bandeira
+- 5008008 — Terenos/MS — Brasão
+- 5008008 — Terenos/MS — Bandeira
+- 5008305 — Três Lagoas/MS — Brasão
+- 5008305 — Três Lagoas/MS — Bandeira
+- 5008404 — Vicentina/MS — Brasão
+- 5008404 — Vicentina/MS — Bandeira
+- 5100102 — Acorizal/MT — Brasão
+- 5100102 — Acorizal/MT — Bandeira
+- 5100201 — Água Boa/MT — Brasão
+- 5100201 — Água Boa/MT — Bandeira
+- 5100250 — Alta Floresta/MT — Brasão
+- 5100250 — Alta Floresta/MT — Bandeira
+- 5100300 — Alto Araguaia/MT — Brasão
+- 5100300 — Alto Araguaia/MT — Bandeira
+- 5100359 — Alto Boa Vista/MT — Brasão
+- 5100359 — Alto Boa Vista/MT — Bandeira
+- 5100409 — Alto Garças/MT — Brasão
+- 5100409 — Alto Garças/MT — Bandeira
+- 5100508 — Alto Paraguai/MT — Brasão
+- 5100508 — Alto Paraguai/MT — Bandeira
+- 5100607 — Alto Taquari/MT — Brasão
+- 5100607 — Alto Taquari/MT — Bandeira
+- 5100805 — Apiacás/MT — Brasão
+- 5100805 — Apiacás/MT — Bandeira
+- 5101001 — Araguaiana/MT — Brasão
+- 5101001 — Araguaiana/MT — Bandeira
+- 5101209 — Araguainha/MT — Brasão
+- 5101209 — Araguainha/MT — Bandeira
+- 5101258 — Araputanga/MT — Brasão
+- 5101258 — Araputanga/MT — Bandeira
+- 5101308 — Arenápolis/MT — Brasão
+- 5101308 — Arenápolis/MT — Bandeira
+- 5101407 — Aripuanã/MT — Brasão
+- 5101407 — Aripuanã/MT — Bandeira
+- 5101605 — Barão de Melgaço/MT — Brasão
+- 5101605 — Barão de Melgaço/MT — Bandeira
+- 5101704 — Barra do Bugres/MT — Brasão
+- 5101704 — Barra do Bugres/MT — Bandeira
+- 5101803 — Barra do Garças/MT — Brasão
+- 5101803 — Barra do Garças/MT — Bandeira
+- 5101837 — Boa Esperança do Norte/MT — Brasão
+- 5101837 — Boa Esperança do Norte/MT — Bandeira
+- 5101852 — Bom Jesus do Araguaia/MT — Brasão
+- 5101852 — Bom Jesus do Araguaia/MT — Bandeira
+- 5101902 — Brasnorte/MT — Brasão
+- 5101902 — Brasnorte/MT — Bandeira
+- 5102504 — Cáceres/MT — Brasão
+- 5102504 — Cáceres/MT — Bandeira
+- 5102603 — Campinápolis/MT — Brasão
+- 5102603 — Campinápolis/MT — Bandeira
+- 5102637 — Campo Novo do Parecis/MT — Brasão
+- 5102637 — Campo Novo do Parecis/MT — Bandeira
+- 5102678 — Campo Verde/MT — Brasão
+- 5102678 — Campo Verde/MT — Bandeira
+- 5102686 — Campos de Júlio/MT — Brasão
+- 5102686 — Campos de Júlio/MT — Bandeira
+- 5102694 — Canabrava do Norte/MT — Brasão
+- 5102694 — Canabrava do Norte/MT — Bandeira
+- 5102702 — Canarana/MT — Brasão
+- 5102702 — Canarana/MT — Bandeira
+- 5102793 — Carlinda/MT — Brasão
+- 5102793 — Carlinda/MT — Bandeira
+- 5103007 — Chapada dos Guimarães/MT — Brasão
+- 5103007 — Chapada dos Guimarães/MT — Bandeira
+- 5103205 — Colíder/MT — Brasão
+- 5103205 — Colíder/MT — Bandeira
+- 5103254 — Colniza/MT — Brasão
+- 5103254 — Colniza/MT — Bandeira
+- 5103304 — Comodoro/MT — Brasão
+- 5103304 — Comodoro/MT — Bandeira
+- 5103353 — Confresa/MT — Brasão
+- 5103353 — Confresa/MT — Bandeira
+- 5103361 — Conquista D'Oeste/MT — Brasão
+- 5103361 — Conquista D'Oeste/MT — Bandeira
+- 5103379 — Cotriguaçu/MT — Brasão
+- 5103379 — Cotriguaçu/MT — Bandeira
+- 5103403 — Cuiabá/MT — Brasão
+- 5103403 — Cuiabá/MT — Bandeira
+- 5103452 — Denise/MT — Brasão
+- 5103452 — Denise/MT — Bandeira
+- 5103502 — Diamantino/MT — Brasão
+- 5103502 — Diamantino/MT — Bandeira
+- 5103601 — Dom Aquino/MT — Brasão
+- 5103601 — Dom Aquino/MT — Bandeira
+- 5103700 — Feliz Natal/MT — Brasão
+- 5103700 — Feliz Natal/MT — Bandeira
+- 5103809 — Figueirópolis D'Oeste/MT — Brasão
+- 5103809 — Figueirópolis D'Oeste/MT — Bandeira
+- 5103957 — Glória D'Oeste/MT — Bandeira
+- 5104104 — Guarantã do Norte/MT — Brasão
+- 5104104 — Guarantã do Norte/MT — Bandeira
+- 5104203 — Guiratinga/MT — Bandeira
+- 5104526 — Ipiranga do Norte/MT — Brasão
+- 5104609 — Itiquira/MT — Brasão
+- 5104609 — Itiquira/MT — Bandeira
+- 5104807 — Jaciara/MT — Brasão
+- 5104807 — Jaciara/MT — Bandeira
+- 5105002 — Jauru/MT — Brasão
+- 5105002 — Jauru/MT — Bandeira
+- 5105101 — Juara/MT — Brasão
+- 5105101 — Juara/MT — Bandeira
+- 5105150 — Juína/MT — Brasão
+- 5105150 — Juína/MT — Bandeira
+- 5105259 — Lucas do Rio Verde/MT — Brasão
+- 5105259 — Lucas do Rio Verde/MT — Bandeira
+- 5105309 — Luciara/MT — Brasão
+- 5105309 — Luciara/MT — Bandeira
+- 5105507 — Vila Bela da Santíssima Trindade/MT — Brasão
+- 5105507 — Vila Bela da Santíssima Trindade/MT — Bandeira
+- 5105580 — Marcelândia/MT — Brasão
+- 5105580 — Marcelândia/MT — Bandeira
+- 5105606 — Matupá/MT — Brasão
+- 5105606 — Matupá/MT — Bandeira
+- 5105622 — Mirassol d'Oeste/MT — Brasão
+- 5105622 — Mirassol d'Oeste/MT — Bandeira
+- 5105903 — Nobres/MT — Bandeira
+- 5106109 — Nossa Senhora do Livramento/MT — Brasão
+- 5106109 — Nossa Senhora do Livramento/MT — Bandeira
+- 5106158 — Nova Bandeirantes/MT — Brasão
+- 5106158 — Nova Bandeirantes/MT — Bandeira
+- 5106182 — Nova Lacerda/MT — Brasão
+- 5106182 — Nova Lacerda/MT — Bandeira
+- 5106216 — Nova Canaã do Norte/MT — Brasão
+- 5106216 — Nova Canaã do Norte/MT — Bandeira
+- 5106224 — Nova Mutum/MT — Brasão
+- 5106224 — Nova Mutum/MT — Bandeira
+- 5106232 — Nova Olímpia/MT — Brasão
+- 5106232 — Nova Olímpia/MT — Bandeira
+- 5106240 — Nova Ubiratã/MT — Bandeira
+- 5106257 — Nova Xavantina/MT — Brasão
+- 5106257 — Nova Xavantina/MT — Bandeira
+- 5106265 — Novo Mundo/MT — Brasão
+- 5106265 — Novo Mundo/MT — Bandeira
+- 5106273 — Novo Horizonte do Norte/MT — Brasão
+- 5106281 — Novo São Joaquim/MT — Brasão
+- 5106281 — Novo São Joaquim/MT — Bandeira
+- 5106299 — Paranaíta/MT — Brasão
+- 5106299 — Paranaíta/MT — Bandeira
+- 5106307 — Paranatinga/MT — Brasão
+- 5106307 — Paranatinga/MT — Bandeira
+- 5106372 — Pedra Preta/MT — Brasão
+- 5106372 — Pedra Preta/MT — Bandeira
+- 5106422 — Peixoto de Azevedo/MT — Brasão
+- 5106422 — Peixoto de Azevedo/MT — Bandeira
+- 5106505 — Poconé/MT — Bandeira
+- 5106653 — Pontal do Araguaia/MT — Bandeira
+- 5106703 — Ponte Branca/MT — Brasão
+- 5106703 — Ponte Branca/MT — Bandeira
+- 5106752 — Pontes e Lacerda/MT — Brasão
+- 5106752 — Pontes e Lacerda/MT — Bandeira
+- 5106778 — Porto Alegre do Norte/MT — Brasão
+- 5106778 — Porto Alegre do Norte/MT — Bandeira
+- 5106828 — Porto Esperidião/MT — Brasão
+- 5106828 — Porto Esperidião/MT — Bandeira
+- 5106851 — Porto Estrela/MT — Brasão
+- 5106851 — Porto Estrela/MT — Bandeira
+- 5107008 — Poxoréu/MT — Brasão
+- 5107008 — Poxoréu/MT — Bandeira
+- 5107040 — Primavera do Leste/MT — Brasão
+- 5107040 — Primavera do Leste/MT — Bandeira
+- 5107107 — São José dos Quatro Marcos/MT — Brasão
+- 5107107 — São José dos Quatro Marcos/MT — Bandeira
+- 5107156 — Reserva do Cabaçal/MT — Brasão
+- 5107156 — Reserva do Cabaçal/MT — Bandeira
+- 5107180 — Ribeirão Cascalheira/MT — Brasão
+- 5107180 — Ribeirão Cascalheira/MT — Bandeira
+- 5107198 — Ribeirãozinho/MT — Bandeira
+- 5107248 — Santa Carmem/MT — Bandeira
+- 5107297 — São José do Povo/MT — Brasão
+- 5107297 — São José do Povo/MT — Bandeira
+- 5107305 — São José do Rio Claro/MT — Brasão
+- 5107305 — São José do Rio Claro/MT — Bandeira
+- 5107404 — São Pedro da Cipa/MT — Bandeira
+- 5107578 — Rondolândia/MT — Brasão
+- 5107578 — Rondolândia/MT — Bandeira
+- 5107602 — Rondonópolis/MT — Brasão
+- 5107602 — Rondonópolis/MT — Bandeira
+- 5107701 — Rosário Oeste/MT — Brasão
+- 5107701 — Rosário Oeste/MT — Bandeira
+- 5107768 — Santa Rita do Trivelato/MT — Brasão
+- 5107768 — Santa Rita do Trivelato/MT — Bandeira
+- 5107792 — Santo Antônio do Leste/MT — Brasão
+- 5107792 — Santo Antônio do Leste/MT — Bandeira
+- 5107800 — Santo Antônio de Leverger/MT — Brasão
+- 5107800 — Santo Antônio de Leverger/MT — Bandeira
+- 5107875 — Sapezal/MT — Brasão
+- 5107875 — Sapezal/MT — Bandeira
+- 5107909 — Sinop/MT — Brasão
+- 5107909 — Sinop/MT — Bandeira
+- 5107925 — Sorriso/MT — Brasão
+- 5107925 — Sorriso/MT — Bandeira
+- 5107958 — Tangará da Serra/MT — Brasão
+- 5107958 — Tangará da Serra/MT — Bandeira
+- 5108006 — Tapurah/MT — Brasão
+- 5108006 — Tapurah/MT — Bandeira
+- 5108105 — Tesouro/MT — Brasão
+- 5108352 — Vale de São Domingos/MT — Brasão
+- 5108352 — Vale de São Domingos/MT — Bandeira
+- 5108402 — Várzea Grande/MT — Brasão
+- 5108402 — Várzea Grande/MT — Bandeira
+- 5108501 — Vera/MT — Brasão
+- 5108600 — Vila Rica/MT — Brasão
+- 5108956 — Nova Monte Verde/MT — Brasão
+- 5108956 — Nova Monte Verde/MT — Bandeira
+- 5200050 — Abadia de Goiás/GO — Brasão
+- 5200050 — Abadia de Goiás/GO — Bandeira
+- 5200100 — Abadiânia/GO — Brasão
+- 5200100 — Abadiânia/GO — Bandeira
+- 5200134 — Acreúna/GO — Brasão
+- 5200134 — Acreúna/GO — Bandeira
+- 5200159 — Adelândia/GO — Brasão
+- 5200159 — Adelândia/GO — Bandeira
+- 5200175 — Água Fria de Goiás/GO — Brasão
+- 5200175 — Água Fria de Goiás/GO — Bandeira
+- 5200209 — Água Limpa/GO — Brasão
+- 5200209 — Água Limpa/GO — Bandeira
+- 5200258 — Águas Lindas de Goiás/GO — Brasão
+- 5200258 — Águas Lindas de Goiás/GO — Bandeira
+- 5200308 — Alexânia/GO — Brasão
+- 5200308 — Alexânia/GO — Bandeira
+- 5200506 — Aloândia/GO — Bandeira
+- 5200555 — Alto Horizonte/GO — Brasão
+- 5200555 — Alto Horizonte/GO — Bandeira
+- 5200605 — Alto Paraíso de Goiás/GO — Brasão
+- 5200605 — Alto Paraíso de Goiás/GO — Bandeira
+- 5200803 — Alvorada do Norte/GO — Brasão
+- 5200803 — Alvorada do Norte/GO — Bandeira
+- 5200829 — Amaralina/GO — Brasão
+- 5200829 — Amaralina/GO — Bandeira
+- 5200852 — Americano do Brasil/GO — Brasão
+- 5200852 — Americano do Brasil/GO — Bandeira
+- 5200902 — Amorinópolis/GO — Bandeira
+- 5201108 — Anápolis/GO — Brasão
+- 5201108 — Anápolis/GO — Bandeira
+- 5201207 — Anhanguera/GO — Brasão
+- 5201207 — Anhanguera/GO — Bandeira
+- 5201306 — Anicuns/GO — Brasão
+- 5201306 — Anicuns/GO — Bandeira
+- 5201405 — Aparecida de Goiânia/GO — Brasão
+- 5201405 — Aparecida de Goiânia/GO — Bandeira
+- 5201454 — Aparecida do Rio Doce/GO — Brasão
+- 5201454 — Aparecida do Rio Doce/GO — Bandeira
+- 5201504 — Aporé/GO — Bandeira
+- 5201603 — Araçu/GO — Brasão
+- 5201603 — Araçu/GO — Bandeira
+- 5201702 — Aragarças/GO — Bandeira
+- 5201801 — Aragoiânia/GO — Brasão
+- 5201801 — Aragoiânia/GO — Bandeira
+- 5202155 — Araguapaz/GO — Brasão
+- 5202155 — Araguapaz/GO — Bandeira
+- 5202353 — Arenópolis/GO — Brasão
+- 5202353 — Arenópolis/GO — Bandeira
+- 5202502 — Aruanã/GO — Brasão
+- 5202502 — Aruanã/GO — Bandeira
+- 5202601 — Aurilândia/GO — Brasão
+- 5202601 — Aurilândia/GO — Bandeira
+- 5202809 — Avelinópolis/GO — Brasão
+- 5202809 — Avelinópolis/GO — Bandeira
+- 5203104 — Baliza/GO — Brasão
+- 5203104 — Baliza/GO — Bandeira
+- 5203203 — Barro Alto/GO — Brasão
+- 5203203 — Barro Alto/GO — Bandeira
+- 5203302 — Bela Vista de Goiás/GO — Brasão
+- 5203302 — Bela Vista de Goiás/GO — Bandeira
+- 5203401 — Bom Jardim de Goiás/GO — Bandeira
+- 5203500 — Bom Jesus de Goiás/GO — Brasão
+- 5203500 — Bom Jesus de Goiás/GO — Bandeira
+- 5203559 — Bonfinópolis/GO — Brasão
+- 5203559 — Bonfinópolis/GO — Bandeira
+- 5203575 — Bonópolis/GO — Brasão
+- 5203575 — Bonópolis/GO — Bandeira
+- 5203609 — Brazabrantes/GO — Brasão
+- 5203609 — Brazabrantes/GO — Bandeira
+- 5203807 — Britânia/GO — Brasão
+- 5203807 — Britânia/GO — Bandeira
+- 5203906 — Buriti Alegre/GO — Bandeira
+- 5203939 — Buriti de Goiás/GO — Brasão
+- 5203939 — Buriti de Goiás/GO — Bandeira
+- 5203962 — Buritinópolis/GO — Brasão
+- 5203962 — Buritinópolis/GO — Bandeira
+- 5204003 — Cabeceiras/GO — Brasão
+- 5204003 — Cabeceiras/GO — Bandeira
+- 5204102 — Cachoeira Alta/GO — Bandeira
+- 5204201 — Cachoeira de Goiás/GO — Brasão
+- 5204201 — Cachoeira de Goiás/GO — Bandeira
+- 5204250 — Cachoeira Dourada/GO — Bandeira
+- 5204300 — Caçu/GO — Bandeira
+- 5204409 — Caiapônia/GO — Brasão
+- 5204409 — Caiapônia/GO — Bandeira
+- 5204508 — Caldas Novas/GO — Brasão
+- 5204508 — Caldas Novas/GO — Bandeira
+- 5204557 — Caldazinha/GO — Brasão
+- 5204557 — Caldazinha/GO — Bandeira
+- 5204607 — Campestre de Goiás/GO — Brasão
+- 5204607 — Campestre de Goiás/GO — Bandeira
+- 5204656 — Campinaçu/GO — Brasão
+- 5204656 — Campinaçu/GO — Bandeira
+- 5204706 — Campinorte/GO — Brasão
+- 5204706 — Campinorte/GO — Bandeira
+- 5204805 — Campo Alegre de Goiás/GO — Brasão
+- 5204805 — Campo Alegre de Goiás/GO — Bandeira
+- 5204854 — Campo Limpo de Goiás/GO — Bandeira
+- 5204904 — Campos Belos/GO — Brasão
+- 5204904 — Campos Belos/GO — Bandeira
+- 5204953 — Campos Verdes/GO — Brasão
+- 5204953 — Campos Verdes/GO — Bandeira
+- 5205000 — Carmo do Rio Verde/GO — Brasão
+- 5205000 — Carmo do Rio Verde/GO — Bandeira
+- 5205059 — Castelândia/GO — Brasão
+- 5205059 — Castelândia/GO — Bandeira
+- 5205109 — Catalão/GO — Brasão
+- 5205109 — Catalão/GO — Bandeira
+- 5205208 — Caturaí/GO — Brasão
+- 5205208 — Caturaí/GO — Bandeira
+- 5205307 — Cavalcante/GO — Brasão
+- 5205307 — Cavalcante/GO — Bandeira
+- 5205406 — Ceres/GO — Bandeira
+- 5205455 — Cezarina/GO — Brasão
+- 5205455 — Cezarina/GO — Bandeira
+- 5205471 — Chapadão do Céu/GO — Bandeira
+- 5205497 — Cidade Ocidental/GO — Brasão
+- 5205497 — Cidade Ocidental/GO — Bandeira
+- 5205513 — Cocalzinho de Goiás/GO — Brasão
+- 5205513 — Cocalzinho de Goiás/GO — Bandeira
+- 5205521 — Colinas do Sul/GO — Brasão
+- 5205521 — Colinas do Sul/GO — Bandeira
+- 5205703 — Córrego do Ouro/GO — Brasão
+- 5205703 — Córrego do Ouro/GO — Bandeira
+- 5205802 — Corumbá de Goiás/GO — Brasão
+- 5205802 — Corumbá de Goiás/GO — Bandeira
+- 5205901 — Corumbaíba/GO — Brasão
+- 5205901 — Corumbaíba/GO — Bandeira
+- 5206206 — Cristalina/GO — Brasão
+- 5206206 — Cristalina/GO — Bandeira
+- 5206305 — Cristianópolis/GO — Brasão
+- 5206305 — Cristianópolis/GO — Bandeira
+- 5206404 — Crixás/GO — Brasão
+- 5206404 — Crixás/GO — Bandeira
+- 5206503 — Cromínia/GO — Bandeira
+- 5206602 — Cumari/GO — Bandeira
+- 5206701 — Damianópolis/GO — Brasão
+- 5206701 — Damianópolis/GO — Bandeira
+- 5206800 — Damolândia/GO — Brasão
+- 5206800 — Damolândia/GO — Bandeira
+- 5206909 — Davinópolis/GO — Brasão
+- 5206909 — Davinópolis/GO — Bandeira
+- 5207105 — Diorama/GO — Brasão
+- 5207105 — Diorama/GO — Bandeira
+- 5207253 — Doverlândia/GO — Brasão
+- 5207352 — Edealina/GO — Brasão
+- 5207352 — Edealina/GO — Bandeira
+- 5207402 — Edéia/GO — Bandeira
+- 5207501 — Estrela do Norte/GO — Brasão
+- 5207501 — Estrela do Norte/GO — Bandeira
+- 5207535 — Faina/GO — Brasão
+- 5207535 — Faina/GO — Bandeira
+- 5207600 — Fazenda Nova/GO — Brasão
+- 5207600 — Fazenda Nova/GO — Bandeira
+- 5207808 — Firminópolis/GO — Brasão
+- 5207808 — Firminópolis/GO — Bandeira
+- 5207907 — Flores de Goiás/GO — Bandeira
+- 5208004 — Formosa/GO — Brasão
+- 5208004 — Formosa/GO — Bandeira
+- 5208103 — Formoso/GO — Brasão
+- 5208103 — Formoso/GO — Bandeira
+- 5208152 — Gameleira de Goiás/GO — Brasão
+- 5208152 — Gameleira de Goiás/GO — Bandeira
+- 5208301 — Divinópolis de Goiás/GO — Brasão
+- 5208301 — Divinópolis de Goiás/GO — Bandeira
+- 5208400 — Goianápolis/GO — Brasão
+- 5208400 — Goianápolis/GO — Bandeira
+- 5208509 — Goiandira/GO — Brasão
+- 5208509 — Goiandira/GO — Bandeira
+- 5208608 — Goianésia/GO — Brasão
+- 5208608 — Goianésia/GO — Bandeira
+- 5208707 — Goiânia/GO — Brasão
+- 5208707 — Goiânia/GO — Bandeira
+- 5208806 — Goianira/GO — Brasão
+- 5208806 — Goianira/GO — Bandeira
+- 5208905 — Goiás/GO — Brasão
+- 5208905 — Goiás/GO — Bandeira
+- 5209101 — Goiatuba/GO — Brasão
+- 5209101 — Goiatuba/GO — Bandeira
+- 5209150 — Gouvelândia/GO — Brasão
+- 5209150 — Gouvelândia/GO — Bandeira
+- 5209200 — Guapó/GO — Bandeira
+- 5209291 — Guaraíta/GO — Bandeira
+- 5209408 — Guarani de Goiás/GO — Brasão
+- 5209408 — Guarani de Goiás/GO — Bandeira
+- 5209457 — Guarinos/GO — Bandeira
+- 5209606 — Heitoraí/GO — Brasão
+- 5209606 — Heitoraí/GO — Bandeira
+- 5209705 — Hidrolândia/GO — Brasão
+- 5209705 — Hidrolândia/GO — Bandeira
+- 5209804 — Hidrolina/GO — Bandeira
+- 5209903 — Iaciara/GO — Brasão
+- 5209903 — Iaciara/GO — Bandeira
+- 5209937 — Inaciolândia/GO — Bandeira
+- 5209952 — Indiara/GO — Brasão
+- 5209952 — Indiara/GO — Bandeira
+- 5210000 — Inhumas/GO — Brasão
+- 5210000 — Inhumas/GO — Bandeira
+- 5210109 — Ipameri/GO — Brasão
+- 5210109 — Ipameri/GO — Bandeira
+- 5210158 — Ipiranga de Goiás/GO — Brasão
+- 5210158 — Ipiranga de Goiás/GO — Bandeira
+- 5210208 — Iporá/GO — Brasão
+- 5210208 — Iporá/GO — Bandeira
+- 5210307 — Israelândia/GO — Brasão
+- 5210307 — Israelândia/GO — Bandeira
+- 5210406 — Itaberaí/GO — Brasão
+- 5210406 — Itaberaí/GO — Bandeira
+- 5210562 — Itaguari/GO — Brasão
+- 5210562 — Itaguari/GO — Bandeira
+- 5210604 — Itaguaru/GO — Bandeira
+- 5210802 — Itajá/GO — Brasão
+- 5210802 — Itajá/GO — Bandeira
+- 5210901 — Itapaci/GO — Bandeira
+- 5211008 — Itapirapuã/GO — Brasão
+- 5211008 — Itapirapuã/GO — Bandeira
+- 5211206 — Itapuranga/GO — Brasão
+- 5211206 — Itapuranga/GO — Bandeira
+- 5211305 — Itarumã/GO — Brasão
+- 5211305 — Itarumã/GO — Bandeira
+- 5211404 — Itauçu/GO — Bandeira
+- 5211503 — Itumbiara/GO — Brasão
+- 5211503 — Itumbiara/GO — Bandeira
+- 5211602 — Ivolândia/GO — Brasão
+- 5211602 — Ivolândia/GO — Bandeira
+- 5211701 — Jandaia/GO — Brasão
+- 5211701 — Jandaia/GO — Bandeira
+- 5211800 — Jaraguá/GO — Brasão
+- 5211800 — Jaraguá/GO — Bandeira
+- 5211909 — Jataí/GO — Brasão
+- 5211909 — Jataí/GO — Bandeira
+- 5212006 — Jaupaci/GO — Brasão
+- 5212006 — Jaupaci/GO — Bandeira
+- 5212055 — Jesúpolis/GO — Brasão
+- 5212055 — Jesúpolis/GO — Bandeira
+- 5212204 — Jussara/GO — Bandeira
+- 5212253 — Lagoa Santa/GO — Brasão
+- 5212253 — Lagoa Santa/GO — Bandeira
+- 5212303 — Leopoldo de Bulhões/GO — Brasão
+- 5212303 — Leopoldo de Bulhões/GO — Bandeira
+- 5212501 — Luziânia/GO — Brasão
+- 5212501 — Luziânia/GO — Bandeira
+- 5212600 — Mairipotaba/GO — Bandeira
+- 5212709 — Mambaí/GO — Brasão
+- 5212709 — Mambaí/GO — Bandeira
+- 5212808 — Mara Rosa/GO — Brasão
+- 5212808 — Mara Rosa/GO — Bandeira
+- 5212907 — Marzagão/GO — Brasão
+- 5212907 — Marzagão/GO — Bandeira
+- 5212956 — Matrinchã/GO — Brasão
+- 5212956 — Matrinchã/GO — Bandeira
+- 5213004 — Maurilândia/GO — Brasão
+- 5213004 — Maurilândia/GO — Bandeira
+- 5213053 — Mimoso de Goiás/GO — Brasão
+- 5213053 — Mimoso de Goiás/GO — Bandeira
+- 5213087 — Minaçu/GO — Brasão
+- 5213087 — Minaçu/GO — Bandeira
+- 5213103 — Mineiros/GO — Brasão
+- 5213103 — Mineiros/GO — Bandeira
+- 5213400 — Moiporá/GO — Brasão
+- 5213400 — Moiporá/GO — Bandeira
+- 5213509 — Monte Alegre de Goiás/GO — Bandeira
+- 5213707 — Montes Claros de Goiás/GO — Brasão
+- 5213707 — Montes Claros de Goiás/GO — Bandeira
+- 5213756 — Montividiu/GO — Brasão
+- 5213756 — Montividiu/GO — Bandeira
+- 5213772 — Montividiu do Norte/GO — Bandeira
+- 5213806 — Morrinhos/GO — Brasão
+- 5213806 — Morrinhos/GO — Bandeira
+- 5213855 — Morro Agudo de Goiás/GO — Bandeira
+- 5213905 — Mossâmedes/GO — Bandeira
+- 5214002 — Mozarlândia/GO — Brasão
+- 5214002 — Mozarlândia/GO — Bandeira
+- 5214051 — Mundo Novo/GO — Bandeira
+- 5214101 — Mutunópolis/GO — Bandeira
+- 5214408 — Nazário/GO — Brasão
+- 5214408 — Nazário/GO — Bandeira
+- 5214507 — Nerópolis/GO — Brasão
+- 5214507 — Nerópolis/GO — Bandeira
+- 5214606 — Niquelândia/GO — Brasão
+- 5214606 — Niquelândia/GO — Bandeira
+- 5214705 — Nova América/GO — Brasão
+- 5214705 — Nova América/GO — Bandeira
+- 5214804 — Nova Aurora/GO — Bandeira
+- 5214838 — Nova Crixás/GO — Brasão
+- 5214838 — Nova Crixás/GO — Bandeira
+- 5214861 — Nova Glória/GO — Brasão
+- 5214861 — Nova Glória/GO — Bandeira
+- 5214879 — Nova Iguaçu de Goiás/GO — Bandeira
+- 5214903 — Nova Roma/GO — Brasão
+- 5214903 — Nova Roma/GO — Bandeira
+- 5215009 — Nova Veneza/GO — Brasão
+- 5215009 — Nova Veneza/GO — Bandeira
+- 5215207 — Novo Brasil/GO — Brasão
+- 5215207 — Novo Brasil/GO — Bandeira
+- 5215231 — Novo Gama/GO — Brasão
+- 5215231 — Novo Gama/GO — Bandeira
+- 5215256 — Novo Planalto/GO — Bandeira
+- 5215306 — Orizona/GO — Brasão
+- 5215306 — Orizona/GO — Bandeira
+- 5215405 — Ouro Verde de Goiás/GO — Bandeira
+- 5215504 — Ouvidor/GO — Bandeira
+- 5215603 — Padre Bernardo/GO — Brasão
+- 5215603 — Padre Bernardo/GO — Bandeira
+- 5215652 — Palestina de Goiás/GO — Bandeira
+- 5215702 — Palmeiras de Goiás/GO — Brasão
+- 5215702 — Palmeiras de Goiás/GO — Bandeira
+- 5215801 — Palmelo/GO — Brasão
+- 5215801 — Palmelo/GO — Bandeira
+- 5215900 — Palminópolis/GO — Brasão
+- 5215900 — Palminópolis/GO — Bandeira
+- 5216007 — Panamá/GO — Bandeira
+- 5216304 — Paranaiguara/GO — Brasão
+- 5216304 — Paranaiguara/GO — Bandeira
+- 5216403 — Paraúna/GO — Bandeira
+- 5216452 — Perolândia/GO — Bandeira
+- 5216809 — Petrolina de Goiás/GO — Brasão
+- 5216809 — Petrolina de Goiás/GO — Bandeira
+- 5216908 — Pilar de Goiás/GO — Brasão
+- 5216908 — Pilar de Goiás/GO — Bandeira
+- 5217104 — Piracanjuba/GO — Brasão
+- 5217104 — Piracanjuba/GO — Bandeira
+- 5217203 — Piranhas/GO — Brasão
+- 5217203 — Piranhas/GO — Bandeira
+- 5217302 — Pirenópolis/GO — Brasão
+- 5217302 — Pirenópolis/GO — Bandeira
+- 5217401 — Pires do Rio/GO — Bandeira
+- 5217609 — Planaltina/GO — Brasão
+- 5217609 — Planaltina/GO — Bandeira
+- 5217708 — Pontalina/GO — Brasão
+- 5217708 — Pontalina/GO — Bandeira
+- 5218003 — Porangatu/GO — Brasão
+- 5218003 — Porangatu/GO — Bandeira
+- 5218052 — Porteirão/GO — Brasão
+- 5218052 — Porteirão/GO — Bandeira
+- 5218102 — Portelândia/GO — Brasão
+- 5218102 — Portelândia/GO — Bandeira
+- 5218300 — Posse/GO — Brasão
+- 5218300 — Posse/GO — Bandeira
+- 5218391 — Professor Jamil/GO — Brasão
+- 5218391 — Professor Jamil/GO — Bandeira
+- 5218508 — Quirinópolis/GO — Brasão
+- 5218508 — Quirinópolis/GO — Bandeira
+- 5218607 — Rialma/GO — Brasão
+- 5218607 — Rialma/GO — Bandeira
+- 5218706 — Rianápolis/GO — Brasão
+- 5218706 — Rianápolis/GO — Bandeira
+- 5218789 — Rio Quente/GO — Brasão
+- 5218789 — Rio Quente/GO — Bandeira
+- 5218805 — Rio Verde/GO — Brasão
+- 5218805 — Rio Verde/GO — Bandeira
+- 5218904 — Rubiataba/GO — Brasão
+- 5218904 — Rubiataba/GO — Bandeira
+- 5219001 — Sanclerlândia/GO — Brasão
+- 5219001 — Sanclerlândia/GO — Bandeira
+- 5219100 — Santa Bárbara de Goiás/GO — Bandeira
+- 5219209 — Santa Cruz de Goiás/GO — Brasão
+- 5219209 — Santa Cruz de Goiás/GO — Bandeira
+- 5219258 — Santa Fé de Goiás/GO — Brasão
+- 5219258 — Santa Fé de Goiás/GO — Bandeira
+- 5219308 — Santa Helena de Goiás/GO — Brasão
+- 5219308 — Santa Helena de Goiás/GO — Bandeira
+- 5219357 — Santa Isabel/GO — Brasão
+- 5219357 — Santa Isabel/GO — Bandeira
+- 5219407 — Santa Rita do Araguaia/GO — Bandeira
+- 5219456 — Santa Rita do Novo Destino/GO — Brasão
+- 5219456 — Santa Rita do Novo Destino/GO — Bandeira
+- 5219506 — Santa Rosa de Goiás/GO — Brasão
+- 5219506 — Santa Rosa de Goiás/GO — Bandeira
+- 5219605 — Santa Tereza de Goiás/GO — Brasão
+- 5219605 — Santa Tereza de Goiás/GO — Bandeira
+- 5219704 — Santa Terezinha de Goiás/GO — Brasão
+- 5219704 — Santa Terezinha de Goiás/GO — Bandeira
+- 5219712 — Santo Antônio da Barra/GO — Brasão
+- 5219712 — Santo Antônio da Barra/GO — Bandeira
+- 5219738 — Santo Antônio de Goiás/GO — Bandeira
+- 5219803 — São Domingos/GO — Brasão
+- 5219803 — São Domingos/GO — Bandeira
+- 5219902 — São Francisco de Goiás/GO — Brasão
+- 5219902 — São Francisco de Goiás/GO — Bandeira
+- 5220009 — São João d'Aliança/GO — Brasão
+- 5220009 — São João d'Aliança/GO — Bandeira
+- 5220058 — São João da Paraúna/GO — Brasão
+- 5220058 — São João da Paraúna/GO — Bandeira
+- 5220108 — São Luís de Montes Belos/GO — Brasão
+- 5220108 — São Luís de Montes Belos/GO — Bandeira
+- 5220157 — São Luiz do Norte/GO — Brasão
+- 5220157 — São Luiz do Norte/GO — Bandeira
+- 5220207 — São Miguel do Araguaia/GO — Brasão
+- 5220207 — São Miguel do Araguaia/GO — Bandeira
+- 5220264 — São Miguel do Passa Quatro/GO — Bandeira
+- 5220280 — São Patrício/GO — Brasão
+- 5220280 — São Patrício/GO — Bandeira
+- 5220405 — São Simão/GO — Brasão
+- 5220405 — São Simão/GO — Bandeira
+- 5220454 — Senador Canedo/GO — Brasão
+- 5220454 — Senador Canedo/GO — Bandeira
+- 5220504 — Serranópolis/GO — Brasão
+- 5220504 — Serranópolis/GO — Bandeira
+- 5220603 — Silvânia/GO — Brasão
+- 5220603 — Silvânia/GO — Bandeira
+- 5220686 — Simolândia/GO — Brasão
+- 5220686 — Simolândia/GO — Bandeira
+- 5220702 — Sítio d'Abadia/GO — Brasão
+- 5220702 — Sítio d'Abadia/GO — Bandeira
+- 5221007 — Taquaral de Goiás/GO — Brasão
+- 5221007 — Taquaral de Goiás/GO — Bandeira
+- 5221080 — Teresina de Goiás/GO — Brasão
+- 5221080 — Teresina de Goiás/GO — Bandeira
+- 5221197 — Terezópolis de Goiás/GO — Brasão
+- 5221197 — Terezópolis de Goiás/GO — Bandeira
+- 5221304 — Três Ranchos/GO — Bandeira
+- 5221403 — Trindade/GO — Brasão
+- 5221403 — Trindade/GO — Bandeira
+- 5221452 — Trombas/GO — Brasão
+- 5221452 — Trombas/GO — Bandeira
+- 5221502 — Turvânia/GO — Brasão
+- 5221502 — Turvânia/GO — Bandeira
+- 5221551 — Turvelândia/GO — Brasão
+- 5221551 — Turvelândia/GO — Bandeira
+- 5221577 — Uirapuru/GO — Brasão
+- 5221577 — Uirapuru/GO — Bandeira
+- 5221601 — Uruaçu/GO — Brasão
+- 5221601 — Uruaçu/GO — Bandeira
+- 5221700 — Uruana/GO — Brasão
+- 5221700 — Uruana/GO — Bandeira
+- 5221809 — Urutaí/GO — Brasão
+- 5221809 — Urutaí/GO — Bandeira
+- 5221858 — Valparaíso de Goiás/GO — Brasão
+- 5221858 — Valparaíso de Goiás/GO — Bandeira
+- 5221908 — Varjão/GO — Brasão
+- 5221908 — Varjão/GO — Bandeira
+- 5222005 — Vianópolis/GO — Bandeira
+- 5222054 — Vicentinópolis/GO — Brasão
+- 5222054 — Vicentinópolis/GO — Bandeira
+- 5222203 — Vila Boa/GO — Brasão
+- 5222203 — Vila Boa/GO — Bandeira
+- 5222302 — Vila Propício/GO — Brasão
+- 5222302 — Vila Propício/GO — Bandeira
+- 5300108 — Brasília/DF — Brasão
+- 5300108 — Brasília/DF — Bandeira

@@ -1,0 +1,993 @@
+"codigo_ibge","municipio","uf","status","arquivo_commons","pagina_origem","motivo","tentativas"
+"1100148","Nova Brasilândia D'Oeste","RO","nao_encontrado","","","",0
+"1100262","Rio Crespo","RO","nao_encontrado","","","",0
+"1100502","Novo Horizonte do Oeste","RO","nao_encontrado","","","",0
+"1100908","Castanheiras","RO","nao_encontrado","","","",0
+"1101005","Governador Jorge Teixeira","RO","nao_encontrado","","","",0
+"1101450","Parecis","RO","nao_encontrado","","","",0
+"1101559","Teixeirópolis","RO","nao_encontrado","","","",0
+"1101757","Vale do Anari","RO","nao_encontrado","","","",0
+"1300086","Anamã","AM","nao_encontrado","","","",0
+"1300409","Barcelos","AM","nao_encontrado","","","",0
+"1300508","Barreirinha","AM","nao_encontrado","","","",0
+"1300631","Beruri","AM","nao_encontrado","","","",0
+"1300680","Boa Vista do Ramos","AM","nao_encontrado","","","",0
+"1300706","Boca do Acre","AM","nao_encontrado","","","",0
+"1300904","Canutama","AM","nao_encontrado","","","",0
+"1301100","Careiro","AM","nao_encontrado","","","",0
+"1301506","Envira","AM","nao_encontrado","","","",0
+"1301951","Itamarati","AM","nao_encontrado","","","",0
+"1302207","Juruá","AM","nao_encontrado","","","",0
+"1302553","Manaquiri","AM","nao_encontrado","File:Brasão de Manaquiri.jpg","","",0
+"1302603","Manaus","AM","rejeitado","File:Brasão de Manaus.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Manaus.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"1302801","Maraã","AM","nao_encontrado","","","",0
+"1303502","Pauini","AM","nao_encontrado","","","",0
+"1303536","Presidente Figueiredo","AM","nao_encontrado","","","",0
+"1303569","Rio Preto da Eva","AM","nao_encontrado","","","",0
+"1303700","Santo Antônio do Içá","AM","nao_encontrado","","","",0
+"1303908","São Paulo de Olivença","AM","nao_encontrado","","","",0
+"1304005","Silves","AM","rejeitado","File:BRASAO SILVES-AM.svg","https://commons.wikimedia.org/wiki/File:BRASAO_SILVES-AM.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"1304104","Tapauá","AM","nao_encontrado","","","",0
+"1304260","Uarini","AM","nao_encontrado","","","",0
+"1304401","Urucurituba","AM","nao_encontrado","","","",0
+"1500503","Almeirim","PA","nao_encontrado","","","",0
+"1501253","Bannach","PA","nao_encontrado","","","",0
+"1501600","Bonito","PA","nao_encontrado","","","",0
+"1501725","Brasil Novo","PA","nao_encontrado","","","",0
+"1501758","Brejo Grande do Araguaia","PA","nao_encontrado","","","",0
+"1501907","Bujaru","PA","nao_encontrado","","","",0
+"1502004","Cachoeira do Arari","PA","nao_encontrado","","","",0
+"1502608","Colares","PA","nao_encontrado","","","",0
+"1502756","Concórdia do Pará","PA","nao_encontrado","","","",0
+"1502764","Cumaru do Norte","PA","nao_encontrado","","","",0
+"1502954","Eldorado do Carajás","PA","nao_encontrado","","","",0
+"1503077","Garrafão do Norte","PA","nao_encontrado","","","",0
+"1503200","Igarapé-Açu","PA","nao_encontrado","","","",0
+"1503408","Inhangapi","PA","nao_encontrado","","","",0
+"1503754","Jacareacanga","PA","nao_encontrado","","","",0
+"1503804","Jacundá","PA","nao_encontrado","","","",0
+"1504000","Limoeiro do Ajuru","PA","nao_encontrado","","","",0
+"1504109","Magalhães Barata","PA","nao_encontrado","","","",0
+"1504406","Marapanim","PA","nao_encontrado","","","",0
+"1504422","Marituba","PA","nao_encontrado","","","",0
+"1504455","Medicilândia","PA","nao_encontrado","","","",0
+"1504505","Melgaço","PA","nao_encontrado","","","",0
+"1504950","Nova Esperança do Piriá","PA","nao_encontrado","","","",0
+"1505007","Nova Timboteua","PA","nao_encontrado","","","",0
+"1505031","Novo Progresso","PA","nao_encontrado","","","",0
+"1505205","Oeiras do Pará","PA","nao_encontrado","","","",0
+"1505403","Ourém","PA","nao_encontrado","","","",0
+"1505494","Palestina do Pará","PA","nao_encontrado","","","",0
+"1505551","Pau D'Arco","PA","nao_encontrado","","","",0
+"1505601","Peixe-Boi","PA","nao_encontrado","","","",0
+"1505635","Piçarra","PA","nao_encontrado","","","",0
+"1505908","Porto de Moz","PA","nao_encontrado","File:Brasão Porto de Moz, PA.png","","",0
+"1506005","Prainha","PA","nao_encontrado","","","",0
+"1506161","Rio Maria","PA","nao_encontrado","","","",0
+"1506195","Rurópolis","PA","nao_encontrado","","","",0
+"1506401","Santa Cruz do Arari","PA","nao_encontrado","","","",0
+"1506559","Santa Luzia do Pará","PA","nao_encontrado","","","",0
+"1506583","Santa Maria das Barreiras","PA","nao_encontrado","","","",0
+"1506906","Santarém Novo","PA","nao_encontrado","","","",0
+"1507003","Santo Antônio do Tauá","PA","nao_encontrado","","","",0
+"1507201","São Domingos do Capim","PA","nao_encontrado","","","",0
+"1507409","São Francisco do Pará","PA","nao_encontrado","","","",0
+"1507466","São João da Ponta","PA","nao_encontrado","","","",0
+"1507474","São João de Pirabas","PA","nao_encontrado","","","",0
+"1507508","São João do Araguaia","PA","nao_encontrado","","","",0
+"1507607","São Miguel do Guamá","PA","nao_encontrado","","","",0
+"1507706","São Sebastião da Boa Vista","PA","nao_encontrado","","","",0
+"1507755","Sapucaia","PA","nao_encontrado","","","",0
+"1507961","Terra Alta","PA","nao_encontrado","","","",0
+"1508035","Tracuateua","PA","nao_encontrado","","","",0
+"1508050","Trairão","PA","nao_encontrado","","","",0
+"1508357","Vitória do Xingu","PA","nao_encontrado","File:Brasao vitoria do xingu.gif","","",0
+"1508407","Xinguara","PA","nao_encontrado","","","",0
+"1600550","Pracuúba","AP","nao_encontrado","","","",0
+"1700301","Aguiarnópolis","TO","nao_encontrado","","","",0
+"1700350","Aliança do Tocantins","TO","nao_encontrado","","","",0
+"1700400","Almas","TO","nao_encontrado","","","",0
+"1701101","Aparecida do Rio Negro","TO","nao_encontrado","","","",0
+"1701309","Aragominas","TO","nao_encontrado","","","",0
+"1701903","Araguacema","TO","nao_encontrado","","","",0
+"1702000","Araguaçu","TO","nao_encontrado","","","",0
+"1702158","Araguanã","TO","nao_encontrado","","","",0
+"1702703","Aurora do Tocantins","TO","nao_encontrado","","","",0
+"1702901","Axixá do Tocantins","TO","nao_encontrado","","","",0
+"1703057","Bandeirantes do Tocantins","TO","nao_encontrado","","","",0
+"1703073","Barra do Ouro","TO","nao_encontrado","","","",0
+"1703107","Barrolândia","TO","nao_encontrado","","","",0
+"1703206","Bernardo Sayão","TO","nao_encontrado","","","",0
+"1703305","Bom Jesus do Tocantins","TO","nao_encontrado","","","",0
+"1703602","Brasilândia do Tocantins","TO","nao_encontrado","","","",0
+"1703701","Brejinho de Nazaré","TO","nao_encontrado","","","",0
+"1703842","Campos Lindos","TO","nao_encontrado","","","",0
+"1703867","Cariri do Tocantins","TO","nao_encontrado","","","",0
+"1703883","Carmolândia","TO","nao_encontrado","","","",0
+"1703891","Carrasco Bonito","TO","nao_encontrado","","","",0
+"1703909","Caseara","TO","nao_encontrado","","","",0
+"1704105","Centenário","TO","nao_encontrado","","","",0
+"1704600","Chapada de Areia","TO","nao_encontrado","","","",0
+"1705508","Colinas do Tocantins","TO","rejeitado","File:BRASÃO DE ARMAS COLINAS DO TOCANTINS.svg","https://commons.wikimedia.org/wiki/File:BRAS%C3%83O_DE_ARMAS_COLINAS_DO_TOCANTINS.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"1705557","Combinado","TO","nao_encontrado","","","",0
+"1705607","Conceição do Tocantins","TO","nao_encontrado","","","",0
+"1706100","Cristalândia","TO","nao_encontrado","","","",0
+"1706258","Crixás do Tocantins","TO","nao_encontrado","","","",0
+"1706506","Darcinópolis","TO","nao_encontrado","","","",0
+"1707207","Dois Irmãos do Tocantins","TO","nao_encontrado","","","",0
+"1707553","Fátima","TO","nao_encontrado","","","",0
+"1707652","Figueirópolis","TO","nao_encontrado","","","",0
+"1708254","Tabocão","TO","nao_encontrado","","","",0
+"1708304","Goianorte","TO","nao_encontrado","","","",0
+"1709807","Ipueiras","TO","nao_encontrado","","","",0
+"1710706","Itaguatins","TO","nao_encontrado","","","",0
+"1710904","Itapiratins","TO","nao_encontrado","","","",0
+"1711100","Itaporã do Tocantins","TO","nao_encontrado","","","",0
+"1711506","Jaú do Tocantins","TO","nao_encontrado","","","",0
+"1711803","Juarina","TO","nao_encontrado","","","",0
+"1711902","Lagoa da Confusão","TO","nao_encontrado","","","",0
+"1711951","Lagoa do Tocantins","TO","nao_encontrado","","","",0
+"1712157","Lavandeira","TO","nao_encontrado","","","",0
+"1712454","Luzinópolis","TO","nao_encontrado","","","",0
+"1712702","Mateiros","TO","nao_encontrado","","","",0
+"1712801","Maurilândia do Tocantins","TO","nao_encontrado","","","",0
+"1713601","Monte do Carmo","TO","nao_encontrado","","","",0
+"1713809","Palmeiras do Tocantins","TO","nao_encontrado","","","",0
+"1713957","Muricilândia","TO","nao_encontrado","","","",0
+"1714302","Nazaré","TO","nao_encontrado","","","",0
+"1715002","Nova Rosalândia","TO","nao_encontrado","","","",0
+"1715101","Novo Acordo","TO","nao_encontrado","","","",0
+"1715259","Novo Jardim","TO","nao_encontrado","","","",0
+"1715705","Palmeirante","TO","nao_encontrado","","","",0
+"1715754","Palmeirópolis","TO","nao_encontrado","","","",0
+"1716307","Pau D'Arco","TO","nao_encontrado","","","",0
+"1716653","Pequizeiro","TO","nao_encontrado","","","",0
+"1717008","Pindorama do Tocantins","TO","nao_encontrado","","","",0
+"1717206","Piraquê","TO","nao_encontrado","","","",0
+"1717503","Pium","TO","nao_encontrado","","","",0
+"1717800","Ponte Alta do Bom Jesus","TO","nao_encontrado","","","",0
+"1717909","Ponte Alta do Tocantins","TO","nao_encontrado","","","",0
+"1718006","Porto Alegre do Tocantins","TO","nao_encontrado","","","",0
+"1718303","Praia Norte","TO","nao_encontrado","","","",0
+"1718402","Presidente Kennedy","TO","nao_encontrado","","","",0
+"1718451","Pugmil","TO","nao_encontrado","","","",0
+"1718501","Recursolândia","TO","nao_encontrado","","","",0
+"1718659","Rio da Conceição","TO","nao_encontrado","","","",0
+"1718709","Rio dos Bois","TO","nao_encontrado","","","",0
+"1718808","Sampaio","TO","nao_encontrado","","","",0
+"1718840","Sandolândia","TO","nao_encontrado","","","",0
+"1718899","Santa Rita do Tocantins","TO","nao_encontrado","","","",0
+"1719004","Santa Tereza do Tocantins","TO","nao_encontrado","","","",0
+"1720002","Santa Terezinha do Tocantins","TO","nao_encontrado","","","",0
+"1720259","São Salvador do Tocantins","TO","nao_encontrado","","","",0
+"1720499","São Valério","TO","nao_encontrado","","","",0
+"1720655","Silvanópolis","TO","nao_encontrado","","","",0
+"1720853","Sucupira","TO","nao_encontrado","","","",0
+"1720937","Taipas do Tocantins","TO","nao_encontrado","","","",0
+"1721109","Tocantínia","TO","nao_encontrado","","","",0
+"1721307","Tupiratins","TO","nao_encontrado","","","",0
+"2100105","Afonso Cunha","MA","nao_encontrado","","","",0
+"2100154","Água Doce do Maranhão","MA","nao_encontrado","","","",0
+"2100303","Aldeias Altas","MA","nao_encontrado","","","",0
+"2100402","Altamira do Maranhão","MA","nao_encontrado","","","",0
+"2100436","Alto Alegre do Maranhão","MA","nao_encontrado","","","",0
+"2100550","Amapá do Maranhão","MA","nao_encontrado","","","",0
+"2100709","Anajatuba","MA","nao_encontrado","","","",0
+"2100808","Anapurus","MA","nao_encontrado","","","",0
+"2100873","Araguanã","MA","nao_encontrado","","","",0
+"2101103","Axixá","MA","nao_encontrado","","","",0
+"2101301","Bacuri","MA","nao_encontrado","","","",0
+"2101350","Bacurituba","MA","nao_encontrado","","","",0
+"2101707","Barreirinhas","MA","rejeitado","File:Brasão de barreirinhas.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_barreirinhas.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"2101731","Belágua","MA","nao_encontrado","","","",0
+"2101772","Bela Vista do Maranhão","MA","nao_encontrado","","","",0
+"2101806","Benedito Leite","MA","nao_encontrado","","","",0
+"2101939","Bernardo do Mearim","MA","nao_encontrado","","","",0
+"2101970","Boa Vista do Gurupi","MA","nao_encontrado","","","",0
+"2102036","Bom Jesus das Selvas","MA","nao_encontrado","File:Brasão de Bom Jesus das Selvas.jpg","","",0
+"2102101","Brejo","MA","nao_encontrado","","","",0
+"2102150","Brejo de Areia","MA","nao_encontrado","","","",0
+"2102358","Buritirana","MA","nao_encontrado","","","",0
+"2102374","Cachoeira Grande","MA","nao_encontrado","","","",0
+"2102408","Cajapió","MA","nao_encontrado","","","",0
+"2102507","Cajari","MA","nao_encontrado","","","",0
+"2102606","Cândido Mendes","MA","nao_encontrado","","","",0
+"2102705","Cantanhede","MA","nao_encontrado","","","",0
+"2102754","Capinzal do Norte","MA","nao_encontrado","","","",0
+"2102903","Carutapera","MA","nao_encontrado","","","",0
+"2103406","Coelho Neto","MA","nao_encontrado","","","",0
+"2103802","Dom Pedro","MA","nao_encontrado","","","",0
+"2103901","Duque Bacelar","MA","nao_encontrado","","","",0
+"2104073","Feira Nova do Maranhão","MA","nao_encontrado","","","",0
+"2104099","Formosa da Serra Negra","MA","nao_encontrado","","","",0
+"2104107","Fortaleza dos Nogueiras","MA","nao_encontrado","","","",0
+"2104305","Godofredo Viana","MA","nao_encontrado","","","",0
+"2104503","Governador Archer","MA","nao_encontrado","","","",0
+"2104602","Governador Eugênio Barros","MA","nao_encontrado","","","",0
+"2104651","Governador Newton Bello","MA","nao_encontrado","","","",0
+"2104677","Governador Nunes Freire","MA","nao_encontrado","","","",0
+"2104701","Graça Aranha","MA","nao_encontrado","","","",0
+"2104909","Guimarães","MA","nao_encontrado","","","",0
+"2105153","Igarapé do Meio","MA","nao_encontrado","","","",0
+"2105203","Igarapé Grande","MA","nao_encontrado","","","",0
+"2105351","Itaipava do Grajaú","MA","nao_encontrado","","","",0
+"2105401","Itapecuru Mirim","MA","rejeitado","File:Brasão Itapecuru Mirim MA.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_Itapecuru_Mirim_MA.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"2105476","Jenipapo dos Vieiras","MA","nao_encontrado","","","",0
+"2105500","João Lisboa","MA","nao_encontrado","","","",0
+"2105609","Joselândia","MA","nao_encontrado","","","",0
+"2105658","Junco do Maranhão","MA","nao_encontrado","","","",0
+"2105807","Lago do Junco","MA","nao_encontrado","","","",0
+"2105906","Lago Verde","MA","nao_encontrado","","","",0
+"2105948","Lago dos Rodrigues","MA","nao_encontrado","","","",0
+"2105963","Lagoa Grande do Maranhão","MA","nao_encontrado","","","",0
+"2105989","Lajeado Novo","MA","nao_encontrado","","","",0
+"2106102","Loreto","MA","nao_encontrado","","","",0
+"2106201","Luís Domingues","MA","nao_encontrado","","","",0
+"2106300","Magalhães de Almeida","MA","nao_encontrado","","","",0
+"2106326","Maracaçumé","MA","nao_encontrado","","","",0
+"2106409","Mata Roma","MA","nao_encontrado","","","",0
+"2106508","Matinha","MA","nao_encontrado","","","",0
+"2106607","Matões","MA","nao_encontrado","","","",0
+"2106631","Matões do Norte","MA","desatualizado","File:Que fervo.. Matões do Norte MA.webm","https://commons.wikimedia.org/wiki/File:Que_fervo.._Mat%C3%B5es_do_Norte_MA.webm","Download pendente: Timeout awaiting 'request' for 15000ms | Download adiado para revisão após 3 falhas transitórias",3
+"2106672","Milagres do Maranhão","MA","nao_encontrado","","","",0
+"2106805","Mirinzal","MA","nao_encontrado","","","",0
+"2107001","Montes Altos","MA","nao_encontrado","","","",0
+"2107100","Morros","MA","nao_encontrado","","","",0
+"2107209","Nina Rodrigues","MA","nao_encontrado","","","",0
+"2107258","Nova Colinas","MA","nao_encontrado","","","",0
+"2107357","Nova Olinda do Maranhão","MA","nao_encontrado","","","",0
+"2107407","Olho d'Água das Cunhãs","MA","nao_encontrado","","","",0
+"2107506","Paço do Lumiar","MA","nao_encontrado","","","",0
+"2107803","Parnarama","MA","nao_encontrado","","","",0
+"2108256","Pedro do Rosário","MA","nao_encontrado","","","",0
+"2108306","Penalva","MA","nao_encontrado","","","",0
+"2108702","Pio XII","MA","nao_encontrado","","","",0
+"2108801","Pirapemas","MA","nao_encontrado","File:Brasão e Bandeira da Cidade de Pirapemas (MA) - mbi.com.br","","",0
+"2108900","Poção de Pedras","MA","nao_encontrado","","","",0
+"2109106","Presidente Dutra","MA","nao_encontrado","","","",0
+"2109205","Presidente Juscelino","MA","nao_encontrado","","","",0
+"2109239","Presidente Médici","MA","nao_encontrado","","","",0
+"2109270","Presidente Sarney","MA","nao_encontrado","","","",0
+"2109551","Ribamar Fiquene","MA","nao_encontrado","","","",0
+"2109700","Sambaíba","MA","nao_encontrado","","","",0
+"2109809","Santa Helena","MA","nao_encontrado","","","",0
+"2110005","Santa Luzia","MA","nao_encontrado","","","",0
+"2110039","Santa Luzia do Paruá","MA","nao_encontrado","","","",0
+"2110104","Santa Quitéria do Maranhão","MA","nao_encontrado","","","",0
+"2110203","Santa Rita","MA","nao_encontrado","","","",0
+"2110237","Santana do Maranhão","MA","nao_encontrado","","","",0
+"2110278","Santo Amaro do Maranhão","MA","rejeitado","File:Brasão de Santo Amaro do Maranhão.pdf","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Santo_Amaro_do_Maranh%C3%A3o.pdf","Validação automática de segurança: Formato de imagem não permitido",0
+"2110302","Santo Antônio dos Lopes","MA","nao_encontrado","","","",0
+"2110401","São Benedito do Rio Preto","MA","nao_encontrado","","","",0
+"2110500","São Bento","MA","nao_encontrado","","","",0
+"2110609","São Bernardo","MA","nao_encontrado","","","",0
+"2110807","São Félix de Balsas","MA","nao_encontrado","","","",0
+"2110856","São Francisco do Brejão","MA","nao_encontrado","","","",0
+"2110906","São Francisco do Maranhão","MA","nao_encontrado","","","",0
+"2111003","São João Batista","MA","nao_encontrado","","","",0
+"2111029","São João do Carú","MA","nao_encontrado","","","",0
+"2111052","São João do Paraíso","MA","nao_encontrado","","","",0
+"2111078","São João do Soter","MA","nao_encontrado","","","",0
+"2111300","São Luís","MA","rejeitado","File:Brasão de São Luís.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_S%C3%A3o_Lu%C3%ADs.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"2111409","São Luís Gonzaga do Maranhão","MA","nao_encontrado","","","",0
+"2111508","São Mateus do Maranhão","MA","nao_encontrado","","","",0
+"2111532","São Pedro da Água Branca","MA","nao_encontrado","","","",0
+"2111573","São Pedro dos Crentes","MA","nao_encontrado","","","",0
+"2111631","São Raimundo do Doca Bezerra","MA","nao_encontrado","","","",0
+"2111672","São Roberto","MA","nao_encontrado","","","",0
+"2111706","São Vicente Ferrer","MA","nao_encontrado","File:Bandeira de São Vicente Ferrer MA.svg","","",0
+"2111748","Senador Alexandre Costa","MA","nao_encontrado","","","",0
+"2111789","Serrano do Maranhão","MA","nao_encontrado","","","",0
+"2111805","Sítio Novo","MA","nao_encontrado","","","",0
+"2112001","Tasso Fragoso","MA","nao_encontrado","","","",0
+"2112233","Trizidela do Vale","MA","nao_encontrado","","","",0
+"2112274","Tufilândia","MA","nao_encontrado","","","",0
+"2112308","Tuntum","MA","nao_encontrado","","","",0
+"2112852","Vila Nova dos Martírios","MA","nao_encontrado","","","",0
+"2113009","Vitorino Freire","MA","nao_encontrado","","","",0
+"2200202","Água Branca","PI","nao_encontrado","","","",0
+"2200251","Alagoinha do Piauí","PI","nao_encontrado","","","",0
+"2200277","Alegrete do Piauí","PI","nao_encontrado","","","",0
+"2200301","Alto Longá","PI","rejeitado","File:BRASÃO DE ALTO LONGÁ - PI.svg","https://commons.wikimedia.org/wiki/File:BRAS%C3%83O_DE_ALTO_LONG%C3%81_-_PI.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"2200509","Amarante","PI","nao_encontrado","","","",0
+"2200608","Angical do Piauí","PI","nao_encontrado","","","",0
+"2200707","Anísio de Abreu","PI","nao_encontrado","","","",0
+"2200954","Aroeiras do Itaim","PI","nao_encontrado","","","",0
+"2201051","Assunção do Piauí","PI","nao_encontrado","","","",0
+"2201176","Barra D'Alcântara","PI","nao_encontrado","","","",0
+"2201309","Barreiras do Piauí","PI","nao_encontrado","","","",0
+"2201556","Bela Vista do Piauí","PI","nao_encontrado","","","",0
+"2201572","Belém do Piauí","PI","nao_encontrado","","","",0
+"2201606","Beneditinos","PI","nao_encontrado","","","",0
+"2201739","Betânia do Piauí","PI","nao_encontrado","","","",0
+"2201804","Bocaina","PI","nao_encontrado","","","",0
+"2201919","Bom Princípio do Piauí","PI","nao_encontrado","","","",0
+"2201929","Bonfim do Piauí","PI","nao_encontrado","","","",0
+"2201945","Boqueirão do Piauí","PI","nao_encontrado","","","",0
+"2201988","Brejo do Piauí","PI","nao_encontrado","","","",0
+"2202000","Buriti dos Lopes","PI","nao_encontrado","","","",0
+"2202083","Cajueiro da Praia","PI","nao_encontrado","","","",0
+"2202091","Caldeirão Grande do Piauí","PI","nao_encontrado","","","",0
+"2202109","Campinas do Piauí","PI","nao_encontrado","","","",0
+"2202117","Campo Alegre do Fidalgo","PI","nao_encontrado","","","",0
+"2202133","Campo Grande do Piauí","PI","nao_encontrado","","","",0
+"2202174","Campo Largo do Piauí","PI","nao_encontrado","","","",0
+"2202208","Campo Maior","PI","rejeitado","File:Brasão de Campo Maior (Piauí)Brasil.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Campo_Maior_(Piau%C3%AD)Brasil.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"2202251","Canavieira","PI","nao_encontrado","","","",0
+"2202406","Capitão de Campos","PI","nao_encontrado","","","",0
+"2202455","Capitão Gervásio Oliveira","PI","nao_encontrado","","","",0
+"2202505","Caracol","PI","nao_encontrado","","","",0
+"2202539","Caraúbas do Piauí","PI","nao_encontrado","","","",0
+"2202554","Caridade do Piauí","PI","nao_encontrado","","","",0
+"2202653","Caxingó","PI","nao_encontrado","","","",0
+"2202711","Cocal de Telha","PI","nao_encontrado","","","",0
+"2202729","Cocal dos Alves","PI","nao_encontrado","","","",0
+"2202737","Coivaras","PI","nao_encontrado","","","",0
+"2202778","Colônia do Piauí","PI","nao_encontrado","","","",0
+"2202802","Conceição do Canindé","PI","nao_encontrado","","","",0
+"2202851","Coronel José Dias","PI","nao_encontrado","","","",0
+"2203008","Cristalândia do Piauí","PI","nao_encontrado","","","",0
+"2203255","Curralinhos","PI","nao_encontrado","","","",0
+"2203271","Curral Novo do Piauí","PI","nao_encontrado","","","",0
+"2203305","Demerval Lobão","PI","nao_encontrado","","","",0
+"2203420","Domingos Mourão","PI","nao_encontrado","","","",0
+"2203453","Dom Inocêncio","PI","nao_encontrado","","","",0
+"2203503","Elesbão Veloso","PI","nao_encontrado","","","",0
+"2203602","Eliseu Martins","PI","nao_encontrado","","","",0
+"2203750","Fartura do Piauí","PI","nao_encontrado","","","",0
+"2203800","Flores do Piauí","PI","nao_encontrado","","","",0
+"2204006","Francinópolis","PI","nao_encontrado","","","",0
+"2204105","Francisco Ayres","PI","nao_encontrado","","","",0
+"2204204","Francisco Santos","PI","nao_encontrado","","","",0
+"2204352","Geminiano","PI","nao_encontrado","","","",0
+"2204402","Gilbués","PI","nao_encontrado","File:Brasão de Gilbués.jpg","","",0
+"2204600","Hugo Napoleão","PI","nao_encontrado","","","",0
+"2204659","Ilha Grande","PI","nao_encontrado","","","",0
+"2204709","Inhuma","PI","nao_encontrado","","","",0
+"2204907","Isaías Coelho","PI","nao_encontrado","","","",0
+"2205003","Itainópolis","PI","nao_encontrado","","","",0
+"2205102","Itaueira","PI","nao_encontrado","","","",0
+"2205201","Jaicós","PI","nao_encontrado","","","",0
+"2205250","Jardim do Mulato","PI","nao_encontrado","","","",0
+"2205276","Jatobá do Piauí","PI","nao_encontrado","","","",0
+"2205300","Jerumenha","PI","nao_encontrado","","","",0
+"2205359","João Costa","PI","nao_encontrado","","","",0
+"2205508","José de Freitas","PI","rejeitado","File:Brasao JosedeFreitas Piaui Brasil.svg","https://commons.wikimedia.org/wiki/File:Brasao_JosedeFreitas_Piaui_Brasil.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"2205516","Juazeiro do Piauí","PI","nao_encontrado","","","",0
+"2205524","Júlio Borges","PI","nao_encontrado","","","",0
+"2205532","Jurema","PI","nao_encontrado","","","",0
+"2205540","Lagoinha do Piauí","PI","nao_encontrado","","","",0
+"2205557","Lagoa Alegre","PI","nao_encontrado","","","",0
+"2205565","Lagoa do Barro do Piauí","PI","nao_encontrado","","","",0
+"2205573","Lagoa de São Francisco","PI","nao_encontrado","","","",0
+"2205581","Lagoa do Piauí","PI","nao_encontrado","","","",0
+"2205599","Lagoa do Sítio","PI","nao_encontrado","","","",0
+"2205607","Landri Sales","PI","nao_encontrado","","","",0
+"2205706","Luís Correia","PI","nao_encontrado","","","",0
+"2205854","Madeiro","PI","nao_encontrado","","","",0
+"2205953","Marcolândia","PI","nao_encontrado","","","",0
+"2206001","Marcos Parente","PI","nao_encontrado","","","",0
+"2206050","Massapê do Piauí","PI","nao_encontrado","","","",0
+"2206100","Matias Olímpio","PI","nao_encontrado","","","",0
+"2206357","Milton Brandão","PI","nao_encontrado","","","",0
+"2206506","Monsenhor Hipólito","PI","nao_encontrado","","","",0
+"2206605","Monte Alegre do Piauí","PI","nao_encontrado","","","",0
+"2206654","Morro Cabeça no Tempo","PI","nao_encontrado","","","",0
+"2206670","Morro do Chapéu do Piauí","PI","nao_encontrado","","","",0
+"2206696","Murici dos Portelas","PI","nao_encontrado","","","",0
+"2206704","Nazaré do Piauí","PI","nao_encontrado","","","",0
+"2206753","Nossa Senhora de Nazaré","PI","nao_encontrado","","","",0
+"2206902","Novo Oriente do Piauí","PI","nao_encontrado","","","",0
+"2206951","Novo Santo Antônio","PI","nao_encontrado","","","",0
+"2207009","Oeiras","PI","nao_encontrado","","","",0
+"2207108","Olho D'Água do Piauí","PI","nao_encontrado","","","",0
+"2207553","Paquetá","PI","nao_encontrado","","","",0
+"2207603","Parnaguá","PI","nao_encontrado","","","",0
+"2207751","Passagem Franca do Piauí","PI","nao_encontrado","","","",0
+"2207777","Patos do Piauí","PI","nao_encontrado","","","",0
+"2207793","Pau D'Arco do Piauí","PI","nao_encontrado","","","",0
+"2207850","Pavussu","PI","nao_encontrado","","","",0
+"2207959","Nova Santa Rita","PI","nao_encontrado","","","",0
+"2208106","Pimenteiras","PI","nao_encontrado","","","",0
+"2208551","Porto Alegre do Piauí","PI","nao_encontrado","","","",0
+"2208601","Prata do Piauí","PI","nao_encontrado","","","",0
+"2208700","Redenção do Gurguéia","PI","nao_encontrado","File:Brasão de Redenção do Gurgueia.png","","",0
+"2208858","Riacho Frio","PI","nao_encontrado","","","",0
+"2208874","Ribeira do Piauí","PI","nao_encontrado","","","",0
+"2208908","Ribeiro Gonçalves","PI","nao_encontrado","","","",0
+"2209005","Rio Grande do Piauí","PI","nao_encontrado","","","",0
+"2209104","Santa Cruz do Piauí","PI","nao_encontrado","","","",0
+"2209153","Santa Cruz dos Milagres","PI","nao_encontrado","","","",0
+"2209203","Santa Filomena","PI","nao_encontrado","","","",0
+"2209302","Santa Luz","PI","nao_encontrado","","","",0
+"2209351","Santana do Piauí","PI","nao_encontrado","","","",0
+"2209377","Santa Rosa do Piauí","PI","nao_encontrado","","","",0
+"2209450","Santo Antônio dos Milagres","PI","nao_encontrado","","","",0
+"2209500","Santo Inácio do Piauí","PI","nao_encontrado","","","",0
+"2209559","São Braz do Piauí","PI","nao_encontrado","","","",0
+"2209609","São Félix do Piauí","PI","nao_encontrado","","","",0
+"2209658","São Francisco de Assis do Piauí","PI","nao_encontrado","","","",0
+"2209708","São Francisco do Piauí","PI","nao_encontrado","","","",0
+"2209757","São Gonçalo do Gurguéia","PI","nao_encontrado","","","",0
+"2209807","São Gonçalo do Piauí","PI","nao_encontrado","","","",0
+"2209872","São João da Fronteira","PI","nao_encontrado","","","",0
+"2210052","São José do Divino","PI","nao_encontrado","","","",0
+"2210102","São José do Peixe","PI","nao_encontrado","","","",0
+"2210201","São José do Piauí","PI","nao_encontrado","","","",0
+"2210300","São Julião","PI","nao_encontrado","","","",0
+"2210359","São Lourenço do Piauí","PI","nao_encontrado","","","",0
+"2210375","São Luis do Piauí","PI","nao_encontrado","","","",0
+"2210383","São Miguel da Baixa Grande","PI","nao_encontrado","","","",0
+"2210607","São Raimundo Nonato","PI","rejeitado","File:Brasao-sao-raimundo-nonato.svg","https://commons.wikimedia.org/wiki/File:Brasao-sao-raimundo-nonato.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"2210631","Sebastião Leal","PI","nao_encontrado","","","",0
+"2210656","Sigefredo Pacheco","PI","nao_encontrado","","","",0
+"2210706","Simões","PI","nao_encontrado","","","",0
+"2210805","Simplício Mendes","PI","nao_encontrado","","","",0
+"2210938","Sussuapara","PI","nao_encontrado","","","",0
+"2210953","Tamboril do Piauí","PI","nao_encontrado","","","",0
+"2210979","Tanque do Piauí","PI","nao_encontrado","","","",0
+"2211209","Uruçuí","PI","nao_encontrado","","","",0
+"2211357","Várzea Branca","PI","nao_encontrado","","","",0
+"2211407","Várzea Grande","PI","nao_encontrado","","","",0
+"2211605","Vila Nova do Piauí","PI","nao_encontrado","","","",0
+"2211704","Wall Ferraz","PI","nao_encontrado","","","",0
+"2300408","Aiuaba","CE","nao_encontrado","","","",0
+"2300606","Altaneira","CE","nao_encontrado","","","",0
+"2300804","Antonina do Norte","CE","nao_encontrado","","","",0
+"2301307","Araripe","CE","nao_encontrado","","","",0
+"2301604","Assaré","CE","nao_encontrado","","","",0
+"2301703","Aurora","CE","nao_encontrado","","","",0
+"2301802","Baixio","CE","nao_encontrado","","","",0
+"2302057","Barroquinha","CE","nao_encontrado","","","",0
+"2303006","Caridade","CE","nao_encontrado","","","",0
+"2303931","Choró","CE","nao_encontrado","","","",0
+"2303956","Chorozinho","CE","nao_encontrado","","","",0
+"2304285","Eusébio","CE","nao_encontrado","","","",0
+"2304608","General Sampaio","CE","nao_encontrado","","","",0
+"2304954","Guaiúba","CE","nao_encontrado","","","",0
+"2305100","Guaramiranga","CE","nao_encontrado","","","",0
+"2305332","Ibicuitinga","CE","nao_encontrado","","","",0
+"2305654","Ipaporanga","CE","nao_encontrado","","","",0
+"2305803","Ipu","CE","nao_encontrado","","","",0
+"2306009","Iracema","CE","nao_encontrado","","","",0
+"2306553","Itarema","CE","nao_encontrado","","","",0
+"2306900","Jaguaribe","CE","nao_encontrado","","","",0
+"2307205","Jati","CE","nao_encontrado","","","",0
+"2309201","Nova Olinda","CE","nao_encontrado","","","",0
+"2309409","Novo Oriente","CE","nao_encontrado","","","",0
+"2310902","Piquet Carneiro","CE","nao_encontrado","","","",0
+"2310951","Pires Ferreira","CE","nao_encontrado","","","",0
+"2311207","Potengi","CE","nao_encontrado","","","",0
+"2311231","Potiretama","CE","nao_encontrado","","","",0
+"2311504","Quixeré","CE","nao_encontrado","","","",0
+"2311959","Salitre","CE","nao_encontrado","","","",0
+"2312106","Santana do Cariri","CE","nao_encontrado","","","",0
+"2313559","Tururu","CE","nao_encontrado","","","",0
+"2313609","Ubajara","CE","nao_encontrado","","","",0
+"2313708","Umari","CE","nao_encontrado","","","",0
+"2313757","Umirim","CE","nao_encontrado","","","",0
+"2408409","Olho d'Água do Borges","RN","nao_encontrado","","","",0
+"2411809","São Fernando","RN","nao_encontrado","","","",0
+"2501351","Assunção","PB","nao_encontrado","","","",0
+"2501708","Barra de São Miguel","PB","nao_encontrado","","","",0
+"2502409","Bonito de Santa Fé","PB","nao_encontrado","","","",0
+"2503407","Cacimba de Areia","PB","nao_encontrado","","","",0
+"2505279","Curral de Cima","PB","nao_encontrado","","","",0
+"2510600","Ouro Velho","PB","nao_encontrado","","","",0
+"2511004","Pedra Branca","PB","nao_encontrado","","","",0
+"2512200","Prata","PB","rejeitado","File:Brasão do Município de Prata, Paraíba.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_Munic%C3%ADpio_de_Prata,_Para%C3%ADba.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"2514305","São José de Caiana","PB","nao_encontrado","","","",0
+"2601805","Betânia","PE","rejeitado","File:Brasao Betania.svg","https://commons.wikimedia.org/wiki/File:Brasao_Betania.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"2602308","Bonito","PE","rejeitado","File:Brasao Bonito.svg","https://commons.wikimedia.org/wiki/File:Brasao_Bonito.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"2602407","Brejão","PE","rejeitado","File:Brasao brejao.svg","https://commons.wikimedia.org/wiki/File:Brasao_brejao.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"2602704","Buenos Aires","PE","rejeitado","File:Brasão de Buenos Aires, PE.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Buenos_Aires,_PE.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"2603454","Camaragibe","PE","nao_encontrado","","","",0
+"2604304","Cedro","PE","nao_encontrado","","","",0
+"2604502","Chã Grande","PE","nao_encontrado","","","",0
+"2605103","Custódia","PE","nao_encontrado","File:Brasão de Custódia, PE.jpg","","",0
+"2605459","Fernando de Noronha","PE","rejeitado","File:Coat of Arms of Fernando de Noronha.svg","https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Fernando_de_Noronha.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"2606903","Iguaracy","PE","nao_encontrado","","","",0
+"2607505","Itaíba","PE","nao_encontrado","","","",0
+"2607703","Itapetim","PE","rejeitado","File:Brasão de Itapetim,Pernambuco.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Itapetim,Pernambuco.svg","Validação automática de segurança: Formato de imagem não permitido",0
+"2608008","Jataúba","PE","nao_encontrado","","","",0
+"2608107","João Alfredo","PE","nao_encontrado","","","",0
+"2608206","Joaquim Nabuco","PE","nao_encontrado","","","",0
+"2608404","Jurema","PE","nao_encontrado","","","",0
+"2609006","Macaparana","PE","nao_encontrado","","","",0
+"2609154","Manari","PE","nao_encontrado","","","",0
+"2609204","Maraial","PE","nao_encontrado","","","",0
+"2610301","Paranatama","PE","nao_encontrado","","","",0
+"2610806","Pedra","PE","nao_encontrado","","","",0
+"2611705","Riacho das Almas","PE","nao_encontrado","","","",0
+"2611903","Rio Formoso","PE","nao_encontrado","","","",0
+"2612109","Salgadinho","PE","nao_encontrado","","","",0
+"2612455","Santa Cruz","PE","nao_encontrado","","","",0
+"2612554","Santa Filomena","PE","nao_encontrado","","","",0
+"2612901","São Benedito do Sul","PE","nao_encontrado","","","",0
+"2613107","São Caitano","PE","nao_encontrado","","","",0
+"2614006","Serrita","PE","nao_encontrado","","","",0
+"2614303","Moreilândia","PE","nao_encontrado","","","",0
+"2615201","Terra Nova","PE","nao_encontrado","","","",0
+"2615300","Timbaúba","PE","licenca_pendente","File:Bandeira de Timbaúba PE.jpg","https://commons.wikimedia.org/wiki/File:Bandeira_de_Timba%C3%BAba_PE.jpg","",0
+"2615409","Toritama","PE","nao_encontrado","","","",0
+"2615607","Trindade","PE","nao_encontrado","","","",0
+"2700409","Atalaia","AL","licenca_pendente","File:Brasão de Atalaia AL.jpg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Atalaia_AL.jpg","",0
+"2701001","Boca da Mata","AL","nao_encontrado","","","",0
+"2701100","Branquinha","AL","rejeitado","File:Brasão de Branquinha Alagoas.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Branquinha_Alagoas.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"2701506","Campo Grande","AL","nao_encontrado","","","",0
+"2701605","Canapi","AL","nao_encontrado","","","",0
+"2702553","Estrela de Alagoas","AL","nao_encontrado","","","",0
+"2702603","Feira Grande","AL","nao_encontrado","","","",0
+"2702702","Feliz Deserto","AL","nao_encontrado","","","",0
+"2703205","Igreja Nova","AL","nao_encontrado","","","",0
+"2703403","Jacaré dos Homens","AL","nao_encontrado","","","",0
+"2703809","Joaquim Gomes","AL","nao_encontrado","","","",0
+"2703908","Jundiá","AL","nao_encontrado","","","",0
+"2704005","Junqueiro","AL","nao_encontrado","","","",0
+"2704401","Major Isidoro","AL","nao_encontrado","","","",0
+"2704609","Maravilha","AL","nao_encontrado","","","",0
+"2704807","Maribondo","AL","nao_encontrado","","","",0
+"2704906","Mar Vermelho","AL","nao_encontrado","","","",0
+"2705002","Mata Grande","AL","nao_encontrado","","","",0
+"2705200","Messias","AL","nao_encontrado","","","",0
+"2705408","Monteirópolis","AL","nao_encontrado","","","",0
+"2705804","Olho d'Água do Casado","AL","nao_encontrado","","","",0
+"2706208","Palestina","AL","rejeitado","File:Brasão de Palestina Alagoas.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Palestina_Alagoas.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"2706422","Pariconha","AL","nao_encontrado","","","",0
+"2706505","Passo de Camaragibe","AL","nao_encontrado","","","",0
+"2706604","Paulo Jacinto","AL","rejeitado","File:Paulo Jacinto (AL).tif","https://commons.wikimedia.org/wiki/File:Paulo_Jacinto_(AL).tif","Validação automática de segurança: Formato de imagem não permitido",0
+"2706901","Pilar","AL","nao_encontrado","","","",0
+"2707008","Pindoba","AL","nao_encontrado","","","",0
+"2707305","Porto Calvo","AL","nao_encontrado","","","",0
+"2707701","Rio Largo","AL","nao_encontrado","","","",0
+"2707800","Roteiro","AL","nao_encontrado","","","",0
+"2708204","São Brás","AL","nao_encontrado","","","",0
+"2708402","São José da Tapera","AL","nao_encontrado","","","",0
+"2708709","São Miguel dos Milagres","AL","nao_encontrado","","","",0
+"2708808","São Sebastião","AL","nao_encontrado","","","",0
+"2709004","Tanque d'Arca","AL","nao_encontrado","","","",0
+"2804201","Monte Alegre de Sergipe","SE","nao_encontrado","","","",0
+"2805000","Pedra Mole","SE","nao_encontrado","File:Brasão Pedra Mole.jpg","","",0
+"2806008","Ribeirópolis","SE","nao_encontrado","","","",0
+"2807402","Tobias Barreto","SE","nao_encontrado","","","",0
+"2900405","Água Fria","BA","nao_encontrado","","","",0
+"2901007","Amargosa","BA","nao_encontrado","","","",0
+"2904852","Cabaceiras do Paraguaçu","BA","nao_encontrado","File:Brasão Cabaceiras do Paraguaçu BA.jpg","","",0
+"2905156","Caetanos","BA","nao_encontrado","","","",0
+"2906105","Canápolis","BA","nao_encontrado","","","",0
+"2907004","Cardeal da Silva","BA","nao_encontrado","","","",0
+"2908804","Contendas do Sincorá","BA","nao_encontrado","","","",0
+"2909406","Cotegipe","BA","nao_encontrado","","","",0
+"2911907","Iaçu","BA","nao_encontrado","","","",0
+"2912707","Ibirapitanga","BA","nao_encontrado","","","",0
+"2914802","Itabuna","BA","rejeitado","File:BrasaoItabuna.svg","https://commons.wikimedia.org/wiki/File:BrasaoItabuna.svg","Validação automática de segurança: Imagem recusada pelo processador: Input buffer has corrupt header: glib: XML parse error: error code=201 (3) in (null):282:59: Namespace prefix sodipodi for nodetypes on path is not defined",0
+"2914901","Itacaré","BA","licenca_pendente","File:Brazaoibirapua.jpg","https://commons.wikimedia.org/wiki/File:Brazaoibirapua.jpg","",0
+"2915353","Itaguaçu da Bahia","BA","nao_encontrado","","","",0
+"2916906","Itiruçu","BA","nao_encontrado","","","",0
+"2917003","Itiúba","BA","nao_encontrado","","","",0
+"2917904","Jandaíra","BA","nao_encontrado","","","",0
+"2919058","Lajedo do Tabocal","BA","nao_encontrado","","","",0
+"2919603","Macajuba","BA","nao_encontrado","","","",0
+"2920007","Maiquinique","BA","nao_encontrado","File:Brasão Maiquinique.jpg","","",0
+"2921203","Miguel Calmon","BA","nao_encontrado","","","",0
+"2922250","Muquém do São Francisco","BA","nao_encontrado","","","",0
+"2928109","Santa Maria da Vitória","BA","nao_encontrado","","","",0
+"2929370","São José do Jacuípe","BA","nao_encontrado","","","",0
+"2929404","São Miguel das Matas","BA","nao_encontrado","","","",0
+"2929750","Saubara","BA","nao_encontrado","","","",0
+"2930758","Sítio do Mato","BA","nao_encontrado","","","",0
+"2931202","Taperoá","BA","nao_encontrado","","","",0
+"2931400","Teodoro Sampaio","BA","nao_encontrado","","","",0
+"2933109","Várzea do Poço","BA","nao_encontrado","","","",0
+"2933158","Várzea Nova","BA","rejeitado","File:BrasaoVN.svg","https://commons.wikimedia.org/wiki/File:BrasaoVN.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"2933406","Wagner","BA","nao_encontrado","","","",0
+"3102704","Cachoeira de Pajeú","MG","nao_encontrado","File:Brasão de Cachoeira de Pajeú.jpg","","",0
+"3114600","Carrancas","MG","nao_encontrado","File:Brasão de Carrancas.jpg","","",0
+"3115102","Cássia","MG","rejeitado","File:Brasao de Armas Cassia.svg","https://commons.wikimedia.org/wiki/File:Brasao_de_Armas_Cassia.svg","Validação automática de segurança: SVG contém conteúdo ativo ou recurso externo",0
+"3116506","Claro dos Poções","MG","nao_encontrado","","","",0
+"3124203","Espera Feliz","MG","rejeitado","File:Brasão de Armas do municipío de Espera Feliz.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Armas_do_municip%C3%ADo_de_Espera_Feliz.svg","Validação automática de segurança: Formato de imagem não permitido",0
+"3124906","Eugenópolis","MG","nao_encontrado","","","",0
+"3125507","São Gonçalo do Rio Preto","MG","nao_encontrado","","","",0
+"3126109","Formiga","MG","licenca_pendente","File:Brasaomunicipiodeformiga.jpg","https://commons.wikimedia.org/wiki/File:Brasaomunicipiodeformiga.jpg","",0
+"3127339","Gameleiras","MG","nao_encontrado","","","",0
+"3127701","Governador Valadares","MG","rejeitado","File:Brasao GovernadorValadares MinasGerais Brasil.svg","https://commons.wikimedia.org/wiki/File:Brasao_GovernadorValadares_MinasGerais_Brasil.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"3127800","Grão Mogol","MG","nao_encontrado","","","",0
+"3128105","Guapé","MG","rejeitado","File:Brasão de Guapé-MG.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Guap%C3%A9-MG.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"3128253","Guaraciama","MG","nao_encontrado","","","",0
+"3130556","Imbé de Minas","MG","nao_encontrado","File:Brasao de Imbé de Minas.png","","",0
+"3130705","Indianópolis","MG","nao_encontrado","","","",0
+"3131000","Inhaúma","MG","nao_encontrado","","","",0
+"3131109","Inimutaba","MG","nao_encontrado","","","",0
+"3132008","Itacambira","MG","nao_encontrado","","","",0
+"3132107","Itacarambi","MG","rejeitado","File:Brasão da Bandeira da Cidade de Itacarambi.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_da_Bandeira_da_Cidade_de_Itacarambi.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"3132800","Itambé do Mato Dentro","MG","nao_encontrado","","","",0
+"3132909","Itamogi","MG","nao_encontrado","","","",0
+"3133303","Itaobim","MG","rejeitado","File:Brasão Itaobim SVG 001.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_Itaobim_SVG_001.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"3133402","Itapagipe","MG","nao_encontrado","","","",0
+"3134301","Itumirim","MG","nao_encontrado","","","",0
+"3135076","Jampruca","MG","nao_encontrado","","","",0
+"3135456","Jenipapo de Minas","MG","nao_encontrado","","","",0
+"3135506","Jequeri","MG","nao_encontrado","","","",0
+"3135605","Jequitaí","MG","nao_encontrado","","","",0
+"3135704","Jequitibá","MG","nao_encontrado","","","",0
+"3136009","Joaíma","MG","nao_encontrado","","","",0
+"3136405","Joaquim Felício","MG","nao_encontrado","","","",0
+"3136504","Jordânia","MG","nao_encontrado","","","",0
+"3136520","José Gonçalves de Minas","MG","nao_encontrado","","","",0
+"3136579","Josenópolis","MG","nao_encontrado","","","",0
+"3136801","Juramento","MG","nao_encontrado","","","",0
+"3137205","Lagoa da Prata","MG","nao_encontrado","","","",0
+"3138005","Laranjal","MG","rejeitado","File:Brasão de Laranjal - MG.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Laranjal_-_MG.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"3138104","Lassance","MG","nao_encontrado","","","",0
+"3138302","Leandro Ferreira","MG","nao_encontrado","","","",0
+"3138351","Leme do Prado","MG","nao_encontrado","","","",0
+"3138682","Luislândia","MG","nao_encontrado","","","",0
+"3138708","Luminárias","MG","rejeitado","File:Brasao municipio luminarias minas gerais brasil.svg","https://commons.wikimedia.org/wiki/File:Brasao_municipio_luminarias_minas_gerais_brasil.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"3138906","Machacalis","MG","nao_encontrado","","","",0
+"3139201","Malacacheta","MG","nao_encontrado","","","",0
+"3139706","Maravilhas","MG","nao_encontrado","","","",0
+"3140100","Marilac","MG","nao_encontrado","","","",0
+"3140506","Martinho Campos","MG","nao_encontrado","","","",0
+"3140605","Materlândia","MG","nao_encontrado","","","",0
+"3140902","Matipó","MG","nao_encontrado","","","",0
+"3141306","Medeiros","MG","nao_encontrado","","","",0
+"3141504","Mendes Pimentel","MG","nao_encontrado","","","",0
+"3141801","Minas Novas","MG","nao_encontrado","","","",0
+"3142403","Moema","MG","nao_encontrado","","","",0
+"3142601","Monsenhor Paulo","MG","nao_encontrado","","","",0
+"3143153","Monte Formoso","MG","nao_encontrado","","","",0
+"3143609","Morro da Garça","MG","nao_encontrado","","","",0
+"3143708","Morro do Pilar","MG","nao_encontrado","","","",0
+"3143807","Munhoz","MG","nao_encontrado","","","",0
+"3144375","Natalândia","MG","nao_encontrado","","","",0
+"3144607","Nepomuceno","MG","nao_encontrado","","","",0
+"3144672","Nova Belém","MG","nao_encontrado","","","",0
+"3145372","Novorizonte","MG","nao_encontrado","","","",0
+"3145406","Olaria","MG","nao_encontrado","","","",0
+"3145455","Olhos-d'Água","MG","nao_encontrado","","","",0
+"3145703","Oliveira Fortes","MG","nao_encontrado","","","",0
+"3145877","Orizânia","MG","nao_encontrado","","","",0
+"3146206","Ouro Verde de Minas","MG","nao_encontrado","","","",0
+"3146255","Padre Carvalho","MG","nao_encontrado","","","",0
+"3146305","Padre Paraíso","MG","nao_encontrado","","","",0
+"3146404","Paineiras","MG","nao_encontrado","","","",0
+"3146552","Pai Pedro","MG","nao_encontrado","","","",0
+"3146602","Paiva","MG","nao_encontrado","","","",0
+"3146750","Palmópolis","MG","nao_encontrado","","","",0
+"3147956","Patis","MG","nao_encontrado","","","",0
+"3148608","Peçanha","MG","nao_encontrado","","","",0
+"3148756","Pedra Bonita","MG","nao_encontrado","","","",0
+"3148806","Pedra do Anta","MG","nao_encontrado","","","",0
+"3148905","Pedra do Indaiá","MG","nao_encontrado","","","",0
+"3149002","Pedra Dourada","MG","nao_encontrado","","","",0
+"3149150","Pedras de Maria da Cruz","MG","nao_encontrado","","","",0
+"3149200","Pedrinópolis","MG","nao_encontrado","","","",0
+"3149408","Pedro Teixeira","MG","nao_encontrado","","","",0
+"3149606","Pequi","MG","nao_encontrado","","","",0
+"3149705","Perdigão","MG","nao_encontrado","","","",0
+"3150109","Piau","MG","nao_encontrado","","","",0
+"3150158","Piedade de Caratinga","MG","nao_encontrado","","","",0
+"3150406","Piedade dos Gerais","MG","nao_encontrado","","","",0
+"3150539","Pingo-d'Água","MG","nao_encontrado","File:Brasão de Pingo-d'Água MG.png","","",0
+"3150570","Pintópolis","MG","nao_encontrado","","","",0
+"3152131","Ponto Chique","MG","nao_encontrado","","","",0
+"3152303","Porto Firme","MG","nao_encontrado","","","",0
+"3153103","Presidente Bernardes","MG","nao_encontrado","","","",0
+"3153202","Presidente Juscelino","MG","nao_encontrado","","","",0
+"3153806","Queluzito","MG","nao_encontrado","","","",0
+"3154457","Riachinho","MG","nao_encontrado","","","",0
+"3154507","Riacho dos Machados","MG","nao_encontrado","","","",0
+"3154705","Ribeirão Vermelho","MG","nao_encontrado","","","",0
+"3155207","Rio Espera","MG","nao_encontrado","","","",0
+"3156304","Rodeiro","MG","nao_encontrado","","","",0
+"3156452","Rosário da Limeira","MG","nao_encontrado","","","",0
+"3157104","Salto da Divisa","MG","nao_encontrado","","","",0
+"3157302","Santa Bárbara do Tugúrio","MG","nao_encontrado","","","",0
+"3157336","Santa Cruz de Minas","MG","nao_encontrado","","","",0
+"3157377","Santa Cruz de Salinas","MG","nao_encontrado","","","",0
+"3158508","Santana de Pirapama","MG","nao_encontrado","","","",0
+"3158607","Santana do Deserto","MG","nao_encontrado","","","",0
+"3158953","Santana do Paraíso","MG","nao_encontrado","File:Brasão de Santana do Paraíso MG.jpg","","",0
+"3159407","Santa Rita de Ibitipoca","MG","nao_encontrado","","","",0
+"3159704","Santa Rosa da Serra","MG","nao_encontrado","","","",0
+"3160009","Santo Antônio do Aventureiro","MG","nao_encontrado","","","",0
+"3160454","Santo Antônio do Retiro","MG","nao_encontrado","","","",0
+"3161304","São Francisco de Sales","MG","nao_encontrado","","","",0
+"3161403","São Francisco do Glória","MG","nao_encontrado","","","",0
+"3161601","São Geraldo da Piedade","MG","nao_encontrado","","","",0
+"3161700","São Gonçalo do Abaeté","MG","nao_encontrado","","","",0
+"3162203","São João Batista do Glória","MG","nao_encontrado","","","",0
+"3162252","São João da Lagoa","MG","nao_encontrado","","","",0
+"3162401","São João da Ponte","MG","nao_encontrado","","","",0
+"3162450","São João das Missões","MG","nao_encontrado","","","",0
+"3162575","São João do Manteninha","MG","nao_encontrado","","","",0
+"3162658","São João do Pacuí","MG","nao_encontrado","","","",0
+"3163805","São Miguel do Anta","MG","nao_encontrado","","","",0
+"3163904","São Pedro da União","MG","nao_encontrado","","","",0
+"3164308","São Roque de Minas","MG","nao_encontrado","","","",0
+"3164472","São Sebastião do Anta","MG","nao_encontrado","","","",0
+"3164506","São Sebastião do Maranhão","MG","nao_encontrado","","","",0
+"3164605","São Sebastião do Oeste","MG","nao_encontrado","","","",0
+"3164803","São Sebastião do Rio Preto","MG","nao_encontrado","","","",0
+"3165107","São Tomás de Aquino","MG","nao_encontrado","","","",0
+"3165909","Senador Modestino Gonçalves","MG","nao_encontrado","","","",0
+"3166501","Serra Azul de Minas","MG","nao_encontrado","","","",0
+"3166808","Serra do Salitre","MG","nao_encontrado","","","",0
+"3166956","Serranópolis de Minas","MG","nao_encontrado","","","",0
+"3167004","Serranos","MG","nao_encontrado","","","",0
+"3167400","Silvianópolis","MG","nao_encontrado","","","",0
+"3167509","Simão Pereira","MG","nao_encontrado","","","",0
+"3168200","Tapiraí","MG","nao_encontrado","","","",0
+"3169000","Tocantins","MG","nao_encontrado","","","",0
+"3169109","Toledo","MG","nao_encontrado","","","",0
+"3169802","Turvolândia","MG","nao_encontrado","","","",0
+"3170479","Uruana de Minas","MG","nao_encontrado","","","",0
+"3170602","Vargem Bonita","MG","nao_encontrado","","","",0
+"3170651","Vargem Grande do Rio Pardo","MG","nao_encontrado","","","",0
+"3170750","Varjão de Minas","MG","nao_encontrado","","","",0
+"3171030","Verdelândia","MG","nao_encontrado","","","",0
+"3171105","Veríssimo","MG","nao_encontrado","","","",0
+"3171808","Virginópolis","MG","nao_encontrado","","","",0
+"3171907","Virgolândia","MG","nao_encontrado","","","",0
+"3172103","Volta Grande","MG","nao_encontrado","","","",0
+"3201803","Divino de São Lourenço","ES","nao_encontrado","","","",0
+"3302502","Magé","RJ","rejeitado","File:Brasão de Magé, RJ.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Mag%C3%A9,_RJ.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"3303609","Paracambi","RJ","rejeitado","File:Paracambi brasao.svg","https://commons.wikimedia.org/wiki/File:Paracambi_brasao.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"3500204","Adolfo","SP","nao_encontrado","","","",0
+"3500758","Alambari","SP","nao_encontrado","File:Brasao Alambari.jpg","","",0
+"3503307","Araras","SP","rejeitado","File:Brasão de Araras.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Araras.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"3504602","Bady Bassitt","SP","rejeitado","File:Brasao BadyBassit SaoPaulo Brasil.svg","https://commons.wikimedia.org/wiki/File:Brasao_BadyBassit_SaoPaulo_Brasil.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"3509254","Cajati","SP","nao_encontrado","","","",0
+"3510153","Canitar","SP","nao_encontrado","","","",0
+"3512001","Colina","SP","nao_encontrado","","","",0
+"3515129","Emilianópolis","SP","nao_encontrado","","","",0
+"3515350","Euclides da Cunha Paulista","SP","nao_encontrado","","","",0
+"3517901","Guaraci","SP","rejeitado","File:Brasaoguaraci.svg","https://commons.wikimedia.org/wiki/File:Brasaoguaraci.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"3522703","Itápolis","SP","licenca_pendente","File:Itápolisbrasão.jpg","https://commons.wikimedia.org/wiki/File:It%C3%A1polisbras%C3%A3o.jpg","",0
+"3523404","Itatiba","SP","rejeitado","File:Brasão do Município de Itatiba-SP.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_do_Munic%C3%ADpio_de_Itatiba-SP.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"3525409","Jeriquara","SP","nao_encontrado","","","",0
+"3525854","Jumirim","SP","nao_encontrado","","","",0
+"3526100","Juquiá","SP","nao_encontrado","","","",0
+"3526407","Laranjal Paulista","SP","rejeitado","File:Brasão de Laranjal Paulista.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Laranjal_Paulista.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"3526704","Leme","SP","rejeitado","File:Brasao Leme SaoPaulo Brasil.svg","https://commons.wikimedia.org/wiki/File:Brasao_Leme_SaoPaulo_Brasil.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"3526902","Limeira","SP","rejeitado","File:Brasao Limeira SaoPaulo Brasil.svg","https://commons.wikimedia.org/wiki/File:Brasao_Limeira_SaoPaulo_Brasil.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"3532843","Nova Canaã Paulista","SP","nao_encontrado","","","",0
+"3537602","Peruíbe","SP","rejeitado","File:Brasao Peruibe SaoPaulo Brasil.svg","https://commons.wikimedia.org/wiki/File:Brasao_Peruibe_SaoPaulo_Brasil.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"3540507","Porangaba","SP","nao_encontrado","","","",0
+"3543907","Rio Claro","SP","rejeitado","File:Coat of arms of Rio Claro (São Paulo).svg","https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Rio_Claro_(S%C3%A3o_Paulo).svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"3546207","Santa Cruz da Conceição","SP","nao_encontrado","","","",0
+"3548500","Santos","SP","rejeitado","File:Brasao Santos SaoPaulo Brasil.svg","https://commons.wikimedia.org/wiki/File:Brasao_Santos_SaoPaulo_Brasil.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"3548807","São Caetano do Sul","SP","rejeitado","File:Brasao SaoCaetano SaoPaulo Brasil.svg","https://commons.wikimedia.org/wiki/File:Brasao_SaoCaetano_SaoPaulo_Brasil.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"3549003","São Francisco","SP","nao_encontrado","","","",0
+"3550308","São Paulo","SP","rejeitado","File:Brasão da cidade de São Paulo.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_da_cidade_de_S%C3%A3o_Paulo.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"3555356","Ubarana","SP","nao_encontrado","","","",0
+"3556602","Vera Cruz","SP","nao_encontrado","","","",0
+"4101051","Anahy","PR","nao_encontrado","","","",0
+"4102703","Barra do Jacaré","PR","nao_encontrado","","","",0
+"4102752","Bela Vista da Caroba","PR","nao_encontrado","","","",0
+"4103107","Bocaiúva do Sul","PR","rejeitado","File:Brasao BocaiuvadoSul Parana Brasil.svg","https://commons.wikimedia.org/wiki/File:Brasao_BocaiuvadoSul_Parana_Brasil.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"4103206","Bom Sucesso","PR","nao_encontrado","","","",0
+"4103479","Cafezal do Sul","PR","nao_encontrado","","","",0
+"4103800","Cambira","PR","nao_encontrado","","","",0
+"4104105","Campo do Tenente","PR","nao_encontrado","","","",0
+"4104907","Castro","PR","rejeitado","File:Brasao Castro Parana Brasil.svg","https://commons.wikimedia.org/wiki/File:Brasao_Castro_Parana_Brasil.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"4105706","Clevelândia","PR","nao_encontrado","","","",0
+"4105904","Colorado","PR","nao_encontrado","","","",0
+"4106407","Cornélio Procópio","PR","rejeitado","File:Brasao CornelioProcopio Parana Brasil.svg","https://commons.wikimedia.org/wiki/File:Brasao_CornelioProcopio_Parana_Brasil.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"4106456","Coronel Domingos Soares","PR","nao_encontrado","","","",0
+"4106506","Coronel Vivida","PR","nao_encontrado","","","",0
+"4106555","Corumbataí do Sul","PR","nao_encontrado","","","",0
+"4106605","Cruzeiro do Oeste","PR","nao_encontrado","","","",0
+"4106852","Cruzmaltina","PR","nao_encontrado","","","",0
+"4107108","Diamante do Norte","PR","nao_encontrado","","","",0
+"4107157","Diamante D'Oeste","PR","nao_encontrado","","","",0
+"4107538","Entre Rios do Oeste","PR","nao_encontrado","","","",0
+"4107736","Fernandes Pinheiro","PR","nao_encontrado","","","",0
+"4108551","Godoy Moreira","PR","nao_encontrado","","","",0
+"4108601","Goioerê","PR","rejeitado","File:Brasão de Goioerê.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Goioer%C3%AA.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"4109005","Guapirama","PR","nao_encontrado","","","",0
+"4109807","Ibiporã","PR","nao_encontrado","","","",0
+"4110300","Inajá","PR","nao_encontrado","","","",0
+"4110904","Itaguajé","PR","nao_encontrado","","","",0
+"4111001","Itambaracá","PR","nao_encontrado","","","",0
+"4111209","Itapejara d'Oeste","PR","licenca_pendente","File:Brasão de Itapejara d'Oeste.png","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Itapejara_d%27Oeste.png","",0
+"4111258","Itaperuçu","PR","nao_encontrado","","","",0
+"4111308","Itaúna do Sul","PR","nao_encontrado","","","",0
+"4113700","Londrina","PR","rejeitado","File:Brasao Londrina Parana Brasil.svg","https://commons.wikimedia.org/wiki/File:Brasao_Londrina_Parana_Brasil.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"4114708","Maria Helena","PR","nao_encontrado","","","",0
+"4115309","Mariópolis","PR","nao_encontrado","","","",0
+"4115358","Maripá","PR","nao_encontrado","","","",0
+"4115507","Marumbi","PR","nao_encontrado","","","",0
+"4115739","Mato Rico","PR","nao_encontrado","","","",0
+"4115754","Mauá da Serra","PR","nao_encontrado","","","",0
+"4116307","Munhoz de Melo","PR","nao_encontrado","","","",0
+"4116406","Nossa Senhora das Graças","PR","nao_encontrado","","","",0
+"4116604","Nova América da Colina","PR","nao_encontrado","","","",0
+"4116950","Nova Esperança do Sudoeste","PR","nao_encontrado","","","",0
+"4117008","Nova Fátima","PR","nao_encontrado","","","",0
+"4117214","Nova Santa Bárbara","PR","nao_encontrado","","","",0
+"4117404","Ourizona","PR","nao_encontrado","","","",0
+"4118006","Paraíso do Norte","PR","nao_encontrado","","","",0
+"4118303","Paranapoema","PR","nao_encontrado","","","",0
+"4118600","Paula Freitas","PR","nao_encontrado","","","",0
+"4118709","Paulo Frontin","PR","nao_encontrado","File:Brasão de Paulo Frontin, PR.png","","",0
+"4119509","Piraquara","PR","licenca_pendente","File:Brasão de Piraquara.jpg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Piraquara.jpg","",0
+"4119707","Planaltina do Paraná","PR","nao_encontrado","","","",0
+"4120309","Porto Vitória","PR","nao_encontrado","","","",0
+"4120333","Prado Ferreira","PR","nao_encontrado","File:Brasão de Prado Ferreira.jpg","","",0
+"4120358","Pranchita","PR","nao_encontrado","","","",0
+"4120408","Presidente Castelo Branco","PR","nao_encontrado","","","",0
+"4120606","Prudentópolis","PR","nao_encontrado","","","",0
+"4120853","Quatro Pontes","PR","nao_encontrado","","","",0
+"4121257","Ramilândia","PR","nao_encontrado","","","",0
+"4121307","Rancho Alegre","PR","nao_encontrado","","","",0
+"4121356","Rancho Alegre D'Oeste","PR","nao_encontrado","","","",0
+"4121604","Renascença","PR","nao_encontrado","","","",0
+"4122107","Rio Bom","PR","nao_encontrado","","","",0
+"4122503","Roncador","PR","nao_encontrado","","","",0
+"4122800","Salgado Filho","PR","nao_encontrado","","","",0
+"4123105","Santa Amélia","PR","nao_encontrado","","","",0
+"4123956","Santa Mônica","PR","nao_encontrado","","","",0
+"4124053","Santa Terezinha de Itaipu","PR","nao_encontrado","","","",0
+"4124509","Santo Inácio","PR","nao_encontrado","","","",0
+"4124806","São João","PR","nao_encontrado","","","",0
+"4124905","São João do Caiuá","PR","nao_encontrado","","","",0
+"4125001","São João do Ivaí","PR","nao_encontrado","","","",0
+"4125308","São Jorge do Ivaí","PR","nao_encontrado","","","",0
+"4125456","São José das Palmeiras","PR","nao_encontrado","","","",0
+"4125753","São Pedro do Iguaçu","PR","nao_encontrado","","","",0
+"4126108","São Tomé","PR","nao_encontrado","","","",0
+"4126272","Saudade do Iguaçu","PR","rejeitado","File:Brasão-De-Armas-de-Saudade-Do-Iguaçu.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o-De-Armas-de-Saudade-Do-Igua%C3%A7u.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"4126355","Serranópolis do Iguaçu","PR","nao_encontrado","","","",0
+"4126702","Tamboara","PR","nao_encontrado","","","",0
+"4126801","Tapejara","PR","nao_encontrado","","","",0
+"4127007","Teixeira Soares","PR","nao_encontrado","","","",0
+"4127908","Tuneiras do Oeste","PR","nao_encontrado","","","",0
+"4128302","Uniflor","PR","nao_encontrado","","","",0
+"4128625","Alto Paraíso","PR","nao_encontrado","","","",0
+"4128633","Doutor Ulysses","PR","nao_encontrado","","","",0
+"4202404","Blumenau","SC","rejeitado","File:Coat of arms of Blumenau.svg","https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Blumenau.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"4204301","Concórdia","SC","rejeitado","File:Brasao Concordia SantaCatarina Brasil.svg","https://commons.wikimedia.org/wiki/File:Brasao_Concordia_SantaCatarina_Brasil.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"4205704","Garopaba","SC","rejeitado","File:Brasao Garopaba SantaCatarina Brasil.jpg","https://commons.wikimedia.org/wiki/File:Brasao_Garopaba_SantaCatarina_Brasil.jpg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"4208906","Jaraguá do Sul","SC","rejeitado","File:Brasao JaraguadoSul SantaCatarina Brasil.svg","https://commons.wikimedia.org/wiki/File:Brasao_JaraguadoSul_SantaCatarina_Brasil.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"4215059","Rio Rufino","SC","nao_encontrado","","","",0
+"4300604","Alvorada","RS","rejeitado","File:Brasão de Alvorada RS.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Alvorada_RS.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"4302105","Bento Gonçalves","RS","rejeitado","File:Brasão de Bento Gonçalves.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Bento_Gon%C3%A7alves.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"4308508","Frederico Westphalen","RS","licenca_pendente","File:Coat of Arms Frederico Westphalen.jpg","https://commons.wikimedia.org/wiki/File:Coat_of_Arms_Frederico_Westphalen.jpg","",0
+"4313011","Nova Candelária","RS","nao_encontrado","File:Brasão de Nova Candelária.jpg","","",0
+"4313490","Novo Barreiro","RS","desatualizado","File:Trecho da RS-569 em Novo Barreiro.jpg","https://commons.wikimedia.org/wiki/File:Trecho_da_RS-569_em_Novo_Barreiro.jpg","Download pendente: Timeout awaiting 'request' for 15000ms | Download adiado para revisão após 3 falhas transitórias",3
+"4314555","Pirapó","RS","rejeitado","File:Brasão de Pirapó.svg","https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Pirap%C3%B3.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"4314787","Ponte Preta","RS","nao_encontrado","","","",0
+"4319307","São Paulo das Missões","RS","nao_encontrado","","","",0
+"4320354","Sentinela do Sul","RS","nao_encontrado","","","",0
+"4321105","Tapes","RS","licenca_pendente","File:Brasaotapes.jpg","https://commons.wikimedia.org/wiki/File:Brasaotapes.jpg","",0
+"4321634","Três Arroios","RS","nao_encontrado","","","",0
+"4322525","Vale Verde","RS","nao_encontrado","","","",0
+"4322707","Vera Cruz","RS","licenca_pendente","File:Brasao VeraCruz.png","https://commons.wikimedia.org/wiki/File:Brasao_VeraCruz.png","",0
+"4323507","Vista Alegre","RS","nao_encontrado","","","",0
+"5000609","Amambai","MS","nao_encontrado","","","",0
+"5000708","Anastácio","MS","nao_encontrado","","","",0
+"5000807","Anaurilândia","MS","nao_encontrado","","","",0
+"5000856","Angélica","MS","nao_encontrado","","","",0
+"5000906","Antônio João","MS","nao_encontrado","","","",0
+"5002100","Bela Vista","MS","nao_encontrado","File:Brasão de Bela Vista, MS.jpg","","",0
+"5002308","Brasilândia","MS","nao_encontrado","","","",0
+"5002803","Caracol","MS","nao_encontrado","","","",0
+"5002902","Cassilândia","MS","nao_encontrado","","","",0
+"5003108","Corguinho","MS","nao_encontrado","","","",0
+"5003157","Coronel Sapucaia","MS","nao_encontrado","","","",0
+"5003504","Douradina","MS","nao_encontrado","","","",0
+"5003702","Dourados","MS","rejeitado","File:Brasao Dourados MatoGrossodoSul Brasil.svg","https://commons.wikimedia.org/wiki/File:Brasao_Dourados_MatoGrossodoSul_Brasil.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"5003751","Eldorado","MS","nao_encontrado","","","",0
+"5003900","Figueirão","MS","nao_encontrado","","","",0
+"5004601","Itaquiraí","MS","nao_encontrado","","","",0
+"5004700","Ivinhema","MS","nao_encontrado","","","",0
+"5004908","Jaraguari","MS","nao_encontrado","","","",0
+"5005152","Juti","MS","nao_encontrado","","","",0
+"5005251","Laguna Carapã","MS","nao_encontrado","","","",0
+"5005400","Maracaju","MS","nao_encontrado","","","",0
+"5005806","Nioaque","MS","rejeitado","File:Bandeira de Nioaque MS.svg","https://commons.wikimedia.org/wiki/File:Bandeira_de_Nioaque_MS.svg","Validação automática de segurança: Imagem recusada pelo processador: Input image exceeds pixel limit",0
+"5006002","Nova Alvorada do Sul","MS","nao_encontrado","","","",0
+"5006275","Paraíso das Águas","MS","nao_encontrado","","","",0
+"5006358","Paranhos","MS","nao_encontrado","","","",0
+"5006903","Porto Murtinho","MS","nao_encontrado","","","",0
+"5007208","Rio Brilhante","MS","nao_encontrado","","","",0
+"5007505","Rochedo","MS","nao_encontrado","","","",0
+"5007554","Santa Rita do Pardo","MS","nao_encontrado","","","",0
+"5007950","Tacuru","MS","nao_encontrado","","","",0
+"5007976","Taquarussu","MS","nao_encontrado","","","",0
+"5102850","Castanheira","MT","nao_encontrado","","","",0
+"5103056","Cláudia","MT","nao_encontrado","","","",0
+"5103106","Cocalinho","MT","nao_encontrado","","","",0
+"5103437","Curvelândia","MT","nao_encontrado","","","",0
+"5103858","Gaúcha do Norte","MT","nao_encontrado","","","",0
+"5103908","General Carneiro","MT","nao_encontrado","","","",0
+"5103957","Glória D'Oeste","MT","nao_encontrado","","","",0
+"5104203","Guiratinga","MT","nao_encontrado","","","",0
+"5104500","Indiavaí","MT","nao_encontrado","","","",0
+"5104542","Itanhangá","MT","nao_encontrado","","","",0
+"5104559","Itaúba","MT","nao_encontrado","","","",0
+"5104906","Jangada","MT","nao_encontrado","","","",0
+"5105176","Juruena","MT","nao_encontrado","","","",0
+"5105200","Juscimeira","MT","nao_encontrado","","","",0
+"5105234","Lambari D'Oeste","MT","nao_encontrado","","","",0
+"5105903","Nobres","MT","nao_encontrado","","","",0
+"5106000","Nortelândia","MT","nao_encontrado","File:Brasao nortelandia.jpg","","",0
+"5106174","Nova Nazaré","MT","nao_encontrado","","","",0
+"5106190","Nova Santa Helena","MT","nao_encontrado","","","",0
+"5106208","Nova Brasilândia","MT","nao_encontrado","","","",0
+"5106240","Nova Ubiratã","MT","nao_encontrado","","","",0
+"5106315","Novo Santo Antônio","MT","nao_encontrado","","","",0
+"5106455","Planalto da Serra","MT","nao_encontrado","","","",0
+"5106505","Poconé","MT","nao_encontrado","File:Brasão Poconé.jpg","","",0
+"5106653","Pontal do Araguaia","MT","nao_encontrado","","","",0
+"5106802","Porto dos Gaúchos","MT","nao_encontrado","","","",0
+"5107065","Querência","MT","nao_encontrado","","","",0
+"5107198","Ribeirãozinho","MT","nao_encontrado","","","",0
+"5107206","Rio Branco","MT","nao_encontrado","File:Bandeira de Rio Branco - MT","","",0
+"5107248","Santa Carmem","MT","nao_encontrado","","","",0
+"5107263","Santo Afonso","MT","nao_encontrado","","","",0
+"5107354","São José do Xingu","MT","nao_encontrado","","","",0
+"5107404","São Pedro da Cipa","MT","nao_encontrado","","","",0
+"5107743","Santa Cruz do Xingu","MT","nao_encontrado","","","",0
+"5107750","Salto do Céu","MT","nao_encontrado","","","",0
+"5107776","Santa Terezinha","MT","nao_encontrado","","","",0
+"5107859","São Félix do Araguaia","MT","nao_encontrado","","","",0
+"5107883","Serra Nova Dourada","MT","nao_encontrado","","","",0
+"5107941","Tabaporã","MT","nao_encontrado","","","",0
+"5108055","Terra Nova do Norte","MT","nao_encontrado","","","",0
+"5108204","Torixoréu","MT","nao_encontrado","","","",0
+"5108303","União do Sul","MT","nao_encontrado","","","",0
+"5108808","Nova Guarita","MT","nao_encontrado","","","",0
+"5108857","Nova Marilândia","MT","nao_encontrado","","","",0
+"5108907","Nova Maringá","MT","nao_encontrado","","","",0
+"5200506","Aloândia","GO","nao_encontrado","","","",0
+"5200902","Amorinópolis","GO","nao_encontrado","","","",0
+"5201504","Aporé","GO","nao_encontrado","","","",0
+"5201702","Aragarças","GO","nao_encontrado","","","",0
+"5203401","Bom Jardim de Goiás","GO","nao_encontrado","","","",0
+"5203906","Buriti Alegre","GO","nao_encontrado","","","",0
+"5204102","Cachoeira Alta","GO","nao_encontrado","","","",0
+"5204250","Cachoeira Dourada","GO","nao_encontrado","","","",0
+"5204300","Caçu","GO","nao_encontrado","","","",0
+"5204854","Campo Limpo de Goiás","GO","nao_encontrado","","","",0
+"5205406","Ceres","GO","nao_encontrado","","","",0
+"5205471","Chapadão do Céu","GO","nao_encontrado","","","",0
+"5206503","Cromínia","GO","nao_encontrado","","","",0
+"5206602","Cumari","GO","nao_encontrado","","","",0
+"5207402","Edéia","GO","nao_encontrado","","","",0
+"5207907","Flores de Goiás","GO","nao_encontrado","","","",0
+"5209200","Guapó","GO","nao_encontrado","","","",0
+"5209291","Guaraíta","GO","nao_encontrado","","","",0
+"5209457","Guarinos","GO","nao_encontrado","","","",0
+"5209804","Hidrolina","GO","nao_encontrado","","","",0
+"5209937","Inaciolândia","GO","nao_encontrado","","","",0
+"5210604","Itaguaru","GO","nao_encontrado","","","",0
+"5210901","Itapaci","GO","nao_encontrado","","","",0
+"5211404","Itauçu","GO","nao_encontrado","","","",0
+"5212105","Joviânia","GO","nao_encontrado","","","",0
+"5212204","Jussara","GO","nao_encontrado","","","",0
+"5212600","Mairipotaba","GO","nao_encontrado","","","",0
+"5213509","Monte Alegre de Goiás","GO","nao_encontrado","","","",0
+"5213772","Montividiu do Norte","GO","nao_encontrado","","","",0
+"5213855","Morro Agudo de Goiás","GO","nao_encontrado","","","",0
+"5213905","Mossâmedes","GO","nao_encontrado","","","",0
+"5214051","Mundo Novo","GO","nao_encontrado","","","",0
+"5214101","Mutunópolis","GO","nao_encontrado","","","",0
+"5214804","Nova Aurora","GO","nao_encontrado","","","",0
+"5214879","Nova Iguaçu de Goiás","GO","nao_encontrado","","","",0
+"5215256","Novo Planalto","GO","nao_encontrado","","","",0
+"5215405","Ouro Verde de Goiás","GO","nao_encontrado","","","",0
+"5215504","Ouvidor","GO","nao_encontrado","","","",0
+"5215652","Palestina de Goiás","GO","nao_encontrado","","","",0
+"5216007","Panamá","GO","nao_encontrado","","","",0
+"5216403","Paraúna","GO","nao_encontrado","","","",0
+"5216452","Perolândia","GO","nao_encontrado","","","",0
+"5217401","Pires do Rio","GO","nao_encontrado","","","",0
+"5219100","Santa Bárbara de Goiás","GO","nao_encontrado","","","",0
+"5219407","Santa Rita do Araguaia","GO","nao_encontrado","","","",0
+"5219738","Santo Antônio de Goiás","GO","nao_encontrado","","","",0
+"5219753","Santo Antônio do Descoberto","GO","nao_encontrado","","","",0
+"5220264","São Miguel do Passa Quatro","GO","nao_encontrado","","","",0
+"5221304","Três Ranchos","GO","nao_encontrado","","","",0
+"5222005","Vianópolis","GO","nao_encontrado","","","",0

@@ -1,3 +1,1084 @@
 # Municípios com símbolo não encontrado
 
+- 1100031 — Cabixi/RO
+- 1100080 — Costa Marques/RO
+- 1100148 — Nova Brasilândia D'Oeste/RO
+- 1100262 — Rio Crespo/RO
+- 1100502 — Novo Horizonte do Oeste/RO
+- 1100908 — Castanheiras/RO
+- 1101005 — Governador Jorge Teixeira/RO
+- 1101450 — Parecis/RO
+- 1101559 — Teixeirópolis/RO
+- 1101757 — Vale do Anari/RO
+- 1300086 — Anamã/AM
+- 1300409 — Barcelos/AM
+- 1300508 — Barreirinha/AM
+- 1300631 — Beruri/AM
+- 1300680 — Boa Vista do Ramos/AM
+- 1300706 — Boca do Acre/AM
+- 1300904 — Canutama/AM
+- 1301100 — Careiro/AM
+- 1301159 — Careiro da Várzea/AM
+- 1301506 — Envira/AM
+- 1301951 — Itamarati/AM
+- 1302207 — Juruá/AM
+- 1302553 — Manaquiri/AM
+- 1302801 — Maraã/AM
+- 1303205 — Novo Airão/AM
+- 1303502 — Pauini/AM
+- 1303536 — Presidente Figueiredo/AM
+- 1303569 — Rio Preto da Eva/AM
+- 1303700 — Santo Antônio do Içá/AM
+- 1303908 — São Paulo de Olivença/AM
+- 1304104 — Tapauá/AM
+- 1304260 — Uarini/AM
+- 1304401 — Urucurituba/AM
+- 1500503 — Almeirim/PA
+- 1501253 — Bannach/PA
+- 1501600 — Bonito/PA
+- 1501725 — Brasil Novo/PA
+- 1501758 — Brejo Grande do Araguaia/PA
+- 1501907 — Bujaru/PA
+- 1502004 — Cachoeira do Arari/PA
+- 1502608 — Colares/PA
+- 1502756 — Concórdia do Pará/PA
+- 1502764 — Cumaru do Norte/PA
+- 1502954 — Eldorado do Carajás/PA
+- 1503077 — Garrafão do Norte/PA
+- 1503200 — Igarapé-Açu/PA
+- 1503408 — Inhangapi/PA
+- 1503754 — Jacareacanga/PA
+- 1503804 — Jacundá/PA
+- 1504000 — Limoeiro do Ajuru/PA
+- 1504109 — Magalhães Barata/PA
+- 1504307 — Maracanã/PA
+- 1504406 — Marapanim/PA
+- 1504422 — Marituba/PA
+- 1504455 — Medicilândia/PA
+- 1504505 — Melgaço/PA
+- 1504950 — Nova Esperança do Piriá/PA
+- 1505007 — Nova Timboteua/PA
+- 1505031 — Novo Progresso/PA
+- 1505205 — Oeiras do Pará/PA
+- 1505403 — Ourém/PA
+- 1505494 — Palestina do Pará/PA
+- 1505551 — Pau D'Arco/PA
+- 1505601 — Peixe-Boi/PA
+- 1505635 — Piçarra/PA
+- 1505908 — Porto de Moz/PA
+- 1506005 — Prainha/PA
+- 1506161 — Rio Maria/PA
+- 1506195 — Rurópolis/PA
+- 1506401 — Santa Cruz do Arari/PA
+- 1506559 — Santa Luzia do Pará/PA
+- 1506583 — Santa Maria das Barreiras/PA
+- 1506609 — Santa Maria do Pará/PA
+- 1506906 — Santarém Novo/PA
+- 1507003 — Santo Antônio do Tauá/PA
+- 1507201 — São Domingos do Capim/PA
+- 1507409 — São Francisco do Pará/PA
+- 1507466 — São João da Ponta/PA
+- 1507474 — São João de Pirabas/PA
+- 1507508 — São João do Araguaia/PA
+- 1507607 — São Miguel do Guamá/PA
+- 1507706 — São Sebastião da Boa Vista/PA
+- 1507755 — Sapucaia/PA
+- 1507961 — Terra Alta/PA
+- 1508001 — Tomé-Açu/PA
+- 1508035 — Tracuateua/PA
+- 1508050 — Trairão/PA
+- 1508357 — Vitória do Xingu/PA
+- 1508407 — Xinguara/PA
 - 1600550 — Pracuúba/AP
+- 1700301 — Aguiarnópolis/TO
+- 1700350 — Aliança do Tocantins/TO
+- 1700400 — Almas/TO
+- 1701101 — Aparecida do Rio Negro/TO
+- 1701309 — Aragominas/TO
+- 1701903 — Araguacema/TO
+- 1702000 — Araguaçu/TO
+- 1702158 — Araguanã/TO
+- 1702703 — Aurora do Tocantins/TO
+- 1702901 — Axixá do Tocantins/TO
+- 1703008 — Babaçulândia/TO
+- 1703057 — Bandeirantes do Tocantins/TO
+- 1703073 — Barra do Ouro/TO
+- 1703107 — Barrolândia/TO
+- 1703206 — Bernardo Sayão/TO
+- 1703305 — Bom Jesus do Tocantins/TO
+- 1703602 — Brasilândia do Tocantins/TO
+- 1703701 — Brejinho de Nazaré/TO
+- 1703826 — Cachoeirinha/TO
+- 1703842 — Campos Lindos/TO
+- 1703867 — Cariri do Tocantins/TO
+- 1703883 — Carmolândia/TO
+- 1703891 — Carrasco Bonito/TO
+- 1703909 — Caseara/TO
+- 1704105 — Centenário/TO
+- 1704600 — Chapada de Areia/TO
+- 1705557 — Combinado/TO
+- 1705607 — Conceição do Tocantins/TO
+- 1706100 — Cristalândia/TO
+- 1706258 — Crixás do Tocantins/TO
+- 1706506 — Darcinópolis/TO
+- 1707207 — Dois Irmãos do Tocantins/TO
+- 1707553 — Fátima/TO
+- 1707652 — Figueirópolis/TO
+- 1708254 — Tabocão/TO
+- 1708304 — Goianorte/TO
+- 1709807 — Ipueiras/TO
+- 1710508 — Itacajá/TO
+- 1710706 — Itaguatins/TO
+- 1710904 — Itapiratins/TO
+- 1711100 — Itaporã do Tocantins/TO
+- 1711506 — Jaú do Tocantins/TO
+- 1711803 — Juarina/TO
+- 1711902 — Lagoa da Confusão/TO
+- 1711951 — Lagoa do Tocantins/TO
+- 1712157 — Lavandeira/TO
+- 1712405 — Lizarda/TO
+- 1712454 — Luzinópolis/TO
+- 1712702 — Mateiros/TO
+- 1712801 — Maurilândia do Tocantins/TO
+- 1713601 — Monte do Carmo/TO
+- 1713700 — Monte Santo do Tocantins/TO
+- 1713809 — Palmeiras do Tocantins/TO
+- 1713957 — Muricilândia/TO
+- 1714302 — Nazaré/TO
+- 1715002 — Nova Rosalândia/TO
+- 1715101 — Novo Acordo/TO
+- 1715259 — Novo Jardim/TO
+- 1715705 — Palmeirante/TO
+- 1715754 — Palmeirópolis/TO
+- 1716307 — Pau D'Arco/TO
+- 1716653 — Pequizeiro/TO
+- 1717008 — Pindorama do Tocantins/TO
+- 1717206 — Piraquê/TO
+- 1717503 — Pium/TO
+- 1717800 — Ponte Alta do Bom Jesus/TO
+- 1717909 — Ponte Alta do Tocantins/TO
+- 1718006 — Porto Alegre do Tocantins/TO
+- 1718303 — Praia Norte/TO
+- 1718402 — Presidente Kennedy/TO
+- 1718451 — Pugmil/TO
+- 1718501 — Recursolândia/TO
+- 1718659 — Rio da Conceição/TO
+- 1718709 — Rio dos Bois/TO
+- 1718758 — Rio Sono/TO
+- 1718808 — Sampaio/TO
+- 1718840 — Sandolândia/TO
+- 1718899 — Santa Rita do Tocantins/TO
+- 1719004 — Santa Tereza do Tocantins/TO
+- 1720002 — Santa Terezinha do Tocantins/TO
+- 1720259 — São Salvador do Tocantins/TO
+- 1720309 — São Sebastião do Tocantins/TO
+- 1720499 — São Valério/TO
+- 1720655 — Silvanópolis/TO
+- 1720853 — Sucupira/TO
+- 1720937 — Taipas do Tocantins/TO
+- 1721109 — Tocantínia/TO
+- 1721307 — Tupiratins/TO
+- 2100105 — Afonso Cunha/MA
+- 2100154 — Água Doce do Maranhão/MA
+- 2100303 — Aldeias Altas/MA
+- 2100402 — Altamira do Maranhão/MA
+- 2100436 — Alto Alegre do Maranhão/MA
+- 2100550 — Amapá do Maranhão/MA
+- 2100709 — Anajatuba/MA
+- 2100808 — Anapurus/MA
+- 2100873 — Araguanã/MA
+- 2101103 — Axixá/MA
+- 2101301 — Bacuri/MA
+- 2101350 — Bacurituba/MA
+- 2101731 — Belágua/MA
+- 2101772 — Bela Vista do Maranhão/MA
+- 2101806 — Benedito Leite/MA
+- 2101939 — Bernardo do Mearim/MA
+- 2101970 — Boa Vista do Gurupi/MA
+- 2102036 — Bom Jesus das Selvas/MA
+- 2102101 — Brejo/MA
+- 2102150 — Brejo de Areia/MA
+- 2102358 — Buritirana/MA
+- 2102374 — Cachoeira Grande/MA
+- 2102408 — Cajapió/MA
+- 2102507 — Cajari/MA
+- 2102606 — Cândido Mendes/MA
+- 2102705 — Cantanhede/MA
+- 2102754 — Capinzal do Norte/MA
+- 2102903 — Carutapera/MA
+- 2103406 — Coelho Neto/MA
+- 2103802 — Dom Pedro/MA
+- 2103901 — Duque Bacelar/MA
+- 2104073 — Feira Nova do Maranhão/MA
+- 2104099 — Formosa da Serra Negra/MA
+- 2104107 — Fortaleza dos Nogueiras/MA
+- 2104305 — Godofredo Viana/MA
+- 2104503 — Governador Archer/MA
+- 2104602 — Governador Eugênio Barros/MA
+- 2104628 — Governador Luiz Rocha/MA
+- 2104651 — Governador Newton Bello/MA
+- 2104677 — Governador Nunes Freire/MA
+- 2104701 — Graça Aranha/MA
+- 2104909 — Guimarães/MA
+- 2105153 — Igarapé do Meio/MA
+- 2105203 — Igarapé Grande/MA
+- 2105351 — Itaipava do Grajaú/MA
+- 2105476 — Jenipapo dos Vieiras/MA
+- 2105500 — João Lisboa/MA
+- 2105609 — Joselândia/MA
+- 2105658 — Junco do Maranhão/MA
+- 2105807 — Lago do Junco/MA
+- 2105906 — Lago Verde/MA
+- 2105948 — Lago dos Rodrigues/MA
+- 2105963 — Lagoa Grande do Maranhão/MA
+- 2105989 — Lajeado Novo/MA
+- 2106102 — Loreto/MA
+- 2106201 — Luís Domingues/MA
+- 2106300 — Magalhães de Almeida/MA
+- 2106326 — Maracaçumé/MA
+- 2106409 — Mata Roma/MA
+- 2106508 — Matinha/MA
+- 2106607 — Matões/MA
+- 2106672 — Milagres do Maranhão/MA
+- 2106805 — Mirinzal/MA
+- 2107001 — Montes Altos/MA
+- 2107100 — Morros/MA
+- 2107209 — Nina Rodrigues/MA
+- 2107258 — Nova Colinas/MA
+- 2107357 — Nova Olinda do Maranhão/MA
+- 2107407 — Olho d'Água das Cunhãs/MA
+- 2107456 — Olinda Nova do Maranhão/MA
+- 2107506 — Paço do Lumiar/MA
+- 2107803 — Parnarama/MA
+- 2108256 — Pedro do Rosário/MA
+- 2108306 — Penalva/MA
+- 2108504 — Pindaré-Mirim/MA
+- 2108702 — Pio XII/MA
+- 2108801 — Pirapemas/MA
+- 2108900 — Poção de Pedras/MA
+- 2109106 — Presidente Dutra/MA
+- 2109205 — Presidente Juscelino/MA
+- 2109239 — Presidente Médici/MA
+- 2109270 — Presidente Sarney/MA
+- 2109551 — Ribamar Fiquene/MA
+- 2109700 — Sambaíba/MA
+- 2109809 — Santa Helena/MA
+- 2110005 — Santa Luzia/MA
+- 2110039 — Santa Luzia do Paruá/MA
+- 2110104 — Santa Quitéria do Maranhão/MA
+- 2110203 — Santa Rita/MA
+- 2110237 — Santana do Maranhão/MA
+- 2110278 — Santo Amaro do Maranhão/MA
+- 2110302 — Santo Antônio dos Lopes/MA
+- 2110401 — São Benedito do Rio Preto/MA
+- 2110500 — São Bento/MA
+- 2110609 — São Bernardo/MA
+- 2110658 — São Domingos do Azeitão/MA
+- 2110807 — São Félix de Balsas/MA
+- 2110856 — São Francisco do Brejão/MA
+- 2110906 — São Francisco do Maranhão/MA
+- 2111003 — São João Batista/MA
+- 2111029 — São João do Carú/MA
+- 2111052 — São João do Paraíso/MA
+- 2111078 — São João do Soter/MA
+- 2111409 — São Luís Gonzaga do Maranhão/MA
+- 2111508 — São Mateus do Maranhão/MA
+- 2111532 — São Pedro da Água Branca/MA
+- 2111573 — São Pedro dos Crentes/MA
+- 2111631 — São Raimundo do Doca Bezerra/MA
+- 2111672 — São Roberto/MA
+- 2111706 — São Vicente Ferrer/MA
+- 2111748 — Senador Alexandre Costa/MA
+- 2111789 — Serrano do Maranhão/MA
+- 2111805 — Sítio Novo/MA
+- 2112001 — Tasso Fragoso/MA
+- 2112209 — Timon/MA
+- 2112233 — Trizidela do Vale/MA
+- 2112274 — Tufilândia/MA
+- 2112308 — Tuntum/MA
+- 2112852 — Vila Nova dos Martírios/MA
+- 2113009 — Vitorino Freire/MA
+- 2200202 — Água Branca/PI
+- 2200251 — Alagoinha do Piauí/PI
+- 2200277 — Alegrete do Piauí/PI
+- 2200509 — Amarante/PI
+- 2200608 — Angical do Piauí/PI
+- 2200707 — Anísio de Abreu/PI
+- 2200954 — Aroeiras do Itaim/PI
+- 2201002 — Arraial/PI
+- 2201051 — Assunção do Piauí/PI
+- 2201176 — Barra D'Alcântara/PI
+- 2201309 — Barreiras do Piauí/PI
+- 2201408 — Barro Duro/PI
+- 2201556 — Bela Vista do Piauí/PI
+- 2201572 — Belém do Piauí/PI
+- 2201606 — Beneditinos/PI
+- 2201705 — Bertolínia/PI
+- 2201739 — Betânia do Piauí/PI
+- 2201804 — Bocaina/PI
+- 2201919 — Bom Princípio do Piauí/PI
+- 2201929 — Bonfim do Piauí/PI
+- 2201945 — Boqueirão do Piauí/PI
+- 2201988 — Brejo do Piauí/PI
+- 2202000 — Buriti dos Lopes/PI
+- 2202026 — Buriti dos Montes/PI
+- 2202083 — Cajueiro da Praia/PI
+- 2202091 — Caldeirão Grande do Piauí/PI
+- 2202109 — Campinas do Piauí/PI
+- 2202117 — Campo Alegre do Fidalgo/PI
+- 2202133 — Campo Grande do Piauí/PI
+- 2202174 — Campo Largo do Piauí/PI
+- 2202251 — Canavieira/PI
+- 2202406 — Capitão de Campos/PI
+- 2202455 — Capitão Gervásio Oliveira/PI
+- 2202505 — Caracol/PI
+- 2202539 — Caraúbas do Piauí/PI
+- 2202554 — Caridade do Piauí/PI
+- 2202653 — Caxingó/PI
+- 2202711 — Cocal de Telha/PI
+- 2202729 — Cocal dos Alves/PI
+- 2202737 — Coivaras/PI
+- 2202752 — Colônia do Gurguéia/PI
+- 2202778 — Colônia do Piauí/PI
+- 2202802 — Conceição do Canindé/PI
+- 2202851 — Coronel José Dias/PI
+- 2203008 — Cristalândia do Piauí/PI
+- 2203206 — Curimatá/PI
+- 2203255 — Curralinhos/PI
+- 2203271 — Curral Novo do Piauí/PI
+- 2203305 — Demerval Lobão/PI
+- 2203420 — Domingos Mourão/PI
+- 2203453 — Dom Inocêncio/PI
+- 2203503 — Elesbão Veloso/PI
+- 2203602 — Eliseu Martins/PI
+- 2203750 — Fartura do Piauí/PI
+- 2203800 — Flores do Piauí/PI
+- 2204006 — Francinópolis/PI
+- 2204105 — Francisco Ayres/PI
+- 2204204 — Francisco Santos/PI
+- 2204352 — Geminiano/PI
+- 2204402 — Gilbués/PI
+- 2204600 — Hugo Napoleão/PI
+- 2204659 — Ilha Grande/PI
+- 2204709 — Inhuma/PI
+- 2204808 — Ipiranga do Piauí/PI
+- 2204907 — Isaías Coelho/PI
+- 2205003 — Itainópolis/PI
+- 2205102 — Itaueira/PI
+- 2205201 — Jaicós/PI
+- 2205250 — Jardim do Mulato/PI
+- 2205276 — Jatobá do Piauí/PI
+- 2205300 — Jerumenha/PI
+- 2205359 — João Costa/PI
+- 2205516 — Juazeiro do Piauí/PI
+- 2205524 — Júlio Borges/PI
+- 2205532 — Jurema/PI
+- 2205540 — Lagoinha do Piauí/PI
+- 2205557 — Lagoa Alegre/PI
+- 2205565 — Lagoa do Barro do Piauí/PI
+- 2205573 — Lagoa de São Francisco/PI
+- 2205581 — Lagoa do Piauí/PI
+- 2205599 — Lagoa do Sítio/PI
+- 2205607 — Landri Sales/PI
+- 2205706 — Luís Correia/PI
+- 2205854 — Madeiro/PI
+- 2205953 — Marcolândia/PI
+- 2206001 — Marcos Parente/PI
+- 2206050 — Massapê do Piauí/PI
+- 2206100 — Matias Olímpio/PI
+- 2206308 — Miguel Leão/PI
+- 2206357 — Milton Brandão/PI
+- 2206506 — Monsenhor Hipólito/PI
+- 2206605 — Monte Alegre do Piauí/PI
+- 2206654 — Morro Cabeça no Tempo/PI
+- 2206670 — Morro do Chapéu do Piauí/PI
+- 2206696 — Murici dos Portelas/PI
+- 2206704 — Nazaré do Piauí/PI
+- 2206720 — Nazária/PI
+- 2206753 — Nossa Senhora de Nazaré/PI
+- 2206902 — Novo Oriente do Piauí/PI
+- 2206951 — Novo Santo Antônio/PI
+- 2207009 — Oeiras/PI
+- 2207108 — Olho D'Água do Piauí/PI
+- 2207207 — Padre Marcos/PI
+- 2207355 — Pajeú do Piauí/PI
+- 2207553 — Paquetá/PI
+- 2207603 — Parnaguá/PI
+- 2207751 — Passagem Franca do Piauí/PI
+- 2207777 — Patos do Piauí/PI
+- 2207793 — Pau D'Arco do Piauí/PI
+- 2207850 — Pavussu/PI
+- 2207934 — Pedro Laurentino/PI
+- 2207959 — Nova Santa Rita/PI
+- 2208106 — Pimenteiras/PI
+- 2208551 — Porto Alegre do Piauí/PI
+- 2208601 — Prata do Piauí/PI
+- 2208700 — Redenção do Gurguéia/PI
+- 2208809 — Regeneração/PI
+- 2208858 — Riacho Frio/PI
+- 2208874 — Ribeira do Piauí/PI
+- 2208908 — Ribeiro Gonçalves/PI
+- 2209005 — Rio Grande do Piauí/PI
+- 2209104 — Santa Cruz do Piauí/PI
+- 2209153 — Santa Cruz dos Milagres/PI
+- 2209203 — Santa Filomena/PI
+- 2209302 — Santa Luz/PI
+- 2209351 — Santana do Piauí/PI
+- 2209377 — Santa Rosa do Piauí/PI
+- 2209450 — Santo Antônio dos Milagres/PI
+- 2209500 — Santo Inácio do Piauí/PI
+- 2209559 — São Braz do Piauí/PI
+- 2209609 — São Félix do Piauí/PI
+- 2209658 — São Francisco de Assis do Piauí/PI
+- 2209708 — São Francisco do Piauí/PI
+- 2209757 — São Gonçalo do Gurguéia/PI
+- 2209807 — São Gonçalo do Piauí/PI
+- 2209872 — São João da Fronteira/PI
+- 2210052 — São José do Divino/PI
+- 2210102 — São José do Peixe/PI
+- 2210201 — São José do Piauí/PI
+- 2210300 — São Julião/PI
+- 2210359 — São Lourenço do Piauí/PI
+- 2210375 — São Luis do Piauí/PI
+- 2210383 — São Miguel da Baixa Grande/PI
+- 2210391 — São Miguel do Fidalgo/PI
+- 2210409 — São Miguel do Tapuio/PI
+- 2210631 — Sebastião Leal/PI
+- 2210656 — Sigefredo Pacheco/PI
+- 2210706 — Simões/PI
+- 2210805 — Simplício Mendes/PI
+- 2210904 — Socorro do Piauí/PI
+- 2210938 — Sussuapara/PI
+- 2210953 — Tamboril do Piauí/PI
+- 2210979 — Tanque do Piauí/PI
+- 2211209 — Uruçuí/PI
+- 2211308 — Valença do Piauí/PI
+- 2211357 — Várzea Branca/PI
+- 2211407 — Várzea Grande/PI
+- 2211605 — Vila Nova do Piauí/PI
+- 2211704 — Wall Ferraz/PI
+- 2300150 — Acarape/CE
+- 2300408 — Aiuaba/CE
+- 2300606 — Altaneira/CE
+- 2300804 — Antonina do Norte/CE
+- 2301208 — Aracoiaba/CE
+- 2301307 — Araripe/CE
+- 2301604 — Assaré/CE
+- 2301703 — Aurora/CE
+- 2301802 — Baixio/CE
+- 2302057 — Barroquinha/CE
+- 2303006 — Caridade/CE
+- 2303931 — Choró/CE
+- 2303956 — Chorozinho/CE
+- 2304285 — Eusébio/CE
+- 2304608 — General Sampaio/CE
+- 2304954 — Guaiúba/CE
+- 2305100 — Guaramiranga/CE
+- 2305209 — Hidrolândia/CE
+- 2305332 — Ibicuitinga/CE
+- 2305654 — Ipaporanga/CE
+- 2305803 — Ipu/CE
+- 2306009 — Iracema/CE
+- 2306108 — Irauçuba/CE
+- 2306553 — Itarema/CE
+- 2306900 — Jaguaribe/CE
+- 2307007 — Jaguaruana/CE
+- 2307205 — Jati/CE
+- 2308351 — Milhã/CE
+- 2309201 — Nova Olinda/CE
+- 2309409 — Novo Oriente/CE
+- 2310506 — Pedra Branca/CE
+- 2310902 — Piquet Carneiro/CE
+- 2310951 — Pires Ferreira/CE
+- 2311207 — Potengi/CE
+- 2311231 — Potiretama/CE
+- 2311405 — Quixeramobim/CE
+- 2311504 — Quixeré/CE
+- 2311959 — Salitre/CE
+- 2312106 — Santana do Cariri/CE
+- 2313559 — Tururu/CE
+- 2313609 — Ubajara/CE
+- 2313708 — Umari/CE
+- 2313757 — Umirim/CE
+- 2408409 — Olho d'Água do Borges/RN
+- 2411809 — São Fernando/RN
+- 2501351 — Assunção/PB
+- 2501708 — Barra de São Miguel/PB
+- 2502409 — Bonito de Santa Fé/PB
+- 2503407 — Cacimba de Areia/PB
+- 2504850 — Coxixola/PB
+- 2505279 — Curral de Cima/PB
+- 2505303 — Curral Velho/PB
+- 2510006 — Nazarezinho/PB
+- 2510600 — Ouro Velho/PB
+- 2511004 — Pedra Branca/PB
+- 2513943 — São Domingos do Cariri/PB
+- 2514305 — São José de Caiana/PB
+- 2514453 — São José dos Ramos/PB
+- 2514503 — São José de Piranhas/PB
+- 2515708 — Serra Grande/PB
+- 2517209 — Vieirópolis/PB
+- 2603454 — Camaragibe/PE
+- 2604304 — Cedro/PE
+- 2604502 — Chã Grande/PE
+- 2605103 — Custódia/PE
+- 2606903 — Iguaracy/PE
+- 2607505 — Itaíba/PE
+- 2608008 — Jataúba/PE
+- 2608107 — João Alfredo/PE
+- 2608206 — Joaquim Nabuco/PE
+- 2608404 — Jurema/PE
+- 2609006 — Macaparana/PE
+- 2609154 — Manari/PE
+- 2609204 — Maraial/PE
+- 2610301 — Paranatama/PE
+- 2610806 — Pedra/PE
+- 2611705 — Riacho das Almas/PE
+- 2611903 — Rio Formoso/PE
+- 2612109 — Salgadinho/PE
+- 2612455 — Santa Cruz/PE
+- 2612554 — Santa Filomena/PE
+- 2612901 — São Benedito do Sul/PE
+- 2613107 — São Caitano/PE
+- 2614006 — Serrita/PE
+- 2614303 — Moreilândia/PE
+- 2615201 — Terra Nova/PE
+- 2615409 — Toritama/PE
+- 2615607 — Trindade/PE
+- 2701001 — Boca da Mata/AL
+- 2701506 — Campo Grande/AL
+- 2701605 — Canapi/AL
+- 2702553 — Estrela de Alagoas/AL
+- 2702603 — Feira Grande/AL
+- 2702702 — Feliz Deserto/AL
+- 2703106 — Igaci/AL
+- 2703205 — Igreja Nova/AL
+- 2703403 — Jacaré dos Homens/AL
+- 2703809 — Joaquim Gomes/AL
+- 2703908 — Jundiá/AL
+- 2704005 — Junqueiro/AL
+- 2704401 — Major Isidoro/AL
+- 2704609 — Maravilha/AL
+- 2704807 — Maribondo/AL
+- 2704906 — Mar Vermelho/AL
+- 2705002 — Mata Grande/AL
+- 2705200 — Messias/AL
+- 2705408 — Monteirópolis/AL
+- 2705804 — Olho d'Água do Casado/AL
+- 2706422 — Pariconha/AL
+- 2706505 — Passo de Camaragibe/AL
+- 2706901 — Pilar/AL
+- 2707008 — Pindoba/AL
+- 2707305 — Porto Calvo/AL
+- 2707701 — Rio Largo/AL
+- 2707800 — Roteiro/AL
+- 2708204 — São Brás/AL
+- 2708402 — São José da Tapera/AL
+- 2708709 — São Miguel dos Milagres/AL
+- 2708808 — São Sebastião/AL
+- 2709004 — Tanque d'Arca/AL
+- 2800100 — Amparo do São Francisco/SE
+- 2800506 — Areia Branca/SE
+- 2801207 — Canindé de São Francisco/SE
+- 2802205 — Feira Nova/SE
+- 2802502 — General Maynard/SE
+- 2802601 — Graccho Cardoso/SE
+- 2802809 — Indiaroba/SE
+- 2803807 — Malhada dos Bois/SE
+- 2804102 — Moita Bonita/SE
+- 2804201 — Monte Alegre de Sergipe/SE
+- 2804409 — Neópolis/SE
+- 2804706 — Nossa Senhora de Lourdes/SE
+- 2805000 — Pedra Mole/SE
+- 2806008 — Ribeirópolis/SE
+- 2806404 — Santana do São Francisco/SE
+- 2807402 — Tobias Barreto/SE
+- 2900405 — Água Fria/BA
+- 2901007 — Amargosa/BA
+- 2901155 — América Dourada/BA
+- 2902302 — Aratuípe/BA
+- 2904852 — Cabaceiras do Paraguaçu/BA
+- 2905156 — Caetanos/BA
+- 2906105 — Canápolis/BA
+- 2907004 — Cardeal da Silva/BA
+- 2908804 — Contendas do Sincorá/BA
+- 2909406 — Cotegipe/BA
+- 2910305 — Elísio Medrado/BA
+- 2911907 — Iaçu/BA
+- 2912707 — Ibirapitanga/BA
+- 2913457 — Igrapiúna/BA
+- 2914901 — Itacaré/BA
+- 2915353 — Itaguaçu da Bahia/BA
+- 2916708 — Itaquara/BA
+- 2916906 — Itiruçu/BA
+- 2917003 — Itiúba/BA
+- 2917300 — Ituberá/BA
+- 2917904 — Jandaíra/BA
+- 2919058 — Lajedo do Tabocal/BA
+- 2919603 — Macajuba/BA
+- 2920007 — Maiquinique/BA
+- 2920304 — Malhada de Pedras/BA
+- 2921203 — Miguel Calmon/BA
+- 2922250 — Muquém do São Francisco/BA
+- 2928109 — Santa Maria da Vitória/BA
+- 2928505 — Santa Terezinha/BA
+- 2929370 — São José do Jacuípe/BA
+- 2929404 — São Miguel das Matas/BA
+- 2929750 — Saubara/BA
+- 2930758 — Sítio do Mato/BA
+- 2931202 — Taperoá/BA
+- 2931400 — Teodoro Sampaio/BA
+- 2933109 — Várzea do Poço/BA
+- 2933406 — Wagner/BA
+- 3102704 — Cachoeira de Pajeú/MG
+- 3114600 — Carrancas/MG
+- 3116506 — Claro dos Poções/MG
+- 3120508 — Cristina/MG
+- 3124906 — Eugenópolis/MG
+- 3125507 — São Gonçalo do Rio Preto/MG
+- 3127339 — Gameleiras/MG
+- 3127800 — Grão Mogol/MG
+- 3127909 — Grupiara/MG
+- 3128253 — Guaraciama/MG
+- 3130408 — Ijaci/MG
+- 3130556 — Imbé de Minas/MG
+- 3130606 — Inconfidentes/MG
+- 3130705 — Indianópolis/MG
+- 3130804 — Ingaí/MG
+- 3131000 — Inhaúma/MG
+- 3131109 — Inimutaba/MG
+- 3131604 — Iraí de Minas/MG
+- 3131802 — Itabirinha/MG
+- 3132008 — Itacambira/MG
+- 3132602 — Itamarati de Minas/MG
+- 3132701 — Itambacuri/MG
+- 3132800 — Itambé do Mato Dentro/MG
+- 3132909 — Itamogi/MG
+- 3133402 — Itapagipe/MG
+- 3133501 — Itapecerica/MG
+- 3134301 — Itumirim/MG
+- 3135050 — Jaíba/MG
+- 3135076 — Jampruca/MG
+- 3135456 — Jenipapo de Minas/MG
+- 3135506 — Jequeri/MG
+- 3135605 — Jequitaí/MG
+- 3135704 — Jequitibá/MG
+- 3136009 — Joaíma/MG
+- 3136405 — Joaquim Felício/MG
+- 3136504 — Jordânia/MG
+- 3136520 — José Gonçalves de Minas/MG
+- 3136579 — Josenópolis/MG
+- 3136801 — Juramento/MG
+- 3137205 — Lagoa da Prata/MG
+- 3138104 — Lassance/MG
+- 3138302 — Leandro Ferreira/MG
+- 3138351 — Leme do Prado/MG
+- 3138658 — Lontra/MG
+- 3138682 — Luislândia/MG
+- 3138906 — Machacalis/MG
+- 3139201 — Malacacheta/MG
+- 3139706 — Maravilhas/MG
+- 3140100 — Marilac/MG
+- 3140159 — Mário Campos/MG
+- 3140209 — Maripá de Minas/MG
+- 3140506 — Martinho Campos/MG
+- 3140605 — Materlândia/MG
+- 3140902 — Matipó/MG
+- 3141306 — Medeiros/MG
+- 3141504 — Mendes Pimentel/MG
+- 3141801 — Minas Novas/MG
+- 3142106 — Miradouro/MG
+- 3142403 — Moema/MG
+- 3142601 — Monsenhor Paulo/MG
+- 3143153 — Monte Formoso/MG
+- 3143450 — Montezuma/MG
+- 3143500 — Morada Nova de Minas/MG
+- 3143609 — Morro da Garça/MG
+- 3143708 — Morro do Pilar/MG
+- 3143807 — Munhoz/MG
+- 3144201 — Nacip Raydan/MG
+- 3144375 — Natalândia/MG
+- 3144409 — Natércia/MG
+- 3144607 — Nepomuceno/MG
+- 3144672 — Nova Belém/MG
+- 3145372 — Novorizonte/MG
+- 3145406 — Olaria/MG
+- 3145455 — Olhos-d'Água/MG
+- 3145703 — Oliveira Fortes/MG
+- 3145802 — Onça de Pitangui/MG
+- 3145877 — Orizânia/MG
+- 3146206 — Ouro Verde de Minas/MG
+- 3146255 — Padre Carvalho/MG
+- 3146305 — Padre Paraíso/MG
+- 3146404 — Paineiras/MG
+- 3146552 — Pai Pedro/MG
+- 3146602 — Paiva/MG
+- 3146750 — Palmópolis/MG
+- 3147808 — Passa Vinte/MG
+- 3147956 — Patis/MG
+- 3148400 — Paulistas/MG
+- 3148608 — Peçanha/MG
+- 3148756 — Pedra Bonita/MG
+- 3148806 — Pedra do Anta/MG
+- 3148905 — Pedra do Indaiá/MG
+- 3149002 — Pedra Dourada/MG
+- 3149150 — Pedras de Maria da Cruz/MG
+- 3149200 — Pedrinópolis/MG
+- 3149408 — Pedro Teixeira/MG
+- 3149606 — Pequi/MG
+- 3149705 — Perdigão/MG
+- 3149804 — Perdizes/MG
+- 3150000 — Pescador/MG
+- 3150109 — Piau/MG
+- 3150158 — Piedade de Caratinga/MG
+- 3150406 — Piedade dos Gerais/MG
+- 3150539 — Pingo-d'Água/MG
+- 3150570 — Pintópolis/MG
+- 3150901 — Piranguçu/MG
+- 3151305 — Piraúba/MG
+- 3152131 — Ponto Chique/MG
+- 3152204 — Porteirinha/MG
+- 3152303 — Porto Firme/MG
+- 3153004 — Pratinha/MG
+- 3153103 — Presidente Bernardes/MG
+- 3153202 — Presidente Juscelino/MG
+- 3153608 — Prudente de Morais/MG
+- 3153806 — Queluzito/MG
+- 3154457 — Riachinho/MG
+- 3154507 — Riacho dos Machados/MG
+- 3154705 — Ribeirão Vermelho/MG
+- 3154804 — Rio Acima/MG
+- 3155207 — Rio Espera/MG
+- 3155306 — Rio Manso/MG
+- 3156106 — Ritápolis/MG
+- 3156304 — Rodeiro/MG
+- 3156452 — Rosário da Limeira/MG
+- 3157104 — Salto da Divisa/MG
+- 3157302 — Santa Bárbara do Tugúrio/MG
+- 3157336 — Santa Cruz de Minas/MG
+- 3157377 — Santa Cruz de Salinas/MG
+- 3157500 — Santa Efigênia de Minas/MG
+- 3157658 — Santa Helena de Minas/MG
+- 3157708 — Santa Juliana/MG
+- 3157906 — Santa Margarida/MG
+- 3158409 — Santana de Cataguases/MG
+- 3158508 — Santana de Pirapama/MG
+- 3158607 — Santana do Deserto/MG
+- 3158706 — Santana do Garambéu/MG
+- 3158953 — Santana do Paraíso/MG
+- 3159209 — Santa Rita de Caldas/MG
+- 3159407 — Santa Rita de Ibitipoca/MG
+- 3159506 — Santa Rita do Itueto/MG
+- 3159704 — Santa Rosa da Serra/MG
+- 3159803 — Santa Vitória/MG
+- 3160009 — Santo Antônio do Aventureiro/MG
+- 3160207 — Santo Antônio do Itambé/MG
+- 3160454 — Santo Antônio do Retiro/MG
+- 3160603 — Santo Hipólito/MG
+- 3161304 — São Francisco de Sales/MG
+- 3161403 — São Francisco do Glória/MG
+- 3161601 — São Geraldo da Piedade/MG
+- 3161700 — São Gonçalo do Abaeté/MG
+- 3162203 — São João Batista do Glória/MG
+- 3162252 — São João da Lagoa/MG
+- 3162401 — São João da Ponte/MG
+- 3162450 — São João das Missões/MG
+- 3162559 — São João do Manhuaçu/MG
+- 3162575 — São João do Manteninha/MG
+- 3162658 — São João do Pacuí/MG
+- 3163102 — São José da Varginha/MG
+- 3163201 — São José do Alegre/MG
+- 3163300 — São José do Divino/MG
+- 3163607 — São José do Mantimento/MG
+- 3163805 — São Miguel do Anta/MG
+- 3163904 — São Pedro da União/MG
+- 3164100 — São Pedro do Suaçuí/MG
+- 3164308 — São Roque de Minas/MG
+- 3164431 — São Sebastião da Vargem Alegre/MG
+- 3164472 — São Sebastião do Anta/MG
+- 3164506 — São Sebastião do Maranhão/MG
+- 3164605 — São Sebastião do Oeste/MG
+- 3164803 — São Sebastião do Rio Preto/MG
+- 3165107 — São Tomás de Aquino/MG
+- 3165537 — Sarzedo/MG
+- 3165560 — Sem-Peixe/MG
+- 3165602 — Senador Cortes/MG
+- 3165909 — Senador Modestino Gonçalves/MG
+- 3166105 — Senhora do Porto/MG
+- 3166501 — Serra Azul de Minas/MG
+- 3166808 — Serra do Salitre/MG
+- 3166956 — Serranópolis de Minas/MG
+- 3167004 — Serranos/MG
+- 3167400 — Silvianópolis/MG
+- 3167509 — Simão Pereira/MG
+- 3168200 — Tapiraí/MG
+- 3168309 — Taquaraçu de Minas/MG
+- 3169000 — Tocantins/MG
+- 3169059 — Tocos do Moji/MG
+- 3169109 — Toledo/MG
+- 3169356 — Três Marias/MG
+- 3169802 — Turvolândia/MG
+- 3170479 — Uruana de Minas/MG
+- 3170602 — Vargem Bonita/MG
+- 3170651 — Vargem Grande do Rio Pardo/MG
+- 3170750 — Varjão de Minas/MG
+- 3171030 — Verdelândia/MG
+- 3171071 — Veredinha/MG
+- 3171105 — Veríssimo/MG
+- 3171709 — Virgínia/MG
+- 3171808 — Virginópolis/MG
+- 3171907 — Virgolândia/MG
+- 3172103 — Volta Grande/MG
+- 3200169 — Água Doce do Norte/ES
+- 3201803 — Divino de São Lourenço/ES
+- 3500204 — Adolfo/SP
+- 3500758 — Alambari/SP
+- 3509254 — Cajati/SP
+- 3510153 — Canitar/SP
+- 3512001 — Colina/SP
+- 3515129 — Emilianópolis/SP
+- 3515350 — Euclides da Cunha Paulista/SP
+- 3525409 — Jeriquara/SP
+- 3525854 — Jumirim/SP
+- 3526100 — Juquiá/SP
+- 3532843 — Nova Canaã Paulista/SP
+- 3540507 — Porangaba/SP
+- 3546207 — Santa Cruz da Conceição/SP
+- 3549003 — São Francisco/SP
+- 3555356 — Ubarana/SP
+- 3556602 — Vera Cruz/SP
+- 4100202 — Adrianópolis/PR
+- 4100301 — Agudos do Sul/PR
+- 4101051 — Anahy/PR
+- 4101309 — Antônio Olinto/PR
+- 4101655 — Arapuã/PR
+- 4102208 — Atalaia/PR
+- 4102703 — Barra do Jacaré/PR
+- 4102752 — Bela Vista da Caroba/PR
+- 4103206 — Bom Sucesso/PR
+- 4103305 — Borrazópolis/PR
+- 4103479 — Cafezal do Sul/PR
+- 4103800 — Cambira/PR
+- 4104105 — Campo do Tenente/PR
+- 4105706 — Clevelândia/PR
+- 4105904 — Colorado/PR
+- 4106001 — Congonhinhas/PR
+- 4106456 — Coronel Domingos Soares/PR
+- 4106506 — Coronel Vivida/PR
+- 4106555 — Corumbataí do Sul/PR
+- 4106605 — Cruzeiro do Oeste/PR
+- 4106852 — Cruzmaltina/PR
+- 4107108 — Diamante do Norte/PR
+- 4107157 — Diamante D'Oeste/PR
+- 4107538 — Entre Rios do Oeste/PR
+- 4107702 — Fênix/PR
+- 4107736 — Fernandes Pinheiro/PR
+- 4108205 — Formosa do Oeste/PR
+- 4108551 — Godoy Moreira/PR
+- 4108908 — Guairaçá/PR
+- 4109005 — Guapirama/PR
+- 4109807 — Ibiporã/PR
+- 4110300 — Inajá/PR
+- 4110904 — Itaguajé/PR
+- 4111001 — Itambaracá/PR
+- 4111258 — Itaperuçu/PR
+- 4111308 — Itaúna do Sul/PR
+- 4111704 — Jaboti/PR
+- 4112900 — Jundiaí do Sul/PR
+- 4113429 — Lidianópolis/PR
+- 4114708 — Maria Helena/PR
+- 4115309 — Mariópolis/PR
+- 4115358 — Maripá/PR
+- 4115507 — Marumbi/PR
+- 4115739 — Mato Rico/PR
+- 4115754 — Mauá da Serra/PR
+- 4116307 — Munhoz de Melo/PR
+- 4116406 — Nossa Senhora das Graças/PR
+- 4116604 — Nova América da Colina/PR
+- 4116950 — Nova Esperança do Sudoeste/PR
+- 4117008 — Nova Fátima/PR
+- 4117214 — Nova Santa Bárbara/PR
+- 4117404 — Ourizona/PR
+- 4118006 — Paraíso do Norte/PR
+- 4118303 — Paranapoema/PR
+- 4118600 — Paula Freitas/PR
+- 4118709 — Paulo Frontin/PR
+- 4119707 — Planaltina do Paraná/PR
+- 4120309 — Porto Vitória/PR
+- 4120333 — Prado Ferreira/PR
+- 4120358 — Pranchita/PR
+- 4120408 — Presidente Castelo Branco/PR
+- 4120606 — Prudentópolis/PR
+- 4120853 — Quatro Pontes/PR
+- 4121109 — Quinta do Sol/PR
+- 4121257 — Ramilândia/PR
+- 4121307 — Rancho Alegre/PR
+- 4121356 — Rancho Alegre D'Oeste/PR
+- 4121604 — Renascença/PR
+- 4122107 — Rio Bom/PR
+- 4122503 — Roncador/PR
+- 4122800 — Salgado Filho/PR
+- 4122909 — Salto do Itararé/PR
+- 4123105 — Santa Amélia/PR
+- 4123956 — Santa Mônica/PR
+- 4124053 — Santa Terezinha de Itaipu/PR
+- 4124509 — Santo Inácio/PR
+- 4124806 — São João/PR
+- 4124905 — São João do Caiuá/PR
+- 4125001 — São João do Ivaí/PR
+- 4125308 — São Jorge do Ivaí/PR
+- 4125456 — São José das Palmeiras/PR
+- 4125753 — São Pedro do Iguaçu/PR
+- 4126108 — São Tomé/PR
+- 4126272 — Saudade do Iguaçu/PR
+- 4126355 — Serranópolis do Iguaçu/PR
+- 4126702 — Tamboara/PR
+- 4126801 — Tapejara/PR
+- 4127007 — Teixeira Soares/PR
+- 4127908 — Tuneiras do Oeste/PR
+- 4128302 — Uniflor/PR
+- 4128625 — Alto Paraíso/PR
+- 4128633 — Doutor Ulysses/PR
+- 4203501 — Campo Erê/SC
+- 4206652 — Guatambú/SC
+- 4213807 — Praia Grande/SC
+- 4215059 — Rio Rufino/SC
+- 4313011 — Nova Candelária/RS
+- 4314787 — Ponte Preta/RS
+- 4318499 — São José do Inhacorá/RS
+- 4319307 — São Paulo das Missões/RS
+- 4320354 — Sentinela do Sul/RS
+- 4321634 — Três Arroios/RS
+- 4322525 — Vale Verde/RS
+- 4322558 — Vanini/RS
+- 4323101 — Vicente Dutra/RS
+- 4323507 — Vista Alegre/RS
+- 5000609 — Amambai/MS
+- 5000708 — Anastácio/MS
+- 5000807 — Anaurilândia/MS
+- 5000856 — Angélica/MS
+- 5000906 — Antônio João/MS
+- 5002100 — Bela Vista/MS
+- 5002308 — Brasilândia/MS
+- 5002803 — Caracol/MS
+- 5002902 — Cassilândia/MS
+- 5003108 — Corguinho/MS
+- 5003157 — Coronel Sapucaia/MS
+- 5003504 — Douradina/MS
+- 5003751 — Eldorado/MS
+- 5003900 — Figueirão/MS
+- 5004601 — Itaquiraí/MS
+- 5004700 — Ivinhema/MS
+- 5004908 — Jaraguari/MS
+- 5005152 — Juti/MS
+- 5005251 — Laguna Carapã/MS
+- 5005400 — Maracaju/MS
+- 5006002 — Nova Alvorada do Sul/MS
+- 5006275 — Paraíso das Águas/MS
+- 5006358 — Paranhos/MS
+- 5006903 — Porto Murtinho/MS
+- 5007208 — Rio Brilhante/MS
+- 5007505 — Rochedo/MS
+- 5007554 — Santa Rita do Pardo/MS
+- 5007950 — Tacuru/MS
+- 5007976 — Taquarussu/MS
+- 5102850 — Castanheira/MT
+- 5103056 — Cláudia/MT
+- 5103106 — Cocalinho/MT
+- 5103437 — Curvelândia/MT
+- 5103858 — Gaúcha do Norte/MT
+- 5103908 — General Carneiro/MT
+- 5103957 — Glória D'Oeste/MT
+- 5104203 — Guiratinga/MT
+- 5104500 — Indiavaí/MT
+- 5104526 — Ipiranga do Norte/MT
+- 5104542 — Itanhangá/MT
+- 5104559 — Itaúba/MT
+- 5104906 — Jangada/MT
+- 5105176 — Juruena/MT
+- 5105200 — Juscimeira/MT
+- 5105234 — Lambari D'Oeste/MT
+- 5105903 — Nobres/MT
+- 5106000 — Nortelândia/MT
+- 5106174 — Nova Nazaré/MT
+- 5106190 — Nova Santa Helena/MT
+- 5106208 — Nova Brasilândia/MT
+- 5106240 — Nova Ubiratã/MT
+- 5106273 — Novo Horizonte do Norte/MT
+- 5106315 — Novo Santo Antônio/MT
+- 5106455 — Planalto da Serra/MT
+- 5106505 — Poconé/MT
+- 5106653 — Pontal do Araguaia/MT
+- 5106802 — Porto dos Gaúchos/MT
+- 5107065 — Querência/MT
+- 5107198 — Ribeirãozinho/MT
+- 5107206 — Rio Branco/MT
+- 5107248 — Santa Carmem/MT
+- 5107263 — Santo Afonso/MT
+- 5107354 — São José do Xingu/MT
+- 5107404 — São Pedro da Cipa/MT
+- 5107743 — Santa Cruz do Xingu/MT
+- 5107750 — Salto do Céu/MT
+- 5107776 — Santa Terezinha/MT
+- 5107859 — São Félix do Araguaia/MT
+- 5107883 — Serra Nova Dourada/MT
+- 5107941 — Tabaporã/MT
+- 5108055 — Terra Nova do Norte/MT
+- 5108105 — Tesouro/MT
+- 5108204 — Torixoréu/MT
+- 5108303 — União do Sul/MT
+- 5108501 — Vera/MT
+- 5108600 — Vila Rica/MT
+- 5108808 — Nova Guarita/MT
+- 5108857 — Nova Marilândia/MT
+- 5108907 — Nova Maringá/MT
+- 5200506 — Aloândia/GO
+- 5200902 — Amorinópolis/GO
+- 5201504 — Aporé/GO
+- 5201702 — Aragarças/GO
+- 5203401 — Bom Jardim de Goiás/GO
+- 5203906 — Buriti Alegre/GO
+- 5204102 — Cachoeira Alta/GO
+- 5204250 — Cachoeira Dourada/GO
+- 5204300 — Caçu/GO
+- 5204854 — Campo Limpo de Goiás/GO
+- 5205406 — Ceres/GO
+- 5205471 — Chapadão do Céu/GO
+- 5206503 — Cromínia/GO
+- 5206602 — Cumari/GO
+- 5207402 — Edéia/GO
+- 5207907 — Flores de Goiás/GO
+- 5209200 — Guapó/GO
+- 5209291 — Guaraíta/GO
+- 5209457 — Guarinos/GO
+- 5209804 — Hidrolina/GO
+- 5209937 — Inaciolândia/GO
+- 5210604 — Itaguaru/GO
+- 5210901 — Itapaci/GO
+- 5211404 — Itauçu/GO
+- 5212105 — Joviânia/GO
+- 5212204 — Jussara/GO
+- 5212600 — Mairipotaba/GO
+- 5213509 — Monte Alegre de Goiás/GO
+- 5213772 — Montividiu do Norte/GO
+- 5213855 — Morro Agudo de Goiás/GO
+- 5213905 — Mossâmedes/GO
+- 5214051 — Mundo Novo/GO
+- 5214101 — Mutunópolis/GO
+- 5214804 — Nova Aurora/GO
+- 5214879 — Nova Iguaçu de Goiás/GO
+- 5215256 — Novo Planalto/GO
+- 5215405 — Ouro Verde de Goiás/GO
+- 5215504 — Ouvidor/GO
+- 5215652 — Palestina de Goiás/GO
+- 5216007 — Panamá/GO
+- 5216403 — Paraúna/GO
+- 5216452 — Perolândia/GO
+- 5217401 — Pires do Rio/GO
+- 5219100 — Santa Bárbara de Goiás/GO
+- 5219407 — Santa Rita do Araguaia/GO
+- 5219738 — Santo Antônio de Goiás/GO
+- 5219753 — Santo Antônio do Descoberto/GO
+- 5220264 — São Miguel do Passa Quatro/GO
+- 5221304 — Três Ranchos/GO
+- 5222005 — Vianópolis/GO

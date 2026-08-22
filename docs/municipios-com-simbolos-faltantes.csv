@@ -1,0 +1,1210 @@
+"codigo_ibge","municipio","uf","status_brasao","status_bandeira","falta_brasao","falta_bandeira"
+"1100031","Cabixi","RO","revisao_pendente","nao_encontrado",false,true
+"1100080","Costa Marques","RO","revisao_pendente","nao_encontrado",false,true
+"1100148","Nova Brasilândia D'Oeste","RO","nao_encontrado","revisao_pendente",true,false
+"1100262","Rio Crespo","RO","nao_encontrado","revisao_pendente",true,false
+"1100502","Novo Horizonte do Oeste","RO","nao_encontrado","revisao_pendente",true,false
+"1100908","Castanheiras","RO","nao_encontrado","nao_encontrado",true,true
+"1101005","Governador Jorge Teixeira","RO","nao_encontrado","nao_encontrado",true,true
+"1101450","Parecis","RO","nao_encontrado","revisao_pendente",true,false
+"1101559","Teixeirópolis","RO","nao_encontrado","nao_encontrado",true,true
+"1101757","Vale do Anari","RO","nao_encontrado","revisao_pendente",true,false
+"1300086","Anamã","AM","nao_encontrado","revisao_pendente",true,false
+"1300409","Barcelos","AM","nao_encontrado","revisao_pendente",true,false
+"1300508","Barreirinha","AM","nao_encontrado","revisao_pendente",true,false
+"1300631","Beruri","AM","nao_encontrado","revisao_pendente",true,false
+"1300680","Boa Vista do Ramos","AM","nao_encontrado","revisao_pendente",true,false
+"1300706","Boca do Acre","AM","nao_encontrado","nao_encontrado",true,true
+"1300904","Canutama","AM","nao_encontrado","revisao_pendente",true,false
+"1301100","Careiro","AM","nao_encontrado","revisao_pendente",true,false
+"1301159","Careiro da Várzea","AM","revisao_pendente","nao_encontrado",false,true
+"1301506","Envira","AM","nao_encontrado","revisao_pendente",true,false
+"1301951","Itamarati","AM","nao_encontrado","nao_encontrado",true,true
+"1302207","Juruá","AM","nao_encontrado","revisao_pendente",true,false
+"1302553","Manaquiri","AM","nao_encontrado","nao_encontrado",true,true
+"1302603","Manaus","AM","rejeitado","revisao_pendente",true,false
+"1302801","Maraã","AM","nao_encontrado","nao_encontrado",true,true
+"1303205","Novo Airão","AM","revisao_pendente","nao_encontrado",false,true
+"1303502","Pauini","AM","nao_encontrado","nao_encontrado",true,true
+"1303536","Presidente Figueiredo","AM","nao_encontrado","revisao_pendente",true,false
+"1303569","Rio Preto da Eva","AM","nao_encontrado","revisao_pendente",true,false
+"1303700","Santo Antônio do Içá","AM","nao_encontrado","revisao_pendente",true,false
+"1303908","São Paulo de Olivença","AM","nao_encontrado","nao_encontrado",true,true
+"1304005","Silves","AM","rejeitado","revisao_pendente",true,false
+"1304104","Tapauá","AM","nao_encontrado","nao_encontrado",true,true
+"1304260","Uarini","AM","nao_encontrado","nao_encontrado",true,true
+"1304401","Urucurituba","AM","nao_encontrado","nao_encontrado",true,true
+"1500503","Almeirim","PA","nao_encontrado","revisao_pendente",true,false
+"1501253","Bannach","PA","nao_encontrado","nao_encontrado",true,true
+"1501600","Bonito","PA","nao_encontrado","revisao_pendente",true,false
+"1501725","Brasil Novo","PA","nao_encontrado","nao_encontrado",true,true
+"1501758","Brejo Grande do Araguaia","PA","nao_encontrado","nao_encontrado",true,true
+"1501907","Bujaru","PA","nao_encontrado","nao_encontrado",true,true
+"1502004","Cachoeira do Arari","PA","nao_encontrado","revisao_pendente",true,false
+"1502608","Colares","PA","nao_encontrado","nao_encontrado",true,true
+"1502756","Concórdia do Pará","PA","nao_encontrado","revisao_pendente",true,false
+"1502764","Cumaru do Norte","PA","nao_encontrado","nao_encontrado",true,true
+"1502954","Eldorado do Carajás","PA","nao_encontrado","revisao_pendente",true,false
+"1503077","Garrafão do Norte","PA","nao_encontrado","revisao_pendente",true,false
+"1503200","Igarapé-Açu","PA","nao_encontrado","revisao_pendente",true,false
+"1503408","Inhangapi","PA","nao_encontrado","nao_encontrado",true,true
+"1503754","Jacareacanga","PA","nao_encontrado","revisao_pendente",true,false
+"1503804","Jacundá","PA","nao_encontrado","revisao_pendente",true,false
+"1504000","Limoeiro do Ajuru","PA","nao_encontrado","revisao_pendente",true,false
+"1504109","Magalhães Barata","PA","nao_encontrado","nao_encontrado",true,true
+"1504307","Maracanã","PA","revisao_pendente","nao_encontrado",false,true
+"1504406","Marapanim","PA","nao_encontrado","nao_encontrado",true,true
+"1504422","Marituba","PA","nao_encontrado","rejeitado",true,true
+"1504455","Medicilândia","PA","nao_encontrado","nao_encontrado",true,true
+"1504505","Melgaço","PA","nao_encontrado","revisao_pendente",true,false
+"1504950","Nova Esperança do Piriá","PA","nao_encontrado","nao_encontrado",true,true
+"1505007","Nova Timboteua","PA","nao_encontrado","revisao_pendente",true,false
+"1505031","Novo Progresso","PA","nao_encontrado","revisao_pendente",true,false
+"1505205","Oeiras do Pará","PA","nao_encontrado","nao_encontrado",true,true
+"1505403","Ourém","PA","nao_encontrado","revisao_pendente",true,false
+"1505494","Palestina do Pará","PA","nao_encontrado","nao_encontrado",true,true
+"1505551","Pau D'Arco","PA","nao_encontrado","nao_encontrado",true,true
+"1505601","Peixe-Boi","PA","nao_encontrado","nao_encontrado",true,true
+"1505635","Piçarra","PA","nao_encontrado","nao_encontrado",true,true
+"1505908","Porto de Moz","PA","nao_encontrado","nao_encontrado",true,true
+"1506005","Prainha","PA","nao_encontrado","revisao_pendente",true,false
+"1506161","Rio Maria","PA","nao_encontrado","nao_encontrado",true,true
+"1506195","Rurópolis","PA","nao_encontrado","revisao_pendente",true,false
+"1506401","Santa Cruz do Arari","PA","nao_encontrado","revisao_pendente",true,false
+"1506559","Santa Luzia do Pará","PA","nao_encontrado","revisao_pendente",true,false
+"1506583","Santa Maria das Barreiras","PA","nao_encontrado","nao_encontrado",true,true
+"1506609","Santa Maria do Pará","PA","revisao_pendente","nao_encontrado",false,true
+"1506906","Santarém Novo","PA","nao_encontrado","nao_encontrado",true,true
+"1507003","Santo Antônio do Tauá","PA","nao_encontrado","revisao_pendente",true,false
+"1507201","São Domingos do Capim","PA","nao_encontrado","nao_encontrado",true,true
+"1507409","São Francisco do Pará","PA","nao_encontrado","nao_encontrado",true,true
+"1507466","São João da Ponta","PA","nao_encontrado","nao_encontrado",true,true
+"1507474","São João de Pirabas","PA","nao_encontrado","nao_encontrado",true,true
+"1507508","São João do Araguaia","PA","nao_encontrado","revisao_pendente",true,false
+"1507607","São Miguel do Guamá","PA","nao_encontrado","revisao_pendente",true,false
+"1507706","São Sebastião da Boa Vista","PA","nao_encontrado","revisao_pendente",true,false
+"1507755","Sapucaia","PA","nao_encontrado","nao_encontrado",true,true
+"1507961","Terra Alta","PA","nao_encontrado","nao_encontrado",true,true
+"1508001","Tomé-Açu","PA","revisao_pendente","nao_encontrado",false,true
+"1508035","Tracuateua","PA","nao_encontrado","nao_encontrado",true,true
+"1508050","Trairão","PA","nao_encontrado","revisao_pendente",true,false
+"1508357","Vitória do Xingu","PA","nao_encontrado","nao_encontrado",true,true
+"1508407","Xinguara","PA","nao_encontrado","revisao_pendente",true,false
+"1600550","Pracuúba","AP","nao_encontrado","nao_encontrado",true,true
+"1700301","Aguiarnópolis","TO","nao_encontrado","nao_encontrado",true,true
+"1700350","Aliança do Tocantins","TO","nao_encontrado","nao_encontrado",true,true
+"1700400","Almas","TO","nao_encontrado","nao_encontrado",true,true
+"1701101","Aparecida do Rio Negro","TO","nao_encontrado","nao_encontrado",true,true
+"1701309","Aragominas","TO","nao_encontrado","nao_encontrado",true,true
+"1701903","Araguacema","TO","nao_encontrado","revisao_pendente",true,false
+"1702000","Araguaçu","TO","nao_encontrado","nao_encontrado",true,true
+"1702158","Araguanã","TO","nao_encontrado","nao_encontrado",true,true
+"1702703","Aurora do Tocantins","TO","nao_encontrado","nao_encontrado",true,true
+"1702901","Axixá do Tocantins","TO","nao_encontrado","revisao_pendente",true,false
+"1703008","Babaçulândia","TO","revisao_pendente","nao_encontrado",false,true
+"1703057","Bandeirantes do Tocantins","TO","nao_encontrado","nao_encontrado",true,true
+"1703073","Barra do Ouro","TO","nao_encontrado","nao_encontrado",true,true
+"1703107","Barrolândia","TO","nao_encontrado","nao_encontrado",true,true
+"1703206","Bernardo Sayão","TO","nao_encontrado","nao_encontrado",true,true
+"1703305","Bom Jesus do Tocantins","TO","nao_encontrado","nao_encontrado",true,true
+"1703602","Brasilândia do Tocantins","TO","nao_encontrado","nao_encontrado",true,true
+"1703701","Brejinho de Nazaré","TO","nao_encontrado","nao_encontrado",true,true
+"1703826","Cachoeirinha","TO","revisao_pendente","nao_encontrado",false,true
+"1703842","Campos Lindos","TO","nao_encontrado","nao_encontrado",true,true
+"1703867","Cariri do Tocantins","TO","nao_encontrado","nao_encontrado",true,true
+"1703883","Carmolândia","TO","nao_encontrado","revisao_pendente",true,false
+"1703891","Carrasco Bonito","TO","nao_encontrado","nao_encontrado",true,true
+"1703909","Caseara","TO","nao_encontrado","nao_encontrado",true,true
+"1704105","Centenário","TO","nao_encontrado","nao_encontrado",true,true
+"1704600","Chapada de Areia","TO","nao_encontrado","nao_encontrado",true,true
+"1705508","Colinas do Tocantins","TO","rejeitado","revisao_pendente",true,false
+"1705557","Combinado","TO","nao_encontrado","rejeitado",true,true
+"1705607","Conceição do Tocantins","TO","nao_encontrado","nao_encontrado",true,true
+"1706100","Cristalândia","TO","nao_encontrado","nao_encontrado",true,true
+"1706258","Crixás do Tocantins","TO","nao_encontrado","nao_encontrado",true,true
+"1706506","Darcinópolis","TO","nao_encontrado","nao_encontrado",true,true
+"1707207","Dois Irmãos do Tocantins","TO","nao_encontrado","nao_encontrado",true,true
+"1707553","Fátima","TO","nao_encontrado","nao_encontrado",true,true
+"1707652","Figueirópolis","TO","nao_encontrado","nao_encontrado",true,true
+"1708254","Tabocão","TO","nao_encontrado","nao_encontrado",true,true
+"1708304","Goianorte","TO","nao_encontrado","nao_encontrado",true,true
+"1709807","Ipueiras","TO","nao_encontrado","nao_encontrado",true,true
+"1710508","Itacajá","TO","revisao_pendente","nao_encontrado",false,true
+"1710706","Itaguatins","TO","nao_encontrado","nao_encontrado",true,true
+"1710904","Itapiratins","TO","nao_encontrado","nao_encontrado",true,true
+"1711100","Itaporã do Tocantins","TO","nao_encontrado","nao_encontrado",true,true
+"1711506","Jaú do Tocantins","TO","nao_encontrado","nao_encontrado",true,true
+"1711803","Juarina","TO","nao_encontrado","nao_encontrado",true,true
+"1711902","Lagoa da Confusão","TO","nao_encontrado","revisao_pendente",true,false
+"1711951","Lagoa do Tocantins","TO","nao_encontrado","nao_encontrado",true,true
+"1712157","Lavandeira","TO","nao_encontrado","revisao_pendente",true,false
+"1712405","Lizarda","TO","revisao_pendente","nao_encontrado",false,true
+"1712454","Luzinópolis","TO","nao_encontrado","nao_encontrado",true,true
+"1712702","Mateiros","TO","nao_encontrado","nao_encontrado",true,true
+"1712801","Maurilândia do Tocantins","TO","nao_encontrado","nao_encontrado",true,true
+"1713601","Monte do Carmo","TO","nao_encontrado","nao_encontrado",true,true
+"1713700","Monte Santo do Tocantins","TO","revisao_pendente","nao_encontrado",false,true
+"1713809","Palmeiras do Tocantins","TO","nao_encontrado","revisao_pendente",true,false
+"1713957","Muricilândia","TO","nao_encontrado","nao_encontrado",true,true
+"1714302","Nazaré","TO","nao_encontrado","nao_encontrado",true,true
+"1715002","Nova Rosalândia","TO","nao_encontrado","revisao_pendente",true,false
+"1715101","Novo Acordo","TO","nao_encontrado","nao_encontrado",true,true
+"1715259","Novo Jardim","TO","nao_encontrado","nao_encontrado",true,true
+"1715705","Palmeirante","TO","nao_encontrado","nao_encontrado",true,true
+"1715754","Palmeirópolis","TO","nao_encontrado","nao_encontrado",true,true
+"1716307","Pau D'Arco","TO","nao_encontrado","nao_encontrado",true,true
+"1716653","Pequizeiro","TO","nao_encontrado","nao_encontrado",true,true
+"1717008","Pindorama do Tocantins","TO","nao_encontrado","nao_encontrado",true,true
+"1717206","Piraquê","TO","nao_encontrado","nao_encontrado",true,true
+"1717503","Pium","TO","nao_encontrado","rejeitado",true,true
+"1717800","Ponte Alta do Bom Jesus","TO","nao_encontrado","nao_encontrado",true,true
+"1717909","Ponte Alta do Tocantins","TO","nao_encontrado","nao_encontrado",true,true
+"1718006","Porto Alegre do Tocantins","TO","nao_encontrado","revisao_pendente",true,false
+"1718303","Praia Norte","TO","nao_encontrado","nao_encontrado",true,true
+"1718402","Presidente Kennedy","TO","nao_encontrado","nao_encontrado",true,true
+"1718451","Pugmil","TO","nao_encontrado","nao_encontrado",true,true
+"1718501","Recursolândia","TO","nao_encontrado","revisao_pendente",true,false
+"1718659","Rio da Conceição","TO","nao_encontrado","nao_encontrado",true,true
+"1718709","Rio dos Bois","TO","nao_encontrado","nao_encontrado",true,true
+"1718758","Rio Sono","TO","revisao_pendente","nao_encontrado",false,true
+"1718808","Sampaio","TO","nao_encontrado","revisao_pendente",true,false
+"1718840","Sandolândia","TO","nao_encontrado","nao_encontrado",true,true
+"1718899","Santa Rita do Tocantins","TO","nao_encontrado","nao_encontrado",true,true
+"1718907","Santa Rosa do Tocantins","TO","revisao_pendente","rejeitado",false,true
+"1719004","Santa Tereza do Tocantins","TO","nao_encontrado","nao_encontrado",true,true
+"1720002","Santa Terezinha do Tocantins","TO","nao_encontrado","revisao_pendente",true,false
+"1720259","São Salvador do Tocantins","TO","nao_encontrado","nao_encontrado",true,true
+"1720309","São Sebastião do Tocantins","TO","revisao_pendente","nao_encontrado",false,true
+"1720499","São Valério","TO","nao_encontrado","nao_encontrado",true,true
+"1720655","Silvanópolis","TO","nao_encontrado","revisao_pendente",true,false
+"1720853","Sucupira","TO","nao_encontrado","nao_encontrado",true,true
+"1720937","Taipas do Tocantins","TO","nao_encontrado","nao_encontrado",true,true
+"1721109","Tocantínia","TO","nao_encontrado","nao_encontrado",true,true
+"1721307","Tupiratins","TO","nao_encontrado","nao_encontrado",true,true
+"2100105","Afonso Cunha","MA","nao_encontrado","nao_encontrado",true,true
+"2100154","Água Doce do Maranhão","MA","nao_encontrado","nao_encontrado",true,true
+"2100303","Aldeias Altas","MA","nao_encontrado","revisao_pendente",true,false
+"2100402","Altamira do Maranhão","MA","nao_encontrado","nao_encontrado",true,true
+"2100436","Alto Alegre do Maranhão","MA","nao_encontrado","nao_encontrado",true,true
+"2100550","Amapá do Maranhão","MA","nao_encontrado","revisao_pendente",true,false
+"2100709","Anajatuba","MA","nao_encontrado","nao_encontrado",true,true
+"2100808","Anapurus","MA","nao_encontrado","nao_encontrado",true,true
+"2100873","Araguanã","MA","nao_encontrado","revisao_pendente",true,false
+"2101103","Axixá","MA","nao_encontrado","nao_encontrado",true,true
+"2101301","Bacuri","MA","nao_encontrado","nao_encontrado",true,true
+"2101350","Bacurituba","MA","nao_encontrado","nao_encontrado",true,true
+"2101707","Barreirinhas","MA","rejeitado","rejeitado",true,true
+"2101731","Belágua","MA","nao_encontrado","nao_encontrado",true,true
+"2101772","Bela Vista do Maranhão","MA","nao_encontrado","revisao_pendente",true,false
+"2101806","Benedito Leite","MA","nao_encontrado","revisao_pendente",true,false
+"2101939","Bernardo do Mearim","MA","nao_encontrado","nao_encontrado",true,true
+"2101970","Boa Vista do Gurupi","MA","nao_encontrado","nao_encontrado",true,true
+"2102036","Bom Jesus das Selvas","MA","nao_encontrado","revisao_pendente",true,false
+"2102101","Brejo","MA","nao_encontrado","revisao_pendente",true,false
+"2102150","Brejo de Areia","MA","nao_encontrado","nao_encontrado",true,true
+"2102200","Buriti","MA","revisao_pendente","rejeitado",false,true
+"2102358","Buritirana","MA","nao_encontrado","revisao_pendente",true,false
+"2102374","Cachoeira Grande","MA","nao_encontrado","nao_encontrado",true,true
+"2102408","Cajapió","MA","nao_encontrado","rejeitado",true,true
+"2102507","Cajari","MA","nao_encontrado","revisao_pendente",true,false
+"2102606","Cândido Mendes","MA","nao_encontrado","revisao_pendente",true,false
+"2102705","Cantanhede","MA","nao_encontrado","revisao_pendente",true,false
+"2102754","Capinzal do Norte","MA","nao_encontrado","revisao_pendente",true,false
+"2102903","Carutapera","MA","nao_encontrado","revisao_pendente",true,false
+"2103406","Coelho Neto","MA","nao_encontrado","revisao_pendente",true,false
+"2103802","Dom Pedro","MA","nao_encontrado","revisao_pendente",true,false
+"2103901","Duque Bacelar","MA","nao_encontrado","nao_encontrado",true,true
+"2104073","Feira Nova do Maranhão","MA","nao_encontrado","nao_encontrado",true,true
+"2104099","Formosa da Serra Negra","MA","nao_encontrado","nao_encontrado",true,true
+"2104107","Fortaleza dos Nogueiras","MA","nao_encontrado","nao_encontrado",true,true
+"2104305","Godofredo Viana","MA","nao_encontrado","nao_encontrado",true,true
+"2104503","Governador Archer","MA","nao_encontrado","nao_encontrado",true,true
+"2104602","Governador Eugênio Barros","MA","nao_encontrado","nao_encontrado",true,true
+"2104628","Governador Luiz Rocha","MA","revisao_pendente","nao_encontrado",false,true
+"2104651","Governador Newton Bello","MA","nao_encontrado","revisao_pendente",true,false
+"2104677","Governador Nunes Freire","MA","nao_encontrado","revisao_pendente",true,false
+"2104701","Graça Aranha","MA","nao_encontrado","nao_encontrado",true,true
+"2104909","Guimarães","MA","nao_encontrado","revisao_pendente",true,false
+"2105153","Igarapé do Meio","MA","nao_encontrado","revisao_pendente",true,false
+"2105203","Igarapé Grande","MA","nao_encontrado","nao_encontrado",true,true
+"2105351","Itaipava do Grajaú","MA","nao_encontrado","nao_encontrado",true,true
+"2105401","Itapecuru Mirim","MA","rejeitado","revisao_pendente",true,false
+"2105476","Jenipapo dos Vieiras","MA","nao_encontrado","nao_encontrado",true,true
+"2105500","João Lisboa","MA","nao_encontrado","revisao_pendente",true,false
+"2105609","Joselândia","MA","nao_encontrado","revisao_pendente",true,false
+"2105658","Junco do Maranhão","MA","nao_encontrado","nao_encontrado",true,true
+"2105807","Lago do Junco","MA","nao_encontrado","nao_encontrado",true,true
+"2105906","Lago Verde","MA","nao_encontrado","nao_encontrado",true,true
+"2105948","Lago dos Rodrigues","MA","nao_encontrado","nao_encontrado",true,true
+"2105963","Lagoa Grande do Maranhão","MA","nao_encontrado","nao_encontrado",true,true
+"2105989","Lajeado Novo","MA","nao_encontrado","nao_encontrado",true,true
+"2106102","Loreto","MA","nao_encontrado","nao_encontrado",true,true
+"2106201","Luís Domingues","MA","nao_encontrado","revisao_pendente",true,false
+"2106300","Magalhães de Almeida","MA","nao_encontrado","nao_encontrado",true,true
+"2106326","Maracaçumé","MA","nao_encontrado","revisao_pendente",true,false
+"2106409","Mata Roma","MA","nao_encontrado","revisao_pendente",true,false
+"2106508","Matinha","MA","nao_encontrado","revisao_pendente",true,false
+"2106607","Matões","MA","nao_encontrado","revisao_pendente",true,false
+"2106631","Matões do Norte","MA","desatualizado","desatualizado",true,true
+"2106672","Milagres do Maranhão","MA","nao_encontrado","nao_encontrado",true,true
+"2106805","Mirinzal","MA","nao_encontrado","revisao_pendente",true,false
+"2107001","Montes Altos","MA","nao_encontrado","nao_encontrado",true,true
+"2107100","Morros","MA","nao_encontrado","nao_encontrado",true,true
+"2107209","Nina Rodrigues","MA","nao_encontrado","revisao_pendente",true,false
+"2107258","Nova Colinas","MA","nao_encontrado","nao_encontrado",true,true
+"2107357","Nova Olinda do Maranhão","MA","nao_encontrado","revisao_pendente",true,false
+"2107407","Olho d'Água das Cunhãs","MA","nao_encontrado","nao_encontrado",true,true
+"2107456","Olinda Nova do Maranhão","MA","revisao_pendente","nao_encontrado",false,true
+"2107506","Paço do Lumiar","MA","nao_encontrado","revisao_pendente",true,false
+"2107803","Parnarama","MA","nao_encontrado","revisao_pendente",true,false
+"2108058","Paulino Neves","MA","revisao_pendente","rejeitado",false,true
+"2108256","Pedro do Rosário","MA","nao_encontrado","nao_encontrado",true,true
+"2108306","Penalva","MA","nao_encontrado","revisao_pendente",true,false
+"2108504","Pindaré-Mirim","MA","revisao_pendente","nao_encontrado",false,true
+"2108702","Pio XII","MA","nao_encontrado","revisao_pendente",true,false
+"2108801","Pirapemas","MA","nao_encontrado","nao_encontrado",true,true
+"2108900","Poção de Pedras","MA","nao_encontrado","nao_encontrado",true,true
+"2109106","Presidente Dutra","MA","nao_encontrado","revisao_pendente",true,false
+"2109205","Presidente Juscelino","MA","nao_encontrado","nao_encontrado",true,true
+"2109239","Presidente Médici","MA","nao_encontrado","revisao_pendente",true,false
+"2109270","Presidente Sarney","MA","nao_encontrado","nao_encontrado",true,true
+"2109452","Raposa","MA","revisao_pendente","rejeitado",false,true
+"2109551","Ribamar Fiquene","MA","nao_encontrado","nao_encontrado",true,true
+"2109700","Sambaíba","MA","nao_encontrado","nao_encontrado",true,true
+"2109809","Santa Helena","MA","nao_encontrado","revisao_pendente",true,false
+"2110005","Santa Luzia","MA","nao_encontrado","revisao_pendente",true,false
+"2110039","Santa Luzia do Paruá","MA","nao_encontrado","nao_encontrado",true,true
+"2110104","Santa Quitéria do Maranhão","MA","nao_encontrado","nao_encontrado",true,true
+"2110203","Santa Rita","MA","nao_encontrado","revisao_pendente",true,false
+"2110237","Santana do Maranhão","MA","nao_encontrado","nao_encontrado",true,true
+"2110278","Santo Amaro do Maranhão","MA","rejeitado","nao_encontrado",true,true
+"2110302","Santo Antônio dos Lopes","MA","nao_encontrado","nao_encontrado",true,true
+"2110401","São Benedito do Rio Preto","MA","nao_encontrado","revisao_pendente",true,false
+"2110500","São Bento","MA","nao_encontrado","revisao_pendente",true,false
+"2110609","São Bernardo","MA","nao_encontrado","revisao_pendente",true,false
+"2110658","São Domingos do Azeitão","MA","revisao_pendente","nao_encontrado",false,true
+"2110807","São Félix de Balsas","MA","nao_encontrado","nao_encontrado",true,true
+"2110856","São Francisco do Brejão","MA","nao_encontrado","nao_encontrado",true,true
+"2110906","São Francisco do Maranhão","MA","nao_encontrado","nao_encontrado",true,true
+"2111003","São João Batista","MA","nao_encontrado","nao_encontrado",true,true
+"2111029","São João do Carú","MA","nao_encontrado","nao_encontrado",true,true
+"2111052","São João do Paraíso","MA","nao_encontrado","nao_encontrado",true,true
+"2111078","São João do Soter","MA","nao_encontrado","nao_encontrado",true,true
+"2111300","São Luís","MA","rejeitado","revisao_pendente",true,false
+"2111409","São Luís Gonzaga do Maranhão","MA","nao_encontrado","nao_encontrado",true,true
+"2111508","São Mateus do Maranhão","MA","nao_encontrado","nao_encontrado",true,true
+"2111532","São Pedro da Água Branca","MA","nao_encontrado","nao_encontrado",true,true
+"2111573","São Pedro dos Crentes","MA","nao_encontrado","nao_encontrado",true,true
+"2111631","São Raimundo do Doca Bezerra","MA","nao_encontrado","nao_encontrado",true,true
+"2111672","São Roberto","MA","nao_encontrado","revisao_pendente",true,false
+"2111706","São Vicente Ferrer","MA","nao_encontrado","revisao_pendente",true,false
+"2111748","Senador Alexandre Costa","MA","nao_encontrado","nao_encontrado",true,true
+"2111789","Serrano do Maranhão","MA","nao_encontrado","nao_encontrado",true,true
+"2111805","Sítio Novo","MA","nao_encontrado","nao_encontrado",true,true
+"2112001","Tasso Fragoso","MA","nao_encontrado","revisao_pendente",true,false
+"2112209","Timon","MA","revisao_pendente","nao_encontrado",false,true
+"2112233","Trizidela do Vale","MA","nao_encontrado","revisao_pendente",true,false
+"2112274","Tufilândia","MA","nao_encontrado","nao_encontrado",true,true
+"2112308","Tuntum","MA","nao_encontrado","revisao_pendente",true,false
+"2112852","Vila Nova dos Martírios","MA","nao_encontrado","nao_encontrado",true,true
+"2113009","Vitorino Freire","MA","nao_encontrado","revisao_pendente",true,false
+"2200202","Água Branca","PI","nao_encontrado","nao_encontrado",true,true
+"2200251","Alagoinha do Piauí","PI","nao_encontrado","revisao_pendente",true,false
+"2200277","Alegrete do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2200301","Alto Longá","PI","rejeitado","rejeitado",true,true
+"2200509","Amarante","PI","nao_encontrado","nao_encontrado",true,true
+"2200608","Angical do Piauí","PI","nao_encontrado","revisao_pendente",true,false
+"2200707","Anísio de Abreu","PI","nao_encontrado","nao_encontrado",true,true
+"2200954","Aroeiras do Itaim","PI","nao_encontrado","revisao_pendente",true,false
+"2201002","Arraial","PI","revisao_pendente","nao_encontrado",false,true
+"2201051","Assunção do Piauí","PI","nao_encontrado","revisao_pendente",true,false
+"2201176","Barra D'Alcântara","PI","nao_encontrado","nao_encontrado",true,true
+"2201309","Barreiras do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2201408","Barro Duro","PI","revisao_pendente","nao_encontrado",false,true
+"2201556","Bela Vista do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2201572","Belém do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2201606","Beneditinos","PI","nao_encontrado","revisao_pendente",true,false
+"2201705","Bertolínia","PI","revisao_pendente","nao_encontrado",false,true
+"2201739","Betânia do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2201804","Bocaina","PI","nao_encontrado","nao_encontrado",true,true
+"2201919","Bom Princípio do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2201929","Bonfim do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2201945","Boqueirão do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2201988","Brejo do Piauí","PI","nao_encontrado","revisao_pendente",true,false
+"2202000","Buriti dos Lopes","PI","nao_encontrado","nao_encontrado",true,true
+"2202026","Buriti dos Montes","PI","revisao_pendente","nao_encontrado",false,true
+"2202083","Cajueiro da Praia","PI","nao_encontrado","nao_encontrado",true,true
+"2202091","Caldeirão Grande do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2202109","Campinas do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2202117","Campo Alegre do Fidalgo","PI","nao_encontrado","nao_encontrado",true,true
+"2202133","Campo Grande do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2202174","Campo Largo do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2202208","Campo Maior","PI","rejeitado","revisao_pendente",true,false
+"2202251","Canavieira","PI","nao_encontrado","nao_encontrado",true,true
+"2202406","Capitão de Campos","PI","nao_encontrado","nao_encontrado",true,true
+"2202455","Capitão Gervásio Oliveira","PI","nao_encontrado","nao_encontrado",true,true
+"2202505","Caracol","PI","nao_encontrado","nao_encontrado",true,true
+"2202539","Caraúbas do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2202554","Caridade do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2202653","Caxingó","PI","nao_encontrado","nao_encontrado",true,true
+"2202711","Cocal de Telha","PI","nao_encontrado","revisao_pendente",true,false
+"2202729","Cocal dos Alves","PI","nao_encontrado","nao_encontrado",true,true
+"2202737","Coivaras","PI","nao_encontrado","nao_encontrado",true,true
+"2202752","Colônia do Gurguéia","PI","revisao_pendente","nao_encontrado",false,true
+"2202778","Colônia do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2202802","Conceição do Canindé","PI","nao_encontrado","nao_encontrado",true,true
+"2202851","Coronel José Dias","PI","nao_encontrado","nao_encontrado",true,true
+"2203008","Cristalândia do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2203206","Curimatá","PI","revisao_pendente","nao_encontrado",false,true
+"2203255","Curralinhos","PI","nao_encontrado","nao_encontrado",true,true
+"2203271","Curral Novo do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2203305","Demerval Lobão","PI","nao_encontrado","nao_encontrado",true,true
+"2203420","Domingos Mourão","PI","nao_encontrado","nao_encontrado",true,true
+"2203453","Dom Inocêncio","PI","nao_encontrado","nao_encontrado",true,true
+"2203503","Elesbão Veloso","PI","nao_encontrado","revisao_pendente",true,false
+"2203602","Eliseu Martins","PI","nao_encontrado","nao_encontrado",true,true
+"2203750","Fartura do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2203800","Flores do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2204006","Francinópolis","PI","nao_encontrado","nao_encontrado",true,true
+"2204105","Francisco Ayres","PI","nao_encontrado","revisao_pendente",true,false
+"2204204","Francisco Santos","PI","nao_encontrado","nao_encontrado",true,true
+"2204352","Geminiano","PI","nao_encontrado","nao_encontrado",true,true
+"2204402","Gilbués","PI","nao_encontrado","revisao_pendente",true,false
+"2204600","Hugo Napoleão","PI","nao_encontrado","revisao_pendente",true,false
+"2204659","Ilha Grande","PI","nao_encontrado","nao_encontrado",true,true
+"2204709","Inhuma","PI","nao_encontrado","nao_encontrado",true,true
+"2204808","Ipiranga do Piauí","PI","revisao_pendente","nao_encontrado",false,true
+"2204907","Isaías Coelho","PI","nao_encontrado","nao_encontrado",true,true
+"2205003","Itainópolis","PI","nao_encontrado","nao_encontrado",true,true
+"2205102","Itaueira","PI","nao_encontrado","revisao_pendente",true,false
+"2205201","Jaicós","PI","nao_encontrado","revisao_pendente",true,false
+"2205250","Jardim do Mulato","PI","nao_encontrado","nao_encontrado",true,true
+"2205276","Jatobá do Piauí","PI","nao_encontrado","revisao_pendente",true,false
+"2205300","Jerumenha","PI","nao_encontrado","nao_encontrado",true,true
+"2205359","João Costa","PI","nao_encontrado","nao_encontrado",true,true
+"2205508","José de Freitas","PI","rejeitado","revisao_pendente",true,false
+"2205516","Juazeiro do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2205524","Júlio Borges","PI","nao_encontrado","nao_encontrado",true,true
+"2205532","Jurema","PI","nao_encontrado","nao_encontrado",true,true
+"2205540","Lagoinha do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2205557","Lagoa Alegre","PI","nao_encontrado","nao_encontrado",true,true
+"2205565","Lagoa do Barro do Piauí","PI","nao_encontrado","revisao_pendente",true,false
+"2205573","Lagoa de São Francisco","PI","nao_encontrado","nao_encontrado",true,true
+"2205581","Lagoa do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2205599","Lagoa do Sítio","PI","nao_encontrado","nao_encontrado",true,true
+"2205607","Landri Sales","PI","nao_encontrado","nao_encontrado",true,true
+"2205706","Luís Correia","PI","nao_encontrado","revisao_pendente",true,false
+"2205854","Madeiro","PI","nao_encontrado","revisao_pendente",true,false
+"2205953","Marcolândia","PI","nao_encontrado","nao_encontrado",true,true
+"2206001","Marcos Parente","PI","nao_encontrado","nao_encontrado",true,true
+"2206050","Massapê do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2206100","Matias Olímpio","PI","nao_encontrado","revisao_pendente",true,false
+"2206209","Miguel Alves","PI","revisao_pendente","rejeitado",false,true
+"2206308","Miguel Leão","PI","revisao_pendente","nao_encontrado",false,true
+"2206357","Milton Brandão","PI","nao_encontrado","nao_encontrado",true,true
+"2206506","Monsenhor Hipólito","PI","nao_encontrado","nao_encontrado",true,true
+"2206605","Monte Alegre do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2206654","Morro Cabeça no Tempo","PI","nao_encontrado","nao_encontrado",true,true
+"2206670","Morro do Chapéu do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2206696","Murici dos Portelas","PI","nao_encontrado","revisao_pendente",true,false
+"2206704","Nazaré do Piauí","PI","nao_encontrado","revisao_pendente",true,false
+"2206720","Nazária","PI","revisao_pendente","nao_encontrado",false,true
+"2206753","Nossa Senhora de Nazaré","PI","nao_encontrado","nao_encontrado",true,true
+"2206902","Novo Oriente do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2206951","Novo Santo Antônio","PI","nao_encontrado","nao_encontrado",true,true
+"2207009","Oeiras","PI","nao_encontrado","revisao_pendente",true,false
+"2207108","Olho D'Água do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2207207","Padre Marcos","PI","revisao_pendente","nao_encontrado",false,true
+"2207355","Pajeú do Piauí","PI","revisao_pendente","nao_encontrado",false,true
+"2207553","Paquetá","PI","nao_encontrado","nao_encontrado",true,true
+"2207603","Parnaguá","PI","nao_encontrado","nao_encontrado",true,true
+"2207751","Passagem Franca do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2207777","Patos do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2207793","Pau D'Arco do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2207850","Pavussu","PI","nao_encontrado","nao_encontrado",true,true
+"2207934","Pedro Laurentino","PI","revisao_pendente","nao_encontrado",false,true
+"2207959","Nova Santa Rita","PI","nao_encontrado","nao_encontrado",true,true
+"2208106","Pimenteiras","PI","nao_encontrado","revisao_pendente",true,false
+"2208551","Porto Alegre do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2208601","Prata do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2208700","Redenção do Gurguéia","PI","nao_encontrado","nao_encontrado",true,true
+"2208809","Regeneração","PI","revisao_pendente","nao_encontrado",false,true
+"2208858","Riacho Frio","PI","nao_encontrado","revisao_pendente",true,false
+"2208874","Ribeira do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2208908","Ribeiro Gonçalves","PI","nao_encontrado","nao_encontrado",true,true
+"2209005","Rio Grande do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2209104","Santa Cruz do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2209153","Santa Cruz dos Milagres","PI","nao_encontrado","revisao_pendente",true,false
+"2209203","Santa Filomena","PI","nao_encontrado","nao_encontrado",true,true
+"2209302","Santa Luz","PI","nao_encontrado","nao_encontrado",true,true
+"2209351","Santana do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2209377","Santa Rosa do Piauí","PI","nao_encontrado","revisao_pendente",true,false
+"2209450","Santo Antônio dos Milagres","PI","nao_encontrado","revisao_pendente",true,false
+"2209500","Santo Inácio do Piauí","PI","nao_encontrado","revisao_pendente",true,false
+"2209559","São Braz do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2209609","São Félix do Piauí","PI","nao_encontrado","revisao_pendente",true,false
+"2209658","São Francisco de Assis do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2209708","São Francisco do Piauí","PI","nao_encontrado","revisao_pendente",true,false
+"2209757","São Gonçalo do Gurguéia","PI","nao_encontrado","nao_encontrado",true,true
+"2209807","São Gonçalo do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2209872","São João da Fronteira","PI","nao_encontrado","nao_encontrado",true,true
+"2210052","São José do Divino","PI","nao_encontrado","revisao_pendente",true,false
+"2210102","São José do Peixe","PI","nao_encontrado","revisao_pendente",true,false
+"2210201","São José do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2210300","São Julião","PI","nao_encontrado","nao_encontrado",true,true
+"2210359","São Lourenço do Piauí","PI","nao_encontrado","revisao_pendente",true,false
+"2210375","São Luis do Piauí","PI","nao_encontrado","revisao_pendente",true,false
+"2210383","São Miguel da Baixa Grande","PI","nao_encontrado","nao_encontrado",true,true
+"2210391","São Miguel do Fidalgo","PI","revisao_pendente","nao_encontrado",false,true
+"2210409","São Miguel do Tapuio","PI","revisao_pendente","nao_encontrado",false,true
+"2210607","São Raimundo Nonato","PI","rejeitado","revisao_pendente",true,false
+"2210631","Sebastião Leal","PI","nao_encontrado","nao_encontrado",true,true
+"2210656","Sigefredo Pacheco","PI","nao_encontrado","revisao_pendente",true,false
+"2210706","Simões","PI","nao_encontrado","revisao_pendente",true,false
+"2210805","Simplício Mendes","PI","nao_encontrado","revisao_pendente",true,false
+"2210904","Socorro do Piauí","PI","revisao_pendente","nao_encontrado",false,true
+"2210938","Sussuapara","PI","nao_encontrado","nao_encontrado",true,true
+"2210953","Tamboril do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2210979","Tanque do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2211209","Uruçuí","PI","nao_encontrado","nao_encontrado",true,true
+"2211308","Valença do Piauí","PI","revisao_pendente","nao_encontrado",false,true
+"2211357","Várzea Branca","PI","nao_encontrado","nao_encontrado",true,true
+"2211407","Várzea Grande","PI","nao_encontrado","nao_encontrado",true,true
+"2211605","Vila Nova do Piauí","PI","nao_encontrado","nao_encontrado",true,true
+"2211704","Wall Ferraz","PI","nao_encontrado","nao_encontrado",true,true
+"2300150","Acarape","CE","revisao_pendente","nao_encontrado",false,true
+"2300408","Aiuaba","CE","nao_encontrado","revisao_pendente",true,false
+"2300606","Altaneira","CE","nao_encontrado","nao_encontrado",true,true
+"2300804","Antonina do Norte","CE","nao_encontrado","nao_encontrado",true,true
+"2301208","Aracoiaba","CE","revisao_pendente","nao_encontrado",false,true
+"2301307","Araripe","CE","nao_encontrado","revisao_pendente",true,false
+"2301604","Assaré","CE","nao_encontrado","nao_encontrado",true,true
+"2301703","Aurora","CE","nao_encontrado","revisao_pendente",true,false
+"2301802","Baixio","CE","nao_encontrado","revisao_pendente",true,false
+"2302057","Barroquinha","CE","nao_encontrado","nao_encontrado",true,true
+"2302305","Bela Cruz","CE","revisao_pendente","rejeitado",false,true
+"2303006","Caridade","CE","nao_encontrado","nao_encontrado",true,true
+"2303931","Choró","CE","nao_encontrado","nao_encontrado",true,true
+"2303956","Chorozinho","CE","nao_encontrado","nao_encontrado",true,true
+"2304285","Eusébio","CE","nao_encontrado","nao_encontrado",true,true
+"2304400","Fortaleza","CE","revisao_pendente","rejeitado",false,true
+"2304608","General Sampaio","CE","nao_encontrado","revisao_pendente",true,false
+"2304954","Guaiúba","CE","nao_encontrado","revisao_pendente",true,false
+"2305100","Guaramiranga","CE","nao_encontrado","nao_encontrado",true,true
+"2305209","Hidrolândia","CE","revisao_pendente","nao_encontrado",false,true
+"2305308","Ibiapina","CE","revisao_pendente","rejeitado",false,true
+"2305332","Ibicuitinga","CE","nao_encontrado","nao_encontrado",true,true
+"2305654","Ipaporanga","CE","nao_encontrado","nao_encontrado",true,true
+"2305803","Ipu","CE","nao_encontrado","revisao_pendente",true,false
+"2306009","Iracema","CE","nao_encontrado","nao_encontrado",true,true
+"2306108","Irauçuba","CE","revisao_pendente","nao_encontrado",false,true
+"2306553","Itarema","CE","nao_encontrado","revisao_pendente",true,false
+"2306900","Jaguaribe","CE","nao_encontrado","revisao_pendente",true,false
+"2307007","Jaguaruana","CE","revisao_pendente","nao_encontrado",false,true
+"2307205","Jati","CE","nao_encontrado","revisao_pendente",true,false
+"2308351","Milhã","CE","revisao_pendente","nao_encontrado",false,true
+"2309201","Nova Olinda","CE","nao_encontrado","nao_encontrado",true,true
+"2309409","Novo Oriente","CE","nao_encontrado","revisao_pendente",true,false
+"2310506","Pedra Branca","CE","revisao_pendente","nao_encontrado",false,true
+"2310902","Piquet Carneiro","CE","nao_encontrado","revisao_pendente",true,false
+"2310951","Pires Ferreira","CE","nao_encontrado","revisao_pendente",true,false
+"2311207","Potengi","CE","nao_encontrado","nao_encontrado",true,true
+"2311231","Potiretama","CE","nao_encontrado","revisao_pendente",true,false
+"2311405","Quixeramobim","CE","revisao_pendente","nao_encontrado",false,true
+"2311504","Quixeré","CE","nao_encontrado","revisao_pendente",true,false
+"2311959","Salitre","CE","nao_encontrado","nao_encontrado",true,true
+"2312106","Santana do Cariri","CE","nao_encontrado","revisao_pendente",true,false
+"2313559","Tururu","CE","nao_encontrado","revisao_pendente",true,false
+"2313609","Ubajara","CE","nao_encontrado","revisao_pendente",true,false
+"2313708","Umari","CE","nao_encontrado","nao_encontrado",true,true
+"2313757","Umirim","CE","nao_encontrado","revisao_pendente",true,false
+"2408409","Olho d'Água do Borges","RN","nao_encontrado","revisao_pendente",true,false
+"2411809","São Fernando","RN","nao_encontrado","nao_encontrado",true,true
+"2501351","Assunção","PB","nao_encontrado","revisao_pendente",true,false
+"2501708","Barra de São Miguel","PB","nao_encontrado","nao_encontrado",true,true
+"2502409","Bonito de Santa Fé","PB","nao_encontrado","revisao_pendente",true,false
+"2503407","Cacimba de Areia","PB","nao_encontrado","revisao_pendente",true,false
+"2504850","Coxixola","PB","revisao_pendente","nao_encontrado",false,true
+"2505279","Curral de Cima","PB","nao_encontrado","revisao_pendente",true,false
+"2505303","Curral Velho","PB","revisao_pendente","nao_encontrado",false,true
+"2505808","Duas Estradas","PB","revisao_pendente","rejeitado",false,true
+"2506301","Guarabira","PB","revisao_pendente","rejeitado",false,true
+"2508307","Lagoa Seca","PB","revisao_pendente","rejeitado",false,true
+"2510006","Nazarezinho","PB","revisao_pendente","nao_encontrado",false,true
+"2510600","Ouro Velho","PB","nao_encontrado","revisao_pendente",true,false
+"2511004","Pedra Branca","PB","nao_encontrado","nao_encontrado",true,true
+"2512200","Prata","PB","rejeitado","rejeitado",true,true
+"2513943","São Domingos do Cariri","PB","revisao_pendente","nao_encontrado",false,true
+"2514305","São José de Caiana","PB","nao_encontrado","nao_encontrado",true,true
+"2514453","São José dos Ramos","PB","revisao_pendente","nao_encontrado",false,true
+"2514503","São José de Piranhas","PB","revisao_pendente","nao_encontrado",false,true
+"2515708","Serra Grande","PB","revisao_pendente","nao_encontrado",false,true
+"2516300","Sumé","PB","revisao_pendente","rejeitado",false,true
+"2517209","Vieirópolis","PB","revisao_pendente","nao_encontrado",false,true
+"2600104","Afogados da Ingazeira","PE","revisao_pendente","rejeitado",false,true
+"2601409","Barreiros","PE","revisao_pendente","rejeitado",false,true
+"2601508","Belém de Maria","PE","revisao_pendente","rejeitado",false,true
+"2601706","Belo Jardim","PE","revisao_pendente","rejeitado",false,true
+"2601805","Betânia","PE","rejeitado","rejeitado",true,true
+"2601904","Bezerros","PE","revisao_pendente","rejeitado",false,true
+"2602308","Bonito","PE","rejeitado","rejeitado",true,true
+"2602407","Brejão","PE","rejeitado","rejeitado",true,true
+"2602506","Brejinho","PE","revisao_pendente","rejeitado",false,true
+"2602704","Buenos Aires","PE","rejeitado","rejeitado",true,true
+"2603454","Camaragibe","PE","nao_encontrado","revisao_pendente",true,false
+"2604155","Casinhas","PE","revisao_pendente","rejeitado",false,true
+"2604304","Cedro","PE","nao_encontrado","revisao_pendente",true,false
+"2604502","Chã Grande","PE","nao_encontrado","revisao_pendente",true,false
+"2605103","Custódia","PE","nao_encontrado","revisao_pendente",true,false
+"2605459","Fernando de Noronha","PE","rejeitado","rejeitado",true,true
+"2606903","Iguaracy","PE","nao_encontrado","revisao_pendente",true,false
+"2607505","Itaíba","PE","nao_encontrado","revisao_pendente",true,false
+"2607653","Itambé","PE","revisao_pendente","rejeitado",false,true
+"2607703","Itapetim","PE","rejeitado","rejeitado",true,true
+"2608008","Jataúba","PE","nao_encontrado","nao_encontrado",true,true
+"2608107","João Alfredo","PE","nao_encontrado","revisao_pendente",true,false
+"2608206","Joaquim Nabuco","PE","nao_encontrado","revisao_pendente",true,false
+"2608305","Jupi","PE","revisao_pendente","rejeitado",false,true
+"2608404","Jurema","PE","nao_encontrado","revisao_pendente",true,false
+"2609006","Macaparana","PE","nao_encontrado","revisao_pendente",true,false
+"2609154","Manari","PE","nao_encontrado","revisao_pendente",true,false
+"2609204","Maraial","PE","nao_encontrado","revisao_pendente",true,false
+"2610301","Paranatama","PE","nao_encontrado","revisao_pendente",true,false
+"2610806","Pedra","PE","nao_encontrado","revisao_pendente",true,false
+"2611705","Riacho das Almas","PE","nao_encontrado","revisao_pendente",true,false
+"2611903","Rio Formoso","PE","nao_encontrado","revisao_pendente",true,false
+"2612109","Salgadinho","PE","nao_encontrado","revisao_pendente",true,false
+"2612455","Santa Cruz","PE","nao_encontrado","revisao_pendente",true,false
+"2612554","Santa Filomena","PE","nao_encontrado","revisao_pendente",true,false
+"2612901","São Benedito do Sul","PE","nao_encontrado","revisao_pendente",true,false
+"2613107","São Caitano","PE","nao_encontrado","nao_encontrado",true,true
+"2614006","Serrita","PE","nao_encontrado","revisao_pendente",true,false
+"2614303","Moreilândia","PE","nao_encontrado","revisao_pendente",true,false
+"2615201","Terra Nova","PE","nao_encontrado","revisao_pendente",true,false
+"2615300","Timbaúba","PE","licenca_pendente","licenca_pendente",true,true
+"2615409","Toritama","PE","nao_encontrado","revisao_pendente",true,false
+"2615607","Trindade","PE","nao_encontrado","revisao_pendente",true,false
+"2700409","Atalaia","AL","licenca_pendente","revisao_pendente",true,false
+"2701001","Boca da Mata","AL","nao_encontrado","revisao_pendente",true,false
+"2701100","Branquinha","AL","rejeitado","rejeitado",true,true
+"2701506","Campo Grande","AL","nao_encontrado","revisao_pendente",true,false
+"2701605","Canapi","AL","nao_encontrado","revisao_pendente",true,false
+"2702553","Estrela de Alagoas","AL","nao_encontrado","revisao_pendente",true,false
+"2702603","Feira Grande","AL","nao_encontrado","revisao_pendente",true,false
+"2702702","Feliz Deserto","AL","nao_encontrado","revisao_pendente",true,false
+"2703106","Igaci","AL","revisao_pendente","nao_encontrado",false,true
+"2703205","Igreja Nova","AL","nao_encontrado","revisao_pendente",true,false
+"2703403","Jacaré dos Homens","AL","nao_encontrado","revisao_pendente",true,false
+"2703809","Joaquim Gomes","AL","nao_encontrado","revisao_pendente",true,false
+"2703908","Jundiá","AL","nao_encontrado","revisao_pendente",true,false
+"2704005","Junqueiro","AL","nao_encontrado","revisao_pendente",true,false
+"2704203","Limoeiro de Anadia","AL","revisao_pendente","rejeitado",false,true
+"2704401","Major Isidoro","AL","nao_encontrado","nao_encontrado",true,true
+"2704609","Maravilha","AL","nao_encontrado","revisao_pendente",true,false
+"2704807","Maribondo","AL","nao_encontrado","nao_encontrado",true,true
+"2704906","Mar Vermelho","AL","nao_encontrado","revisao_pendente",true,false
+"2705002","Mata Grande","AL","nao_encontrado","revisao_pendente",true,false
+"2705200","Messias","AL","nao_encontrado","nao_encontrado",true,true
+"2705408","Monteirópolis","AL","nao_encontrado","nao_encontrado",true,true
+"2705804","Olho d'Água do Casado","AL","nao_encontrado","nao_encontrado",true,true
+"2706208","Palestina","AL","rejeitado","rejeitado",true,true
+"2706422","Pariconha","AL","nao_encontrado","nao_encontrado",true,true
+"2706505","Passo de Camaragibe","AL","nao_encontrado","nao_encontrado",true,true
+"2706604","Paulo Jacinto","AL","rejeitado","rejeitado",true,true
+"2706901","Pilar","AL","nao_encontrado","revisao_pendente",true,false
+"2707008","Pindoba","AL","nao_encontrado","nao_encontrado",true,true
+"2707305","Porto Calvo","AL","nao_encontrado","revisao_pendente",true,false
+"2707701","Rio Largo","AL","nao_encontrado","revisao_pendente",true,false
+"2707800","Roteiro","AL","nao_encontrado","revisao_pendente",true,false
+"2708204","São Brás","AL","nao_encontrado","revisao_pendente",true,false
+"2708402","São José da Tapera","AL","nao_encontrado","revisao_pendente",true,false
+"2708709","São Miguel dos Milagres","AL","nao_encontrado","revisao_pendente",true,false
+"2708808","São Sebastião","AL","nao_encontrado","revisao_pendente",true,false
+"2709004","Tanque d'Arca","AL","nao_encontrado","revisao_pendente",true,false
+"2800100","Amparo do São Francisco","SE","revisao_pendente","nao_encontrado",false,true
+"2800308","Aracaju","SE","revisao_pendente","rejeitado",false,true
+"2800506","Areia Branca","SE","revisao_pendente","nao_encontrado",false,true
+"2801207","Canindé de São Francisco","SE","revisao_pendente","nao_encontrado",false,true
+"2802205","Feira Nova","SE","revisao_pendente","nao_encontrado",false,true
+"2802502","General Maynard","SE","revisao_pendente","nao_encontrado",false,true
+"2802601","Graccho Cardoso","SE","revisao_pendente","nao_encontrado",false,true
+"2802809","Indiaroba","SE","revisao_pendente","nao_encontrado",false,true
+"2803807","Malhada dos Bois","SE","revisao_pendente","nao_encontrado",false,true
+"2804102","Moita Bonita","SE","revisao_pendente","nao_encontrado",false,true
+"2804201","Monte Alegre de Sergipe","SE","nao_encontrado","revisao_pendente",true,false
+"2804409","Neópolis","SE","revisao_pendente","nao_encontrado",false,true
+"2804706","Nossa Senhora de Lourdes","SE","revisao_pendente","nao_encontrado",false,true
+"2805000","Pedra Mole","SE","nao_encontrado","nao_encontrado",true,true
+"2806008","Ribeirópolis","SE","nao_encontrado","revisao_pendente",true,false
+"2806404","Santana do São Francisco","SE","revisao_pendente","nao_encontrado",false,true
+"2807402","Tobias Barreto","SE","nao_encontrado","revisao_pendente",true,false
+"2900405","Água Fria","BA","nao_encontrado","revisao_pendente",true,false
+"2901007","Amargosa","BA","nao_encontrado","revisao_pendente",true,false
+"2901155","América Dourada","BA","revisao_pendente","nao_encontrado",false,true
+"2901304","Andaraí","BA","revisao_pendente","rejeitado",false,true
+"2902302","Aratuípe","BA","revisao_pendente","nao_encontrado",false,true
+"2904852","Cabaceiras do Paraguaçu","BA","nao_encontrado","nao_encontrado",true,true
+"2905107","Caém","BA","revisao_pendente","rejeitado",false,true
+"2905156","Caetanos","BA","nao_encontrado","revisao_pendente",true,false
+"2906105","Canápolis","BA","nao_encontrado","revisao_pendente",true,false
+"2907004","Cardeal da Silva","BA","nao_encontrado","revisao_pendente",true,false
+"2908804","Contendas do Sincorá","BA","nao_encontrado","revisao_pendente",true,false
+"2909406","Cotegipe","BA","nao_encontrado","revisao_pendente",true,false
+"2910305","Elísio Medrado","BA","revisao_pendente","nao_encontrado",false,true
+"2911907","Iaçu","BA","nao_encontrado","revisao_pendente",true,false
+"2912707","Ibirapitanga","BA","nao_encontrado","revisao_pendente",true,false
+"2913457","Igrapiúna","BA","revisao_pendente","nao_encontrado",false,true
+"2914802","Itabuna","BA","rejeitado","revisao_pendente",true,false
+"2914901","Itacaré","BA","licenca_pendente","nao_encontrado",true,true
+"2915205","Itagibá","BA","revisao_pendente","rejeitado",false,true
+"2915353","Itaguaçu da Bahia","BA","nao_encontrado","revisao_pendente",true,false
+"2915908","Itanagra","BA","revisao_pendente","rejeitado",false,true
+"2916708","Itaquara","BA","revisao_pendente","nao_encontrado",false,true
+"2916906","Itiruçu","BA","nao_encontrado","revisao_pendente",true,false
+"2917003","Itiúba","BA","nao_encontrado","revisao_pendente",true,false
+"2917300","Ituberá","BA","revisao_pendente","nao_encontrado",false,true
+"2917904","Jandaíra","BA","nao_encontrado","revisao_pendente",true,false
+"2919058","Lajedo do Tabocal","BA","nao_encontrado","revisao_pendente",true,false
+"2919603","Macajuba","BA","nao_encontrado","revisao_pendente",true,false
+"2920007","Maiquinique","BA","nao_encontrado","revisao_pendente",true,false
+"2920304","Malhada de Pedras","BA","revisao_pendente","nao_encontrado",false,true
+"2921203","Miguel Calmon","BA","nao_encontrado","revisao_pendente",true,false
+"2922250","Muquém do São Francisco","BA","nao_encontrado","revisao_pendente",true,false
+"2924900","Planaltino","BA","revisao_pendente","rejeitado",false,true
+"2927408","Salvador","BA","revisao_pendente","rejeitado",false,true
+"2927705","Santa Cruz Cabrália","BA","revisao_pendente","rejeitado",false,true
+"2928109","Santa Maria da Vitória","BA","nao_encontrado","revisao_pendente",true,false
+"2928505","Santa Terezinha","BA","revisao_pendente","nao_encontrado",false,true
+"2929107","São Felipe","BA","revisao_pendente","rejeitado",false,true
+"2929370","São José do Jacuípe","BA","nao_encontrado","revisao_pendente",true,false
+"2929404","São Miguel das Matas","BA","nao_encontrado","revisao_pendente",true,false
+"2929750","Saubara","BA","nao_encontrado","revisao_pendente",true,false
+"2929800","Saúde","BA","revisao_pendente","rejeitado",false,true
+"2930758","Sítio do Mato","BA","nao_encontrado","revisao_pendente",true,false
+"2931202","Taperoá","BA","nao_encontrado","revisao_pendente",true,false
+"2931400","Teodoro Sampaio","BA","nao_encontrado","revisao_pendente",true,false
+"2932408","Uibaí","BA","revisao_pendente","rejeitado",false,true
+"2933109","Várzea do Poço","BA","nao_encontrado","revisao_pendente",true,false
+"2933158","Várzea Nova","BA","rejeitado","revisao_pendente",true,false
+"2933406","Wagner","BA","nao_encontrado","revisao_pendente",true,false
+"3102704","Cachoeira de Pajeú","MG","nao_encontrado","revisao_pendente",true,false
+"3108255","Bonito de Minas","MG","revisao_pendente","rejeitado",false,true
+"3114600","Carrancas","MG","nao_encontrado","nao_encontrado",true,true
+"3115102","Cássia","MG","rejeitado","revisao_pendente",true,false
+"3116506","Claro dos Poções","MG","nao_encontrado","revisao_pendente",true,false
+"3120508","Cristina","MG","revisao_pendente","nao_encontrado",false,true
+"3124203","Espera Feliz","MG","rejeitado","rejeitado",true,true
+"3124906","Eugenópolis","MG","nao_encontrado","revisao_pendente",true,false
+"3125507","São Gonçalo do Rio Preto","MG","nao_encontrado","nao_encontrado",true,true
+"3126109","Formiga","MG","licenca_pendente","revisao_pendente",true,false
+"3127339","Gameleiras","MG","nao_encontrado","nao_encontrado",true,true
+"3127701","Governador Valadares","MG","rejeitado","revisao_pendente",true,false
+"3127800","Grão Mogol","MG","nao_encontrado","revisao_pendente",true,false
+"3127909","Grupiara","MG","revisao_pendente","nao_encontrado",false,true
+"3128105","Guapé","MG","rejeitado","rejeitado",true,true
+"3128253","Guaraciama","MG","nao_encontrado","revisao_pendente",true,false
+"3130408","Ijaci","MG","revisao_pendente","nao_encontrado",false,true
+"3130556","Imbé de Minas","MG","nao_encontrado","nao_encontrado",true,true
+"3130606","Inconfidentes","MG","revisao_pendente","nao_encontrado",false,true
+"3130705","Indianópolis","MG","nao_encontrado","nao_encontrado",true,true
+"3130804","Ingaí","MG","revisao_pendente","nao_encontrado",false,true
+"3131000","Inhaúma","MG","nao_encontrado","revisao_pendente",true,false
+"3131109","Inimutaba","MG","nao_encontrado","nao_encontrado",true,true
+"3131604","Iraí de Minas","MG","revisao_pendente","nao_encontrado",false,true
+"3131802","Itabirinha","MG","revisao_pendente","nao_encontrado",false,true
+"3132008","Itacambira","MG","nao_encontrado","nao_encontrado",true,true
+"3132107","Itacarambi","MG","rejeitado","rejeitado",true,true
+"3132602","Itamarati de Minas","MG","revisao_pendente","nao_encontrado",false,true
+"3132701","Itambacuri","MG","revisao_pendente","nao_encontrado",false,true
+"3132800","Itambé do Mato Dentro","MG","nao_encontrado","nao_encontrado",true,true
+"3132909","Itamogi","MG","nao_encontrado","nao_encontrado",true,true
+"3133303","Itaobim","MG","rejeitado","rejeitado",true,true
+"3133402","Itapagipe","MG","nao_encontrado","nao_encontrado",true,true
+"3133501","Itapecerica","MG","revisao_pendente","nao_encontrado",false,true
+"3134301","Itumirim","MG","nao_encontrado","nao_encontrado",true,true
+"3135050","Jaíba","MG","revisao_pendente","nao_encontrado",false,true
+"3135076","Jampruca","MG","nao_encontrado","nao_encontrado",true,true
+"3135456","Jenipapo de Minas","MG","nao_encontrado","nao_encontrado",true,true
+"3135506","Jequeri","MG","nao_encontrado","nao_encontrado",true,true
+"3135605","Jequitaí","MG","nao_encontrado","nao_encontrado",true,true
+"3135704","Jequitibá","MG","nao_encontrado","nao_encontrado",true,true
+"3136009","Joaíma","MG","nao_encontrado","revisao_pendente",true,false
+"3136405","Joaquim Felício","MG","nao_encontrado","nao_encontrado",true,true
+"3136504","Jordânia","MG","nao_encontrado","nao_encontrado",true,true
+"3136520","José Gonçalves de Minas","MG","nao_encontrado","nao_encontrado",true,true
+"3136579","Josenópolis","MG","nao_encontrado","nao_encontrado",true,true
+"3136801","Juramento","MG","nao_encontrado","nao_encontrado",true,true
+"3137205","Lagoa da Prata","MG","nao_encontrado","revisao_pendente",true,false
+"3138005","Laranjal","MG","rejeitado","rejeitado",true,true
+"3138104","Lassance","MG","nao_encontrado","nao_encontrado",true,true
+"3138302","Leandro Ferreira","MG","nao_encontrado","nao_encontrado",true,true
+"3138351","Leme do Prado","MG","nao_encontrado","nao_encontrado",true,true
+"3138658","Lontra","MG","revisao_pendente","nao_encontrado",false,true
+"3138682","Luislândia","MG","nao_encontrado","nao_encontrado",true,true
+"3138708","Luminárias","MG","rejeitado","rejeitado",true,true
+"3138906","Machacalis","MG","nao_encontrado","nao_encontrado",true,true
+"3139201","Malacacheta","MG","nao_encontrado","revisao_pendente",true,false
+"3139706","Maravilhas","MG","nao_encontrado","nao_encontrado",true,true
+"3140100","Marilac","MG","nao_encontrado","nao_encontrado",true,true
+"3140159","Mário Campos","MG","revisao_pendente","nao_encontrado",false,true
+"3140209","Maripá de Minas","MG","revisao_pendente","nao_encontrado",false,true
+"3140506","Martinho Campos","MG","nao_encontrado","revisao_pendente",true,false
+"3140605","Materlândia","MG","nao_encontrado","nao_encontrado",true,true
+"3140902","Matipó","MG","nao_encontrado","nao_encontrado",true,true
+"3141306","Medeiros","MG","nao_encontrado","nao_encontrado",true,true
+"3141504","Mendes Pimentel","MG","nao_encontrado","revisao_pendente",true,false
+"3141801","Minas Novas","MG","nao_encontrado","revisao_pendente",true,false
+"3142106","Miradouro","MG","revisao_pendente","nao_encontrado",false,true
+"3142403","Moema","MG","nao_encontrado","nao_encontrado",true,true
+"3142601","Monsenhor Paulo","MG","nao_encontrado","nao_encontrado",true,true
+"3143153","Monte Formoso","MG","nao_encontrado","nao_encontrado",true,true
+"3143450","Montezuma","MG","revisao_pendente","nao_encontrado",false,true
+"3143500","Morada Nova de Minas","MG","revisao_pendente","nao_encontrado",false,true
+"3143609","Morro da Garça","MG","nao_encontrado","nao_encontrado",true,true
+"3143708","Morro do Pilar","MG","nao_encontrado","nao_encontrado",true,true
+"3143807","Munhoz","MG","nao_encontrado","revisao_pendente",true,false
+"3144201","Nacip Raydan","MG","revisao_pendente","nao_encontrado",false,true
+"3144375","Natalândia","MG","nao_encontrado","nao_encontrado",true,true
+"3144409","Natércia","MG","revisao_pendente","nao_encontrado",false,true
+"3144607","Nepomuceno","MG","nao_encontrado","nao_encontrado",true,true
+"3144672","Nova Belém","MG","nao_encontrado","nao_encontrado",true,true
+"3145372","Novorizonte","MG","nao_encontrado","nao_encontrado",true,true
+"3145406","Olaria","MG","nao_encontrado","revisao_pendente",true,false
+"3145455","Olhos-d'Água","MG","nao_encontrado","nao_encontrado",true,true
+"3145703","Oliveira Fortes","MG","nao_encontrado","nao_encontrado",true,true
+"3145802","Onça de Pitangui","MG","revisao_pendente","nao_encontrado",false,true
+"3145877","Orizânia","MG","nao_encontrado","nao_encontrado",true,true
+"3146206","Ouro Verde de Minas","MG","nao_encontrado","revisao_pendente",true,false
+"3146255","Padre Carvalho","MG","nao_encontrado","nao_encontrado",true,true
+"3146305","Padre Paraíso","MG","nao_encontrado","revisao_pendente",true,false
+"3146404","Paineiras","MG","nao_encontrado","nao_encontrado",true,true
+"3146552","Pai Pedro","MG","nao_encontrado","nao_encontrado",true,true
+"3146602","Paiva","MG","nao_encontrado","nao_encontrado",true,true
+"3146750","Palmópolis","MG","nao_encontrado","nao_encontrado",true,true
+"3147402","Paraopeba","MG","revisao_pendente","rejeitado",false,true
+"3147808","Passa Vinte","MG","revisao_pendente","nao_encontrado",false,true
+"3147956","Patis","MG","nao_encontrado","nao_encontrado",true,true
+"3148400","Paulistas","MG","revisao_pendente","nao_encontrado",false,true
+"3148608","Peçanha","MG","nao_encontrado","nao_encontrado",true,true
+"3148756","Pedra Bonita","MG","nao_encontrado","nao_encontrado",true,true
+"3148806","Pedra do Anta","MG","nao_encontrado","nao_encontrado",true,true
+"3148905","Pedra do Indaiá","MG","nao_encontrado","nao_encontrado",true,true
+"3149002","Pedra Dourada","MG","nao_encontrado","nao_encontrado",true,true
+"3149150","Pedras de Maria da Cruz","MG","nao_encontrado","nao_encontrado",true,true
+"3149200","Pedrinópolis","MG","nao_encontrado","nao_encontrado",true,true
+"3149408","Pedro Teixeira","MG","nao_encontrado","nao_encontrado",true,true
+"3149606","Pequi","MG","nao_encontrado","nao_encontrado",true,true
+"3149705","Perdigão","MG","nao_encontrado","nao_encontrado",true,true
+"3149804","Perdizes","MG","revisao_pendente","nao_encontrado",false,true
+"3150000","Pescador","MG","revisao_pendente","nao_encontrado",false,true
+"3150109","Piau","MG","nao_encontrado","revisao_pendente",true,false
+"3150158","Piedade de Caratinga","MG","nao_encontrado","nao_encontrado",true,true
+"3150406","Piedade dos Gerais","MG","nao_encontrado","nao_encontrado",true,true
+"3150539","Pingo-d'Água","MG","nao_encontrado","nao_encontrado",true,true
+"3150570","Pintópolis","MG","nao_encontrado","nao_encontrado",true,true
+"3150901","Piranguçu","MG","revisao_pendente","nao_encontrado",false,true
+"3151305","Piraúba","MG","revisao_pendente","nao_encontrado",false,true
+"3152131","Ponto Chique","MG","nao_encontrado","nao_encontrado",true,true
+"3152204","Porteirinha","MG","revisao_pendente","nao_encontrado",false,true
+"3152303","Porto Firme","MG","nao_encontrado","revisao_pendente",true,false
+"3153004","Pratinha","MG","revisao_pendente","nao_encontrado",false,true
+"3153103","Presidente Bernardes","MG","nao_encontrado","nao_encontrado",true,true
+"3153202","Presidente Juscelino","MG","nao_encontrado","nao_encontrado",true,true
+"3153608","Prudente de Morais","MG","revisao_pendente","nao_encontrado",false,true
+"3153806","Queluzito","MG","nao_encontrado","nao_encontrado",true,true
+"3154457","Riachinho","MG","nao_encontrado","nao_encontrado",true,true
+"3154507","Riacho dos Machados","MG","nao_encontrado","nao_encontrado",true,true
+"3154705","Ribeirão Vermelho","MG","nao_encontrado","revisao_pendente",true,false
+"3154804","Rio Acima","MG","revisao_pendente","nao_encontrado",false,true
+"3155207","Rio Espera","MG","nao_encontrado","revisao_pendente",true,false
+"3155306","Rio Manso","MG","revisao_pendente","nao_encontrado",false,true
+"3156106","Ritápolis","MG","revisao_pendente","nao_encontrado",false,true
+"3156304","Rodeiro","MG","nao_encontrado","nao_encontrado",true,true
+"3156452","Rosário da Limeira","MG","nao_encontrado","nao_encontrado",true,true
+"3157104","Salto da Divisa","MG","nao_encontrado","revisao_pendente",true,false
+"3157302","Santa Bárbara do Tugúrio","MG","nao_encontrado","nao_encontrado",true,true
+"3157336","Santa Cruz de Minas","MG","nao_encontrado","revisao_pendente",true,false
+"3157377","Santa Cruz de Salinas","MG","nao_encontrado","nao_encontrado",true,true
+"3157500","Santa Efigênia de Minas","MG","revisao_pendente","nao_encontrado",false,true
+"3157658","Santa Helena de Minas","MG","revisao_pendente","nao_encontrado",false,true
+"3157708","Santa Juliana","MG","revisao_pendente","nao_encontrado",false,true
+"3157906","Santa Margarida","MG","revisao_pendente","nao_encontrado",false,true
+"3158409","Santana de Cataguases","MG","revisao_pendente","nao_encontrado",false,true
+"3158508","Santana de Pirapama","MG","nao_encontrado","nao_encontrado",true,true
+"3158607","Santana do Deserto","MG","nao_encontrado","nao_encontrado",true,true
+"3158706","Santana do Garambéu","MG","revisao_pendente","nao_encontrado",false,true
+"3158953","Santana do Paraíso","MG","nao_encontrado","nao_encontrado",true,true
+"3159209","Santa Rita de Caldas","MG","revisao_pendente","nao_encontrado",false,true
+"3159407","Santa Rita de Ibitipoca","MG","nao_encontrado","nao_encontrado",true,true
+"3159506","Santa Rita do Itueto","MG","revisao_pendente","nao_encontrado",false,true
+"3159704","Santa Rosa da Serra","MG","nao_encontrado","nao_encontrado",true,true
+"3159803","Santa Vitória","MG","revisao_pendente","nao_encontrado",false,true
+"3160009","Santo Antônio do Aventureiro","MG","nao_encontrado","nao_encontrado",true,true
+"3160207","Santo Antônio do Itambé","MG","revisao_pendente","nao_encontrado",false,true
+"3160454","Santo Antônio do Retiro","MG","nao_encontrado","nao_encontrado",true,true
+"3160603","Santo Hipólito","MG","revisao_pendente","nao_encontrado",false,true
+"3161304","São Francisco de Sales","MG","nao_encontrado","nao_encontrado",true,true
+"3161403","São Francisco do Glória","MG","nao_encontrado","nao_encontrado",true,true
+"3161601","São Geraldo da Piedade","MG","nao_encontrado","nao_encontrado",true,true
+"3161700","São Gonçalo do Abaeté","MG","nao_encontrado","nao_encontrado",true,true
+"3162203","São João Batista do Glória","MG","nao_encontrado","nao_encontrado",true,true
+"3162252","São João da Lagoa","MG","nao_encontrado","revisao_pendente",true,false
+"3162401","São João da Ponte","MG","nao_encontrado","nao_encontrado",true,true
+"3162450","São João das Missões","MG","nao_encontrado","nao_encontrado",true,true
+"3162559","São João do Manhuaçu","MG","revisao_pendente","nao_encontrado",false,true
+"3162575","São João do Manteninha","MG","nao_encontrado","nao_encontrado",true,true
+"3162658","São João do Pacuí","MG","nao_encontrado","nao_encontrado",true,true
+"3163102","São José da Varginha","MG","revisao_pendente","nao_encontrado",false,true
+"3163201","São José do Alegre","MG","revisao_pendente","nao_encontrado",false,true
+"3163300","São José do Divino","MG","revisao_pendente","nao_encontrado",false,true
+"3163607","São José do Mantimento","MG","revisao_pendente","nao_encontrado",false,true
+"3163805","São Miguel do Anta","MG","nao_encontrado","nao_encontrado",true,true
+"3163904","São Pedro da União","MG","nao_encontrado","nao_encontrado",true,true
+"3164100","São Pedro do Suaçuí","MG","revisao_pendente","nao_encontrado",false,true
+"3164308","São Roque de Minas","MG","nao_encontrado","nao_encontrado",true,true
+"3164431","São Sebastião da Vargem Alegre","MG","revisao_pendente","nao_encontrado",false,true
+"3164472","São Sebastião do Anta","MG","nao_encontrado","nao_encontrado",true,true
+"3164506","São Sebastião do Maranhão","MG","nao_encontrado","nao_encontrado",true,true
+"3164605","São Sebastião do Oeste","MG","nao_encontrado","nao_encontrado",true,true
+"3164803","São Sebastião do Rio Preto","MG","nao_encontrado","nao_encontrado",true,true
+"3165107","São Tomás de Aquino","MG","nao_encontrado","nao_encontrado",true,true
+"3165537","Sarzedo","MG","revisao_pendente","nao_encontrado",false,true
+"3165560","Sem-Peixe","MG","revisao_pendente","nao_encontrado",false,true
+"3165602","Senador Cortes","MG","revisao_pendente","nao_encontrado",false,true
+"3165909","Senador Modestino Gonçalves","MG","nao_encontrado","nao_encontrado",true,true
+"3166105","Senhora do Porto","MG","revisao_pendente","nao_encontrado",false,true
+"3166501","Serra Azul de Minas","MG","nao_encontrado","nao_encontrado",true,true
+"3166808","Serra do Salitre","MG","nao_encontrado","nao_encontrado",true,true
+"3166956","Serranópolis de Minas","MG","nao_encontrado","nao_encontrado",true,true
+"3167004","Serranos","MG","nao_encontrado","nao_encontrado",true,true
+"3167400","Silvianópolis","MG","nao_encontrado","nao_encontrado",true,true
+"3167509","Simão Pereira","MG","nao_encontrado","nao_encontrado",true,true
+"3168200","Tapiraí","MG","nao_encontrado","nao_encontrado",true,true
+"3168309","Taquaraçu de Minas","MG","revisao_pendente","nao_encontrado",false,true
+"3169000","Tocantins","MG","nao_encontrado","nao_encontrado",true,true
+"3169059","Tocos do Moji","MG","revisao_pendente","nao_encontrado",false,true
+"3169109","Toledo","MG","nao_encontrado","nao_encontrado",true,true
+"3169356","Três Marias","MG","revisao_pendente","nao_encontrado",false,true
+"3169802","Turvolândia","MG","nao_encontrado","nao_encontrado",true,true
+"3170479","Uruana de Minas","MG","nao_encontrado","nao_encontrado",true,true
+"3170602","Vargem Bonita","MG","nao_encontrado","revisao_pendente",true,false
+"3170651","Vargem Grande do Rio Pardo","MG","nao_encontrado","nao_encontrado",true,true
+"3170750","Varjão de Minas","MG","nao_encontrado","nao_encontrado",true,true
+"3171030","Verdelândia","MG","nao_encontrado","nao_encontrado",true,true
+"3171071","Veredinha","MG","revisao_pendente","nao_encontrado",false,true
+"3171105","Veríssimo","MG","nao_encontrado","nao_encontrado",true,true
+"3171709","Virgínia","MG","revisao_pendente","nao_encontrado",false,true
+"3171808","Virginópolis","MG","nao_encontrado","nao_encontrado",true,true
+"3171907","Virgolândia","MG","nao_encontrado","nao_encontrado",true,true
+"3172103","Volta Grande","MG","nao_encontrado","nao_encontrado",true,true
+"3200169","Água Doce do Norte","ES","revisao_pendente","nao_encontrado",false,true
+"3201209","Cachoeiro de Itapemirim","ES","revisao_pendente","rejeitado",false,true
+"3201803","Divino de São Lourenço","ES","nao_encontrado","nao_encontrado",true,true
+"3302502","Magé","RJ","rejeitado","rejeitado",true,true
+"3303609","Paracambi","RJ","rejeitado","revisao_pendente",true,false
+"3500204","Adolfo","SP","nao_encontrado","revisao_pendente",true,false
+"3500758","Alambari","SP","nao_encontrado","revisao_pendente",true,false
+"3503307","Araras","SP","rejeitado","revisao_pendente",true,false
+"3504602","Bady Bassitt","SP","rejeitado","revisao_pendente",true,false
+"3509254","Cajati","SP","nao_encontrado","revisao_pendente",true,false
+"3509700","Campos do Jordão","SP","revisao_pendente","rejeitado",false,true
+"3510153","Canitar","SP","nao_encontrado","revisao_pendente",true,false
+"3512001","Colina","SP","nao_encontrado","revisao_pendente",true,false
+"3515129","Emilianópolis","SP","nao_encontrado","revisao_pendente",true,false
+"3515350","Euclides da Cunha Paulista","SP","nao_encontrado","revisao_pendente",true,false
+"3517901","Guaraci","SP","rejeitado","revisao_pendente",true,false
+"3518404","Guaratinguetá","SP","revisao_pendente","rejeitado",false,true
+"3522703","Itápolis","SP","licenca_pendente","licenca_pendente",true,true
+"3523404","Itatiba","SP","rejeitado","rejeitado",true,true
+"3525409","Jeriquara","SP","nao_encontrado","revisao_pendente",true,false
+"3525854","Jumirim","SP","nao_encontrado","revisao_pendente",true,false
+"3525904","Jundiaí","SP","revisao_pendente","rejeitado",false,true
+"3526100","Juquiá","SP","nao_encontrado","revisao_pendente",true,false
+"3526308","Lagoinha","SP","revisao_pendente","rejeitado",false,true
+"3526407","Laranjal Paulista","SP","rejeitado","rejeitado",true,true
+"3526704","Leme","SP","rejeitado","revisao_pendente",true,false
+"3526902","Limeira","SP","rejeitado","revisao_pendente",true,false
+"3527207","Lorena","SP","revisao_pendente","rejeitado",false,true
+"3532843","Nova Canaã Paulista","SP","nao_encontrado","revisao_pendente",true,false
+"3537602","Peruíbe","SP","rejeitado","revisao_pendente",true,false
+"3540507","Porangaba","SP","nao_encontrado","revisao_pendente",true,false
+"3540705","Porto Ferreira","SP","revisao_pendente","rejeitado",false,true
+"3541406","Presidente Prudente","SP","revisao_pendente","rejeitado",false,true
+"3543907","Rio Claro","SP","rejeitado","rejeitado",true,true
+"3546207","Santa Cruz da Conceição","SP","nao_encontrado","revisao_pendente",true,false
+"3548500","Santos","SP","rejeitado","revisao_pendente",true,false
+"3548807","São Caetano do Sul","SP","rejeitado","revisao_pendente",true,false
+"3549003","São Francisco","SP","nao_encontrado","revisao_pendente",true,false
+"3550308","São Paulo","SP","rejeitado","revisao_pendente",true,false
+"3555356","Ubarana","SP","nao_encontrado","revisao_pendente",true,false
+"3555406","Ubatuba","SP","revisao_pendente","rejeitado",false,true
+"3556206","Valinhos","SP","revisao_pendente","rejeitado",false,true
+"3556602","Vera Cruz","SP","nao_encontrado","revisao_pendente",true,false
+"4100202","Adrianópolis","PR","revisao_pendente","nao_encontrado",false,true
+"4100301","Agudos do Sul","PR","revisao_pendente","nao_encontrado",false,true
+"4101051","Anahy","PR","nao_encontrado","nao_encontrado",true,true
+"4101309","Antônio Olinto","PR","revisao_pendente","nao_encontrado",false,true
+"4101655","Arapuã","PR","revisao_pendente","nao_encontrado",false,true
+"4102208","Atalaia","PR","revisao_pendente","nao_encontrado",false,true
+"4102703","Barra do Jacaré","PR","nao_encontrado","revisao_pendente",true,false
+"4102752","Bela Vista da Caroba","PR","nao_encontrado","nao_encontrado",true,true
+"4103107","Bocaiúva do Sul","PR","rejeitado","revisao_pendente",true,false
+"4103206","Bom Sucesso","PR","nao_encontrado","revisao_pendente",true,false
+"4103305","Borrazópolis","PR","revisao_pendente","nao_encontrado",false,true
+"4103479","Cafezal do Sul","PR","nao_encontrado","nao_encontrado",true,true
+"4103800","Cambira","PR","nao_encontrado","revisao_pendente",true,false
+"4104105","Campo do Tenente","PR","nao_encontrado","nao_encontrado",true,true
+"4104907","Castro","PR","rejeitado","revisao_pendente",true,false
+"4105706","Clevelândia","PR","nao_encontrado","revisao_pendente",true,false
+"4105904","Colorado","PR","nao_encontrado","revisao_pendente",true,false
+"4106001","Congonhinhas","PR","revisao_pendente","nao_encontrado",false,true
+"4106407","Cornélio Procópio","PR","rejeitado","revisao_pendente",true,false
+"4106456","Coronel Domingos Soares","PR","nao_encontrado","nao_encontrado",true,true
+"4106506","Coronel Vivida","PR","nao_encontrado","revisao_pendente",true,false
+"4106555","Corumbataí do Sul","PR","nao_encontrado","nao_encontrado",true,true
+"4106605","Cruzeiro do Oeste","PR","nao_encontrado","revisao_pendente",true,false
+"4106852","Cruzmaltina","PR","nao_encontrado","nao_encontrado",true,true
+"4107108","Diamante do Norte","PR","nao_encontrado","revisao_pendente",true,false
+"4107157","Diamante D'Oeste","PR","nao_encontrado","nao_encontrado",true,true
+"4107538","Entre Rios do Oeste","PR","nao_encontrado","revisao_pendente",true,false
+"4107702","Fênix","PR","revisao_pendente","nao_encontrado",false,true
+"4107736","Fernandes Pinheiro","PR","nao_encontrado","nao_encontrado",true,true
+"4108205","Formosa do Oeste","PR","revisao_pendente","nao_encontrado",false,true
+"4108551","Godoy Moreira","PR","nao_encontrado","nao_encontrado",true,true
+"4108601","Goioerê","PR","rejeitado","revisao_pendente",true,false
+"4108908","Guairaçá","PR","revisao_pendente","nao_encontrado",false,true
+"4109005","Guapirama","PR","nao_encontrado","nao_encontrado",true,true
+"4109807","Ibiporã","PR","nao_encontrado","revisao_pendente",true,false
+"4110300","Inajá","PR","nao_encontrado","revisao_pendente",true,false
+"4110904","Itaguajé","PR","nao_encontrado","nao_encontrado",true,true
+"4111001","Itambaracá","PR","nao_encontrado","nao_encontrado",true,true
+"4111209","Itapejara d'Oeste","PR","licenca_pendente","licenca_pendente",true,true
+"4111258","Itaperuçu","PR","nao_encontrado","revisao_pendente",true,false
+"4111308","Itaúna do Sul","PR","nao_encontrado","revisao_pendente",true,false
+"4111704","Jaboti","PR","revisao_pendente","nao_encontrado",false,true
+"4112900","Jundiaí do Sul","PR","revisao_pendente","nao_encontrado",false,true
+"4113429","Lidianópolis","PR","revisao_pendente","nao_encontrado",false,true
+"4113700","Londrina","PR","rejeitado","revisao_pendente",true,false
+"4114708","Maria Helena","PR","nao_encontrado","nao_encontrado",true,true
+"4115101","Mariluz","PR","revisao_pendente","rejeitado",false,true
+"4115309","Mariópolis","PR","nao_encontrado","revisao_pendente",true,false
+"4115358","Maripá","PR","nao_encontrado","revisao_pendente",true,false
+"4115507","Marumbi","PR","nao_encontrado","nao_encontrado",true,true
+"4115739","Mato Rico","PR","nao_encontrado","nao_encontrado",true,true
+"4115754","Mauá da Serra","PR","nao_encontrado","revisao_pendente",true,false
+"4116307","Munhoz de Melo","PR","nao_encontrado","nao_encontrado",true,true
+"4116406","Nossa Senhora das Graças","PR","nao_encontrado","nao_encontrado",true,true
+"4116604","Nova América da Colina","PR","nao_encontrado","nao_encontrado",true,true
+"4116950","Nova Esperança do Sudoeste","PR","nao_encontrado","nao_encontrado",true,true
+"4117008","Nova Fátima","PR","nao_encontrado","nao_encontrado",true,true
+"4117214","Nova Santa Bárbara","PR","nao_encontrado","revisao_pendente",true,false
+"4117404","Ourizona","PR","nao_encontrado","revisao_pendente",true,false
+"4118006","Paraíso do Norte","PR","nao_encontrado","revisao_pendente",true,false
+"4118303","Paranapoema","PR","nao_encontrado","nao_encontrado",true,true
+"4118600","Paula Freitas","PR","nao_encontrado","nao_encontrado",true,true
+"4118709","Paulo Frontin","PR","nao_encontrado","revisao_pendente",true,false
+"4119509","Piraquara","PR","licenca_pendente","revisao_pendente",true,false
+"4119707","Planaltina do Paraná","PR","nao_encontrado","nao_encontrado",true,true
+"4120309","Porto Vitória","PR","nao_encontrado","nao_encontrado",true,true
+"4120333","Prado Ferreira","PR","nao_encontrado","nao_encontrado",true,true
+"4120358","Pranchita","PR","nao_encontrado","nao_encontrado",true,true
+"4120408","Presidente Castelo Branco","PR","nao_encontrado","revisao_pendente",true,false
+"4120606","Prudentópolis","PR","nao_encontrado","revisao_pendente",true,false
+"4120853","Quatro Pontes","PR","nao_encontrado","revisao_pendente",true,false
+"4121109","Quinta do Sol","PR","revisao_pendente","nao_encontrado",false,true
+"4121257","Ramilândia","PR","nao_encontrado","nao_encontrado",true,true
+"4121307","Rancho Alegre","PR","nao_encontrado","revisao_pendente",true,false
+"4121356","Rancho Alegre D'Oeste","PR","nao_encontrado","nao_encontrado",true,true
+"4121604","Renascença","PR","nao_encontrado","nao_encontrado",true,true
+"4122107","Rio Bom","PR","nao_encontrado","nao_encontrado",true,true
+"4122503","Roncador","PR","nao_encontrado","revisao_pendente",true,false
+"4122800","Salgado Filho","PR","nao_encontrado","nao_encontrado",true,true
+"4122909","Salto do Itararé","PR","revisao_pendente","nao_encontrado",false,true
+"4123105","Santa Amélia","PR","nao_encontrado","revisao_pendente",true,false
+"4123956","Santa Mônica","PR","nao_encontrado","nao_encontrado",true,true
+"4124053","Santa Terezinha de Itaipu","PR","nao_encontrado","revisao_pendente",true,false
+"4124509","Santo Inácio","PR","nao_encontrado","nao_encontrado",true,true
+"4124806","São João","PR","nao_encontrado","revisao_pendente",true,false
+"4124905","São João do Caiuá","PR","nao_encontrado","revisao_pendente",true,false
+"4125001","São João do Ivaí","PR","nao_encontrado","nao_encontrado",true,true
+"4125209","São Jorge d'Oeste","PR","revisao_pendente","rejeitado",false,true
+"4125308","São Jorge do Ivaí","PR","nao_encontrado","revisao_pendente",true,false
+"4125456","São José das Palmeiras","PR","nao_encontrado","nao_encontrado",true,true
+"4125753","São Pedro do Iguaçu","PR","nao_encontrado","revisao_pendente",true,false
+"4126108","São Tomé","PR","nao_encontrado","nao_encontrado",true,true
+"4126272","Saudade do Iguaçu","PR","rejeitado","nao_encontrado",true,true
+"4126355","Serranópolis do Iguaçu","PR","nao_encontrado","revisao_pendente",true,false
+"4126702","Tamboara","PR","nao_encontrado","revisao_pendente",true,false
+"4126801","Tapejara","PR","nao_encontrado","revisao_pendente",true,false
+"4127007","Teixeira Soares","PR","nao_encontrado","revisao_pendente",true,false
+"4127908","Tuneiras do Oeste","PR","nao_encontrado","nao_encontrado",true,true
+"4128302","Uniflor","PR","nao_encontrado","nao_encontrado",true,true
+"4128625","Alto Paraíso","PR","nao_encontrado","revisao_pendente",true,false
+"4128633","Doutor Ulysses","PR","nao_encontrado","nao_encontrado",true,true
+"4201901","Aurora","SC","revisao_pendente","rejeitado",false,true
+"4202404","Blumenau","SC","rejeitado","rejeitado",true,true
+"4203501","Campo Erê","SC","revisao_pendente","nao_encontrado",false,true
+"4204301","Concórdia","SC","rejeitado","revisao_pendente",true,false
+"4205704","Garopaba","SC","rejeitado","revisao_pendente",true,false
+"4206652","Guatambú","SC","revisao_pendente","nao_encontrado",false,true
+"4208203","Itajaí","SC","revisao_pendente","rejeitado",false,true
+"4208906","Jaraguá do Sul","SC","rejeitado","revisao_pendente",true,false
+"4210001","Luiz Alves","SC","revisao_pendente","rejeitado",false,true
+"4213807","Praia Grande","SC","revisao_pendente","nao_encontrado",false,true
+"4215059","Rio Rufino","SC","nao_encontrado","nao_encontrado",true,true
+"4215455","Sangão","SC","revisao_pendente","rejeitado",false,true
+"4216008","São Carlos","SC","revisao_pendente","rejeitado",false,true
+"4218855","União do Oeste","SC","revisao_pendente","rejeitado",false,true
+"4300604","Alvorada","RS","rejeitado","revisao_pendente",true,false
+"4302105","Bento Gonçalves","RS","rejeitado","rejeitado",true,true
+"4306320","Derrubadas","RS","revisao_pendente","licenca_pendente",false,true
+"4306601","Dom Pedrito","RS","revisao_pendente","rejeitado",false,true
+"4308508","Frederico Westphalen","RS","licenca_pendente","licenca_pendente",true,true
+"4310108","Igrejinha","RS","revisao_pendente","rejeitado",false,true
+"4313011","Nova Candelária","RS","nao_encontrado","revisao_pendente",true,false
+"4313490","Novo Barreiro","RS","desatualizado","revisao_pendente",true,false
+"4314555","Pirapó","RS","rejeitado","revisao_pendente",true,false
+"4314787","Ponte Preta","RS","nao_encontrado","revisao_pendente",true,false
+"4318499","São José do Inhacorá","RS","revisao_pendente","nao_encontrado",false,true
+"4318804","São Lourenço do Sul","RS","revisao_pendente","rejeitado",false,true
+"4319307","São Paulo das Missões","RS","nao_encontrado","revisao_pendente",true,false
+"4320354","Sentinela do Sul","RS","nao_encontrado","revisao_pendente",true,false
+"4321105","Tapes","RS","licenca_pendente","licenca_pendente",true,true
+"4321634","Três Arroios","RS","nao_encontrado","revisao_pendente",true,false
+"4322525","Vale Verde","RS","nao_encontrado","revisao_pendente",true,false
+"4322558","Vanini","RS","revisao_pendente","nao_encontrado",false,true
+"4322707","Vera Cruz","RS","licenca_pendente","revisao_pendente",true,false
+"4323101","Vicente Dutra","RS","revisao_pendente","nao_encontrado",false,true
+"4323507","Vista Alegre","RS","nao_encontrado","revisao_pendente",true,false
+"5000609","Amambai","MS","nao_encontrado","revisao_pendente",true,false
+"5000708","Anastácio","MS","nao_encontrado","revisao_pendente",true,false
+"5000807","Anaurilândia","MS","nao_encontrado","revisao_pendente",true,false
+"5000856","Angélica","MS","nao_encontrado","revisao_pendente",true,false
+"5000906","Antônio João","MS","nao_encontrado","revisao_pendente",true,false
+"5002100","Bela Vista","MS","nao_encontrado","revisao_pendente",true,false
+"5002308","Brasilândia","MS","nao_encontrado","revisao_pendente",true,false
+"5002803","Caracol","MS","nao_encontrado","revisao_pendente",true,false
+"5002902","Cassilândia","MS","nao_encontrado","revisao_pendente",true,false
+"5003108","Corguinho","MS","nao_encontrado","revisao_pendente",true,false
+"5003157","Coronel Sapucaia","MS","nao_encontrado","revisao_pendente",true,false
+"5003504","Douradina","MS","nao_encontrado","revisao_pendente",true,false
+"5003702","Dourados","MS","rejeitado","revisao_pendente",true,false
+"5003751","Eldorado","MS","nao_encontrado","revisao_pendente",true,false
+"5003900","Figueirão","MS","nao_encontrado","revisao_pendente",true,false
+"5004601","Itaquiraí","MS","nao_encontrado","revisao_pendente",true,false
+"5004700","Ivinhema","MS","nao_encontrado","revisao_pendente",true,false
+"5004908","Jaraguari","MS","nao_encontrado","revisao_pendente",true,false
+"5005152","Juti","MS","nao_encontrado","revisao_pendente",true,false
+"5005251","Laguna Carapã","MS","nao_encontrado","revisao_pendente",true,false
+"5005400","Maracaju","MS","nao_encontrado","revisao_pendente",true,false
+"5005806","Nioaque","MS","rejeitado","revisao_pendente",true,false
+"5006002","Nova Alvorada do Sul","MS","nao_encontrado","revisao_pendente",true,false
+"5006275","Paraíso das Águas","MS","nao_encontrado","revisao_pendente",true,false
+"5006358","Paranhos","MS","nao_encontrado","revisao_pendente",true,false
+"5006903","Porto Murtinho","MS","nao_encontrado","revisao_pendente",true,false
+"5007208","Rio Brilhante","MS","nao_encontrado","revisao_pendente",true,false
+"5007505","Rochedo","MS","nao_encontrado","revisao_pendente",true,false
+"5007554","Santa Rita do Pardo","MS","nao_encontrado","revisao_pendente",true,false
+"5007950","Tacuru","MS","nao_encontrado","revisao_pendente",true,false
+"5007976","Taquarussu","MS","nao_encontrado","revisao_pendente",true,false
+"5102850","Castanheira","MT","nao_encontrado","nao_encontrado",true,true
+"5103056","Cláudia","MT","nao_encontrado","nao_encontrado",true,true
+"5103106","Cocalinho","MT","nao_encontrado","nao_encontrado",true,true
+"5103437","Curvelândia","MT","nao_encontrado","nao_encontrado",true,true
+"5103858","Gaúcha do Norte","MT","nao_encontrado","nao_encontrado",true,true
+"5103908","General Carneiro","MT","nao_encontrado","nao_encontrado",true,true
+"5103957","Glória D'Oeste","MT","nao_encontrado","revisao_pendente",true,false
+"5104203","Guiratinga","MT","nao_encontrado","revisao_pendente",true,false
+"5104500","Indiavaí","MT","nao_encontrado","nao_encontrado",true,true
+"5104526","Ipiranga do Norte","MT","revisao_pendente","nao_encontrado",false,true
+"5104542","Itanhangá","MT","nao_encontrado","nao_encontrado",true,true
+"5104559","Itaúba","MT","nao_encontrado","nao_encontrado",true,true
+"5104906","Jangada","MT","nao_encontrado","nao_encontrado",true,true
+"5105176","Juruena","MT","nao_encontrado","nao_encontrado",true,true
+"5105200","Juscimeira","MT","nao_encontrado","nao_encontrado",true,true
+"5105234","Lambari D'Oeste","MT","nao_encontrado","nao_encontrado",true,true
+"5105903","Nobres","MT","nao_encontrado","revisao_pendente",true,false
+"5106000","Nortelândia","MT","nao_encontrado","nao_encontrado",true,true
+"5106174","Nova Nazaré","MT","nao_encontrado","nao_encontrado",true,true
+"5106190","Nova Santa Helena","MT","nao_encontrado","nao_encontrado",true,true
+"5106208","Nova Brasilândia","MT","nao_encontrado","nao_encontrado",true,true
+"5106240","Nova Ubiratã","MT","nao_encontrado","revisao_pendente",true,false
+"5106273","Novo Horizonte do Norte","MT","revisao_pendente","nao_encontrado",false,true
+"5106315","Novo Santo Antônio","MT","nao_encontrado","nao_encontrado",true,true
+"5106455","Planalto da Serra","MT","nao_encontrado","nao_encontrado",true,true
+"5106505","Poconé","MT","nao_encontrado","revisao_pendente",true,false
+"5106653","Pontal do Araguaia","MT","nao_encontrado","revisao_pendente",true,false
+"5106802","Porto dos Gaúchos","MT","nao_encontrado","nao_encontrado",true,true
+"5107065","Querência","MT","nao_encontrado","nao_encontrado",true,true
+"5107198","Ribeirãozinho","MT","nao_encontrado","revisao_pendente",true,false
+"5107206","Rio Branco","MT","nao_encontrado","nao_encontrado",true,true
+"5107248","Santa Carmem","MT","nao_encontrado","revisao_pendente",true,false
+"5107263","Santo Afonso","MT","nao_encontrado","nao_encontrado",true,true
+"5107354","São José do Xingu","MT","nao_encontrado","nao_encontrado",true,true
+"5107404","São Pedro da Cipa","MT","nao_encontrado","revisao_pendente",true,false
+"5107743","Santa Cruz do Xingu","MT","nao_encontrado","nao_encontrado",true,true
+"5107750","Salto do Céu","MT","nao_encontrado","nao_encontrado",true,true
+"5107776","Santa Terezinha","MT","nao_encontrado","nao_encontrado",true,true
+"5107859","São Félix do Araguaia","MT","nao_encontrado","nao_encontrado",true,true
+"5107883","Serra Nova Dourada","MT","nao_encontrado","nao_encontrado",true,true
+"5107941","Tabaporã","MT","nao_encontrado","nao_encontrado",true,true
+"5108055","Terra Nova do Norte","MT","nao_encontrado","nao_encontrado",true,true
+"5108105","Tesouro","MT","revisao_pendente","nao_encontrado",false,true
+"5108204","Torixoréu","MT","nao_encontrado","nao_encontrado",true,true
+"5108303","União do Sul","MT","nao_encontrado","nao_encontrado",true,true
+"5108501","Vera","MT","revisao_pendente","nao_encontrado",false,true
+"5108600","Vila Rica","MT","revisao_pendente","nao_encontrado",false,true
+"5108808","Nova Guarita","MT","nao_encontrado","nao_encontrado",true,true
+"5108857","Nova Marilândia","MT","nao_encontrado","nao_encontrado",true,true
+"5108907","Nova Maringá","MT","nao_encontrado","nao_encontrado",true,true
+"5200506","Aloândia","GO","nao_encontrado","revisao_pendente",true,false
+"5200902","Amorinópolis","GO","nao_encontrado","revisao_pendente",true,false
+"5201504","Aporé","GO","nao_encontrado","revisao_pendente",true,false
+"5201702","Aragarças","GO","nao_encontrado","revisao_pendente",true,false
+"5203401","Bom Jardim de Goiás","GO","nao_encontrado","revisao_pendente",true,false
+"5203906","Buriti Alegre","GO","nao_encontrado","revisao_pendente",true,false
+"5204102","Cachoeira Alta","GO","nao_encontrado","revisao_pendente",true,false
+"5204250","Cachoeira Dourada","GO","nao_encontrado","revisao_pendente",true,false
+"5204300","Caçu","GO","nao_encontrado","revisao_pendente",true,false
+"5204854","Campo Limpo de Goiás","GO","nao_encontrado","revisao_pendente",true,false
+"5205406","Ceres","GO","nao_encontrado","revisao_pendente",true,false
+"5205471","Chapadão do Céu","GO","nao_encontrado","revisao_pendente",true,false
+"5206503","Cromínia","GO","nao_encontrado","revisao_pendente",true,false
+"5206602","Cumari","GO","nao_encontrado","revisao_pendente",true,false
+"5207253","Doverlândia","GO","revisao_pendente","rejeitado",false,true
+"5207402","Edéia","GO","nao_encontrado","revisao_pendente",true,false
+"5207907","Flores de Goiás","GO","nao_encontrado","revisao_pendente",true,false
+"5209200","Guapó","GO","nao_encontrado","revisao_pendente",true,false
+"5209291","Guaraíta","GO","nao_encontrado","revisao_pendente",true,false
+"5209457","Guarinos","GO","nao_encontrado","revisao_pendente",true,false
+"5209804","Hidrolina","GO","nao_encontrado","revisao_pendente",true,false
+"5209937","Inaciolândia","GO","nao_encontrado","revisao_pendente",true,false
+"5210604","Itaguaru","GO","nao_encontrado","revisao_pendente",true,false
+"5210901","Itapaci","GO","nao_encontrado","revisao_pendente",true,false
+"5211404","Itauçu","GO","nao_encontrado","revisao_pendente",true,false
+"5212105","Joviânia","GO","nao_encontrado","nao_encontrado",true,true
+"5212204","Jussara","GO","nao_encontrado","revisao_pendente",true,false
+"5212600","Mairipotaba","GO","nao_encontrado","revisao_pendente",true,false
+"5213509","Monte Alegre de Goiás","GO","nao_encontrado","revisao_pendente",true,false
+"5213772","Montividiu do Norte","GO","nao_encontrado","revisao_pendente",true,false
+"5213855","Morro Agudo de Goiás","GO","nao_encontrado","revisao_pendente",true,false
+"5213905","Mossâmedes","GO","nao_encontrado","revisao_pendente",true,false
+"5214051","Mundo Novo","GO","nao_encontrado","revisao_pendente",true,false
+"5214101","Mutunópolis","GO","nao_encontrado","revisao_pendente",true,false
+"5214804","Nova Aurora","GO","nao_encontrado","revisao_pendente",true,false
+"5214879","Nova Iguaçu de Goiás","GO","nao_encontrado","revisao_pendente",true,false
+"5215256","Novo Planalto","GO","nao_encontrado","revisao_pendente",true,false
+"5215405","Ouro Verde de Goiás","GO","nao_encontrado","revisao_pendente",true,false
+"5215504","Ouvidor","GO","nao_encontrado","revisao_pendente",true,false
+"5215652","Palestina de Goiás","GO","nao_encontrado","revisao_pendente",true,false
+"5216007","Panamá","GO","nao_encontrado","revisao_pendente",true,false
+"5216403","Paraúna","GO","nao_encontrado","revisao_pendente",true,false
+"5216452","Perolândia","GO","nao_encontrado","revisao_pendente",true,false
+"5217401","Pires do Rio","GO","nao_encontrado","revisao_pendente",true,false
+"5219100","Santa Bárbara de Goiás","GO","nao_encontrado","revisao_pendente",true,false
+"5219407","Santa Rita do Araguaia","GO","nao_encontrado","revisao_pendente",true,false
+"5219738","Santo Antônio de Goiás","GO","nao_encontrado","revisao_pendente",true,false
+"5219753","Santo Antônio do Descoberto","GO","nao_encontrado","nao_encontrado",true,true
+"5220264","São Miguel do Passa Quatro","GO","nao_encontrado","revisao_pendente",true,false
+"5221304","Três Ranchos","GO","nao_encontrado","revisao_pendente",true,false
+"5222005","Vianópolis","GO","nao_encontrado","revisao_pendente",true,false
