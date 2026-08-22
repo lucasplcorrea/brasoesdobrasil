@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg10"
+   width="1280"
+   height="756"
+   viewBox="0 0 1280 756"
+   sodipodi:docname="_bandeira Jaguarari - BA.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="C:\GAZILION\_OUTROS\Iconografia\bandeiras, insígnias e brasões\Brasil\bandeiras oficiais\_bandeira Jaguarari - BA.png"
+   inkscape:export-xdpi="52"
+   inkscape:export-ydpi="52">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="0.72257474"
+     inkscape:cx="760.40277"
+     inkscape:cy="378"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bandeira"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       id="g1049">
+      <rect
+         style="display:inline;fill:#0098db;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="rect23"
+         width="1280"
+         height="756"
+         x="0"
+         y="0" />
+      <rect
+         style="display:inline;fill:#20631c;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="rect848"
+         width="1280"
+         height="252"
+         x="0"
+         y="252" />
+      <rect
+         style="display:inline;fill:#854505;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         id="rect850"
+         width="1280"
+         height="252"
+         x="0"
+         y="504" />
+      <path
+         id="path853"
+         style="fill:#ffcb2a;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round"
+         d="M 0,0 V 756 H 122.20898 L 46.734375,292.55664 a 263,263 0 0 0 0.572266,0.002 263,263 0 0 0 36.732421,-2.57812 L 274.07422,756 H 445.30469 L 122.83398,281.47852 a 263,263 0 0 0 40.50977,-15.9043 L 616.38672,756 h 192.3457 L 199.50195,244.04688 a 263,263 0 0 0 27.34571,-22.30665 L 979.35352,756 H 1222.707 L 257.14453,188.10352 a 263,263 0 0 0 18.5957,-28.2129 L 1280,615.05859 V 447.57812 L 294.7207,118.74219 a 263,263 0 0 0 9.58594,-33.333987 L 1280,295.25781 V 126.23242 L 310.14648,38.689453 A 263,263 0 0 0 310.30664,29.558594 263,263 0 0 0 308.63867,0 Z" />
+    </g>
+  </g>
+</svg>
