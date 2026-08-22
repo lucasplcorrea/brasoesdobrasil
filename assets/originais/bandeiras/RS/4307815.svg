@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1200"
+   height="800"
+   viewBox="0 0 18 12"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="Bandeira de Estrela Velha.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs23" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="0.51877004"
+     inkscape:cx="193.14072"
+     inkscape:cy="341.20222"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <rect
+     width="18"
+     height="12"
+     fill="#FECB00"
+     id="rect2"
+     style="fill:#fff500;fill-opacity:1" />
+  <rect
+     width="18"
+     height="6.003572"
+     y="3.001786"
+     id="rect4-0-97"
+     x="4.7683716e-007"
+     style="fill:#2294d2;fill-opacity:1;stroke-width:0.99999994" />
+  <rect
+     width="18"
+     height="6.003571"
+     y="-1.2067818e-015"
+     id="rect4-0-8"
+     x="1.2631876e-016"
+     style="fill:#00923f;fill-opacity:1;stroke-width:0.99999988" />
+  <rect
+     width="18"
+     height="3.0017858"
+     y="0"
+     id="rect4-0"
+     x="0"
+     style="fill:#da251c;fill-opacity:1;stroke-width:0.99999994" />
+  <g
+     transform="matrix(4.422,0,0,4.422,9,6.422)"
+     id="g17">
+    <polygon
+       id="pt"
+       points="0,-1 0.3249197,0 -0.3249197,0 "
+       style="fill:#ffffff" />
+    <use
+       xlink:href="#pt"
+       transform="rotate(-144)"
+       id="use9"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#pt"
+       transform="rotate(-72)"
+       id="use11"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#pt"
+       transform="rotate(72)"
+       id="use13"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#pt"
+       transform="rotate(144)"
+       id="use15"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+  </g>
+</svg>
