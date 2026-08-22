@@ -1,6 +1,6 @@
 # Auditoria do catálogo
 
-Gerada em: 2026-08-22T20:37:51.226Z
+Gerada em: 2026-08-22T20:53:24.092Z
 
 - Municípios: 5571
 - Referências a originais: 9388

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "atualizadoEm": "2026-08-11T19:31:19.857Z",
+  "atualizadoEm": "2026-08-22T20:53:10.437Z",
   "municipios": [
     {
       "schemaVersion": 1,
@@ -3464,7 +3464,7 @@
       "wikidataId": "Q953086",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/Acrel%C3%A2ndia",
       "brasao": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Brasão de Acrelândia - AC.svg",
         "titulo": "Brasão de Acrelândia - AC",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Acrel%C3%A2ndia_-_AC.svg",
@@ -3496,7 +3496,7 @@
         "avisos": []
       },
       "bandeira": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Bandeira de Acrelândia.webp",
         "titulo": "Bandeira de Acrelândia",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Acrel%C3%A2ndia.webp",
@@ -3535,7 +3535,7 @@
       "wikidataId": "Q1754403",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/Assis_Brasil",
       "brasao": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Assis Brasilbrasao.png",
         "titulo": "Assis Brasilbrasao",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Assis_Brasilbrasao.png",
@@ -3567,7 +3567,7 @@
         "avisos": []
       },
       "bandeira": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Bandeira Assis Brasil - AC.svg",
         "titulo": "Bandeira Assis Brasil - AC",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bandeira_Assis_Brasil_-_AC.svg",
@@ -3606,7 +3606,7 @@
       "wikidataId": "Q899406",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/Brasil%C3%A9ia",
       "brasao": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Brasao Brasileia.jpg",
         "titulo": "Brasao Brasileia",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Brasao_Brasileia.jpg",
@@ -3638,7 +3638,7 @@
         "avisos": []
       },
       "bandeira": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:BrasiléiaBANDEIRAAC.gif",
         "titulo": "BrasiléiaBANDEIRAAC",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Brasil%C3%A9iaBANDEIRAAC.gif",
@@ -3678,7 +3678,7 @@
       "wikidataId": "Q1754408",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/Bujari",
       "brasao": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Brasão BujariAC.jpg",
         "titulo": "Brasão BujariAC",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_BujariAC.jpg",
@@ -3712,7 +3712,7 @@
         ]
       },
       "bandeira": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Bujaribandeiraac.gif",
         "titulo": "Bujaribandeiraac",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bujaribandeiraac.gif",
@@ -3752,7 +3752,7 @@
       "wikidataId": "Q1800737",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/Capixaba_(Acre)",
       "brasao": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Brasão de Capixaba.gif",
         "titulo": "Brasão de Capixaba",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Capixaba.gif",
@@ -3785,7 +3785,7 @@
         ]
       },
       "bandeira": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Bandeira de Capixaba.jpg",
         "titulo": "Bandeira de Capixaba",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Capixaba.jpg",
@@ -3826,7 +3826,7 @@
       "wikidataId": "Q941136",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/Cruzeiro_do_Sul_(Acre)",
       "brasao": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Brasão de Cruzeiro do Sul - AC.svg",
         "titulo": "Brasão de Cruzeiro do Sul - AC",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Cruzeiro_do_Sul_-_AC.svg",
@@ -3858,7 +3858,7 @@
         "avisos": []
       },
       "bandeira": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Bandeira de Cruzeiro do Sul (Acre).svg",
         "titulo": "Bandeira de Cruzeiro do Sul (Acre)",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Cruzeiro_do_Sul_(Acre).svg",
@@ -3898,7 +3898,7 @@
       "wikidataId": "Q1755395",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/Epitaciol%C3%A2ndia",
       "brasao": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Brasão de Epitaciolândia.webp",
         "titulo": "Brasão de Epitaciolândia",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Epitaciol%C3%A2ndia.webp",
@@ -3929,7 +3929,7 @@
         "avisos": []
       },
       "bandeira": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Bandeira de Epitaciolândia.png",
         "titulo": "Bandeira de Epitaciolândia",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Epitaciol%C3%A2ndia.png",
@@ -3970,7 +3970,7 @@
       "wikidataId": "Q1994833",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/Feij%C3%B3_(Acre)",
       "brasao": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Brasão de Feijó.webp",
         "titulo": "Brasão de Feijó",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Feij%C3%B3.webp",
@@ -4001,7 +4001,7 @@
         "avisos": []
       },
       "bandeira": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Bandeira de Feijó.webp",
         "titulo": "Bandeira de Feijó",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Feij%C3%B3.webp",
@@ -4040,7 +4040,7 @@
       "wikidataId": "Q1800793",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/Jord%C3%A3o_(Acre)",
       "brasao": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Brasão de Jordão.jpg",
         "titulo": "Brasão de Jordão",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Jord%C3%A3o.jpg",
@@ -4071,7 +4071,7 @@
         "avisos": []
       },
       "bandeira": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Bandeira de Jordão.jpg",
         "titulo": "Bandeira de Jordão",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Jord%C3%A3o.jpg",
@@ -4110,7 +4110,7 @@
       "wikidataId": "Q1772621",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/M%C3%A2ncio_Lima",
       "brasao": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Brasao Mancio Lima.jpg",
         "titulo": "Brasao Mancio Lima",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Brasao_Mancio_Lima.jpg",
@@ -4144,7 +4144,7 @@
         ]
       },
       "bandeira": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Bandeira Mancio Lima.jpg",
         "titulo": "Bandeira Mancio Lima",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bandeira_Mancio_Lima.jpg",
@@ -4186,7 +4186,7 @@
       "wikidataId": "Q1772688",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/Manoel_Urbano",
       "brasao": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Brasão de Manoel Urbano.jpg",
         "titulo": "Brasão de Manoel Urbano",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Manoel_Urbano.jpg",
@@ -4217,7 +4217,7 @@
         "avisos": []
       },
       "bandeira": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Bandeira de Manoel Urbano.png",
         "titulo": "Bandeira de Manoel Urbano",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Manoel_Urbano.png",
@@ -4256,7 +4256,7 @@
       "wikidataId": "Q1772613",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/Marechal_Thaumaturgo",
       "brasao": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Brasão de Marechal Thaumaturgo.jpg",
         "titulo": "Brasão de Marechal Thaumaturgo",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Marechal_Thaumaturgo.jpg",
@@ -4287,7 +4287,7 @@
         "avisos": []
       },
       "bandeira": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Bandeira de Marechal Thaumaturgo.gif",
         "titulo": "Bandeira de Marechal Thaumaturgo",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Marechal_Thaumaturgo.gif",
@@ -4326,7 +4326,7 @@
       "wikidataId": "Q964075",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/Pl%C3%A1cido_de_Castro_(Acre)",
       "brasao": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Brasao Placido de Castro.png",
         "titulo": "Brasao Placido de Castro",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Brasao_Placido_de_Castro.png",
@@ -4360,7 +4360,7 @@
         ]
       },
       "bandeira": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Bandeira Placido Castro.svg",
         "titulo": "Bandeira Placido Castro",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bandeira_Placido_Castro.svg",
@@ -4400,7 +4400,7 @@
       "wikidataId": "Q1772588",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/Porto_Walter",
       "brasao": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Brasão de Porto Walter.jpg",
         "titulo": "Brasão de Porto Walter",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Porto_Walter.jpg",
@@ -4431,7 +4431,7 @@
         "avisos": []
       },
       "bandeira": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Bandeira de Porto Walter AC.svg",
         "titulo": "Bandeira de Porto Walter AC",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Porto_Walter_AC.svg",
@@ -4471,7 +4471,7 @@
       "wikidataId": "Q171612",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/Rio_Branco",
       "brasao": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Brasão de Rio Branco.svg",
         "titulo": "Brasão de Rio Branco",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Rio_Branco.svg",
@@ -4503,7 +4503,7 @@
         "avisos": []
       },
       "bandeira": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Bandeira de Rio Branco.svg",
         "titulo": "Bandeira de Rio Branco",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Rio_Branco.svg",
@@ -4543,7 +4543,7 @@
       "wikidataId": "Q1800776",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/Rodrigues_Alves_(Acre)",
       "brasao": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Brasão Rodrigues Alves.jpg",
         "titulo": "Brasão Rodrigues Alves",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_Rodrigues_Alves.jpg",
@@ -4575,7 +4575,7 @@
         "avisos": []
       },
       "bandeira": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Bandeira de Rodrigues Alves (Acre).svg",
         "titulo": "Bandeira de Rodrigues Alves (Acre)",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Rodrigues_Alves_(Acre).svg",
@@ -4615,7 +4615,7 @@
       "wikidataId": "Q1772719",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/Santa_Rosa_do_Purus",
       "brasao": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Brasão de Santa Rosa do Purus.jpg",
         "titulo": "Brasão de Santa Rosa do Purus",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Santa_Rosa_do_Purus.jpg",
@@ -4646,7 +4646,7 @@
         "avisos": []
       },
       "bandeira": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Bandeira de Santa Rosa do Purus.jpg",
         "titulo": "Bandeira de Santa Rosa do Purus",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Santa_Rosa_do_Purus.jpg",
@@ -4685,7 +4685,7 @@
       "wikidataId": "Q771763",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/Senador_Guiomard",
       "brasao": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:BrasaoSenadorGuiomard.png",
         "titulo": "BrasaoSenadorGuiomard",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:BrasaoSenadorGuiomard.png",
@@ -4717,7 +4717,7 @@
         "avisos": []
       },
       "bandeira": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:BandeiraSenadorGuiomard.jpg",
         "titulo": "BandeiraSenadorGuiomard",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:BandeiraSenadorGuiomard.jpg",
@@ -4757,7 +4757,7 @@
       "wikidataId": "Q1754389",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/Sena_Madureira",
       "brasao": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Brasão de Sena Madureira - AC.svg",
         "titulo": "Brasão de Sena Madureira - AC",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Sena_Madureira_-_AC.svg",
@@ -4789,7 +4789,7 @@
         "avisos": []
       },
       "bandeira": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Bandeira de Sena Madureira - AC.svg",
         "titulo": "Bandeira de Sena Madureira - AC",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Sena_Madureira_-_AC.svg",
@@ -4829,7 +4829,7 @@
       "wikidataId": "Q979910",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/Tarauac%C3%A1",
       "brasao": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Coat of arms of Tarauacá.png",
         "titulo": "Coat of arms of Tarauacá",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Tarauac%C3%A1.png",
@@ -4861,7 +4861,7 @@
         "avisos": []
       },
       "bandeira": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Bandeira de Tarauacá.jpg",
         "titulo": "Bandeira de Tarauacá",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Tarauac%C3%A1.jpg",
@@ -4900,7 +4900,7 @@
       "wikidataId": "Q1012531",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/Xapuri",
       "brasao": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Brasao-xapuri.jpg",
         "titulo": "Brasao-xapuri",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Brasao-xapuri.jpg",
@@ -4934,7 +4934,7 @@
         ]
       },
       "bandeira": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Bandeira-xapuri.jpg",
         "titulo": "Bandeira-xapuri",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bandeira-xapuri.jpg",
@@ -4974,7 +4974,7 @@
       "wikidataId": "Q1772602",
       "wikipediaPt": "https://pt.wikipedia.org/wiki/Porto_Acre",
       "brasao": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Brasão de Porto Acre.webp",
         "titulo": "Brasão de Porto Acre",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bras%C3%A3o_de_Porto_Acre.webp",
@@ -5005,7 +5005,7 @@
         "avisos": []
       },
       "bandeira": {
-        "status": "revisao_pendente",
+        "status": "aprovado",
         "arquivoCommons": "File:Bandeira de Porto Acre.webp",
         "titulo": "Bandeira de Porto Acre",
         "paginaOrigem": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Porto_Acre.webp",
