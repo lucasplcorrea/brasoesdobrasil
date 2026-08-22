@@ -8,6 +8,7 @@ import { decide, listReviews } from '../revisao/index.js';
 import { generateReports } from '../relatorios/index.js';
 import { log } from '../io.js';
 import { syncCatalog } from '../catalogo/index.js';
+import { auditCatalog } from '../catalogo/auditoria.js';
 import { discoverWikipediaFallback } from '../wikipedia/index.js';
 import { runWorker } from '../worker/index.js';
 import { notifyError } from '../notificacoes/index.js';
@@ -30,6 +31,15 @@ catalog
   .option('--uf <UF>')
   .action(async (options) => {
     log('catalogo.sincronizado', { uf: options.uf, adicionados: await syncCatalog(options.uf) });
+  });
+catalog
+  .command('auditar')
+  .description('Valida offline referências, hashes, formatos e arquivos órfãos')
+  .option('--sem-hashes', 'Não recalcula SHA-1/SHA-256')
+  .action(async (options) => {
+    const report = await auditCatalog({ hashes: options.hashes });
+    log('catalogo.auditado', report.resumo);
+    if (report.resumo.erros > 0) process.exitCode = 1;
   });
 const filters = (command: Command) =>
   command

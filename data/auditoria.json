@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "geradoEm": "2026-08-22T20:37:51.226Z",
+  "hashesVerificados": true,
+  "resumo": {
+    "municipios": 5571,
+    "referenciasOriginais": 9388,
+    "referenciasNormalizados": 9388,
+    "arquivosOriginais": 9390,
+    "arquivosNormalizados": 9394,
+    "erros": 0,
+    "avisos": 0
+  },
+  "problemas": []
+}

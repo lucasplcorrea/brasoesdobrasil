@@ -11,6 +11,8 @@ export const paths = {
   cache: path.join(ROOT, 'data/cache'),
   checkpoint: path.join(ROOT, 'data/checkpoints/downloads.json'),
   worker: path.join(ROOT, 'data/checkpoints/worker.json'),
+  audit: path.join(ROOT, 'data/auditoria.json'),
+  auditReport: path.join(ROOT, 'docs/auditoria.md'),
 };
 
 export function userAgent(): string {

@@ -26,6 +26,7 @@ O contato real é obrigatório para chamadas externas; o programa não inventa n
 ```bash
 npm run cli -- ibge atualizar
 npm run cli -- ibge validar
+npm run cli -- catalogo auditar
 npm run cli -- descobrir --uf MG --limite 3
 npm run cli -- baixar --uf MG --limite 3 --dry-run
 npm run cli -- baixar --uf MG --limite 3
@@ -34,6 +35,11 @@ npm run cli -- revisar aprovar --ibge 3100203 --tipo brasao
 npm run cli -- revisar rejeitar --ibge 3100203 --tipo brasao --motivo "arquivo incorreto"
 npm run cli -- relatorios
 ```
+
+`catalogo auditar` funciona offline e confere referências, procedência,
+licenças, MIME real, dimensões, hashes e arquivos órfãos. O resultado é salvo em
+`data/auditoria.json` e `docs/auditoria.md`. Use `--sem-hashes` para uma
+verificação estrutural mais rápida.
 
 ## Worker contínuo e container
 
