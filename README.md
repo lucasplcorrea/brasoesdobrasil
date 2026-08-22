@@ -31,6 +31,7 @@ npm run cli -- descobrir --uf MG --limite 3
 npm run cli -- baixar --uf MG --limite 3 --dry-run
 npm run cli -- baixar --uf MG --limite 3
 npm run cli -- revisar listar
+npm run cli -- revisar listar --uf AC
 npm run cli -- revisar aprovar --ibge 3100203 --tipo brasao
 npm run cli -- revisar rejeitar --ibge 3100203 --tipo brasao --motivo "arquivo incorreto"
 npm run cli -- relatorios

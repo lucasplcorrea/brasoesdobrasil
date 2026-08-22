@@ -19,19 +19,21 @@ async function append(review: Review) {
   rows.push(review);
   await writeJsonAtomic(paths.reviews, rows);
 }
-export async function listReviews() {
+export async function listReviews(uf?: string) {
   const catalog = await loadCatalog();
-  return catalog.municipios.flatMap((m) =>
-    (['brasao', 'bandeira'] as const)
-      .filter((t) => ['revisao_pendente', 'licenca_pendente'].includes(m[t].status))
-      .map((tipo) => ({
-        codigoIbge: m.codigoIbge,
-        municipio: m.municipio,
-        uf: m.uf,
-        tipo,
-        status: m[tipo].status,
-      })),
-  );
+  return catalog.municipios
+    .filter((m) => !uf || m.uf === uf)
+    .flatMap((m) =>
+      (['brasao', 'bandeira'] as const)
+        .filter((t) => ['revisao_pendente', 'licenca_pendente'].includes(m[t].status))
+        .map((tipo) => ({
+          codigoIbge: m.codigoIbge,
+          municipio: m.municipio,
+          uf: m.uf,
+          tipo,
+          status: m[tipo].status,
+        })),
+    );
 }
 export async function decide(
   codigoIbge: string,

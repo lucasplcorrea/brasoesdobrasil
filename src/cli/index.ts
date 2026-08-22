@@ -60,9 +60,12 @@ filters(program.command('baixar'))
     log('download.concluido', o);
   });
 const review = program.command('revisar');
-review.command('listar').action(async () => {
-  process.stdout.write(`${JSON.stringify(await listReviews(), null, 2)}\n`);
-});
+review
+  .command('listar')
+  .option('--uf <UF>')
+  .action(async (options) => {
+    process.stdout.write(`${JSON.stringify(await listReviews(options.uf), null, 2)}\n`);
+  });
 review
   .command('aprovar')
   .requiredOption('--ibge <codigo>')
