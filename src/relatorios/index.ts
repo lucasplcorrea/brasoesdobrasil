@@ -1,7 +1,8 @@
 import path from 'node:path';
 import { ROOT } from '../config.js';
 import { loadCatalog } from '../catalogo/index.js';
-import { writeTextAtomic } from '../io.js';
+import { writeJsonAtomic, writeTextAtomic } from '../io.js';
+import type { Catalog, Status } from '../model.js';
 
 const label = { brasao: 'Brasão', bandeira: 'Bandeira' } as const;
 export const cleanReportText = (value: unknown, fallback: string) => {
@@ -18,6 +19,80 @@ const escapeHtml = (value: unknown) =>
     .replaceAll('>', '&gt;')
     .replaceAll('"', '&quot;')
     .replaceAll("'", '&#39;');
+
+const symbolKinds = ['brasao', 'bandeira'] as const;
+const csvCell = (value: unknown) => `"${String(value ?? '').replaceAll('"', '""')}"`;
+
+export type MunicipalityPending = {
+  codigoIbge: string;
+  municipio: string;
+  uf: string;
+  pendencias: { tipo: (typeof symbolKinds)[number]; status: Status }[];
+};
+
+export function pendingMunicipalities(catalog: Catalog, excludedUfs = ['AC']) {
+  const excluded = new Set(excludedUfs);
+  return catalog.municipios
+    .filter((municipality) => !excluded.has(municipality.uf))
+    .map<MunicipalityPending>((municipality) => ({
+      codigoIbge: municipality.codigoIbge,
+      municipio: municipality.municipio,
+      uf: municipality.uf,
+      pendencias: symbolKinds
+        .filter((kind) => municipality[kind].status !== 'aprovado')
+        .map((tipo) => ({ tipo, status: municipality[tipo].status })),
+    }))
+    .filter((municipality) => municipality.pendencias.length > 0);
+}
+
+async function generatePendingInventory(catalog: Catalog) {
+  const municipalities = pendingMunicipalities(catalog);
+  const states = [...new Set(municipalities.map((municipality) => municipality.uf))].sort();
+  const grouped = states.map((uf) => ({
+    uf,
+    municipios: municipalities.filter((municipality) => municipality.uf === uf),
+  }));
+  const markdown = grouped
+    .map(
+      (state) =>
+        `## ${state.uf} (${state.municipios.length})\n\n${state.municipios
+          .map(
+            (municipality) =>
+              `- \`${municipality.codigoIbge}\` — ${municipality.municipio}: ${municipality.pendencias
+                .map((pending) => `${label[pending.tipo]} (${pending.status})`)
+                .join('; ')}`,
+          )
+          .join('\n')}`,
+    )
+    .join('\n\n');
+  const csv = [
+    ['uf', 'codigo_ibge', 'municipio', 'tipo', 'status'].map(csvCell).join(','),
+    ...municipalities.flatMap((municipality) =>
+      municipality.pendencias.map((pending) =>
+        [
+          municipality.uf,
+          municipality.codigoIbge,
+          municipality.municipio,
+          pending.tipo,
+          pending.status,
+        ]
+          .map(csvCell)
+          .join(','),
+      ),
+    ),
+  ].join('\n');
+
+  await writeJsonAtomic(path.join(ROOT, 'data/pendencias.json'), {
+    schemaVersion: 1,
+    estadosExcluidos: ['AC'],
+    estados: grouped,
+  });
+  await writeTextAtomic(path.join(ROOT, 'data/pendencias.csv'), `${csv}\n`);
+  await writeTextAtomic(
+    path.join(ROOT, 'docs/pendencias.md'),
+    `# Pendências por estado e município\n\nO Acre foi excluído porque seus símbolos já passaram por revisão humana. São ${municipalities.length} municípios com pelo menos um símbolo não aprovado.\n\n${markdown || 'Nenhuma pendência.'}\n`,
+  );
+}
 export async function generateReports(): Promise<void> {
   const c = await loadCatalog();
   const approved = (kind: 'brasao' | 'bandeira') =>
@@ -56,6 +131,7 @@ export async function generateReports(): Promise<void> {
     '# Inconsistências\n\nNenhuma inconsistência registrada.\n',
   );
   await generateAttributions(false);
+  await generatePendingInventory(c);
   await generateReviewHtml();
 }
 export async function generateAttributions(approvedOnly = true): Promise<void> {
@@ -75,12 +151,13 @@ export async function generateAttributions(approvedOnly = true): Promise<void> {
 }
 function reviewCards(c: Awaited<ReturnType<typeof loadCatalog>>, uf: string) {
   return c.municipios
-    .filter((m) => m.uf === uf)
+    .filter((m) => m.uf === uf && symbolKinds.some((kind) => m[kind].status !== 'aprovado'))
     .map(
       (m) =>
         `<section><h2>${escapeHtml(m.municipio)} — ${escapeHtml(m.uf)} <code>${escapeHtml(m.codigoIbge)}</code></h2>${(
           ['brasao', 'bandeira'] as const
         )
+          .filter((k) => m[k].status !== 'aprovado')
           .map((k) => {
             const a = m[k];
             return `<article><h3>${label[k]}</h3>${a.arquivoNormalizadoLocal ? `<img src="../../${escapeHtml(a.arquivoNormalizadoLocal)}" width="192" height="192" alt="Candidato a ${label[k].toLowerCase()} de ${escapeHtml(m.municipio)}">` : ''}<dl><dt>Status</dt><dd>${escapeHtml(a.status)}</dd><dt>Commons</dt><dd><a href="${escapeHtml(a.paginaOrigem ?? '#')}">${escapeHtml(a.arquivoCommons ?? 'não encontrado')}</a></dd><dt>Autor</dt><dd>${escapeHtml(cleanReportText(a.autor, 'não informado'))}</dd><dt>Licença</dt><dd>${escapeHtml(cleanReportText(a.licenca, 'pendente'))}</dd><dt>Atribuição</dt><dd>${a.atribuicaoObrigatoria ? 'sim' : 'não/indeterminada'}</dd><dt>Confiança</dt><dd>${a.pontuacaoConfianca ?? 0}</dd></dl></article>`;
@@ -110,7 +187,7 @@ const reviewStyle =
 
 async function generateReviewHtml() {
   const c = await loadCatalog();
-  const ufs = [...new Set(c.municipios.map((m) => m.uf))].sort();
+  const ufs = [...new Set(pendingMunicipalities(c).map((municipality) => municipality.uf))].sort();
   const summaries = ufs.map((uf) => stateReviewSummary(c, uf));
   for (const summary of summaries)
     await writeTextAtomic(
