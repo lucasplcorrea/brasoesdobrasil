@@ -4,10 +4,18 @@ import { normalizeLicense } from '../licenciamento/index.js';
 
 const API = 'https://commons.wikimedia.org/w/api.php';
 type Api = { query?: { pages?: Record<string, { title: string; imageinfo?: Array<any> }> } };
-const text = (field: any) =>
-  String(field?.value ?? '')
-    .replace(/<[^>]*>/g, '')
+export const plainCommonsText = (value: unknown) =>
+  String(value ?? '')
+    .replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, ' ')
+    .replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<[^>]*>/g, ' ')
+    .replace(/&nbsp;|&#160;/gi, ' ')
+    .replace(/&amp;/gi, '&')
+    .replace(/&quot;/gi, '"')
+    .replace(/&#39;|&apos;/gi, "'")
+    .replace(/\s+/g, ' ')
     .trim();
+const text = (field: any) => plainCommonsText(field?.value);
 export async function enrichCommons(filters: {
   uf?: string;
   limit: number;

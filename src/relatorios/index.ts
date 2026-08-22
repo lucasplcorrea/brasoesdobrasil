@@ -4,6 +4,20 @@ import { loadCatalog } from '../catalogo/index.js';
 import { writeTextAtomic } from '../io.js';
 
 const label = { brasao: 'Brasão', bandeira: 'Bandeira' } as const;
+export const cleanReportText = (value: unknown, fallback: string) => {
+  const cleaned = String(value ?? '')
+    .replace(/\.mw-parser-output[\s\S]*\}/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+  return cleaned || fallback;
+};
+const escapeHtml = (value: unknown) =>
+  String(value ?? '')
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;')
+    .replaceAll('"', '&quot;')
+    .replaceAll("'", '&#39;');
 export async function generateReports(): Promise<void> {
   const c = await loadCatalog();
   const approved = (kind: 'brasao' | 'bandeira') =>
@@ -51,12 +65,12 @@ export async function generateAttributions(approvedOnly = true): Promise<void> {
       .filter((k) => m[k].atribuicaoObrigatoria && (!approvedOnly || m[k].status === 'aprovado'))
       .map((k) => {
         const a = m[k];
-        return `### ${label[k]} de ${m.municipio} — ${m.uf}\n\n- Código IBGE: \`${m.codigoIbge}\`\n- Obra: ${a.titulo ?? 'não informado'}\n- Autor: ${a.autor ?? 'não informado'}\n- Origem: ${a.paginaOrigem ?? 'não informada'}\n- Arquivo original: ${a.urlOriginal ?? 'não informado'}\n- Licença: ${a.licencaUrl ? `[${a.licenca}](${a.licencaUrl})` : (a.licenca ?? 'pendente')}\n- Crédito: ${a.credito ?? 'não informado'}\n- Alterações: ${a.alteracoes.join('; ') || 'previstas: redimensionamento proporcional, centralização e conversão para JPEG'}\n- Consulta realizada em: ${a.dataConsulta?.slice(0, 10) ?? 'não informada'}\n`;
+        return `### ${label[k]} de ${m.municipio} — ${m.uf}\n\n- Código IBGE: \`${m.codigoIbge}\`\n- Obra: ${cleanReportText(a.titulo, 'não informado')}\n- Autor: ${cleanReportText(a.autor, 'não informado')}\n- Origem: ${a.paginaOrigem ?? 'não informada'}\n- Arquivo original: ${a.urlOriginal ?? 'não informado'}\n- Licença: ${a.licencaUrl ? `[${cleanReportText(a.licenca, 'pendente')}](${a.licencaUrl})` : cleanReportText(a.licenca, 'pendente')}\n- Crédito: ${cleanReportText(a.credito, 'não informado')}\n- Alterações: ${a.alteracoes.join('; ') || 'previstas: redimensionamento proporcional, centralização e conversão para JPEG'}\n- Consulta realizada em: ${a.dataConsulta?.slice(0, 10) ?? 'não informada'}\n`;
       }),
   );
   await writeTextAtomic(
     path.join(ROOT, approvedOnly ? 'ATTRIBUTIONS.md' : 'docs/ATTRIBUTIONS.preview.md'),
-    `# Atribuições${approvedOnly ? '' : ' — prévia'}\n\n${blocks.join('\n') || 'Nenhum asset com atribuição registrado.'}\n`,
+    `# Atribuições${approvedOnly ? '' : ' — prévia'}\n\n${(blocks.join('\n') || 'Nenhum asset com atribuição registrado.').trimEnd()}\n`,
   );
 }
 async function generateReviewHtml() {
@@ -64,12 +78,12 @@ async function generateReviewHtml() {
   const cards = c.municipios
     .map(
       (m) =>
-        `<section><h2>${m.municipio} — ${m.uf} <code>${m.codigoIbge}</code></h2>${(
+        `<section><h2>${escapeHtml(m.municipio)} — ${escapeHtml(m.uf)} <code>${escapeHtml(m.codigoIbge)}</code></h2>${(
           ['brasao', 'bandeira'] as const
         )
           .map((k) => {
             const a = m[k];
-            return `<article><h3>${label[k]}</h3>${a.arquivoNormalizadoLocal ? `<img src="../${a.arquivoNormalizadoLocal}" width="192" height="192" alt="Candidato a ${label[k].toLowerCase()} de ${m.municipio}">` : ''}<dl><dt>Status</dt><dd>${a.status}</dd><dt>Commons</dt><dd><a href="${a.paginaOrigem ?? '#'}">${a.arquivoCommons ?? 'não encontrado'}</a></dd><dt>Autor</dt><dd>${a.autor ?? 'não informado'}</dd><dt>Licença</dt><dd>${a.licenca ?? 'pendente'}</dd><dt>Atribuição</dt><dd>${a.atribuicaoObrigatoria ? 'sim' : 'não/indeterminada'}</dd><dt>Confiança</dt><dd>${a.pontuacaoConfianca ?? 0}</dd></dl></article>`;
+            return `<article><h3>${label[k]}</h3>${a.arquivoNormalizadoLocal ? `<img src="../${escapeHtml(a.arquivoNormalizadoLocal)}" width="192" height="192" alt="Candidato a ${label[k].toLowerCase()} de ${escapeHtml(m.municipio)}">` : ''}<dl><dt>Status</dt><dd>${escapeHtml(a.status)}</dd><dt>Commons</dt><dd><a href="${escapeHtml(a.paginaOrigem ?? '#')}">${escapeHtml(a.arquivoCommons ?? 'não encontrado')}</a></dd><dt>Autor</dt><dd>${escapeHtml(cleanReportText(a.autor, 'não informado'))}</dd><dt>Licença</dt><dd>${escapeHtml(cleanReportText(a.licenca, 'pendente'))}</dd><dt>Atribuição</dt><dd>${a.atribuicaoObrigatoria ? 'sim' : 'não/indeterminada'}</dd><dt>Confiança</dt><dd>${a.pontuacaoConfianca ?? 0}</dd></dl></article>`;
           })
           .join('')}</section>`,
     )
